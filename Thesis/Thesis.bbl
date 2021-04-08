@@ -50,12 +50,6 @@
       \verb{doi}
       \verb 10.1080/14786444308644728
       \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1080/14786444308644728
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1080/14786444308644728
-      \endverb
     \endentry
     \entry{klemm1937bommer}{article}{}
       \name{author}{2}{}{%
@@ -90,12 +84,6 @@
       \range{pages}{34}
       \verb{doi}
       \verb 10.1002/zaac.19372310115
-      \endverb
-      \verb{urlraw}
-      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/zaac.19372310115
-      \endverb
-      \verb{url}
-      \verb https://onlinelibrary.wiley.com/doi/abs/10.1002/zaac.19372310115
       \endverb
     \endentry
     \entry{emsley1998}{book}{}
@@ -161,12 +149,6 @@
       \verb{doi}
       \verb 10.1063/1.1800011
       \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1063/1.1800011
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1063/1.1800011
-      \endverb
     \endentry
     \entry{ban2005laser}{article}{}
       \name{author}{5}{}{%
@@ -220,12 +202,6 @@
       \range{pages}{11}
       \verb{doi}
       \verb 10.1364/OPEX.13.003185
-      \endverb
-      \verb{urlraw}
-      \verb http://www.opticsexpress.org/abstract.cfm?URI=oe-13-8-3185
-      \endverb
-      \verb{url}
-      \verb http://www.opticsexpress.org/abstract.cfm?URI=oe-13-8-3185
       \endverb
       \keyw{Oscillator strengths; Laser trapping; Laser arrays; Laser sources; Optical clocks; Optical cooling; Quantum information processing; Tunable lasers}
     \endentry
@@ -281,12 +257,6 @@
       \verb{doi}
       \verb 10.1103/PhysRevA.88.011601
       \endverb
-      \verb{urlraw}
-      \verb https://link.aps.org/doi/10.1103/PhysRevA.88.011601
-      \endverb
-      \verb{url}
-      \verb https://link.aps.org/doi/10.1103/PhysRevA.88.011601
-      \endverb
     \endentry
     \entry{mears1987low}{article}{}
       \name{author}{4}{}{%
@@ -338,11 +308,8 @@
       \field{year}{1987}
       \field{pages}{1026\bibrangedash 1028(2)}
       \range{pages}{-1}
-      \verb{urlraw}
-      \verb https://digital-library.theiet.org/content/journals/10.1049/el_19870719
-      \endverb
-      \verb{url}
-      \verb https://digital-library.theiet.org/content/journals/10.1049/el_19870719
+      \verb{doi}
+      \verb 10.1049/el:19870719
       \endverb
       \keyw{1.54 micron;Er3+:fibre laser;140 Mbit/s;28 dB;spectral bandwidth;1.536 micron;3 m;300 GHz;}
     \endentry
@@ -403,12 +370,6 @@
       \verb{doi}
       \verb 10.1103/PhysRevA.73.064502
       \endverb
-      \verb{urlraw}
-      \verb https://link.aps.org/doi/10.1103/PhysRevA.73.064502
-      \endverb
-      \verb{url}
-      \verb https://link.aps.org/doi/10.1103/PhysRevA.73.064502
-      \endverb
     \endentry
     \entry{lawler2010atomic}{article}{}
       \name{author}{3}{}{%
@@ -452,12 +413,6 @@
       \range{pages}{1}
       \verb{doi}
       \verb 10.1088/0953-4075/43/23/235001
-      \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1088/0953-4075/43/23/235001
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1088/0953-4075/43/23/235001
       \endverb
     \endentry
     \entry{den2010radiative}{article}{}
@@ -503,12 +458,6 @@
       \verb{doi}
       \verb 10.1088/0953-4075/43/15/155004
       \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1088/0953-4075/43/15/155004
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1088/0953-4075/43/15/155004
-      \endverb
     \endentry
     \entry{lipert1993isotope}{article}{}
       \name{author}{2}{}{%
@@ -545,12 +494,6 @@
       \range{pages}{7}
       \verb{doi}
       \verb 10.1007/BF00357378
-      \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1007/BF00357378
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1007/BF00357378
       \endverb
     \endentry
     \entry{NIST}{online}{}
@@ -632,12 +575,6 @@
       \verb{doi}
       \verb 10.1007/BF02980631
       \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1007/BF02980631
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1007/BF02980631
-      \endverb
     \endentry
     \entry{Bose1924}{article}{}
       \name{author}{1}{}{%
@@ -667,12 +604,6 @@
       \range{pages}{4}
       \verb{doi}
       \verb 10.1007/BF01327326
-      \endverb
-      \verb{urlraw}
-      \verb https://doi.org/10.1007/BF01327326
-      \endverb
-      \verb{url}
-      \verb https://doi.org/10.1007/BF01327326
       \endverb
     \endentry
   \enddatalist

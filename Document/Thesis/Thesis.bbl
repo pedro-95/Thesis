@@ -1,0 +1,530 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global}
+    \entry{mosander1843xxx}{article}{}
+      \name{author}{1}{}{%
+        {{hash=3f32f4468cd76483ecfb4144e3bb6385}{%
+           family={Mosander},
+           familyi={M\bibinitperiod},
+           given={Carl\bibnamedelima Gustav},
+           giveni={C\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor \& Francis}%
+      }
+      \strng{namehash}{3f32f4468cd76483ecfb4144e3bb6385}
+      \strng{fullhash}{3f32f4468cd76483ecfb4144e3bb6385}
+      \strng{bibnamehash}{3f32f4468cd76483ecfb4144e3bb6385}
+      \strng{authorbibnamehash}{3f32f4468cd76483ecfb4144e3bb6385}
+      \strng{authornamehash}{3f32f4468cd76483ecfb4144e3bb6385}
+      \strng{authorfullhash}{3f32f4468cd76483ecfb4144e3bb6385}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The London, Edinburgh, and Dublin Philosophical Magazine and Journal of Science}
+      \field{number}{152}
+      \field{title}{XXX. On the new metals, lanthanium and didymium, which are associated with cerium; and on erbium and terbium, new metals associated with yttria}
+      \field{volume}{23}
+      \field{year}{1843}
+      \field{pages}{241\bibrangedash 254}
+      \range{pages}{14}
+    \endentry
+    \entry{klemm1937bommer}{article}{}
+      \name{author}{2}{}{%
+        {{hash=66f59c845e51caee4ee0c9c1daa567f5}{%
+           family={Klemm},
+           familyi={K\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+        {{hash=065226d7b15b4cf18f8024f49ddc6d01}{%
+           family={Bommer},
+           familyi={B\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \strng{namehash}{2cc93769a2b1a3392d47c3634640a35c}
+      \strng{fullhash}{2cc93769a2b1a3392d47c3634640a35c}
+      \strng{bibnamehash}{2cc93769a2b1a3392d47c3634640a35c}
+      \strng{authorbibnamehash}{2cc93769a2b1a3392d47c3634640a35c}
+      \strng{authornamehash}{2cc93769a2b1a3392d47c3634640a35c}
+      \strng{authorfullhash}{2cc93769a2b1a3392d47c3634640a35c}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Zeitschrift für anorganische und allgemeine Chemie}
+      \field{number}{1‐2}
+      \field{title}{Zur Kenntnis der Metalle der seltenen Erden}
+      \field{volume}{231}
+      \field{year}{1937}
+      \field{pages}{138\bibrangedash 171}
+      \range{pages}{34}
+    \endentry
+    \entry{emsley1998}{book}{}
+      \name{author}{1}{}{%
+        {{hash=53431ca956391aaf00ebad88e58cf689}{%
+           family={Emsley},
+           familyi={E\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{53431ca956391aaf00ebad88e58cf689}
+      \strng{fullhash}{53431ca956391aaf00ebad88e58cf689}
+      \strng{bibnamehash}{53431ca956391aaf00ebad88e58cf689}
+      \strng{authorbibnamehash}{53431ca956391aaf00ebad88e58cf689}
+      \strng{authornamehash}{53431ca956391aaf00ebad88e58cf689}
+      \strng{authorfullhash}{53431ca956391aaf00ebad88e58cf689}
+      \field{extraname}{1}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3}
+      \field{isbn}{978-0198558194}
+      \field{title}{The Elements (Oxford Chemistry Guides)}
+      \field{year}{1998}
+    \endentry
+    \entry{sansonetti2005handbook}{article}{}
+      \name{author}{2}{}{%
+        {{hash=8237abb2cbc5d82b3ee0602ea23352b8}{%
+           family={Sansonetti},
+           familyi={S\bibinitperiod},
+           given={Jean\bibnamedelima E},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=9356b4f22606fc8a6572314e0281b7ca}{%
+           family={Martin},
+           familyi={M\bibinitperiod},
+           given={William\bibnamedelima Clyde},
+           giveni={W\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Institute of Physics for the National Institute of Standards and~…}%
+      }
+      \strng{namehash}{1afca063a75929fbd602d87397c1b059}
+      \strng{fullhash}{1afca063a75929fbd602d87397c1b059}
+      \strng{bibnamehash}{1afca063a75929fbd602d87397c1b059}
+      \strng{authorbibnamehash}{1afca063a75929fbd602d87397c1b059}
+      \strng{authornamehash}{1afca063a75929fbd602d87397c1b059}
+      \strng{authorfullhash}{1afca063a75929fbd602d87397c1b059}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of physical and chemical reference data}
+      \field{number}{4}
+      \field{title}{Handbook of basic atomic spectroscopic data}
+      \field{volume}{34}
+      \field{year}{2005}
+      \field{pages}{1559\bibrangedash 2259}
+      \range{pages}{701}
+    \endentry
+    \entry{ban2005laser}{article}{}
+      \name{author}{5}{}{%
+        {{hash=74f4a402bf8335a7c0167741f365fb1e}{%
+           family={Ban},
+           familyi={B\bibinitperiod},
+           given={HY},
+           giveni={H\bibinitperiod}}}%
+        {{hash=35fe6dfc38c3abed38d0dbd4680e8dfe}{%
+           family={Jacka},
+           familyi={J\bibinitperiod},
+           given={Marcus},
+           giveni={M\bibinitperiod}}}%
+        {{hash=118176f601e8eb1558e26d609419596c}{%
+           family={Hanssen},
+           familyi={H\bibinitperiod},
+           given={James\bibnamedelima L},
+           giveni={J\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=a0896147aa8f22589ee5340deb778d47}{%
+           family={Reader},
+           familyi={R\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod}}}%
+        {{hash=1477dd95f4000b859ad1e51ad263fbc0}{%
+           family={McClelland},
+           familyi={M\bibinitperiod},
+           given={Jabez\bibnamedelima J},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Optical Society of America}%
+      }
+      \strng{namehash}{c2bdcdb903ba7612ed579f55fb537f2b}
+      \strng{fullhash}{05f3d1e9ea940d63d57806da4a3eae84}
+      \strng{bibnamehash}{c2bdcdb903ba7612ed579f55fb537f2b}
+      \strng{authorbibnamehash}{c2bdcdb903ba7612ed579f55fb537f2b}
+      \strng{authornamehash}{c2bdcdb903ba7612ed579f55fb537f2b}
+      \strng{authorfullhash}{05f3d1e9ea940d63d57806da4a3eae84}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Optics Express}
+      \field{number}{8}
+      \field{title}{Laser cooling transitions in atomic erbium}
+      \field{volume}{13}
+      \field{year}{2005}
+      \field{pages}{3185\bibrangedash 3195}
+      \range{pages}{11}
+    \endentry
+    \entry{cui2013synthetic}{article}{}
+      \name{author}{5}{}{%
+        {{hash=6bc9ceb0a9de0c45fba5e190de638800}{%
+           family={Cui},
+           familyi={C\bibinitperiod},
+           given={Xiaoling},
+           giveni={X\bibinitperiod}}}%
+        {{hash=229bb8528e15f5219d283bfc062c5c23}{%
+           family={Lian},
+           familyi={L\bibinitperiod},
+           given={Biao},
+           giveni={B\bibinitperiod}}}%
+        {{hash=79ee65ad5e6b361915cac293922f42de}{%
+           family={Ho},
+           familyi={H\bibinitperiod},
+           given={Tin-Lun},
+           giveni={T\bibinithyphendelim L\bibinitperiod}}}%
+        {{hash=2b3c74aaed10f577784852d94c42bae7}{%
+           family={Lev},
+           familyi={L\bibinitperiod},
+           given={Benjamin\bibnamedelima L},
+           giveni={B\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=79d9d9b2f4b799748228eaeeb3565f02}{%
+           family={Zhai},
+           familyi={Z\bibinitperiod},
+           given={Hui},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {APS}%
+      }
+      \strng{namehash}{5b7b0be8b5ca39f160b86b0cb5dec89e}
+      \strng{fullhash}{8098e5911a706fdb2dd4a0263da8f06b}
+      \strng{bibnamehash}{5b7b0be8b5ca39f160b86b0cb5dec89e}
+      \strng{authorbibnamehash}{5b7b0be8b5ca39f160b86b0cb5dec89e}
+      \strng{authornamehash}{5b7b0be8b5ca39f160b86b0cb5dec89e}
+      \strng{authorfullhash}{8098e5911a706fdb2dd4a0263da8f06b}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review A}
+      \field{number}{1}
+      \field{title}{Synthetic gauge field with highly magnetic lanthanide atoms}
+      \field{volume}{88}
+      \field{year}{2013}
+      \field{pages}{011601}
+      \range{pages}{1}
+    \endentry
+    \entry{mears1987low}{article}{}
+      \name{author}{4}{}{%
+        {{hash=7bf32270f57ae75f7c03a577780bab01}{%
+           family={Mears},
+           familyi={M\bibinitperiod},
+           given={Robert\bibnamedelima J},
+           giveni={R\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=27c6e2132e4663811a5c180b016288aa}{%
+           family={Reekie},
+           familyi={R\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod}}}%
+        {{hash=5b831b591039f087afa1e8be8727157f}{%
+           family={Jauncey},
+           familyi={J\bibinitperiod},
+           given={IM},
+           giveni={I\bibinitperiod}}}%
+        {{hash=778bb2ceed8364b66722a6e27edba01d}{%
+           family={Payne},
+           familyi={P\bibinitperiod},
+           given={David\bibnamedelima N},
+           giveni={D\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IET}%
+      }
+      \strng{namehash}{8da738b87f33eac2237fc31a97d0353c}
+      \strng{fullhash}{8bf7ecd253eaaecc18b1c72ea1d47d46}
+      \strng{bibnamehash}{8da738b87f33eac2237fc31a97d0353c}
+      \strng{authorbibnamehash}{8da738b87f33eac2237fc31a97d0353c}
+      \strng{authornamehash}{8da738b87f33eac2237fc31a97d0353c}
+      \strng{authorfullhash}{8bf7ecd253eaaecc18b1c72ea1d47d46}
+      \field{sortinit}{8}
+      \field{sortinithash}{1b24cab5087933ef0826a7cd3b99e994}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Electronics Letters}
+      \field{number}{19}
+      \field{title}{Low-noise erbium-doped fibre amplifier operating at 1.54 $\mu$m}
+      \field{volume}{23}
+      \field{year}{1987}
+      \field{pages}{1026\bibrangedash 1028}
+      \range{pages}{3}
+    \endentry
+    \entry{emsley2011nature}{book}{}
+      \name{author}{1}{}{%
+        {{hash=53431ca956391aaf00ebad88e58cf689}{%
+           family={Emsley},
+           familyi={E\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{53431ca956391aaf00ebad88e58cf689}
+      \strng{fullhash}{53431ca956391aaf00ebad88e58cf689}
+      \strng{bibnamehash}{53431ca956391aaf00ebad88e58cf689}
+      \strng{authorbibnamehash}{53431ca956391aaf00ebad88e58cf689}
+      \strng{authornamehash}{53431ca956391aaf00ebad88e58cf689}
+      \strng{authorfullhash}{53431ca956391aaf00ebad88e58cf689}
+      \field{extraname}{2}
+      \field{sortinit}{9}
+      \field{sortinithash}{54047ffb55bdefa0694bbd554c1b11a0}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Nature's building blocks: an AZ guide to the elements}
+      \field{year}{2011}
+    \endentry
+    \entry{mcclelland2006natural}{article}{}
+      \name{author}{1}{}{%
+        {{hash=1477dd95f4000b859ad1e51ad263fbc0}{%
+           family={McClelland},
+           familyi={M\bibinitperiod},
+           given={Jabez\bibnamedelima J},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {APS}%
+      }
+      \strng{namehash}{1477dd95f4000b859ad1e51ad263fbc0}
+      \strng{fullhash}{1477dd95f4000b859ad1e51ad263fbc0}
+      \strng{bibnamehash}{1477dd95f4000b859ad1e51ad263fbc0}
+      \strng{authorbibnamehash}{1477dd95f4000b859ad1e51ad263fbc0}
+      \strng{authornamehash}{1477dd95f4000b859ad1e51ad263fbc0}
+      \strng{authorfullhash}{1477dd95f4000b859ad1e51ad263fbc0}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Physical Review A}
+      \field{number}{6}
+      \field{title}{Natural linewidth of the 401- nm laser-cooling transition in Er I}
+      \field{volume}{73}
+      \field{year}{2006}
+      \field{pages}{064502}
+      \range{pages}{1}
+    \endentry
+    \entry{lawler2010atomic}{article}{}
+      \name{author}{3}{}{%
+        {{hash=68348aba280f4ec3c25534d0849b4db7}{%
+           family={Lawler},
+           familyi={L\bibinitperiod},
+           given={JE},
+           giveni={J\bibinitperiod}}}%
+        {{hash=572749833ee1d74021d21b3aadb5ffa0}{%
+           family={Wyart},
+           familyi={W\bibinitperiod},
+           given={JF},
+           giveni={J\bibinitperiod}}}%
+        {{hash=1f15243dd0275a5bc1ee64ed56bd163c}{%
+           family={Den\bibnamedelima Hartog},
+           familyi={D\bibinitperiod\bibinitdelim H\bibinitperiod},
+           given={EA},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IOP Publishing}%
+      }
+      \strng{namehash}{325f5ce0237a191a9cb165b49b98d589}
+      \strng{fullhash}{325f5ce0237a191a9cb165b49b98d589}
+      \strng{bibnamehash}{325f5ce0237a191a9cb165b49b98d589}
+      \strng{authorbibnamehash}{325f5ce0237a191a9cb165b49b98d589}
+      \strng{authornamehash}{325f5ce0237a191a9cb165b49b98d589}
+      \strng{authorfullhash}{325f5ce0237a191a9cb165b49b98d589}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Physics B: Atomic, Molecular and Optical Physics}
+      \field{number}{23}
+      \field{title}{Atomic transition probabilities of Er I}
+      \field{volume}{43}
+      \field{year}{2010}
+      \field{pages}{235001}
+      \range{pages}{1}
+    \endentry
+    \entry{den2010radiative}{article}{}
+      \name{author}{3}{}{%
+        {{hash=1f15243dd0275a5bc1ee64ed56bd163c}{%
+           family={Den\bibnamedelima Hartog},
+           familyi={D\bibinitperiod\bibinitdelim H\bibinitperiod},
+           given={EA},
+           giveni={E\bibinitperiod}}}%
+        {{hash=da95181edb935c2d837d27e1bb718330}{%
+           family={Chisholm},
+           familyi={C\bibinitperiod},
+           given={JP},
+           giveni={J\bibinitperiod}}}%
+        {{hash=68348aba280f4ec3c25534d0849b4db7}{%
+           family={Lawler},
+           familyi={L\bibinitperiod},
+           given={JE},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {IOP Publishing}%
+      }
+      \strng{namehash}{e04561379baa1785edb02786adb499a7}
+      \strng{fullhash}{e04561379baa1785edb02786adb499a7}
+      \strng{bibnamehash}{e04561379baa1785edb02786adb499a7}
+      \strng{authorbibnamehash}{e04561379baa1785edb02786adb499a7}
+      \strng{authornamehash}{e04561379baa1785edb02786adb499a7}
+      \strng{authorfullhash}{e04561379baa1785edb02786adb499a7}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Physics B: Atomic, Molecular and Optical Physics}
+      \field{number}{15}
+      \field{title}{Radiative lifetimes of neutral erbium}
+      \field{volume}{43}
+      \field{year}{2010}
+      \field{pages}{155004}
+      \range{pages}{1}
+    \endentry
+    \entry{lipert1993isotope}{article}{}
+      \name{author}{2}{}{%
+        {{hash=b6c92c43593f0ab306b9124433a7019e}{%
+           family={Lipert},
+           familyi={L\bibinitperiod},
+           given={RJ},
+           giveni={R\bibinitperiod}}}%
+        {{hash=bb8844505c958ff604cef8f3f6f921de}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={SC},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{26114298ddd403732d62824479f4d5af}
+      \strng{fullhash}{26114298ddd403732d62824479f4d5af}
+      \strng{bibnamehash}{26114298ddd403732d62824479f4d5af}
+      \strng{authorbibnamehash}{26114298ddd403732d62824479f4d5af}
+      \strng{authornamehash}{26114298ddd403732d62824479f4d5af}
+      \strng{authorfullhash}{26114298ddd403732d62824479f4d5af}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Applied Physics B}
+      \field{number}{6}
+      \field{title}{Isotope shifts and hyperfine structure of erbium, dysprosium, and gadolinium by atomic-beam diode-laser spectroscopy}
+      \field{volume}{57}
+      \field{year}{1993}
+      \field{pages}{373\bibrangedash 379}
+      \range{pages}{7}
+    \endentry
+    \entry{NIST}{online}{}
+      \name{author}{3}{}{%
+        {{hash=24fe331c4566fb459d922bf0b55f8b6a}{%
+           family={Kramida},
+           familyi={K\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod}}}%
+        {{hash=490182b774f9276fb11969e6d667dd0a}{%
+           family={Ralchenko},
+           familyi={R\bibinitperiod},
+           given={Yuri},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=a0896147aa8f22589ee5340deb778d47}{%
+           family={Reader},
+           familyi={R\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod}}}%
+      }
+      \name{shortauthor}{1}{}{%
+        {{hash=e0888416932b511fb736301fe824bcb8}{%
+           family={{NIST ASD Team (2020)}},
+           familyi={N\bibinitperiod}}}%
+      }
+      \list{publisher}{2}{%
+        {National Institute of Standards}%
+        {Technology, Gaithersburg}%
+      }
+      \strng{namehash}{e0888416932b511fb736301fe824bcb8}
+      \strng{fullhash}{6b02fc61f1224ecde31c054d180b6ebe}
+      \strng{bibnamehash}{e0888416932b511fb736301fe824bcb8}
+      \strng{authorbibnamehash}{6b02fc61f1224ecde31c054d180b6ebe}
+      \strng{authornamehash}{6b02fc61f1224ecde31c054d180b6ebe}
+      \strng{authorfullhash}{6b02fc61f1224ecde31c054d180b6ebe}
+      \strng{shortauthorbibnamehash}{e0888416932b511fb736301fe824bcb8}
+      \strng{shortauthornamehash}{e0888416932b511fb736301fe824bcb8}
+      \strng{shortauthorfullhash}{e0888416932b511fb736301fe824bcb8}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{shortauthor}
+      \field{labeltitlesource}{title}
+      \field{title}{NIST Atomic Spectra Database (version 5.8)}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://physics.nist.gov/asd
+      \endverb
+      \verb{url}
+      \verb https://physics.nist.gov/asd
+      \endverb
+    \endentry
+    \entry{Pauli1925}{article}{}
+      \name{author}{1}{}{%
+        {{hash=117b191bc93586236c1866209f3cb93d}{%
+           family={Pauli},
+           familyi={P\bibinitperiod},
+           given={W.},
+           giveni={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{117b191bc93586236c1866209f3cb93d}
+      \strng{fullhash}{117b191bc93586236c1866209f3cb93d}
+      \strng{bibnamehash}{117b191bc93586236c1866209f3cb93d}
+      \strng{authorbibnamehash}{117b191bc93586236c1866209f3cb93d}
+      \strng{authornamehash}{117b191bc93586236c1866209f3cb93d}
+      \strng{authorfullhash}{117b191bc93586236c1866209f3cb93d}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Zeitschrift für Physik}
+      \field{month}{2}
+      \field{number}{1}
+      \field{title}{Über den Zusammenhang des Abschlusses der Elektronengruppen im Atom mit der Komplexstruktur der Spektren}
+      \field{volume}{31}
+      \field{year}{1925}
+      \field{pages}{765\bibrangedash 783}
+      \range{pages}{19}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

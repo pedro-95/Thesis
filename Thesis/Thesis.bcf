@@ -2204,7 +2204,6 @@
     <bcf:citekey order="12">NIST</bcf:citekey>
     <bcf:citekey order="13">NIST</bcf:citekey>
     <bcf:citekey order="14">Pauli1925</bcf:citekey>
-    <bcf:citekey order="15">Bose1924</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

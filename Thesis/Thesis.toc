@@ -1,0 +1,20 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\acswitchoff 
+\babel@toc {UKenglish}{}
+\babel@toc {ngerman}{}
+\babel@toc {UKenglish}{}
+\babel@toc {UKenglish}{}
+\babel@toc {UKenglish}{}
+\babel@toc {ngerman}{}
+\babel@toc {UKenglish}{}
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Erbium \acl *{bec}}{3}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Properties of atomic erbium}{3}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Bose-Einstein Condensation}{4}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Experimental preparation}{6}{section.2.3}%
+\contentsline {chapter}{\nonumberline Bibliography}{7}{chapter*.7}%
+\contentsline {chapter}{\numberline {A}Useful information}{9}{appendix.A}%
+\contentsline {chapter}{\nonumberline List of Figures}{11}{chapter*.8}%
+\contentsline {chapter}{\nonumberline List of Tables}{13}{chapter*.9}%
+\contentsline {chapter}{\nonumberline Acronyms}{15}{chapter*.10}%

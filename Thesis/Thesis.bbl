@@ -524,6 +524,30 @@
       \field{pages}{765\bibrangedash 783}
       \range{pages}{19}
     \endentry
+    \entry{bose1924plancks}{article}{}
+      \name{author}{1}{}{%
+        {{hash=636223223b7b048a2eef9df3cbec0a77}{%
+           family={Bose},
+           familyi={B\bibinitperiod},
+           given={Satyendra\bibnamedelima Nath},
+           giveni={S\bibinitperiod\bibinitdelim N\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{636223223b7b048a2eef9df3cbec0a77}
+      \strng{fullhash}{636223223b7b048a2eef9df3cbec0a77}
+      \strng{bibnamehash}{636223223b7b048a2eef9df3cbec0a77}
+      \strng{authorbibnamehash}{636223223b7b048a2eef9df3cbec0a77}
+      \strng{authornamehash}{636223223b7b048a2eef9df3cbec0a77}
+      \strng{authorfullhash}{636223223b7b048a2eef9df3cbec0a77}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Plancks gesetz und lichtquantenhypothese}
+      \field{year}{1924}
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

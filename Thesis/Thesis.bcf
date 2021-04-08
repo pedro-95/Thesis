@@ -2203,7 +2203,6 @@
     <bcf:citekey order="11">lipert1993isotope</bcf:citekey>
     <bcf:citekey order="12">NIST</bcf:citekey>
     <bcf:citekey order="13">NIST</bcf:citekey>
-    <bcf:citekey order="14">Pauli1925</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

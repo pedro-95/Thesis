@@ -497,33 +497,6 @@
       \verb https://physics.nist.gov/asd
       \endverb
     \endentry
-    \entry{Pauli1925}{article}{}
-      \name{author}{1}{}{%
-        {{hash=117b191bc93586236c1866209f3cb93d}{%
-           family={Pauli},
-           familyi={P\bibinitperiod},
-           given={W.},
-           giveni={W\bibinitperiod}}}%
-      }
-      \strng{namehash}{117b191bc93586236c1866209f3cb93d}
-      \strng{fullhash}{117b191bc93586236c1866209f3cb93d}
-      \strng{bibnamehash}{117b191bc93586236c1866209f3cb93d}
-      \strng{authorbibnamehash}{117b191bc93586236c1866209f3cb93d}
-      \strng{authornamehash}{117b191bc93586236c1866209f3cb93d}
-      \strng{authorfullhash}{117b191bc93586236c1866209f3cb93d}
-      \field{sortinit}{1}
-      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Zeitschrift für Physik}
-      \field{month}{2}
-      \field{number}{1}
-      \field{title}{Über den Zusammenhang des Abschlusses der Elektronengruppen im Atom mit der Komplexstruktur der Spektren}
-      \field{volume}{31}
-      \field{year}{1925}
-      \field{pages}{765\bibrangedash 783}
-      \range{pages}{19}
-    \endentry
   \enddatalist
 \endrefsection
 \endinput

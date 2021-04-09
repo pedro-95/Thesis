@@ -1,25 +1,25 @@
-[0] Config.pm:312> INFO - This is Biber 2.15
-[0] Config.pm:315> INFO - Logfile is 'Thesis.blg'
-[62] biber:330> INFO - === Do Apr  8, 2021, 20:42:47
-[73] Biber.pm:415> INFO - Reading 'Thesis.bcf'
-[130] Biber.pm:952> INFO - Found 15 citekeys in bib section 0
-[143] Biber.pm:4334> INFO - Processing section 0
-[151] Biber.pm:4523> INFO - Looking for bibtex format file 'bib/thesis_refs.bib' for section 0
-[153] bibtex.pm:1682> INFO - LaTeX decoding ...
-[173] bibtex.pm:1494> INFO - Found BibTeX data source 'bib/thesis_refs.bib'
-[222] Utils.pm:384> WARN - month field 'Apr' in entry 'ban2005laser' is not an integer - this will probably not sort properly.
-[229] Utils.pm:384> WARN - month field 'Jul' in entry 'cui2013synthetic' is not an integer - this will probably not sort properly.
-[235] Utils.pm:384> WARN - month field 'September' in entry 'mears1987low' is not an integer - this will probably not sort properly.
-[240] Utils.pm:384> WARN - month field 'Jun' in entry 'mcclelland2006natural' is not an integer - this will probably not sort properly.
-[241] Utils.pm:384> WARN - month field 'nov' in entry 'lawler2010atomic' is not an integer - this will probably not sort properly.
-[246] Utils.pm:384> WARN - month field 'jul' in entry 'den2010radiative' is not an integer - this will probably not sort properly.
-[254] Utils.pm:384> WARN - month field 'Dec' in entry 'lipert1993isotope' is not an integer - this will probably not sort properly.
-[263] Utils.pm:384> WARN - month field 'Feb' in entry 'Pauli1925' is not an integer - this will probably not sort properly.
-[266] Utils.pm:384> WARN - month field 'Dec' in entry 'Bose1924' is not an integer - this will probably not sort properly.
-[282] UCollate.pm:68> INFO - Overriding locale 'en-UK' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[282] UCollate.pm:68> INFO - Overriding locale 'en-UK' defaults 'variable = shifted' with 'variable = non-ignorable'
-[282] Biber.pm:4162> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-UK'
-[282] Biber.pm:4168> INFO - No sort tailoring available for locale 'en-UK'
-[293] bbl.pm:651> INFO - Writing 'Thesis.bbl' with encoding 'UTF-8'
-[300] bbl.pm:754> INFO - Output to Thesis.bbl
-[300] Biber.pm:128> INFO - WARNINGS: 9
+[1] Config.pm:312> INFO - This is Biber 2.15
+[1] Config.pm:315> INFO - Logfile is 'Thesis.blg'
+[102] biber:330> INFO - === Fr Apr  9, 2021, 12:29:03
+[114] Biber.pm:415> INFO - Reading 'Thesis.bcf'
+[167] Biber.pm:952> INFO - Found 17 citekeys in bib section 0
+[179] Biber.pm:4334> INFO - Processing section 0
+[188] Biber.pm:4523> INFO - Looking for bibtex format file 'bib/thesis_refs.bib' for section 0
+[190] bibtex.pm:1682> INFO - LaTeX decoding ...
+[213] bibtex.pm:1494> INFO - Found BibTeX data source 'bib/thesis_refs.bib'
+[260] Utils.pm:384> WARN - month field 'Apr' in entry 'ban2005laser' is not an integer - this will probably not sort properly.
+[266] Utils.pm:384> WARN - month field 'Jul' in entry 'cui2013synthetic' is not an integer - this will probably not sort properly.
+[272] Utils.pm:384> WARN - month field 'September' in entry 'mears1987low' is not an integer - this will probably not sort properly.
+[277] Utils.pm:384> WARN - month field 'Jun' in entry 'mcclelland2006natural' is not an integer - this will probably not sort properly.
+[278] Utils.pm:384> WARN - month field 'nov' in entry 'lawler2010atomic' is not an integer - this will probably not sort properly.
+[283] Utils.pm:384> WARN - month field 'jul' in entry 'den2010radiative' is not an integer - this will probably not sort properly.
+[292] Utils.pm:384> WARN - month field 'Dec' in entry 'lipert1993isotope' is not an integer - this will probably not sort properly.
+[301] Utils.pm:384> WARN - month field 'Feb' in entry 'Pauli1925' is not an integer - this will probably not sort properly.
+[304] Utils.pm:384> WARN - month field 'Dec' in entry 'Bose1924' is not an integer - this will probably not sort properly.
+[326] UCollate.pm:68> INFO - Overriding locale 'en-UK' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[326] UCollate.pm:68> INFO - Overriding locale 'en-UK' defaults 'variable = shifted' with 'variable = non-ignorable'
+[326] Biber.pm:4162> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-UK'
+[326] Biber.pm:4168> INFO - No sort tailoring available for locale 'en-UK'
+[337] bbl.pm:651> INFO - Writing 'Thesis.bbl' with encoding 'UTF-8'
+[344] bbl.pm:754> INFO - Output to Thesis.bbl
+[345] Biber.pm:128> INFO - WARNINGS: 9

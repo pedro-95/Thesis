@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2020.10.23)  8 APR 2021 20:42
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2020.10.23)  9 APR 2021 13:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2147,15 +2147,22 @@ LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[4] [5 <./figs/erbium_term_scheme.pdf>]
-<figs/table_set_up.pdf, id=136, 453.27942pt x 282.05376pt>
+[4]
+Underfull \vbox (badness 4242) has occurred while \output is active []
+
+ [5 <./figs/erbium_term_scheme.pdf>] [6]
+<figs/table_set_up.pdf, id=144, 453.27942pt x 282.05376pt>
 File: figs/table_set_up.pdf Graphic file (type pdf)
 <use figs/table_set_up.pdf>
 Package pdftex.def Info: figs/table_set_up.pdf  used on input line 84.
 (pdftex.def)             Requested size: 437.46118pt x 272.2275pt.
-) [6
+) [7
 
- <./figs/table_set_up.pdf>]
+ <./figs/table_set_up.pdf>] [8
+
+
+
+]
 chapter without number
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
 (Font)              scaled to size 10.95pt on input line 206.
@@ -2168,20 +2175,16 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
 (Font)              scaled to size 8.0pt on input line 206.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
 (Font)              scaled to size 6.1pt on input line 206.
-[7
-
-
-
-] [8]
+[9] [10]
 \openout2 = `thesis_appendix.aux'.
 
  (./thesis_appendix.tex
 chapter A.
-) [9
+) [11
 
 
 
-] [10
+] [12
 
 
 
@@ -2192,10 +2195,10 @@ Package tocbasic Info: character protrusion at lof deactivated on input line 23
 \tf@lof=\write7
 \openout7 = `Thesis.lof'.
 
- [11
+ [13
 
 
-] [12
+] [14
 
 
 ]
@@ -2205,12 +2208,12 @@ Package tocbasic Info: character protrusion at lot deactivated on input line 23
 \tf@lot=\write8
 \openout8 = `Thesis.lot'.
 
- [13] [14
+ [15] [16
 
 
 ]
 chapter without number
-[15]
+[17]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 247.
 Package atveryend Info: Executing hook `AfterLastShipout' on input line 247.
  (./Thesis.aux (./thesis_acknowledge.aux) (./1_thesis_intro.aux)
@@ -2222,13 +2225,13 @@ Package logreq Info: Writing requests to 'Thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 50844 strings out of 480906
- 1011758 string characters out of 5910771
- 1850426 words of memory out of 5000000
- 65458 multiletter control sequences out of 15000+600000
- 746491 words of font info for 356 fonts, out of 8000000 for 9000
+ 50864 strings out of 480906
+ 1012280 string characters out of 5910771
+ 1850643 words of memory out of 5000000
+ 65470 multiletter control sequences out of 15000+600000
+ 746665 words of font info for 358 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 75i,20n,124p,10601b,3566s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 75i,20n,124p,10601b,3630s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf-sc.enc}{/usr/
 share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}{/usr/share/texmf
 /fonts/enc/dvips/tex-gyre/q-ts1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dv
@@ -2242,10 +2245,10 @@ xlive/texmf-dist/fonts/type1/public/newtx/txsys.pfb></usr/share/texlive/texmf-d
 ist/fonts/type1/public/newtx/ztmb.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/public/newtx/ztmr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx
 /ztmri.pfb>
-Output written on Thesis.pdf (21 pages, 349914 bytes).
+Output written on Thesis.pdf (23 pages, 351668 bytes).
 PDF statistics:
- 332 PDF objects out of 1000 (max. 8388607)
- 270 compressed objects within 3 object streams
- 55 named destinations out of 1000 (max. 500000)
+ 348 PDF objects out of 1000 (max. 8388607)
+ 284 compressed objects within 3 object streams
+ 59 named destinations out of 1000 (max. 500000)
  60007 words of extra memory for PDF output out of 61914 (max. 10000000)
 

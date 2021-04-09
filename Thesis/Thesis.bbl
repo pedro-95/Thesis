@@ -606,6 +606,70 @@
       \verb 10.1007/BF01327326
       \endverb
     \endentry
+    \entry{Einstein1924}{article}{}
+      \name{author}{1}{}{%
+        {{hash=29a34a00e610eaed35baff40f473278f}{%
+           family={Einstein},
+           familyi={E\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley & Sons, Ltd}%
+      }
+      \strng{namehash}{29a34a00e610eaed35baff40f473278f}
+      \strng{fullhash}{29a34a00e610eaed35baff40f473278f}
+      \strng{bibnamehash}{29a34a00e610eaed35baff40f473278f}
+      \strng{authorbibnamehash}{29a34a00e610eaed35baff40f473278f}
+      \strng{authornamehash}{29a34a00e610eaed35baff40f473278f}
+      \strng{authorfullhash}{29a34a00e610eaed35baff40f473278f}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sitzungsberichte der Preussischen Akademie der Wissenschaften}
+      \field{title}{Quantentheorie des einatomigen idealen Gases}
+      \field{year}{1924}
+      \field{pages}{261\bibrangedash 267}
+      \range{pages}{7}
+      \verb{doi}
+      \verb https://doi.org/10.1002/3527608958.ch27
+      \endverb
+      \keyw{Einstein,Quantentheorie des einatomigen idealen Gases}
+    \endentry
+    \entry{Einstein1925}{article}{}
+      \name{author}{1}{}{%
+        {{hash=29a34a00e610eaed35baff40f473278f}{%
+           family={Einstein},
+           familyi={E\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {John Wiley & Sons, Ltd}%
+      }
+      \strng{namehash}{29a34a00e610eaed35baff40f473278f}
+      \strng{fullhash}{29a34a00e610eaed35baff40f473278f}
+      \strng{bibnamehash}{29a34a00e610eaed35baff40f473278f}
+      \strng{authorbibnamehash}{29a34a00e610eaed35baff40f473278f}
+      \strng{authornamehash}{29a34a00e610eaed35baff40f473278f}
+      \strng{authorfullhash}{29a34a00e610eaed35baff40f473278f}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Sitzungsberichte der Preussischen Akademie der Wissenschaften}
+      \field{title}{Quantentheorie des einatomigen idealen Gases. Zweite Abhandlung}
+      \field{year}{1925}
+      \field{pages}{3\bibrangedash 10}
+      \range{pages}{8}
+      \verb{doi}
+      \verb https://doi.org/10.1002/3527608958.ch28
+      \endverb
+      \keyw{Einstein,Quantentheorie des einatomigen idealen Gases}
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

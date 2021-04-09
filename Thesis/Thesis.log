@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2020.10.23)  9 APR 2021 13:05
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2020.10.23)  9 APR 2021 15:04
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2151,10 +2151,10 @@ LaTeX Warning: `!h' float specifier changed to `!ht'.
 Underfull \vbox (badness 4242) has occurred while \output is active []
 
  [5 <./figs/erbium_term_scheme.pdf>] [6]
-<figs/table_set_up.pdf, id=144, 453.27942pt x 282.05376pt>
+<figs/table_set_up.pdf, id=146, 453.27942pt x 282.05376pt>
 File: figs/table_set_up.pdf Graphic file (type pdf)
 <use figs/table_set_up.pdf>
-Package pdftex.def Info: figs/table_set_up.pdf  used on input line 84.
+Package pdftex.def Info: figs/table_set_up.pdf  used on input line 94.
 (pdftex.def)             Requested size: 437.46118pt x 272.2275pt.
 ) [7
 
@@ -2225,30 +2225,31 @@ Package logreq Info: Writing requests to 'Thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 50864 strings out of 480906
- 1012280 string characters out of 5910771
- 1850643 words of memory out of 5000000
- 65470 multiletter control sequences out of 15000+600000
- 746665 words of font info for 358 fonts, out of 8000000 for 9000
+ 50870 strings out of 480906
+ 1012366 string characters out of 5910771
+ 1850656 words of memory out of 5000000
+ 65471 multiletter control sequences out of 15000+600000
+ 748051 words of font info for 362 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 75i,20n,124p,10601b,3630s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 75i,20n,124p,10601b,3632s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf-sc.enc}{/usr/
 share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}{/usr/share/texmf
 /fonts/enc/dvips/tex-gyre/q-ts1.enc}{/usr/share/texlive/texmf-dist/fonts/enc/dv
 ips/newtx/ntx-ot1-tlf.enc}{/usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ec.enc}<
 /usr/share/texlive/texmf-dist/fonts/type1/public/newtx/NewTXMI.pfb></usr/share/
-texlive/texmf-dist/fonts/type1/public/newtx/NewTXMI7.pfb></usr/share/texmf/font
-s/type1/public/tex-gyre/qhvb.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/
-qtmr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb></
-usr/share/texlive/texmf-dist/fonts/type1/public/newtx/txmiaX.pfb></usr/share/te
-xlive/texmf-dist/fonts/type1/public/newtx/txsys.pfb></usr/share/texlive/texmf-d
-ist/fonts/type1/public/newtx/ztmb.pfb></usr/share/texlive/texmf-dist/fonts/type
-1/public/newtx/ztmr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx
-/ztmri.pfb>
-Output written on Thesis.pdf (23 pages, 351668 bytes).
+texlive/texmf-dist/fonts/type1/public/newtx/NewTXMI5.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/newtx/NewTXMI7.pfb></usr/share/texmf/fonts/type1/pu
+blic/tex-gyre/qhvb.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qtmr.pfb><
+/usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb></usr/share/
+texlive/texmf-dist/fonts/type1/public/newtx/txmiaX.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/newtx/txsys.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/newtx/ztmb.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/n
+ewtx/ztmr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/ztmri.pfb
+>
+Output written on Thesis.pdf (23 pages, 361981 bytes).
 PDF statistics:
- 348 PDF objects out of 1000 (max. 8388607)
- 284 compressed objects within 3 object streams
- 59 named destinations out of 1000 (max. 500000)
+ 354 PDF objects out of 1000 (max. 8388607)
+ 288 compressed objects within 3 object streams
+ 60 named destinations out of 1000 (max. 500000)
  60007 words of extra memory for PDF output out of 61914 (max. 10000000)
 

@@ -1,4 +1,4 @@
-m = ( date '+%F_%H:%M:%S' ) 
+m = `date +'%y.%m.%d %H:%M:%S'`
 push:
 	: "$m"
 	git add .

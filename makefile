@@ -1,4 +1,4 @@
-m = $(date +'%y.%m.%d %H:%M:%S')
+m = $( date +'%y.%m.%d %H:%M:%S' )
 push:
 	echo "The time is: $m"
 	git add .

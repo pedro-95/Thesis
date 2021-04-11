@@ -1,6 +1,6 @@
-m ?= ( date '+%F_%H:%M:%S' ) 
+m = ( date '+%F_%H:%M:%S' ) 
 push:
-	: '$m'
+	: "$m"
 	git add .
 	git commit -m "$m"
 	git push -u origin main

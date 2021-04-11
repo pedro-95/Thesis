@@ -1,8 +1,6 @@
 #!/bin/bash
-all:
-	T = $( date +'%y.%m.%d %H:%M:%S' )
-	echo "The time is: $T"
+m := "Last update: $(shell date '+%Y/%m/%d - %H:%M')"
 push:
 	git add .
-	git commit -m m
+	git commit -m $m
 	git push -u origin main

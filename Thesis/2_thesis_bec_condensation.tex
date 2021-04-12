@@ -71,15 +71,19 @@ In quantum mechanics, bosons are particles with an integer value in their spin. 
 
 It was the Indian physicist S. N. Bose in 1924, the first one who described in a successful way an ideal gas of non interacting free photons, behaving like mass-less bosons. His idea was initially rejected for publication in scientific journals. However, Bose sent the manuscript to A. Einstein, who recognized its importance, translated the paper to german and saw to it that was published \cite{Bose1924}. After this, Einstein extended Bose's treatment to massive particles and predicted the occurrence of a phase transition in a gas of non-interacting atoms, what is today known as a \ac{bec} \cite{Einstein1924, Einstein1925}.
 
-These publications led to Bose-Einstein statistics, a model that explains the energetic behavior of a non-interacting gas of indistinguishable bosons. For a total number of particles $N_T$, the mean occupation number of a given non-degenerate state $i$ with energy $E_i$ is:
+These publications led to Bose-Einstein statistics, a model that explains the energetic behavior of a non-interacting gas of indistinguishable $N$ bosons, each one with mass $M$. The average number of particles at a given non-degenerate state with wave vector $\mathbf{k}$ and energy $E_\mathbf{k} = \hbar^2 \mathbf{k}^2 / 2M$ is given by
 
 \begin{equation}\label{eq:bose-einstein_distribution}
-	f(E_i) = \frac{1}{e^{(E_i - \mu)/k_B T} - 1}
+	\bar{n}_{\mathbf{k}} = \frac{1}{e^{(E_\mathbf{k} - \mu)/k_B T} - 1}
 \end{equation}
 
-When the gas of bosons is in thermal equilibrium at a temperature $T$, Boltzmann constant $k_B$ and the chemical potential $\mu$, which depends of $N_T$ and $T$.
+For the ideal gas of bosons in thermal equilibrium at a temperature $T$, Boltzmann constant $k_B$ and chemical potential $\mu$, which depends of $N$ and $T$ \cite{Masahito2010}. This relation can be expressed as
 
+\begin{equation}\label{eq:chemical_potential_relation}
+N = \sum_{\mathbf{k}}\frac{1}{e^{(E_\mathbf{k} - \mu)/k_B T} - 1}
+\end{equation}
 
+So the chemical potential $\mu$ is determined such that Eq. \eqref{eq:chemical_potential_relation} is satisfied for any given $N$ remaining constant.
 
 
 \hfill

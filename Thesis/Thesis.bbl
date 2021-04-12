@@ -672,6 +672,33 @@
       \endverb
       \keyw{Einstein,Quantentheorie des einatomigen idealen Gases}
     \endentry
+    \entry{Masahito2010}{book}{}
+      \name{author}{1}{}{%
+        {{hash=d50a891f839d10cf9f1b04981b981fd9}{%
+           family={Ueda},
+           familyi={U\bibinitperiod},
+           given={Masahito},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {WORLD SCIENTIFIC}%
+      }
+      \strng{namehash}{d50a891f839d10cf9f1b04981b981fd9}
+      \strng{fullhash}{d50a891f839d10cf9f1b04981b981fd9}
+      \strng{bibnamehash}{d50a891f839d10cf9f1b04981b981fd9}
+      \strng{authorbibnamehash}{d50a891f839d10cf9f1b04981b981fd9}
+      \strng{authornamehash}{d50a891f839d10cf9f1b04981b981fd9}
+      \strng{authorfullhash}{d50a891f839d10cf9f1b04981b981fd9}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Fundamentals and New Frontiers of Bose-Einstein Condensation}
+      \field{year}{2010}
+      \verb{doi}
+      \verb https://doi.org/10.1142/7216
+      \endverb
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

@@ -1,5 +1,5 @@
 #!/bin/bash
-m := "Last update: $(shell date '+%Y/%m/%d - %H:%M')"
+m ?= "Last update: $(shell date '+%Y/%m/%d - %H:%M')"
 push:
 	git add .
 	git commit -m $m

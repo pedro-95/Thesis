@@ -83,8 +83,23 @@ For the ideal gas of bosons in thermal equilibrium at a temperature $T$, Boltzma
 N = \sum_{\mathbf{k}}\frac{1}{e^{(E_\mathbf{k} - \mu)/k_B T} - 1}
 \end{equation}
 
-So the chemical potential $\mu$ is determined such that Eq. \eqref{eq:chemical_potential_relation} is satisfied for any given $N$ remaining constant.
+So the chemical potential $\mu$ is determined such that Eq. \eqref{eq:chemical_potential_relation} is satisfied for any given $N$ remaining constant. Now, expanding into the thermodynamic limit where $N$ and the occupied volume $V$ are increased to infinite values keeping the particle density $n = V/N$ constant. The sum over $\mathbf{k}$ appearing in Eq. \eqref{eq:chemical_potential_relation} can be replaced by an integral such as
 
+\begin{equation}\label{eq:thermodynamic_limit}
+n = \frac{N}{V} =  \frac{1}{(2\pi)^3}\int ¨d^3 k\frac{1}{e^{(E_\mathbf{k} - \mu)/k_B T} - 1}
+\end{equation}
+
+For decreasing values of $T$ and constant $n$, the chemical potential increases becoming zero at a critical temperature $T_C$. By making $\mu = 0$, $T = T_C$ and $E_\mathbf{k} = \hbar^2 \mathbf{k}^2 / 2M$ in Eq. \eqref{eq:thermodynamic_limit} results
+
+\begin{equation}\label{eq:thermodynamic_limit_at_critical_conditions}
+n =  \zeta(3/2) \bigg(\frac{M k_B T_C}{2 \pi \hbar^2}\bigg)^{3/2}
+\end{equation}
+
+Where $\zeta(3/2) \simeq 2.612$ denotes the Riemann zeta function evaluated at 3/2. So the critical temperature of the \ac{bec} is given by
+
+\begin{equation}\label{eq:critical_temperature}
+T_C = 3.31 \frac{\hbar^2 n^{2/3}}{k_B M}
+\end{equation}
 
 \hfill
 

@@ -193,7 +193,7 @@
       \field{labeltitlesource}{title}
       \field{abstract}{Abstract We discuss laser cooling opportunities in atomic erbium, identifying five J{\textrightarrow}J$+$1 transitions from the 4f126s2 3H6 ground state that are accessible to common visible and near-infrared continuous-wave tunable lasers. We present lifetime measurements for the 4f11(4Io15/2)5d5/26s2 (15/2, 5/2)7 o state at 11888 cm{−}1 and the 4f11(4Io 13/2)5d3/26s2 (13/2, 5/2)7o state at 15847 cm{−}1, showing values of 20{\textpm}4 {\textmu}s and 5.6{\textpm}1.4 {\textmu}s, respectively. We also present a calculated value of 13{\textpm}7 s{−}1 for the transition rate from the 4f11(4Io 15/2)5d3/26s2 (15/2, 3/2)7 o state at 7697 cm-1 to the ground state, based on scaled Hartree-Fock energy parameters. Laser cooling on these transitions in combination with a strong, fast (5.8 ns) laser cooling transition at 401 nm, suggest new opportunities for narrowband laser cooling of a large-magnetic moment atom, with possible applications in quantum information processing, high-precision atomic clocks, quantum degenerate gases, and deterministic single-atom doping of materials.}
       \field{journaltitle}{Opt. Express}
-      \field{month}{4}
+      \field{month}{04}
       \field{number}{8}
       \field{title}{Laser cooling transitions in atomic erbium}
       \field{volume}{13}
@@ -248,7 +248,7 @@
       \field{labeltitlesource}{title}
       \field{issue}{1}
       \field{journaltitle}{Phys. Rev. A}
-      \field{month}{7}
+      \field{month}{07}
       \field{title}{Synthetic gauge field with highly magnetic lanthanide atoms}
       \field{volume}{88}
       \field{year}{2013}
@@ -302,7 +302,7 @@
       \field{issn}{0013-5194}
       \field{issue}{19}
       \field{journaltitle}{Electronics Letters}
-      \field{month}{9}
+      \field{month}{09}
       \field{title}{Low-noise erbium-doped fibre amplifier operating at 1.54$\mu m$}
       \field{volume}{23}
       \field{year}{1987}
@@ -361,7 +361,7 @@
       \field{labeltitlesource}{title}
       \field{issue}{6}
       \field{journaltitle}{Phys. Rev. A}
-      \field{month}{6}
+      \field{month}{06}
       \field{title}{Natural linewidth of the $401\text{\ensuremath{-}}\mathrm{nm}$ laser-cooling transition in $\mathrm{Er}\phantom{\rule{0.2em}{0ex}}\mathrm{I}$}
       \field{volume}{73}
       \field{year}{2006}
@@ -448,7 +448,7 @@
       \field{labeltitlesource}{title}
       \field{abstract}{Radiative lifetimes have been measured for 123 levels of neutral erbium using time-resolved laser-induced fluorescence on a slow beam of erbium atoms. Of the 123 levels, 56 are even parity and range in energy from 26 993 to 40 440 cm−1 and 67 are odd parity ranging from 16 070 to 38 401 cm−1. This set of Er i lifetimes is much more extensive than others published to date, with 90 of the 123 level lifetimes measured for the first time. These lifetimes will provide the absolute calibration for a large set of measured Er i transition probabilities. Spectroscopic studies of rare earth elements including erbium are motivated by research needs in both the astrophysics and lighting communities.}
       \field{journaltitle}{Journal of Physics B: Atomic, Molecular and Optical Physics}
-      \field{month}{7}
+      \field{month}{07}
       \field{number}{15}
       \field{title}{Radiative lifetimes of neutral erbium}
       \field{volume}{43}
@@ -565,7 +565,7 @@
       \field{labeltitlesource}{title}
       \field{issn}{0044-3328}
       \field{journaltitle}{Zeitschrift für Physik}
-      \field{month}{2}
+      \field{month}{02}
       \field{number}{1}
       \field{title}{Über den Zusammenhang des Abschlusses der Elektronengruppen im Atom mit der Komplexstruktur der Spektren}
       \field{volume}{31}
@@ -697,6 +697,72 @@
       \field{year}{2010}
       \verb{doi}
       \verb https://doi.org/10.1142/7216
+      \endverb
+    \endentry
+    \entry{deBroglie1970}{article}{}
+      \name{author}{1}{}{%
+        {{hash=9957aaa86ccf437c6dcb56c14de6688f}{%
+           family={Broglie},
+           familyi={B\bibinitperiod},
+           given={Louis},
+           giveni={L\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \strng{namehash}{9957aaa86ccf437c6dcb56c14de6688f}
+      \strng{fullhash}{9957aaa86ccf437c6dcb56c14de6688f}
+      \strng{bibnamehash}{9957aaa86ccf437c6dcb56c14de6688f}
+      \strng{authorbibnamehash}{9957aaa86ccf437c6dcb56c14de6688f}
+      \strng{authornamehash}{9957aaa86ccf437c6dcb56c14de6688f}
+      \strng{authorfullhash}{9957aaa86ccf437c6dcb56c14de6688f}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1572-9516}
+      \field{journaltitle}{Foundations of Physics}
+      \field{month}{03}
+      \field{number}{1}
+      \field{title}{The reinterpretation of wave mechanics}
+      \field{volume}{1}
+      \field{year}{1970}
+      \field{pages}{5\bibrangedash 15}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1007/BF00708650
+      \endverb
+    \endentry
+    \entry{Pethick2008}{book}{}
+      \name{author}{2}{}{%
+        {{hash=51982a6e8e4825889211a5e335e8d184}{%
+           family={Pethick},
+           familyi={P\bibinitperiod},
+           given={C.\bibnamedelimi J.},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=652628f425826f7462847f8cd14aba85}{%
+           family={Smith},
+           familyi={S\bibinitperiod},
+           given={H.},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{57c0f3a41165ef316bc6d6403b8e2500}
+      \strng{fullhash}{57c0f3a41165ef316bc6d6403b8e2500}
+      \strng{bibnamehash}{57c0f3a41165ef316bc6d6403b8e2500}
+      \strng{authorbibnamehash}{57c0f3a41165ef316bc6d6403b8e2500}
+      \strng{authornamehash}{57c0f3a41165ef316bc6d6403b8e2500}
+      \strng{authorfullhash}{57c0f3a41165ef316bc6d6403b8e2500}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{2}
+      \field{title}{Bose–Einstein Condensation in Dilute Gases}
+      \field{year}{2008}
+      \verb{doi}
+      \verb 10.1017/CBO9780511802850
       \endverb
     \endentry
   \enddatalist

@@ -55,7 +55,7 @@ Finally, it must be noted that aside from the discussed application in ultracold
 \end{table}
 
 
-\begin{figure}[h!]\centering
+\begin{figure}[!htbp]\centering
 	\includegraphics[width=1.\columnwidth]{erbium_term_scheme.pdf}
 	\caption[Erbium energy scheme]{Energy level scheme of Erbium represented as a function of the total angular momentum J. This scheme shows only a range of energies relevant for the experiment of up to 25000 $\text{cm}^{\text{-1}}$. The different arrows show us the used transitions and for which phase of the experiment they are used for. The red lines represent energy states with even parity and the black lines those with odd parity. Data taken from \cite{NIST}. }\label{fig:erbium_scheme}
 \end{figure}
@@ -65,7 +65,7 @@ Finally, it must be noted that aside from the discussed application in ultracold
 \section{Bose-Einstein Condensation} \label{sec:bose-einstein_condensation}
 %==============================================================================
 
-A \ac{bec} is generally defined as a state of matter formed when a gas of bosons with a low density is cooled to near-zero temperatures (typically a few hundreds nanokelvins). To understand this definition and the next theoretical principles is necessary to define what is a boson. 
+A \ac{bec} is generally defined as a state of matter formed when a gas of bosons with a low density is cooled to near-zero temperatures (typically a few hundreds nanokelvins). To understand this definition and the next theoretical principles is necessary to define what is a Boson. 
 
 In quantum mechanics, bosons are particles with an integer value in their spin. Because of this,  also have a symmetric wave function under the interchange of two particles, which allows bosons to have the same quantum state. Unlike its counterpart fermions, which have a half odd integer spin and an anti-symmetric wave function. Leading to Pauli's exclusion principle that avoids more than one fermion to occupy the same quantum state \cite{Pauli1925}.
 
@@ -74,7 +74,7 @@ It was the Indian physicist S. N. Bose in 1924, the first one who described in a
 These publications led to Bose-Einstein statistics, a model that explains the energetic behavior of a non-interacting gas of indistinguishable $N$ bosons, each one with mass $M$. The average number of particles at a given non-degenerate state with wave vector $\mathbf{k}$ and energy $E_\mathbf{k} = \hbar^2 \mathbf{k}^2 / 2M$ is given by
 
 \begin{equation}\label{eq:bose-einstein_distribution}
-	\bar{n}_{\mathbf{k}} = \frac{1}{e^{(E_\mathbf{k} - \mu)/k_B T} - 1}
+	\bar{N}_{\mathbf{k}} = \frac{1}{e^{(E_\mathbf{k} - \mu)/k_B T} - 1}
 \end{equation}
 
 For the ideal gas of bosons in thermal equilibrium at a temperature $T$, Boltzmann constant $k_B$ and chemical potential $\mu$, which depends of $N$ and $T$ \cite{Masahito2010}. This relation can be expressed as
@@ -86,7 +86,7 @@ N = \sum_{\mathbf{k}}\frac{1}{e^{(E_\mathbf{k} - \mu)/k_B T} - 1}
 So the chemical potential $\mu$ is determined such that Eq. \eqref{eq:chemical_potential_relation} is satisfied for any given $N$ remaining constant. Now, expanding into the thermodynamic limit where $N$ and the occupied volume $V$ are increased to infinite values keeping the particle density $n = V/N$ constant. The sum over $\mathbf{k}$ appearing in Eq. \eqref{eq:chemical_potential_relation} can be replaced by an integral such as
 
 \begin{equation}\label{eq:thermodynamic_limit}
-n = \frac{N}{V} =  \frac{1}{(2\pi)^3}\int ¨d^3 k\frac{1}{e^{(E_\mathbf{k} - \mu)/k_B T} - 1}
+n = \frac{N}{V} =  \frac{1}{(2\pi)^3}\int d^3 k\frac{1}{e^{(E_\mathbf{k} - \mu)/k_B T} - 1}
 \end{equation}
 
 For decreasing values of $T$ and constant $n$, the chemical potential increases becoming zero at a critical temperature $T_C$. By making $\mu = 0$, $T = T_C$ and $E_\mathbf{k} = \hbar^2 \mathbf{k}^2 / 2M$ in Eq. \eqref{eq:thermodynamic_limit} results
@@ -101,17 +101,41 @@ Where $\zeta(3/2) \simeq 2.612$ denotes the Riemann zeta function evaluated at 3
 T_C = 3.31 \frac{\hbar^2 n^{2/3}}{k_B M}
 \end{equation}
 
+A relevant case of study is when $T < T_C$ because a fraction of the $N$ bosons remains in the ground state with an energy $E = 0$. So the ideal gas of bosons can be divided in two energetic groups $N = N_{E=0} + N_{E>0}$. It must be noted that, the replacement of a sum by an integral in Eq. \eqref{eq:thermodynamic_limit} can only be take place in group of particles with an energy greater than zero $E>0$. As a result of this, the integral of Eq. \eqref{eq:thermodynamic_limit} for the case $T < T_C$ results
 
+\begin{equation}\label{eq:thermodynamic_limit_low_T}
+\frac{N_{E>0}}{V} = \zeta(3/2) \bigg(\frac{M k_B T}{2 \pi \hbar^2}\bigg)^{3/2}
+\end{equation}
 
-\hfill
+Using now equations \eqref{eq:critical_temperature}, \eqref{eq:thermodynamic_limit_at_critical_conditions} and the fact that $N_{E>0} = N - N_{E=0}$ results in an expression of the relative population of a \ac{bec} in an ideal bosons gas as a function of temperature:
 
-\clearpage
+\begin{equation}\label{eq:bec_relative_population}
+\frac{N_{E=0}}{N} = 1 - \bigg(\frac{T}{T_C}\bigg)^{3/2}
+\end{equation}
+
+An intuitive way to think about this is to imagine the bosons as wave packets with a size of the thermal de Broglie length $\lambda_{th}$. This parameter is conventionally defined \cite{deBroglie1970}.
+
+\begin{equation}\label{eq:de_Broglie_length}
+\lambda_{th} = \frac{h}{\sqrt{2\pi Mk_B T}}
+\end{equation}
+
+For falling temperatures, the thermal de Broglie length begins to increase and the wave packets representing the bosons become greater in size. At $T\lesssim T_C$ the particles begin to occupy macroscopically the ground state and its wave packets start to overlap forming a macroscopic wave function, capable of describing the whole particle system. This is one of the most relevant properties of a \ac{bec}.
+
+Now, we combine equations \ref{eq:thermodynamic_limit_at_critical_conditions} and \ref{eq:de_Broglie_length} obtaining
+
+\begin{equation}\label{eq:phase_space_critical_point}
+\qquad\qquad\qquad n \lambda_{th}^3 = \zeta(3/2) \simeq 2.612 \qquad \textrm{for } \ T=T_C
+\end{equation}
+
+The product of density with cubic de Broglie length is defined in literature as the phase-space density $\rho_{psd} \equiv n \lambda_{th}^3$. This parameter is normally used as a way of quantifying a given bosonic system. From Eq. \eqref{eq:phase_space_critical_point}, one can deduce that to form a \ac{bec} with an atomic (bosonic) cloud in three dimensions the phase space density must fulfill $\rho_{psd} \geq 2.612$. As a result, the required conditions to form a \ac{bec} can only be fulfilled when the atomic cloud is sufficiently cold and dense. For the case of a three dimensional gas of atoms trapped in an harmonic potential the condition over the phase space density is decreased to $\rho_{psd} \geq 1.2$ \cite{Pethick2008}. 
+
+A further description about the behavior of Bose-Einstein Condensation can be found in \cite{Masahito2010, Pethick2008}.
 
 %==============================================================================
 \section{Experimental preparation} \label{sec:experimental_preparation}
 %==============================================================================
 
-\begin{figure}[h!]\centering
+\begin{figure}[!htbp]\centering
 	\includegraphics[width=1.\columnwidth]{table_set_up.pdf}
 	\caption[Scheme of the experimental set up]{Scheme of the experimental set up}\label{fig:table_set_up}
 \end{figure}

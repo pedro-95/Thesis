@@ -49,10 +49,14 @@ Finally, it must be noted that aside from the discussed application in ultracold
 		Decay rate 			& $\gamma$	& \si{\per\second}					& \num{2.22e8} 	& \num{1.17e6}  & \num{5.00e4} \\
 		Saturation intensity & $I_{S}$	& \si{\milli\watt\per\centi\meter}	& 71.80			& 0.12			& 1.74  \\  
 		Doppler temperature	& $T_D$	& \si{\micro\kelvin} 				& 848.69  		& 4.46  		& 0.19    \\  
-		Doppler velocity	& $v_D$	& \si{\centi\meter\per\second}		& 21.5 			& 1.49 			& 0.31 \\  \hline
+		Doppler velocity	& $v_D$	& \si{\centi\meter\per\second}		& 21.5 			& 1.49 			& 0.31 \\
+		Recoil temperature	& $T_R$	& \si{\nano\kelvin} 				& 354.95  		& 167.94  		& 80.43    \\  
+		Recoil velocity	& $v_R$	& \si{\milli\meter\per\second}		& 5.93 			& 4.08 			& 2.82 \\  \hline
 	\end{tabular}
-	\caption[Spectroscopic data for the optical transitions of Erbium]{Spectroscopic data for the optical transitions of Erbium used in this experiment. These transitions are called the 401nm, 583nm, and 841nm transitions and can be seen in figure \ref{fig:erbium_scheme}. Data taken from \cite{mcclelland2006natural, lawler2010atomic, den2010radiative, ban2005laser, lipert1993isotope}}\label{tab:Transitions}
+	\caption[Spectroscopic data for the optical transitions of Erbium]{Spectroscopic data for the optical transitions of Erbium used in this experiment. These transitions are called the 401nm, 583nm, and 841nm transitions and can be seen in figure \ref{fig:erbium_scheme}. Shown spectroscopic data taken from \cite{mcclelland2006natural, lawler2010atomic, den2010radiative, ban2005laser, lipert1993isotope}}\label{tab:Transitions}
 \end{table}
+
+\hfill
 
 
 \begin{figure}[!htbp]\centering
@@ -76,8 +80,7 @@ These publications led to Bose-Einstein statistics, a model that explains the en
 \begin{equation}\label{eq:bose-einstein_distribution}
 	\bar{N}_{\mathbf{k}} = \frac{1}{e^{(E_\mathbf{k} - \mu)/k_B T} - 1}
 \end{equation}
-
-For the ideal gas of bosons in thermal equilibrium at a temperature $T$, Boltzmann constant $k_B$ and chemical potential $\mu$, which depends of $N$ and $T$ \cite{Masahito2010}. This relation can be expressed as
+For an ideal gas of bosons in thermal equilibrium at a temperature $T$, Boltzmann constant $k_B$ and chemical potential $\mu$, which depends of $N$ and $T$ \cite{Masahito2010}. This relation can be expressed as
 
 \begin{equation}\label{eq:chemical_potential_relation}
 N = \sum_{\mathbf{k}}\frac{1}{e^{(E_\mathbf{k} - \mu)/k_B T} - 1}
@@ -94,7 +97,6 @@ For decreasing values of $T$ and constant $n$, the chemical potential increases 
 \begin{equation}\label{eq:thermodynamic_limit_at_critical_conditions}
 n =  \zeta(3/2) \bigg(\frac{M k_B T_C}{2 \pi \hbar^2}\bigg)^{3/2}
 \end{equation}
-
 Where $\zeta(3/2) \simeq 2.612$ denotes the Riemann zeta function evaluated at 3/2. So the critical temperature of the \ac{bec} is given by
 
 \begin{equation}\label{eq:critical_temperature}

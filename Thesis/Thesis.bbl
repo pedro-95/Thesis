@@ -765,6 +765,32 @@
       \verb 10.1017/CBO9780511802850
       \endverb
     \endentry
+    \entry{Ulitzsch2016}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=eed1588b0bdd5ea65898e1a7b11760dd}{%
+           family={Ulitzsch},
+           familyi={U\bibinitperiod},
+           given={Jens},
+           giveni={J\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Rheinischen Friedrich-Wilhelms-Universität Bonn}%
+      }
+      \strng{namehash}{eed1588b0bdd5ea65898e1a7b11760dd}
+      \strng{fullhash}{eed1588b0bdd5ea65898e1a7b11760dd}
+      \strng{bibnamehash}{eed1588b0bdd5ea65898e1a7b11760dd}
+      \strng{authorbibnamehash}{eed1588b0bdd5ea65898e1a7b11760dd}
+      \strng{authornamehash}{eed1588b0bdd5ea65898e1a7b11760dd}
+      \strng{authorfullhash}{eed1588b0bdd5ea65898e1a7b11760dd}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{12}
+      \field{title}{Erzeugung eines Bose-Einstein-Kondensats aus Erbiumatomen in einer quasi-elektrostatischen Dipolfalle}
+      \field{type}{phdthesis}
+      \field{year}{2016}
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

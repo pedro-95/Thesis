@@ -7,7 +7,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="table_set_up_new.svg"
+   sodipodi:docname="table_set_up.svg"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
    version="1.1"
    id="svg2"
@@ -22,11 +22,11 @@
      inkscape:window-width="1920"
      units="pt"
      showgrid="false"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer1"
      inkscape:document-units="px"
-     inkscape:cy="171.61819"
-     inkscape:cx="357.49757"
-     inkscape:zoom="1.4022006"
+     inkscape:cy="214.08217"
+     inkscape:cx="279.89003"
+     inkscape:zoom="1.9830111"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -199,7 +199,7 @@
        inkscape:connector-curvature="0"
        id="path4954"
        d="M 434.58751,979.02246 V 909.43504"
-       style="fill:none;fill-rule:evenodd;stroke:#ffdc00;stroke-width:3.90051;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-rule:evenodd;stroke:#ffdc00;stroke-width:3.90093739;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:7.80187478,3.90093739;stroke-opacity:1;stroke-dashoffset:0"
        sodipodi:nodetypes="cc"
        transform="translate(0,-701.11222)" />
   </g>
@@ -552,6 +552,39 @@
          x="153.5242"
          y="937.41956"
          style="font-size:13.75px;stroke-width:0.9375">Dipole Trap</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.75px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.9375"
+       x="382.3876"
+       y="948.00232"
+       id="text1510-3"><tspan
+         sodipodi:role="line"
+         id="tspan1508-6"
+         x="382.3876"
+         y="948.00232"
+         style="font-size:13.75px;stroke-width:0.9375">x</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.75px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.9375"
+       x="464.58179"
+       y="934.07581"
+       id="text1510-3-7"><tspan
+         sodipodi:role="line"
+         id="tspan1508-6-5"
+         x="464.58179"
+         y="934.07581"
+         style="font-size:13.75px;stroke-width:0.9375">y</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.75px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.9375"
+       x="439.08508"
+       y="928.45374"
+       id="text1510-3-3"><tspan
+         sodipodi:role="line"
+         id="tspan1508-6-56"
+         x="439.08508"
+         y="928.45374"
+         style="font-size:13.75px;stroke-width:0.9375">z</tspan></text>
   </g>
   <g
      inkscape:label="Layer 2"

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2020.10.23)  13 APR 2021 17:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.2.11)  14 APR 2021 14:17
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -169,9 +169,9 @@ Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: \l@canadian = using hyphenrules for english
 (babel)             (\language0) on input line 102.
 Package babel Info: \l@australian = using hyphenrules for ukenglish
-(babel)             (\language51) on input line 105.
+(babel)             (\language80) on input line 105.
 Package babel Info: \l@newzealand = using hyphenrules for ukenglish
-(babel)             (\language51) on input line 108.
+(babel)             (\language80) on input line 108.
 )))
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/iflang.sty
 Package: iflang 2018/01/21 v1.7 Checks for the current language (HO)
@@ -1366,17 +1366,10 @@ Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
 \multirow@dima=\skip123
 \bigstrutjot=\dimen282
 )
-
-Package acro Warning: On line 121:
-(acro)                The option `list-style' is deprecated. Use option
-(acro)                `list/template' instead.
-
-
-Package acro Warning: On line 121:
-(acro)                The option `list-heading' is deprecated. Use option
-(acro)                `list/heading' instead.
-
 \g__acro_bec_int=\count484
+\g__acro_mot_int=\count485
+\g__acro_odt_int=\count486
+
 (/usr/share/texlive/texmf-dist/tex/latex/background/background.sty
 Package: background 2014/03/04 v2.1 background material
 
@@ -1425,14 +1418,14 @@ ex
 \pgf@yd=\dimen294
 \w@pgf@writea=\write4
 \r@pgf@reada=\read5
-\c@pgf@counta=\count485
-\c@pgf@countb=\count486
-\c@pgf@countc=\count487
-\c@pgf@countd=\count488
+\c@pgf@counta=\count487
+\c@pgf@countb=\count488
+\c@pgf@countc=\count489
+\c@pgf@countd=\count490
 \t@pgf@toka=\toks39
 \t@pgf@tokb=\toks40
 \t@pgf@tokc=\toks41
-\pgf@sys@id@count=\count489
+\pgf@sys@id@count=\count491
  (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
 )
@@ -1448,8 +1441,8 @@ File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
 tex
 File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfsyssoftpath@smallbuffer@items=\count490
-\pgfsyssoftpath@bigbuffer@items=\count491
+\pgfsyssoftpath@smallbuffer@items=\count492
+\pgfsyssoftpath@bigbuffer@items=\count493
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
 tex
@@ -1463,7 +1456,7 @@ Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
 \pgfmath@dimen=\dimen295
-\pgfmath@count=\count492
+\pgfmath@count=\count494
 \pgfmath@box=\box73
 \pgfmath@toks=\toks42
 \pgfmath@stack@operand=\toks43
@@ -1487,7 +1480,7 @@ tex)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
 thmetics.code.tex)))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count493
+\c@pgfmathroundto@lastzeros=\count495
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
@@ -1526,7 +1519,7 @@ File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgfpic=\box74
 \pgf@hbox=\box75
 \pgf@layerbox@main=\box76
-\pgf@picture@serial@count=\count494
+\pgf@picture@serial@count=\count496
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
 ode.tex
@@ -1559,8 +1552,8 @@ File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \pgf@max=\dimen319
-\pgf@sys@shading@range@num=\count495
-\pgf@shadingcount=\count496
+\pgf@sys@shading@range@num=\count497
+\pgf@shadingcount=\count498
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
@@ -1620,7 +1613,7 @@ Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
 .code.tex
 File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgf@plot@mark@count=\count497
+\pgf@plot@mark@count=\count499
 \pgfplotmarksize=\dimen324
 )
 \tikz@lastx=\dimen325
@@ -1635,18 +1628,18 @@ File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
 \tikz@figbox@bg=\box80
 \tikz@tempbox=\box81
 \tikz@tempbox@bg=\box82
-\tikztreelevel=\count498
-\tikznumberofchildren=\count499
-\tikznumberofcurrentchild=\count500
-\tikz@fig@count=\count501
+\tikztreelevel=\count500
+\tikznumberofchildren=\count501
+\tikznumberofcurrentchild=\count502
+\tikz@fig@count=\count503
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
-\pgfmatrixcurrentrow=\count502
-\pgfmatrixcurrentcolumn=\count503
-\pgf@matrix@numberofcolumns=\count504
+\pgfmatrixcurrentrow=\count504
+\pgfmatrixcurrentcolumn=\count505
+\pgf@matrix@numberofcolumns=\count506
 )
-\tikz@expandcount=\count505
+\tikz@expandcount=\count507
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
 zlibrarytopaths.code.tex
@@ -1668,70 +1661,70 @@ Package csquotes Info: ... found 'babel' package.
 (./2_thesis_bec_condensation.aux) (./thesis_appendix.aux) (./Thesis.acr))
 \openout1 = `Thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 137.
+LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 141.
 LaTeX Font Info:    Trying to load font information for OML+ntxmi on input line
- 137.
+ 141.
 
 (/usr/share/texlive/texmf-dist/tex/latex/newtx/omlntxmi.fd
 File: omlntxmi.fd 2015/08/25 Fontinst v1.933 font definitions for OML/ntxmi.
 )
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 137.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 141.
 LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 
-137.
+141.
 
 (/usr/share/texlive/texmf-dist/tex/latex/newtx/untxexa.fd
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 137.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 141.
 LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line
- 137.
+ 141.
 
 (/usr/share/texlive/texmf-dist/tex/latex/newtx/lmsntxsy.fd
 File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
 )
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 137.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 141.
 LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input lin
-e 137.
+e 141.
 
 (/usr/share/texlive/texmf-dist/tex/latex/newtx/lmxntxexx.fd
 File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
 )
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 137.
-LaTeX Font Info:    ... okay on input line 137.
-Package scrbase Info: activating UKenglish \contentsname on input line 137.
-Package scrbase Info: activating UKenglish \listfigurename on input line 137.
-Package scrbase Info: activating UKenglish \listtablename on input line 137.
-\c@mv@tabular=\count506
-\c@mv@boldtabular=\count507
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 141.
+LaTeX Font Info:    ... okay on input line 141.
+Package scrbase Info: activating UKenglish \contentsname on input line 141.
+Package scrbase Info: activating UKenglish \listfigurename on input line 141.
+Package scrbase Info: activating UKenglish \listtablename on input line 141.
+\c@mv@tabular=\count508
+\c@mv@boldtabular=\count509
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count508
+\scratchcounter=\count510
 \scratchdimen=\dimen333
 \scratchbox=\box85
-\nofMPsegments=\count509
-\nofMParguments=\count510
+\nofMPsegments=\count511
+\nofMParguments=\count512
 \everyMPshowfont=\toks48
-\MPscratchCnt=\count511
+\MPscratchCnt=\count513
 \MPscratchDim=\dimen334
-\MPnumerator=\count512
-\makeMPintoPDFobject=\count513
+\MPnumerator=\count514
+\makeMPintoPDFobject=\count515
 \everyMPtoPDFconversion=\toks49
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -1764,16 +1757,16 @@ Package caption Info: rotating package is loaded.
 Package caption Info: xtab package is loaded.
 Package caption Info: End \AtBeginDocument code.
 
-Package chemgreek Info: Activating mapping `newtx' on line 137.
+Package chemgreek Info: Activating mapping `newtx' on line 141.
 
-LaTeX Info: Redefining \microtypecontext on input line 137.
+LaTeX Info: Redefining \microtypecontext on input line 141.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `basictext'.
-LaTeX Info: Redefining \showhyphens on input line 137.
+LaTeX Info: Redefining \showhyphens on input line 141.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -1830,7 +1823,7 @@ Package scrdate Info: \dateczech not defined.
 Package scrdate Info: \dateslovak not defined.
 (scrdate)             \todaysname probably cannot use \dayname@slovak.
 \AtBeginShipoutBox=\box86
-Package hyperref Info: Link coloring ON on input line 137.
+Package hyperref Info: Link coloring ON on input line 141.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -1841,11 +1834,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count514
+\c@section@level=\count516
 )
-LaTeX Info: Redefining \ref on input line 137.
-LaTeX Info: Redefining \pageref on input line 137.
-LaTeX Info: Redefining \nameref on input line 137.
+LaTeX Info: Redefining \ref on input line 141.
+LaTeX Info: Redefining \pageref on input line 141.
+LaTeX Info: Redefining \nameref on input line 141.
 Package biblatex Info: Trying to load language 'UKenglish'...
 Package biblatex Info: ... file 'UKenglish.lbx' found.
 
@@ -1894,8 +1887,8 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Thesis.bbl' found.
 
 (./Thesis.bbl)
-Package biblatex Info: Reference section=0 on input line 137.
-Package biblatex Info: Reference segment=0 on input line 137.
+Package biblatex Info: Reference section=0 on input line 141.
+Package biblatex Info: Reference segment=0 on input line 141.
 \l__acro_aux_file_iow=\write5
 \openout5 = `Thesis.acr'.
 
@@ -1911,21 +1904,21 @@ File: translations-basic-dictionary-german.trsl (german translation file `trans
 lations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `german'. on input line 137.
+or `german'. on input line 141.
  ABD: EveryShipout initializing macros
 LaTeX Font Info:    Trying to load font information for OT1+ntxtlf on input lin
-e 137.
+e 141.
 
 (/usr/share/texlive/texmf-dist/tex/latex/newtx/ot1ntxtlf.fd
 File: ot1ntxtlf.fd 2015/01/17 v1.0 font definition file for OT1/ntx/tlf
 )
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.95pt on input line 137.
+(Font)              scaled to size 10.95pt on input line 141.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 8.0pt on input line 137.
+(Font)              scaled to size 8.0pt on input line 141.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 6.1pt on input line 137.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 137
+(Font)              scaled to size 6.1pt on input line 141.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 141
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
@@ -1934,7 +1927,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 137
+LaTeX Font Info:    Trying to load font information for U+msb on input line 141
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -1944,83 +1937,83 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 
-137.
+141.
 
 (/usr/share/texlive/texmf-dist/tex/latex/newtx/untxmia.fd
 File: untxmia.fd 2018/04/14 Fontinst v1.933 font definitions for U/ntxmia.
 )
 LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 
-137.
+141.
 
 (/usr/share/texlive/texmf-dist/tex/latex/newtx/untxsym.fd
 File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
 )
 LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 
-137.
+141.
 
 (/usr/share/texlive/texmf-dist/tex/latex/newtx/untxsyc.fd
 File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
 )
-LaTeX Font Info:    Trying to load font information for T1+qhv on input line 13
-7.
+LaTeX Font Info:    Trying to load font information for T1+qhv on input line 14
+1.
 
 (/usr/share/texmf/tex/latex/tex-gyre/t1qhv.fd
 File: t1qhv.fd 2009/09/25 v1.2 font definition file for T1/qhv
 )
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 9.85492pt on input line 137.
+(Font)              scaled to size 9.85492pt on input line 141.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `qhv' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 7.19995pt on input line 137.
+(Font)              scaled to size 7.19995pt on input line 141.
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 5.48996pt on input line 137.
+(Font)              scaled to size 5.48996pt on input line 141.
 LaTeX Font Info:    Trying to load font information for T1+ntxtt on input line 
-137.
+141.
 
 (/usr/share/texlive/texmf-dist/tex/latex/newtx/t1ntxtt.fd
 File: t1ntxtt.fd 2012/04/20 v3.1
 )
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 10.95pt on input line 137.
+(Font)              scaled to size 10.95pt on input line 141.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `ntxtt' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 8.0pt on input line 137.
+(Font)              scaled to size 8.0pt on input line 141.
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 6.1pt on input line 137.
+(Font)              scaled to size 6.1pt on input line 141.
 
 (../Template/cover/Master_Submit_Title.tex)
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 10.95pt on input line 170.
+(Font)              scaled to size 10.95pt on input line 174.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 20.74pt on input line 170.
+(Font)              scaled to size 20.74pt on input line 174.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 14.4pt on input line 170.
+(Font)              scaled to size 14.4pt on input line 174.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 14.4pt on input line 170.
+(Font)              scaled to size 14.4pt on input line 174.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.5pt on input line 170.
+(Font)              scaled to size 10.5pt on input line 174.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 7.9pt on input line 170.
+(Font)              scaled to size 7.9pt on input line 174.
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 12.9599pt on input line 170.
+(Font)              scaled to size 12.9599pt on input line 174.
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 9.44994pt on input line 170.
+(Font)              scaled to size 9.44994pt on input line 174.
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 7.10994pt on input line 170.
+(Font)              scaled to size 7.10994pt on input line 174.
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 14.4pt on input line 170.
+(Font)              scaled to size 14.4pt on input line 174.
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 10.5pt on input line 170.
+(Font)              scaled to size 10.5pt on input line 174.
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 7.9pt on input line 170.
+(Font)              scaled to size 7.9pt on input line 174.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 17.28pt on input line 170.
+(Font)              scaled to size 17.28pt on input line 174.
  [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
@@ -2049,8 +2042,8 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 
 
 ]
-Package tocbasic Info: character protrusion at toc deactivated on input line 17
-9.
+Package tocbasic Info: character protrusion at toc deactivated on input line 18
+3.
  (./Thesis.toc
 LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
 (Font)              scaled to size 10.95pt on input line 11.
@@ -2149,24 +2142,24 @@ LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
 (Font)              scaled to size 10.0pt on input line 65.
 
 [5 <./figs/erbium_term_scheme.pdf>] [6]
-<figs/table_set_up.pdf, id=169, 453.27942pt x 282.05376pt>
+<figs/table_set_up.pdf, id=170, 453.27942pt x 282.05376pt>
 File: figs/table_set_up.pdf Graphic file (type pdf)
 <use figs/table_set_up.pdf>
-Package pdftex.def Info: figs/table_set_up.pdf  used on input line 142.
+Package pdftex.def Info: figs/table_set_up.pdf  used on input line 146.
 (pdftex.def)             Requested size: 437.46118pt x 272.2275pt.
 ) [7] [8 <./figs/table_set_up.pdf>]
 chapter without number
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
-(Font)              scaled to size 10.95pt on input line 206.
+(Font)              scaled to size 10.95pt on input line 210.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/sc' will be
-(Font)              scaled to size 10.95pt on input line 206.
+(Font)              scaled to size 10.95pt on input line 210.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/ntxtlf/m/sc/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
-(Font)              scaled to size 8.0pt on input line 206.
+(Font)              scaled to size 8.0pt on input line 210.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
-(Font)              scaled to size 6.1pt on input line 206.
+(Font)              scaled to size 6.1pt on input line 210.
 [9
 
 
@@ -2186,7 +2179,7 @@ chapter A.
 
 ]
 Package tocbasic Info: character protrusion at lof deactivated on input line 23
-1.
+5.
  (./Thesis.lof)
 \tf@lof=\write7
 \openout7 = `Thesis.lof'.
@@ -2199,7 +2192,7 @@ Package tocbasic Info: character protrusion at lof deactivated on input line 23
 
 ]
 Package tocbasic Info: character protrusion at lot deactivated on input line 23
-2.
+6.
  (./Thesis.lot)
 \tf@lot=\write8
 \openout8 = `Thesis.lot'.
@@ -2210,24 +2203,24 @@ Package tocbasic Info: character protrusion at lot deactivated on input line 23
 ]
 chapter without number
 [17]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 247.
-Package atveryend Info: Executing hook `AfterLastShipout' on input line 247.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 251.
+Package atveryend Info: Executing hook `AfterLastShipout' on input line 251.
  (./Thesis.aux (./thesis_acknowledge.aux) (./1_thesis_intro.aux)
 (./2_thesis_bec_condensation.aux) (./thesis_appendix.aux) (./Thesis.acr))
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 247.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 247.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 251.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 251.
 Package logreq Info: Writing requests to 'Thesis.run.xml'.
 \openout1 = `Thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 50925 strings out of 480906
- 1013594 string characters out of 5910771
- 1851355 words of memory out of 5000000
- 65497 multiletter control sequences out of 15000+600000
- 755716 words of font info for 382 fonts, out of 8000000 for 9000
+ 51111 strings out of 480906
+ 1021066 string characters out of 5910772
+ 1855068 words of memory out of 5000000
+ 65680 multiletter control sequences out of 15000+600000
+ 756404 words of font info for 385 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 75i,20n,124p,10601b,3632s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 75i,20n,124p,10601b,3634s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf-sc.enc}{/usr/
 share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}{/usr/share/texli
 ve/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}{/usr/share/texmf/fonts/enc
@@ -2243,10 +2236,10 @@ type1/public/txfonts/txsya.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
 c/newtx/txsys.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/ztmb.
 pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/ztmr.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/newtx/ztmri.pfb>
-Output written on Thesis.pdf (23 pages, 381518 bytes).
+Output written on Thesis.pdf (23 pages, 383419 bytes).
 PDF statistics:
- 401 PDF objects out of 1000 (max. 8388607)
- 329 compressed objects within 4 object streams
- 71 named destinations out of 1000 (max. 500000)
+ 404 PDF objects out of 1000 (max. 8388607)
+ 332 compressed objects within 4 object streams
+ 72 named destinations out of 1000 (max. 500000)
  62055 words of extra memory for PDF output out of 74296 (max. 10000000)
 

@@ -454,6 +454,8 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
 INPUT /usr/share/texlive/texmf-dist/tex/latex/translations/translations-basic-dictionary-english.trsl
 INPUT /usr/share/texlive/texmf-dist/tex/latex/translations/translations-basic-dictionary-english.trsl
 INPUT /usr/share/texlive/texmf-dist/tex/latex/translations/translations-basic-dictionary-german.trsl
@@ -767,6 +769,7 @@ INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/newtx/ntxexx.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/txexs.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/newtx/ntxmia.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/txmiaSTbb.tfm
+INPUT /usr/share/texmf/fonts/tfm/public/tex-gyre/ts1-qtmr.tfm
 INPUT figs/table_set_up.pdf
 INPUT ./figs/table_set_up.pdf
 INPUT ./figs/table_set_up.pdf

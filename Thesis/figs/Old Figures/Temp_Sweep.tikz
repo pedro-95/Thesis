@@ -1,0 +1,90 @@
+% This file was created by matplotlib2tikz v0.5.10.
+\begin{tikzpicture}
+
+\begin{axis}[
+xlabel={Sweep duration /s},
+ylabel={Temperature /$\mu\mathrm{K}$},
+xmin=0.1, xmax=1,
+ymin=10, ymax=20,
+axis on top,
+width=\figurewidth,
+height=\figureheight
+]
+\addplot [red, mark=-, mark size=3, mark options={solid}, only marks]
+table {%
+0.1 17.89017218
+0.15 19.53340517
+0.2 19.32863688
+0.25 18.63263179
+0.3 18.28809893
+0.35 14.6325369
+0.4 13.09099138
+0.45 15.54077314
+0.5 13.74697005
+0.75 10.7686911
+1 12.25744375
+};
+\addplot [red, mark=-, mark size=3, mark options={solid}, only marks]
+table {%
+0.1 18.1303584
+0.15 19.82281013
+0.2 19.77421044
+0.25 19.11396169
+0.3 18.83574979
+0.35 14.948668
+0.4 13.51182264
+0.45 15.95890328
+0.5 14.35526883
+0.75 11.35080302
+1 12.49228363
+};
+\addplot [red, mark=x, mark size=3, mark options={solid}, only marks]
+table {%
+0.1 18.01026529
+0.15 19.67810765
+0.2 19.55142366
+0.25 18.87329674
+0.3 18.56192436
+0.35 14.79060245
+0.4 13.30140701
+0.45 15.74983821
+0.5 14.05111944
+0.75 11.05974706
+1 12.37486369
+};
+\path [draw=red] (axis cs:0.1,17.89017218)
+--(axis cs:0.1,18.1303584);
+
+\path [draw=red] (axis cs:0.15,19.53340517)
+--(axis cs:0.15,19.82281013);
+
+\path [draw=red] (axis cs:0.2,19.32863688)
+--(axis cs:0.2,19.77421044);
+
+\path [draw=red] (axis cs:0.25,18.63263179)
+--(axis cs:0.25,19.11396169);
+
+\path [draw=red] (axis cs:0.3,18.28809893)
+--(axis cs:0.3,18.83574979);
+
+\path [draw=red] (axis cs:0.35,14.6325369)
+--(axis cs:0.35,14.948668);
+
+\path [draw=red] (axis cs:0.4,13.09099138)
+--(axis cs:0.4,13.51182264);
+
+\path [draw=red] (axis cs:0.45,15.54077314)
+--(axis cs:0.45,15.95890328);
+
+\path [draw=red] (axis cs:0.5,13.74697005)
+--(axis cs:0.5,14.35526883);
+
+\path [draw=red] (axis cs:0.75,10.7686911)
+--(axis cs:0.75,11.35080302);
+
+\path [draw=red] (axis cs:1,12.25744375)
+--(axis cs:1,12.49228363);
+
+\end{axis}
+
+\end{tikzpicture}

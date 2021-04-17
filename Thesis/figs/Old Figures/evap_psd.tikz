@@ -1,0 +1,61 @@
+% This file was created by matplotlib2tikz v0.5.10.
+\begin{tikzpicture}
+
+\begin{axis}[
+xlabel={Evaporation end power /\% of \SI{63}{\watt}},
+ylabel={Phase space density},
+xmin=0.007, xmax=0.016,
+ymin=0.01, ymax=100,
+ymode=log,
+axis on top,
+width=\figurewidth,
+height=\figureheight
+]
+\addplot [red, mark=-, mark size=3, mark options={solid}, only marks]
+table {%
+0.008 31.8653634597298
+0.0085 4.99632990441653
+0.009 0.386884079646246
+0.01 0.101333507339927
+0.012 0.0347629844317442
+0.015 0.0116396275019283
+};
+\addplot [red, mark=-, mark size=3, mark options={solid}, only marks]
+table {%
+0.008 50.680733721335
+0.0085 6.42811979651365
+0.009 0.481748177657221
+0.01 0.123868162429617
+0.012 0.0423923979386633
+0.015 0.0145004262412829
+};
+\addplot [red, mark=x, mark size=3, mark options={solid}, only marks]
+table {%
+0.008 41.2730485905324
+0.0085 5.71222485046509
+0.009 0.434316128651734
+0.01 0.112600834884772
+0.012 0.0385776911852037
+0.015 0.0130700268716056
+};
+\path [draw=red] (axis cs:0.008,31.8653634597298)
+--(axis cs:0.008,50.680733721335);
+
+\path [draw=red] (axis cs:0.0085,4.99632990441653)
+--(axis cs:0.0085,6.42811979651365);
+
+\path [draw=red] (axis cs:0.009,0.386884079646246)
+--(axis cs:0.009,0.481748177657221);
+
+\path [draw=red] (axis cs:0.01,0.101333507339927)
+--(axis cs:0.01,0.123868162429617);
+
+\path [draw=red] (axis cs:0.012,0.0347629844317442)
+--(axis cs:0.012,0.0423923979386633);
+
+\path [draw=red] (axis cs:0.015,0.0116396275019283)
+--(axis cs:0.015,0.0145004262412829);
+
+\end{axis}
+
+\end{tikzpicture}

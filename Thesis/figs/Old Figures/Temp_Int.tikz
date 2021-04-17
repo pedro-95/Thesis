@@ -1,0 +1,72 @@
+% This file was created by matplotlib2tikz v0.5.10.
+\begin{tikzpicture}
+
+\begin{axis}[
+xlabel={Power /mW},
+ylabel={Temperatur /$\mu\mathrm{K}$},
+xmin=-5, xmax=105,
+ymin=34, ymax=50,
+axis on top,
+width=\figurewidth,
+height=\figureheight
+]
+\addplot [red, mark=-, mark size=3, mark options={solid}, only marks]
+table {%
+0 43.11002718
+10 35.71780038
+20 36.45890252
+30 37.35933002
+40 37.1449426
+50 43.25283456
+75 42.7045419
+100 49.21375092
+};
+\addplot [red, mark=-, mark size=3, mark options={solid}, only marks]
+table {%
+0 43.77681766
+10 35.91660634
+20 36.64026952
+30 37.49841606
+40 37.51133456
+50 43.52130964
+75 42.91753586
+100 49.54161912
+};
+\addplot [red, mark=x, mark size=3, mark options={solid}, only marks]
+table {%
+0 43.44342242
+10 35.81720336
+20 36.54958602
+30 37.42887304
+40 37.32813858
+50 43.3870721
+75 42.81103888
+100 49.37768502
+};
+\path [draw=red] (axis cs:0,43.11002718)
+--(axis cs:0,43.77681766);
+
+\path [draw=red] (axis cs:10,35.71780038)
+--(axis cs:10,35.91660634);
+
+\path [draw=red] (axis cs:20,36.45890252)
+--(axis cs:20,36.64026952);
+
+\path [draw=red] (axis cs:30,37.35933002)
+--(axis cs:30,37.49841606);
+
+\path [draw=red] (axis cs:40,37.1449426)
+--(axis cs:40,37.51133456);
+
+\path [draw=red] (axis cs:50,43.25283456)
+--(axis cs:50,43.52130964);
+
+\path [draw=red] (axis cs:75,42.7045419)
+--(axis cs:75,42.91753586);
+
+\path [draw=red] (axis cs:100,49.21375092)
+--(axis cs:100,49.54161912);
+
+\end{axis}
+
+\end{tikzpicture}

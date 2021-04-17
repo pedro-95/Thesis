@@ -1,0 +1,69 @@
+% This file was created by matplotlib2tikz v0.5.10.
+\begin{tikzpicture}
+
+\begin{axis}[
+xlabel={Day},
+ylabel={Resonance /Mhz},
+xmin=-2.5, xmax=45,
+ymin=154.2, ymax=154.65,
+axis on top,
+width=\figurewidth,
+height=\figureheight
+]
+\addplot [red, mark=-, mark size=3, mark options={solid}, only marks]
+table {%
+0 154.602636
+6 154.599585
+13 154.499182
+21 154.42044
+29 154.335846
+42 154.23452
+};
+\addplot [red, mark=-, mark size=3, mark options={solid}, only marks]
+table {%
+0 154.603556
+6 154.600241
+13 154.500058
+21 154.420914
+29 154.336774
+42 154.23554
+};
+\addplot [red, mark=x, mark size=3, mark options={solid}, only marks]
+table {%
+0 154.603096
+6 154.599913
+13 154.49962
+21 154.420677
+29 154.33631
+42 154.23503
+};
+\addplot [blue]
+table {%
+0 154.631576826131
+6 154.572849106264
+13 154.504333433087
+21 154.426029806599
+29 154.347726180111
+42 154.220482787067
+};
+\path [draw=red] (axis cs:0,154.602636)
+--(axis cs:0,154.603556);
+
+\path [draw=red] (axis cs:6,154.599585)
+--(axis cs:6,154.600241);
+
+\path [draw=red] (axis cs:13,154.499182)
+--(axis cs:13,154.500058);
+
+\path [draw=red] (axis cs:21,154.42044)
+--(axis cs:21,154.420914);
+
+\path [draw=red] (axis cs:29,154.335846)
+--(axis cs:29,154.336774);
+
+\path [draw=red] (axis cs:42,154.23452)
+--(axis cs:42,154.23554);
+
+\end{axis}
+
+\end{tikzpicture}

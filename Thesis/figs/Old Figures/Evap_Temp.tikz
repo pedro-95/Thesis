@@ -1,0 +1,83 @@
+% This file was created by matplotlib2tikz v0.5.10.
+\begin{tikzpicture}
+
+\begin{axis}[
+xlabel={Evaporation end power /\% of \SI{63}{\watt}},
+ylabel={Temperature /$\mathrm{nK}$},
+xmin=0.7, xmax=1.8,
+ymin=-50, ymax=1200,
+axis on top,
+width=\figurewidth,
+height=\figureheight
+]
+\addplot [red, mark=-, mark size=3, mark options={solid}, only marks]
+table {%
+0.77 20.74592
+0.85 42.46265
+0.8 16.95595
+0.9 125.30339
+1 236.55092
+1.2 439.83875
+1.5 846.02525
+1.7 962.22555
+};
+\addplot [red, mark=-, mark size=3, mark options={solid}, only marks]
+table {%
+0.77 22.30552
+0.85 43.54683
+0.8 17.41401
+0.9 126.55207
+1 239.8177
+1.2 454.90137
+1.5 848.32045
+1.7 1026.27965
+};
+\addplot [red, mark=x, mark size=3, mark options={solid}, only marks]
+table {%
+0.77 21.52572
+0.85 43.00474
+0.8 17.18498
+0.9 125.92773
+1 238.18431
+1.2 447.37006
+1.5 847.17285
+1.7 994.2526
+};
+\addplot [blue]
+table {%
+0.77 -19.7763776124088
+0.85 73.2541831746926
+0.8 15.1100826827543
+0.9 131.398283666631
+1 247.686484650508
+1.2 480.262886618261
+1.5 829.127489569892
+1.7 1061.70389153765
+};
+\path [draw=red] (axis cs:0.77,20.74592)
+--(axis cs:0.77,22.30552);
+
+\path [draw=red] (axis cs:0.85,42.46265)
+--(axis cs:0.85,43.54683);
+
+\path [draw=red] (axis cs:0.8,16.95595)
+--(axis cs:0.8,17.41401);
+
+\path [draw=red] (axis cs:0.9,125.30339)
+--(axis cs:0.9,126.55207);
+
+\path [draw=red] (axis cs:1,236.55092)
+--(axis cs:1,239.8177);
+
+\path [draw=red] (axis cs:1.2,439.83875)
+--(axis cs:1.2,454.90137);
+
+\path [draw=red] (axis cs:1.5,846.02525)
+--(axis cs:1.5,848.32045);
+
+\path [draw=red] (axis cs:1.7,962.22555)
+--(axis cs:1.7,1026.27965);
+
+\end{axis}
+
+\end{tikzpicture}

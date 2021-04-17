@@ -1,0 +1,66 @@
+% This file was created by matplotlib2tikz v0.5.10.
+\begin{tikzpicture}
+
+\begin{axis}[
+xlabel={Evaporation end power /\% of \SI{63}{\watt}},
+ylabel={Number of atoms},
+xmin=0.7, xmax=1.8,
+ymin=10000, ymax=80000,
+axis on top,
+width=\figurewidth,
+height=\figureheight
+]
+\addplot [red, mark=-, mark size=3, mark options={solid}, only marks]
+table {%
+0.8 12825.270876762
+0.85 18235.807279359
+0.9 25046.57600611
+1 31548.522397157
+1.2 42312.937543462
+1.5 61167.98948038
+1.7 75846.937543462
+};
+\addplot [red, mark=-, mark size=3, mark options={solid}, only marks]
+table {%
+0.8 14193.395789838
+0.85 19450.192720641
+0.9 27396.09066049
+1 33107.477602843
+1.2 43681.062456538
+1.5 64374.47205802
+1.7 77215.062456538
+};
+\addplot [red, mark=x, mark size=3, mark options={solid}, only marks]
+table {%
+0.8 13509.3333333
+0.85 18843
+0.9 26221.3333333
+1 32328
+1.2 42997
+1.5 62771.2307692
+1.7 76531
+};
+\path [draw=red] (axis cs:0.8,12825.270876762)
+--(axis cs:0.8,14193.395789838);
+
+\path [draw=red] (axis cs:0.85,18235.807279359)
+--(axis cs:0.85,19450.192720641);
+
+\path [draw=red] (axis cs:0.9,25046.57600611)
+--(axis cs:0.9,27396.09066049);
+
+\path [draw=red] (axis cs:1,31548.522397157)
+--(axis cs:1,33107.477602843);
+
+\path [draw=red] (axis cs:1.2,42312.937543462)
+--(axis cs:1.2,43681.062456538);
+
+\path [draw=red] (axis cs:1.5,61167.98948038)
+--(axis cs:1.5,64374.47205802);
+
+\path [draw=red] (axis cs:1.7,75846.937543462)
+--(axis cs:1.7,77215.062456538);
+
+\end{axis}
+
+\end{tikzpicture}

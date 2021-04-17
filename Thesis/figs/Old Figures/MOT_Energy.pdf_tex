@@ -1,0 +1,76 @@
+%% Creator: Inkscape inkscape 0.91, www.inkscape.org
+%% PDF/EPS/PS + LaTeX output extension by Johan Engelen, 2010
+%% Accompanies image file 'MOT_Energy.pdf' (pdf, eps, ps)
+%%
+%% To include the image in your LaTeX document, write
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics{<filename>.pdf}
+%% To scale the image, write
+%%   \def\svgwidth{<desired width>}
+%%   \input{<filename>.pdf_tex}
+%%  instead of
+%%   \includegraphics[width=<desired width>]{<filename>.pdf}
+%%
+%% Images with a different path to the parent latex file can
+%% be accessed with the `import' package (which may need to be
+%% installed) using
+%%   \usepackage{import}
+%% in the preamble, and then including the image with
+%%   \import{<path to file>}{<filename>.pdf_tex}
+%% Alternatively, one can specify
+%%   \graphicspath{{<path to file>/}}
+%% 
+%% For more information, please see info/svg-inkscape on CTAN:
+%%   http://tug.ctan.org/tex-archive/info/svg-inkscape
+%%
+\begingroup%
+  \makeatletter%
+  \providecommand\color[2][]{%
+    \errmessage{(Inkscape) Color is used for the text in Inkscape, but the package 'color.sty' is not loaded}%
+    \renewcommand\color[2][]{}%
+  }%
+  \providecommand\transparent[1]{%
+    \errmessage{(Inkscape) Transparency is used (non-zero) for the text in Inkscape, but the package 'transparent.sty' is not loaded}%
+    \renewcommand\transparent[1]{}%
+  }%
+  \providecommand\rotatebox[2]{#2}%
+  \ifx\svgwidth\undefined%
+    \setlength{\unitlength}{595.27559055bp}%
+    \ifx\svgscale\undefined%
+      \relax%
+    \else%
+      \setlength{\unitlength}{\unitlength * \real{\svgscale}}%
+    \fi%
+  \else%
+    \setlength{\unitlength}{\svgwidth}%
+  \fi%
+  \global\let\svgwidth\undefined%
+  \global\let\svgscale\undefined%
+  \makeatother%
+  \begin{picture}(1,0.7047619)%
+    \put(0,0){\includegraphics[width=\unitlength,page=1]{MOT_Energy.pdf}}%
+    \put(0.78141295,0.00091314){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Position}}}%
+    \put(0.86952359,0.05735464){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$m_g = 0$}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=2]{MOT_Energy.pdf}}%
+    \put(0.45490382,0.66934361){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{Energy}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=3]{MOT_Energy.pdf}}%
+    \put(0.21411981,0.20816643){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$\omega_l$}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=4]{MOT_Energy.pdf}}%
+    \put(0.86952359,0.36344864){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$m_e = 0$}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=5]{MOT_Energy.pdf}}%
+    \put(0.69982868,0.52621371){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$m_e = +1$}}}%
+    \put(0.86952359,0.25766611){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$m_e = -1$}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=6]{MOT_Energy.pdf}}%
+    \put(0.23076181,0.29844508){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$\delta$}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=7]{MOT_Energy.pdf}}%
+    \put(0.64187903,0.02303434){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$z'$}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=8]{MOT_Energy.pdf}}%
+    \put(0.73131199,0.39072454){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$\delta_+$}}}%
+    \put(0.79416138,0.28269008){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$\delta_-$}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=9]{MOT_Energy.pdf}}%
+    \put(0.0025527,0.11118147){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$\sigma_+$}}}%
+    \put(0.72757,0.11118147){\color[rgb]{0,0,0}\makebox(0,0)[lb]{\smash{$\sigma_-$}}}%
+    \put(0,0){\includegraphics[width=\unitlength,page=10]{MOT_Energy.pdf}}%
+  \end{picture}%
+\endgroup%

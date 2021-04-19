@@ -780,6 +780,9 @@ INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/newtx/ntxsym.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/txfonts/txsyb.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/txfonts/txsya.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/tex-gyre/ec-qhvb.tfm
+INPUT figs/experiment_scheme_1.pdf
+INPUT ./figs/experiment_scheme_1.pdf
+INPUT ./figs/experiment_scheme_1.pdf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntx-Italic-tlf-t1.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-sc-t1.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntx-Italic-tlf-t1.tfm

@@ -14,8 +14,8 @@
 \contentsline {section}{\numberline {2.2}Bose-Einstein Condensation}{5}{section.2.2}%
 \contentsline {section}{\numberline {2.3}Experimental realization of an erbium \ac {bec}}{7}{section.2.3}%
 \contentsline {subsection}{\numberline {2.3.1}Oven}{8}{subsection.2.3.1}%
-\contentsline {chapter}{\nonumberline Bibliography}{9}{chapter*.7}%
-\contentsline {chapter}{\numberline {A}Useful information}{11}{appendix.A}%
-\contentsline {chapter}{\nonumberline List of Figures}{13}{chapter*.8}%
-\contentsline {chapter}{\nonumberline List of Tables}{15}{chapter*.9}%
-\contentsline {chapter}{\nonumberline Acronyms}{17}{chapter*.10}%
+\contentsline {chapter}{\nonumberline Bibliography}{11}{chapter*.8}%
+\contentsline {chapter}{\numberline {A}Useful information}{13}{appendix.A}%
+\contentsline {chapter}{\nonumberline List of Figures}{15}{chapter*.9}%
+\contentsline {chapter}{\nonumberline List of Tables}{17}{chapter*.10}%
+\contentsline {chapter}{\nonumberline Acronyms}{19}{chapter*.11}%

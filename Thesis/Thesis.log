@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2020.10.23)  20 APR 2021 00:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.2.11)  21 APR 2021 17:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -169,9 +169,9 @@ Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: \l@canadian = using hyphenrules for english
 (babel)             (\language0) on input line 102.
 Package babel Info: \l@australian = using hyphenrules for ukenglish
-(babel)             (\language51) on input line 105.
+(babel)             (\language80) on input line 105.
 Package babel Info: \l@newzealand = using hyphenrules for ukenglish
-(babel)             (\language51) on input line 108.
+(babel)             (\language80) on input line 108.
 )))
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/iflang.sty
 Package: iflang 2018/01/21 v1.7 Checks for the current language (HO)
@@ -2237,8 +2237,8 @@ Package logreq Info: Writing requests to 'Thesis.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  51817 strings out of 480906
- 1048337 string characters out of 5910771
- 1867934 words of memory out of 5000000
+ 1048337 string characters out of 5910772
+ 1867935 words of memory out of 5000000
  66377 multiletter control sequences out of 15000+600000
  763426 words of font info for 398 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
@@ -2258,7 +2258,7 @@ type1/public/txfonts/txsya.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
 c/newtx/txsys.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/ztmb.
 pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/ztmr.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/newtx/ztmri.pfb>
-Output written on Thesis.pdf (25 pages, 1173599 bytes).
+Output written on Thesis.pdf (25 pages, 1173637 bytes).
 PDF statistics:
  445 PDF objects out of 1000 (max. 8388607)
  362 compressed objects within 4 object streams

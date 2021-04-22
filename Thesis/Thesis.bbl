@@ -791,6 +791,42 @@
       \field{type}{phdthesis}
       \field{year}{2016}
     \endentry
+    \entry{Hansch1975}{article}{}
+      \name{author}{2}{}{%
+        {{hash=9298e5194eb6d3a8d20a7ce76491d65e}{%
+           family={Hänsch},
+           familyi={H\bibinitperiod},
+           given={T.W.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=83f7f27a515f40d2f8b73936be7a3f5a}{%
+           family={Schawlow},
+           familyi={S\bibinitperiod},
+           given={A.L.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{7d2ea966bde43b3d4a04444d64beddb4}
+      \strng{fullhash}{7d2ea966bde43b3d4a04444d64beddb4}
+      \strng{bibnamehash}{7d2ea966bde43b3d4a04444d64beddb4}
+      \strng{authorbibnamehash}{7d2ea966bde43b3d4a04444d64beddb4}
+      \strng{authornamehash}{7d2ea966bde43b3d4a04444d64beddb4}
+      \strng{authorfullhash}{7d2ea966bde43b3d4a04444d64beddb4}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{It is shown that a low-density gas can be cooled by illuminating it with intense, quasi-monochromatic light confined to the lower-frequency half of a resonance line's Doppler width. Translational kinetic energy can be transferred from the gas to the scattered light, until the atomic velocity is reduced by the ratio of the Doppler width to the natural line width.}
+      \field{issn}{0030-4018}
+      \field{journaltitle}{Optics Communications}
+      \field{number}{1}
+      \field{title}{Cooling of gases by laser radiation}
+      \field{volume}{13}
+      \field{year}{1975}
+      \field{pages}{68\bibrangedash 69}
+      \range{pages}{2}
+      \verb{doi}
+      \verb https://doi.org/10.1016/0030-4018(75)90159-5
+      \endverb
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

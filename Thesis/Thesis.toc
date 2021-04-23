@@ -20,3 +20,4 @@
 \contentsline {chapter}{\nonumberline List of Figures}{15}{chapter*.9}%
 \contentsline {chapter}{\nonumberline List of Tables}{17}{chapter*.10}%
 \contentsline {chapter}{\nonumberline Acronyms}{19}{chapter*.11}%
+\providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

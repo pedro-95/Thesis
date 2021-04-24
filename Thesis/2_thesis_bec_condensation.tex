@@ -191,11 +191,15 @@ In order to obtain an analytical analysis, the Bloch equations must be solved fo
 
 Where $\gamma = 1/\tau$ is the decay rate, $\delta = \omega - \omega_0$ the detuning between laser light and atomic resonance  frequency and $s_0 = I / I_s$ the saturation parameter defined as the ratio of laser light intensity $I$ and saturation intensity $I_s = 2 \pi^2 \hbar c/ 3 \lambda^2 \tau$, with $\lambda$ the light wavelength and $c$ the speed of light. The radiation pressure force can be calculated using Equation  \eqref{eq:probablility_excited_state} as
 
-\begin{equation}
+\begin{equation}\label{eq:radiation_pressure_no_doppler}
 	\vec{F} = \hbar \vec{k} \gamma \rho_{ee} = \hbar \vec{k} \gamma \frac{s_0/2}{1 + s_0 + \Big(\frac{2\delta}{\gamma}\Big)^2}
 \end{equation}
 
+However, this equation is only valid for a system of coordinates at rest with respect to the atom. This means that for an atom moving at a velocity $\vec{v}$, the light frequency received by the atom will be Doppler shifted an amount  $\Delta \omega_D = -\vec{k}\vec{v}$. By adapting Equation \ref{eq:radiation_pressure_no_doppler} to the Doppler shift results
 
+ \begin{equation}\label{eq:radiation_pressure}
+ 	\vec{F} = \frac{\hbar \vec{k} \gamma}{2} \frac{s_0}{1 + s_0 + \Big(\frac{2(\delta-\vec{k}\vec{v})}{\gamma}\Big)^2}
+ \end{equation}
 
 
 %%% Local Variables: 

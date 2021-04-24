@@ -827,6 +827,42 @@
       \verb https://doi.org/10.1016/0030-4018(75)90159-5
       \endverb
     \endentry
+    \entry{Metcalf1999}{book}{}
+      \name{author}{2}{}{%
+        {{hash=6e781dbbcaccd911bef5247cd96e1179}{%
+           family={Metcalf},
+           familyi={M\bibinitperiod},
+           given={Harold\bibnamedelima J.},
+           giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=baf5f3af5ff8a75afef1783af3291802}{%
+           family={Straten},
+           familyi={S\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           prefix={van\bibnamedelima der},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer, New York}%
+      }
+      \strng{namehash}{8301ab7c0ea0a46b3d21d70729754508}
+      \strng{fullhash}{8301ab7c0ea0a46b3d21d70729754508}
+      \strng{bibnamehash}{8301ab7c0ea0a46b3d21d70729754508}
+      \strng{authorbibnamehash}{8301ab7c0ea0a46b3d21d70729754508}
+      \strng{authornamehash}{8301ab7c0ea0a46b3d21d70729754508}
+      \strng{authorfullhash}{8301ab7c0ea0a46b3d21d70729754508}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{1}
+      \field{issn}{0938-037X}
+      \field{title}{Laser Cooling and Trapping}
+      \field{year}{1999}
+      \verb{doi}
+      \verb 10.1007/978-1-4612-1470-0
+      \endverb
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

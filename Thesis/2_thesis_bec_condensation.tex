@@ -185,11 +185,17 @@ Due to this, an two level atom must be considered, which has a ground state $\ke
 
 In order to obtain an analytical analysis, the Bloch equations must be solved for a two level system. Resulting in the stationary solution for an occupation probability of the excited given by
 
-\begin{equation}
+\begin{equation}\label{eq:probablility_excited_state}
 	\rho_{ee} = \frac{s_0/2}{1 + s_0 + \Big(\frac{2\delta}{\gamma}\Big)^2}
 \end{equation}
 
-Where $\gamma = 1/\tau$ is the decay rate, $\delta = \omega - \omega_0$ the detuning between laser light and atomic resonance  frequency and $s_0 = I / I_s$ the saturation parameter defined as the ratio of laser light intensity $I$ and saturation intensity $I_s = 2 \pi^2 \hbar c/ 3 \lambda^2 \tau$, with $\lambda$ the wavelength and $c$ the speed of light.
+Where $\gamma = 1/\tau$ is the decay rate, $\delta = \omega - \omega_0$ the detuning between laser light and atomic resonance  frequency and $s_0 = I / I_s$ the saturation parameter defined as the ratio of laser light intensity $I$ and saturation intensity $I_s = 2 \pi^2 \hbar c/ 3 \lambda^2 \tau$, with $\lambda$ the light wavelength and $c$ the speed of light. The radiation pressure force can be calculated using Equation  \eqref{eq:probablility_excited_state} as
+
+\begin{equation}
+	\vec{F} = \hbar \vec{k} \gamma \rho_{ee} = \hbar \vec{k} \gamma \frac{s_0/2}{1 + s_0 + \Big(\frac{2\delta}{\gamma}\Big)^2}
+\end{equation}
+
+
 
 
 %%% Local Variables: 

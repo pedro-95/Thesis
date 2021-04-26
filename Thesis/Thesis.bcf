@@ -2380,7 +2380,8 @@
     <bcf:citekey order="21">Ulitzsch2016</bcf:citekey>
     <bcf:citekey order="22">Hansch1975</bcf:citekey>
     <bcf:citekey order="23">Metcalf1999</bcf:citekey>
-    <bcf:citekey order="24">Dalibard1989</bcf:citekey>
+    <bcf:citekey order="24">Metcalf1999</bcf:citekey>
+    <bcf:citekey order="25">Dalibard1989</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

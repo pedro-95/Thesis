@@ -179,7 +179,7 @@ An atomic beam produced by the \ac{dfc} oven presents two main problems. They ar
 
 \subsubsection{Optical cooling}
 
-This technique relies on the force applied on particles by red detuned near resonant photons. From Eq. \eqref{eq:rms_velocity}, it can be seen that the temperature of an ideal gas is proportional to its velocity. So this light-produced force, known as radiation pressure, can be used as a way to lower the temperature of an atomic gas simply by reducing its overall speed. To gain an insight into the physical model of this force, it is necessary to analyse a two-level atomic system  \cite{Metcalf1999}.
+This technique relies on the force applied on particles by red detuned near resonant photons. From Equation \eqref{eq:rms_velocity}, it can be seen that the temperature of an ideal gas is proportional to its velocity. So this light-produced force, known as radiation pressure, can be used as a way to lower the temperature of an atomic gas simply by reducing its overall speed. To gain an insight into the physical model of this force, it is necessary to analyse a two-level atomic system  \cite{Metcalf1999}.
 
 Due to this, an two level atom must be considered, which has a ground state $\ket{g}$, an excited state $\ket{e}$ and an energy difference between both states of $\Delta E = \hbar \omega_0$, here $\omega_0$ represents the atomic resonance frequency. The atom at rest can absorb a photon with resonant frequency $\omega_0$. Thus, transferring its energy $\hbar \omega_0$ and momentum $\vec{p}= \hbar \vec{k}$ to the atom. Where $\vec{k}$ represents the photon wave vector, such as for light with wavelength $\lambda$, the wave number results $|\vec{k}| = 2 \pi / \lambda$. According to which was the initial state of the atom before receiving the photon, it can relax into the ground state by spontaneous or by stimulated emission. The first case is produced when the atom was initially at the state $\ket{e}$, which makes the incoming photon trigger an relaxation into $\ket{g}$ of the atom. Resulting in the production of a second identical photon with the same frequency and direction than the triggering one. Because of this, the momentum transfer of the initial photon gets cancelled by the second one and therefore the effective momentum transferred to the atom adds up to zero. However, the second case of spontaneous emission results in a non-zero momentum transfer. Because in this case, the atom is initially in the ground state, allowing it to absorb the initial photon to get in the excited state. After a decay time $\tau$ the atom decays back to $\ket{g}$ and re-emits a second photon in a random direction. Due to the fact, that this photon is at average emitted isotropically in all directions, the momentum transfer produced by the second photon adds up to zero. Resulting in an effective momentum transfer of the atom equal to the initial momentum of the first photon.
 
@@ -195,11 +195,22 @@ Where $\gamma = 1/\tau$ is the decay rate, $\delta = \omega - \omega_0$ the detu
 	\vec{F} = \hbar \vec{k} \gamma \rho_{ee} = \hbar \vec{k} \gamma \frac{s_0/2}{1 + s_0 + \Big(\frac{2\delta}{\gamma}\Big)^2}
 \end{equation}
 
-However, this equation is only valid for a system of coordinates at rest with respect to the atom. This means that for an atom moving at a velocity $\vec{v}$, the light frequency received by the atom will be Doppler shifted an amount  $\Delta \omega_D = -\vec{k}\vec{v}$. By adapting Equation \ref{eq:radiation_pressure_no_doppler} to the Doppler shift results
+However, this equation is only valid for a system of coordinates at rest with respect to the atom. This means that for an atom moving at a velocity $\vec{v}$, the light frequency received by the atom will be Doppler shifted an amount  $\Delta \omega_D = -\vec{k}\vec{v}$. By adapting Equation \eqref{eq:radiation_pressure_no_doppler} to the Doppler shift results
 
  \begin{equation}\label{eq:radiation_pressure}
  	\vec{F} = \frac{\hbar \vec{k} \gamma}{2} \frac{s_0}{1 + s_0 + \Big(\frac{2(\delta-\vec{k}\vec{v})}{\gamma}\Big)^2}
  \end{equation}
+
+This equation for the radiation pressure suggests that a beam of atoms can be slowed down by a red detuned ($\delta < 0$) counter propagating optical beam. And therefore, the atomic beam temperature can decreases by following Equation \eqref{eq:rms_velocity}. However, this cooling process presents some limitations because of the spontaneous emission of the second photon. As already said, this spontaneous emission process has a vanishing momentum transfer. But its mean squared value does not vanish, thus heating up the atoms. For a limiting case in which this heating effect equals the optical cooling, an equilibrium temperature is reached known as Doppler limit or Doppler temperature, $T_D$.
+
+\begin{equation}\label{eq:Doppler_limit}
+	T_D = \frac{\hbar \gamma}{2 k_B}
+\end{equation}
+
+Which is a theoretical temperature limit for an ideal two levels atom. It can be seen from Equations \eqref{eq:radiation_pressure} and \eqref{eq:Doppler_limit}, that there must be a trade off in the experimental value for decay rate of the excited level $\gamma$. In order to achieve a strong enough value for the radiation pressure at the same time that a low enough Doppler temperature. There is however, the capability of cooling down further than the Doppler limit with the use of more refined techniques for multilevel atoms, such as the polarization gradient cooling approach \cite{Dalibard1989}. Nonetheless, for the case of complex multilevel elements like erbium, excited atoms may decay into intermediate states. This limits the cooling process and can suppress it almost completely, due to possible selection rules or high decay times in these intermediate states. If this is our case, the problematic state is commonly called Dark state. To solve this issue, additional pumping lasers or effectively closed transitions must be considered.
+
+\subsubsection{Transversal cooling}
+
 
 
 %%% Local Variables: 

@@ -863,6 +863,45 @@
       \verb 10.1007/978-1-4612-1470-0
       \endverb
     \endentry
+    \entry{Dalibard1989}{article}{}
+      \name{author}{2}{}{%
+        {{hash=fb8dc3e6a7b21a3c9b79fd749b9ad8ab}{%
+           family={Dalibard},
+           familyi={D\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=52089e5524114508d9feacfeb5d0195b}{%
+           family={Cohen-Tannoudji},
+           familyi={C\bibinithyphendelim T\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {OSA}%
+      }
+      \strng{namehash}{f30addcfd7639efc15692adc720f8063}
+      \strng{fullhash}{f30addcfd7639efc15692adc720f8063}
+      \strng{bibnamehash}{f30addcfd7639efc15692adc720f8063}
+      \strng{authorbibnamehash}{f30addcfd7639efc15692adc720f8063}
+      \strng{authornamehash}{f30addcfd7639efc15692adc720f8063}
+      \strng{authorfullhash}{f30addcfd7639efc15692adc720f8063}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{J. Opt. Soc. Am. B}
+      \field{month}{11}
+      \field{number}{11}
+      \field{title}{Laser cooling below the Doppler limit by polarization gradients: simple theoretical models}
+      \field{volume}{6}
+      \field{year}{1989}
+      \field{pages}{2023\bibrangedash 2045}
+      \range{pages}{23}
+      \verb{doi}
+      \verb 10.1364/JOSAB.6.002023
+      \endverb
+      \keyw{Doppler effect; Optical Bloch equations; Optical cooling; Optical molasses; Radiation pressure; Spontaneous emission}
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

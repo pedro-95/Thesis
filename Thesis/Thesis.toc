@@ -16,9 +16,10 @@
 \contentsline {subsection}{\numberline {2.3.1}Oven}{8}{subsection.2.3.1}%
 \contentsline {subsection}{\numberline {2.3.2}Transversal and Optical cooling}{10}{subsection.2.3.2}%
 \contentsline {subsubsection}{\nonumberline Optical cooling}{10}{subsubsection*.9}%
-\contentsline {chapter}{\nonumberline Bibliography}{13}{chapter*.10}%
+\contentsline {subsubsection}{\nonumberline Transversal cooling}{11}{subsubsection*.11}%
+\contentsline {chapter}{\nonumberline Bibliography}{13}{chapter*.12}%
 \contentsline {chapter}{\numberline {A}Useful information}{15}{appendix.A}%
-\contentsline {chapter}{\nonumberline List of Figures}{17}{chapter*.11}%
-\contentsline {chapter}{\nonumberline List of Tables}{19}{chapter*.12}%
-\contentsline {chapter}{\nonumberline Acronyms}{21}{chapter*.13}%
+\contentsline {chapter}{\nonumberline List of Figures}{17}{chapter*.13}%
+\contentsline {chapter}{\nonumberline List of Tables}{19}{chapter*.14}%
+\contentsline {chapter}{\nonumberline Acronyms}{21}{chapter*.15}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

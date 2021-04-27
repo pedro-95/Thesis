@@ -934,6 +934,34 @@
       \verb 10.1038/055347a0
       \endverb
     \endentry
+    \entry{Rehberger2013}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=33c764afa1cbd2c15e55507e49bf0437}{%
+           family={Rehberger},
+           familyi={R\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Rheinische Friedrich-Wilhelms-Universität Bonn}%
+      }
+      \list{location}{1}{%
+        {Bonn, Germany}%
+      }
+      \strng{namehash}{33c764afa1cbd2c15e55507e49bf0437}
+      \strng{fullhash}{33c764afa1cbd2c15e55507e49bf0437}
+      \strng{bibnamehash}{33c764afa1cbd2c15e55507e49bf0437}
+      \strng{authorbibnamehash}{33c764afa1cbd2c15e55507e49bf0437}
+      \strng{authornamehash}{33c764afa1cbd2c15e55507e49bf0437}
+      \strng{authorfullhash}{33c764afa1cbd2c15e55507e49bf0437}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ultracold Erbium Atoms in Far-Detuned Optical Traps - Construction of a Zeeman-Slower}
+      \field{type}{mathesis}
+      \field{year}{2013}
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.4.22)  27 APR 2021 16:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.4.22)  27 APR 2021 16:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2235,7 +2235,7 @@ LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [4]
-<figs//erbium_term_scheme.pdf, id=123, 475.44272pt x 421.17148pt>
+<figs//erbium_term_scheme.pdf, id=125, 475.44272pt x 421.17148pt>
 File: figs//erbium_term_scheme.pdf Graphic file (type pdf)
 <use figs//erbium_term_scheme.pdf>
 Package pdftex.def Info: figs//erbium_term_scheme.pdf  used on input line 64.
@@ -2248,7 +2248,7 @@ LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
 (Font)              scaled to size 10.0pt on input line 65.
 
 [5 <./figs//erbium_term_scheme.pdf>] [6]
-<figs//table_set_up.pdf, id=179, 453.27942pt x 282.05376pt>
+<figs//table_set_up.pdf, id=181, 453.27942pt x 282.05376pt>
 File: figs//table_set_up.pdf Graphic file (type pdf)
 <use figs//table_set_up.pdf>
 Package pdftex.def Info: figs//table_set_up.pdf  used on input line 145.
@@ -2265,7 +2265,7 @@ LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
 LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
 (Font)              scaled to size 9.0pt on input line 157.
  [8 <./figs//table_set_up.pdf>]
-<figs//experiment_scheme_1.pdf, id=214, 361.35pt x 212.74446pt>
+<figs//experiment_scheme_1.pdf, id=216, 361.35pt x 212.74446pt>
 File: figs//experiment_scheme_1.pdf Graphic file (type pdf)
 <use figs//experiment_scheme_1.pdf>
 Package pdftex.def Info: figs//experiment_scheme_1.pdf  used on input line 170.
@@ -2336,10 +2336,10 @@ Package logreq Info: Writing requests to 'Thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 53978 strings out of 479304
- 1087928 string characters out of 5869779
- 2028153 words of memory out of 5000000
- 69678 multiletter control sequences out of 15000+600000
+ 53984 strings out of 479304
+ 1088094 string characters out of 5869779
+ 2028217 words of memory out of 5000000
+ 69682 multiletter control sequences out of 15000+600000
  727996 words of font info for 726 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  111i,20n,145p,10601b,3654s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2358,10 +2358,10 @@ type1/public/txfonts/txsya.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
 c/newtx/txsys.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/ztmb.
 pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/ztmr.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/newtx/ztmri.pfb>
-Output written on Thesis.pdf (27 pages, 1196379 bytes).
+Output written on Thesis.pdf (27 pages, 1197095 bytes).
 PDF statistics:
- 515 PDF objects out of 1000 (max. 8388607)
- 429 compressed objects within 5 object streams
- 96 named destinations out of 1000 (max. 500000)
- 241284 words of extra memory for PDF output out of 266212 (max. 10000000)
+ 524 PDF objects out of 1000 (max. 8388607)
+ 438 compressed objects within 5 object streams
+ 98 named destinations out of 1000 (max. 500000)
+ 241292 words of extra memory for PDF output out of 266212 (max. 10000000)
 

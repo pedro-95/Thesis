@@ -17,7 +17,8 @@
 \contentsline {subsection}{\numberline {2.3.2}Transversal and Optical cooling}{10}{subsection.2.3.2}%
 \contentsline {subsubsection}{\nonumberline Optical cooling}{10}{subsubsection*.9}%
 \contentsline {subsubsection}{\nonumberline Transversal cooling}{11}{subsubsection*.11}%
-\contentsline {subsection}{\numberline {2.3.3}Zeeman slower}{12}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.3}\Acl {zs}}{12}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}\Acl {mot}}{12}{subsection.2.3.4}%
 \contentsline {chapter}{\nonumberline Bibliography}{13}{chapter*.12}%
 \contentsline {chapter}{\numberline {A}Useful information}{15}{appendix.A}%
 \contentsline {chapter}{\nonumberline List of Figures}{17}{chapter*.13}%

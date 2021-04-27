@@ -856,6 +856,7 @@
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{edition}{1}
+      \field{isbn}{978-1-4612-1470-0}
       \field{issn}{0938-037X}
       \field{title}{Laser Cooling and Trapping}
       \field{year}{1999}
@@ -901,6 +902,37 @@
       \verb 10.1364/JOSAB.6.002023
       \endverb
       \keyw{Doppler effect; Optical Bloch equations; Optical cooling; Optical molasses; Radiation pressure; Spontaneous emission}
+    \endentry
+    \entry{Zeeman1897}{article}{}
+      \name{author}{1}{}{%
+        {{hash=548594cee03a6fc940db5decdf175a83}{%
+           family={Zeeman},
+           familyi={Z\bibinitperiod},
+           given={Pieter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{548594cee03a6fc940db5decdf175a83}
+      \strng{fullhash}{548594cee03a6fc940db5decdf175a83}
+      \strng{bibnamehash}{548594cee03a6fc940db5decdf175a83}
+      \strng{authorbibnamehash}{548594cee03a6fc940db5decdf175a83}
+      \strng{authornamehash}{548594cee03a6fc940db5decdf175a83}
+      \strng{authorfullhash}{548594cee03a6fc940db5decdf175a83}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1476-4687}
+      \field{journaltitle}{Nature}
+      \field{month}{2}
+      \field{number}{1424}
+      \field{title}{The Effect of Magnetisation on the Nature of Light Emitted by a Substance}
+      \field{volume}{55}
+      \field{year}{1897}
+      \field{pages}{347\bibrangedash 347}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/055347a0
+      \endverb
     \endentry
   \enddatalist
 \endrefsection

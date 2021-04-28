@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.4.23)  28 APR 2021 13:43
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.4.23)  28 APR 2021 17:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2278,7 +2278,16 @@ File: figs//main_chamber.pdf Graphic file (type pdf)
 <use figs//main_chamber.pdf>
 Package pdftex.def Info: figs//main_chamber.pdf  used on input line 236.
 (pdftex.def)             Requested size: 437.46118pt x 193.75621pt.
-) [12] [13 <./figs//main_chamber.pdf>] [14
+<figs//MOT_Energy.pdf, id=285, 510.41882pt x 302.65862pt>
+File: figs//MOT_Energy.pdf Graphic file (type pdf)
+<use figs//MOT_Energy.pdf>
+Package pdftex.def Info: figs//MOT_Energy.pdf  used on input line 241.
+(pdftex.def)             Requested size: 393.71239pt x 233.45886pt.
+) [12] [13 <./figs//main_chamber.pdf> <./figs//MOT_Energy.pdf
+
+pdfTeX warning: pdflatex (file ./figs//MOT_Energy.pdf): PDF inclusion: multiple
+ pdfs with page group included in a single page
+>] [14
 
 
 
@@ -2342,10 +2351,10 @@ Package logreq Info: Writing requests to 'Thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 54002 strings out of 479304
- 1088488 string characters out of 5869779
- 2028390 words of memory out of 5000000
- 69692 multiletter control sequences out of 15000+600000
+ 54010 strings out of 479304
+ 1088678 string characters out of 5869779
+ 2028424 words of memory out of 5000000
+ 69698 multiletter control sequences out of 15000+600000
  728170 words of font info for 728 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  111i,20n,145p,10601b,3654s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2364,10 +2373,10 @@ type1/public/txfonts/txsya.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
 c/newtx/txsys.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/ztmb.
 pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/ztmr.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/newtx/ztmri.pfb>
-Output written on Thesis.pdf (29 pages, 2314581 bytes).
+Output written on Thesis.pdf (29 pages, 2352535 bytes).
 PDF statistics:
- 547 PDF objects out of 1000 (max. 8388607)
- 454 compressed objects within 5 object streams
- 101 named destinations out of 1000 (max. 500000)
- 241297 words of extra memory for PDF output out of 266212 (max. 10000000)
+ 569 PDF objects out of 1000 (max. 8388607)
+ 469 compressed objects within 5 object streams
+ 102 named destinations out of 1000 (max. 500000)
+ 241302 words of extra memory for PDF output out of 266212 (max. 10000000)
 

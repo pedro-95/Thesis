@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.4.23)  28 APR 2021 18:20
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.4.23)  28 APR 2021 18:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2276,12 +2276,12 @@ Package pdftex.def Info: figs//experiment_scheme_1.pdf  used on input line 170.
 <figs//main_chamber.pdf, id=284, 453.27942pt x 200.75pt>
 File: figs//main_chamber.pdf Graphic file (type pdf)
 <use figs//main_chamber.pdf>
-Package pdftex.def Info: figs//main_chamber.pdf  used on input line 236.
+Package pdftex.def Info: figs//main_chamber.pdf  used on input line 238.
 (pdftex.def)             Requested size: 437.46118pt x 193.75621pt.
 <figs//MOT_Energy.pdf, id=285, 510.41882pt x 302.65862pt>
 File: figs//MOT_Energy.pdf Graphic file (type pdf)
 <use figs//MOT_Energy.pdf>
-Package pdftex.def Info: figs//MOT_Energy.pdf  used on input line 241.
+Package pdftex.def Info: figs//MOT_Energy.pdf  used on input line 243.
 (pdftex.def)             Requested size: 393.71239pt x 233.45886pt.
 ) [12] [13 <./figs//main_chamber.pdf> <./figs//MOT_Energy.pdf
 
@@ -2373,7 +2373,7 @@ type1/public/txfonts/txsya.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
 c/newtx/txsys.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/ztmb.
 pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/ztmr.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/newtx/ztmri.pfb>
-Output written on Thesis.pdf (29 pages, 2354280 bytes).
+Output written on Thesis.pdf (29 pages, 2354281 bytes).
 PDF statistics:
  572 PDF objects out of 1000 (max. 8388607)
  471 compressed objects within 5 object streams

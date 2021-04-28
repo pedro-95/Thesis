@@ -19,9 +19,9 @@
 \contentsline {subsubsection}{\nonumberline Transversal cooling}{11}{subsubsection*.11}%
 \contentsline {subsection}{\numberline {2.3.3}\Acl {zs}}{12}{subsection.2.3.3}%
 \contentsline {subsection}{\numberline {2.3.4}\Acl {mot}}{12}{subsection.2.3.4}%
-\contentsline {chapter}{\nonumberline Bibliography}{13}{chapter*.12}%
-\contentsline {chapter}{\numberline {A}Useful information}{15}{appendix.A}%
-\contentsline {chapter}{\nonumberline List of Figures}{17}{chapter*.13}%
-\contentsline {chapter}{\nonumberline List of Tables}{19}{chapter*.14}%
-\contentsline {chapter}{\nonumberline Acronyms}{21}{chapter*.15}%
+\contentsline {chapter}{\nonumberline Bibliography}{15}{chapter*.13}%
+\contentsline {chapter}{\numberline {A}Useful information}{17}{appendix.A}%
+\contentsline {chapter}{\nonumberline List of Figures}{19}{chapter*.14}%
+\contentsline {chapter}{\nonumberline List of Tables}{21}{chapter*.15}%
+\contentsline {chapter}{\nonumberline Acronyms}{23}{chapter*.16}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

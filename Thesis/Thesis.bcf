@@ -2386,6 +2386,8 @@
     <bcf:citekey order="27">Zeeman1897</bcf:citekey>
     <bcf:citekey order="28">Metcalf1999</bcf:citekey>
     <bcf:citekey order="29">Rehberger2013</bcf:citekey>
+    <bcf:citekey order="30">Metcalf1999</bcf:citekey>
+    <bcf:citekey order="31">Metcalf1999</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

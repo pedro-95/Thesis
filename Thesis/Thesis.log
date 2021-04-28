@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.4.23)  28 APR 2021 17:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.4.23)  28 APR 2021 18:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2351,11 +2351,11 @@ Package logreq Info: Writing requests to 'Thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 54010 strings out of 479304
- 1088678 string characters out of 5869779
- 2028424 words of memory out of 5000000
+ 54041 strings out of 479304
+ 1089124 string characters out of 5869779
+ 2028514 words of memory out of 5000000
  69698 multiletter control sequences out of 15000+600000
- 728170 words of font info for 728 fonts, out of 8000000 for 9000
+ 733112 words of font info for 751 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  111i,20n,145p,10601b,3654s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf-pc.enc}{/usr/
@@ -2373,10 +2373,10 @@ type1/public/txfonts/txsya.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
 c/newtx/txsys.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/ztmb.
 pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/ztmr.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/newtx/ztmri.pfb>
-Output written on Thesis.pdf (29 pages, 2352535 bytes).
+Output written on Thesis.pdf (29 pages, 2354280 bytes).
 PDF statistics:
- 569 PDF objects out of 1000 (max. 8388607)
- 469 compressed objects within 5 object streams
+ 572 PDF objects out of 1000 (max. 8388607)
+ 471 compressed objects within 5 object streams
  102 named destinations out of 1000 (max. 500000)
- 241302 words of extra memory for PDF output out of 266212 (max. 10000000)
+ 245398 words of extra memory for PDF output out of 266212 (max. 10000000)
 

@@ -230,19 +230,40 @@ Where $\mu_{\text{eff}}$ represents the effective magnetic moment \cite{Metcalf1
 
 With $a$ being the deceleration parameter, $v_0$ the maximal velocity at which the atoms can be slowed down and $z_0$ the spacial point where the atom deceleration begins. These types of magnetic fields can be shaped using coils with a spatial dependent number of wires, which is the case for a common \acf{zs} like the one used in this experiment. Figure \ref{fig:experiment_scheme_1} shows a scheme of the \ac{zs} with a counter propagating beam of \SI{401}{\nano\meter} transition providing the radiation pressure to the atomic beam and a group of five independent coils providing the magnetic field described by Equation \eqref{eq:magnetic_field_zeeman_slower}. For more details on the \ac{zs} experimental set-up and the description of these coils refer to \cite{Rehberger2013}.
 
-\subsection{\Acl{mot}}
+\subsection{\Acf{mot}}
 
-Once the atomic beam has passed the \ac{zs} and has been slowed down to a few meters per second, the erbium atoms enter the main \ac{uhv} chamber shown in Figure \ref{fig:main_chamber}. The next step requires trapping the atoms in a local region of the main chamber with the use of a \Acf{mot}. Thus, the atomic beam forms an ensemble of atoms with an even lower average velocity, which means a reduction in the erbium atoms temperature within the ensemble.
+Once the atomic beam has passed the \ac{zs} and has been slowed down to a few meters per second, the erbium atoms enter the main \ac{uhv} chamber shown in Figure \ref{fig:main_chamber}. The next step requires trapping the atoms in a local region of the main chamber with the use of a \Acf{mot}. Thus, the atomic beam forms an ensemble of atoms with an even lower average velocity, which means a reduction in the erbium atoms temperature within the ensemble. In this case, the \ac{mot} used consists of three pairs of counter-propagating laser beams red-detuned to the \SI{583}{\nano\meter} transition. Each of these beam pairs is perpendicular to the other two, forming three spatial axes inside the main chamber ($x$, $y$ and $z$) with an overlay region where the atomic ensemble will be made. In addition to this, two water cooled coils in an anti-Helmholtz configuration are required to create a quadrupole magnetic field, which is zero inside the overlaying region of the six laser beams. The result of this magneto-optical set up is the generation of a three dimensional spatially dependent restoring force, which binds the erbium atoms to remain inside the overlaying region. To have a physical interpretation of why this is happening, it is necessary to consider a two level atom located inside this region. The atom has a ground state $g$ with a total angular momentum quantum number of $J=0$ and an excited state $e$ with $J'=1$. Due to spatial symmetry and to simplify things even further, just effects in the $z$ axis will be considered. A scheme of this model can be observed in Figure \ref{fig:MOT_Energy}. Because of Zeeman splitting, the magnetic field $B_z = A z$ produced by the anti-Helmholtz coils at the $z$ direction, splits up the atomic states' degeneracies. Thus, for the ground state $m_g = 0$ because $J=0$ and there is no splitting, but for the excited state $m_e = [-1, 0, 1]$ because $J'=1$ splitting this state into three. The resulting force $\vec{F} = F \vec{e_z}$ being applied to an atom at a position $z'$ and a speed $\vec{v} = v \vec{e_z}$ comes from Equation \eqref{eq:radiation_pressure} applied in the two axial directions:
+
+\begin{equation}\label{eq:MOT_force}
+	\vec{F} = \frac{\hbar \vec{k} \gamma}{2} \frac{s_0}{1 + s_0 + \Big(\frac{2\delta_+}{\gamma}\Big)^2} - \frac{\hbar \vec{k} \gamma}{2} \frac{s_0}{1 + s_0 + \Big(\frac{2\delta_-}{\gamma}\Big)^2}
+\end{equation}
+
+Where:
+
+\begin{equation}\label{eq:delta_plus_minus}
+	\delta_\pm = \delta \mp \vec{k} \vec{v} \pm \frac{ \mu_{ \text{eff} } B_{z'} }{ \hbar }
+\end{equation}
+
+\begin{equation}\label{eq:mu_eff}
+	\mu_{ \text{eff} } = \mu_B (g_e m_e - g_g m_g)
+\end{equation}
+
+With $\mu_B$ the Bohr magneton, $g_{g/e}$ the Landé factor and $\pm \vec{k} = \pm |k| \vec{e_z}$ the wave vector of both beams. As a result of this, the atom located in $z'$ will interact most likely with the light beam for which the detuning $\delta_+$ or $\delta_-$ is smaller. This means that an atom moving in any direction away from the \ac{mot} will absorb only photons from the optical beams that can push it towards the \ac{mot}'s centre. Because of the fact that erbium's \SI{583}{\nano\meter} transition has a narrow line-width of \SI{185.71}{\kilo\hertz} (see Table \ref{tab:Transitions}), the type of \ac{mot} used here is commonly known as a narrow-line \ac{mot}, which allows to achieve lower temperatures due to Equation \eqref{eq:Doppler_limit}. The experimental phase of the \ac{mot} can be divided into two main parts. The first one being known as the Loading phase, where the erbium atoms are collected from the \ac{zs}. And lastly, the Compressing phase, where the ensemble of atoms inside the \ac{mot} is compressed by detuning the lasers and magnetic fields. The result of this is a denser and more confined atomic cloud, which is useful for the \ac{odt} phase. Some typical temperatures achieved for erbium clouds trapped in the used \ac{mot} are in the \si{\micro\kelvin} regime. For a more in deep description of the underlying principles of \Aclp{mot} refer to \cite{Metcalf1999}. 
+
+\pagebreak
 
 \begin{figure}[!htbp]\centering
 	\includegraphics[width=1.\columnwidth]{main_chamber.pdf}
 	\caption[Technical drawing of the main chamber]{Technical drawing of the main chamber. It has 17 viewports with different diameters and each one with anti-reflection coatings for the used laser transitions. The chamber also counts with a configuration of water cooled coils inside it, and some micrometer screws connected to lenses for collimation of the different laser beams passing through the ports. }\label{fig:main_chamber}
 \end{figure}
 
+
 \begin{figure}[!htbp]\centering
 	\includegraphics[width=0.9\columnwidth]{MOT_Energy.pdf}
-	\caption[Atomic scheme of energies inside the \ac{mot} for a $J=0 \arrowvert J'=1$ transition in the z axis]{Atomic scheme of energies inside the \ac{mot} for a $J=0 \rightarrow J'=1$ transition in the z axis. It shows the Zeeman splinting of the excited state with $J'=1$ into three different states with $m_e = -1, 0, 1$, due to the quadrupole magnetic field produced by two coils in Helmholtz configuration. A counter-propagating pair of circularly polarized laser beams is represented by two yellow arrows. They have a frequency $\omega_l$ illustrated in the energetic scheme by a red dashed line. These optical beams are red-detuned by $\delta = \omega_0 - \omega_l$, where $\omega_0$ is the erbium frequency of the \SI{583}{\nano\meter} transition. Figure modified from original in \cite{Metcalf1999}.}\label{fig:MOT_Energy}
+	\caption[Atomic scheme of energies inside the \ac{mot} for a $J=0 \arrowvert J'=1$ transition in the z axis]{Atomic scheme of energies inside the \ac{mot} for a $J=0 \rightarrow J'=1$ transition in the z axis. It shows the Zeeman splinting of the excited state with $J'=1$ into three different states with $m_e = -1, 0, 1$, due to the quadrupole magnetic field produced by two coils in anti-Helmholtz configuration. A counter-propagating pair of circularly polarized laser beams is represented by two yellow arrows. They have a frequency $\omega_l$ illustrated in the energetic scheme by a red dashed line. These optical beams are red-detuned by $\delta = \omega_0 - \omega_l$, where $\omega_0$ is the erbium frequency of the \SI{583}{\nano\meter} transition. Figure modified from original in \cite{Metcalf1999}.}\label{fig:MOT_Energy}
 \end{figure}
+
+\subsection{\Acf{odt}}
 
 
 

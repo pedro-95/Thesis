@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.4.23)  29 APR 2021 11:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.4.23)  29 APR 2021 12:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2273,12 +2273,12 @@ Package pdftex.def Info: figs//experiment_scheme_1.pdf  used on input line 170.
 (pdftex.def)             Requested size: 437.46118pt x 257.5579pt.
 
 [9 <./figs//experiment_scheme_1.pdf>] [10] [11]
-<figs//main_chamber.pdf, id=284, 453.27942pt x 200.75pt>
+<figs//main_chamber.pdf, id=285, 453.27942pt x 200.75pt>
 File: figs//main_chamber.pdf Graphic file (type pdf)
 <use figs//main_chamber.pdf>
 Package pdftex.def Info: figs//main_chamber.pdf  used on input line 238.
 (pdftex.def)             Requested size: 437.46118pt x 193.75621pt.
-<figs//MOT_Energy.pdf, id=285, 510.41882pt x 302.65862pt>
+<figs//MOT_Energy.pdf, id=286, 510.41882pt x 302.65862pt>
 File: figs//MOT_Energy.pdf Graphic file (type pdf)
 <use figs//MOT_Energy.pdf>
 Package pdftex.def Info: figs//MOT_Energy.pdf  used on input line 243.
@@ -2352,12 +2352,12 @@ Package logreq Info: Writing requests to 'Thesis.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  54041 strings out of 479304
- 1089124 string characters out of 5869779
- 2028514 words of memory out of 5000000
+ 1089132 string characters out of 5869779
+ 2028522 words of memory out of 5000000
  69698 multiletter control sequences out of 15000+600000
  733112 words of font info for 751 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 111i,20n,145p,10601b,3654s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 111i,20n,145p,10601b,3656s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf-pc.enc}{/usr/
 share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}{/usr/share/texli
 ve/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}{/usr/share/texmf/fonts/enc
@@ -2373,10 +2373,10 @@ type1/public/txfonts/txsya.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
 c/newtx/txsys.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/ztmb.
 pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/ztmr.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/newtx/ztmri.pfb>
-Output written on Thesis.pdf (29 pages, 2354735 bytes).
+Output written on Thesis.pdf (29 pages, 2355156 bytes).
 PDF statistics:
- 572 PDF objects out of 1000 (max. 8388607)
- 471 compressed objects within 5 object streams
+ 573 PDF objects out of 1000 (max. 8388607)
+ 472 compressed objects within 5 object streams
  102 named destinations out of 1000 (max. 500000)
  245398 words of extra memory for PDF output out of 266212 (max. 10000000)
 

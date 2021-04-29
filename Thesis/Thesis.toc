@@ -16,8 +16,8 @@
 \contentsline {subsection}{\numberline {2.3.1}Oven}{8}{subsection.2.3.1}%
 \contentsline {subsection}{\numberline {2.3.2}Transversal and Optical cooling}{10}{subsection.2.3.2}%
 \contentsline {subsubsection}{\nonumberline Optical cooling}{10}{subsubsection*.9}%
-\contentsline {subsubsection}{\nonumberline Transversal cooling}{11}{subsubsection*.11}%
-\contentsline {subsection}{\numberline {2.3.3}\Acl {zs}}{12}{subsection.2.3.3}%
+\contentsline {subsubsection}{\nonumberline \Acf {tc}}{11}{subsubsection*.11}%
+\contentsline {subsection}{\numberline {2.3.3}\Acf {zs}}{12}{subsection.2.3.3}%
 \contentsline {subsection}{\numberline {2.3.4}\Acf {mot}}{12}{subsection.2.3.4}%
 \contentsline {subsection}{\numberline {2.3.5}\Acf {odt}}{15}{subsection.2.3.5}%
 \contentsline {chapter}{\nonumberline Bibliography}{17}{chapter*.14}%

@@ -962,6 +962,34 @@
       \field{type}{mathesis}
       \field{year}{2013}
     \endentry
+    \entry{Roell2016}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=08fb2b00295cad449acc83dd6f71b1a2}{%
+           family={Röll},
+           familyi={R\bibinitperiod},
+           given={Roberto\bibnamedelima Vittorio},
+           giveni={R\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Rheinische Friedrich-Wilhelms-Universität Bonn}%
+      }
+      \list{location}{1}{%
+        {Bonn, Germany}%
+      }
+      \strng{namehash}{08fb2b00295cad449acc83dd6f71b1a2}
+      \strng{fullhash}{08fb2b00295cad449acc83dd6f71b1a2}
+      \strng{bibnamehash}{08fb2b00295cad449acc83dd6f71b1a2}
+      \strng{authorbibnamehash}{08fb2b00295cad449acc83dd6f71b1a2}
+      \strng{authornamehash}{08fb2b00295cad449acc83dd6f71b1a2}
+      \strng{authorfullhash}{08fb2b00295cad449acc83dd6f71b1a2}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Ultracold erbium atoms in a quasi-electrostatic optical dipole trap}
+      \field{type}{mathesis}
+      \field{year}{2016}
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

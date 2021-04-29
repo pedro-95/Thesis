@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.4.23)  29 APR 2021 18:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.4.22)  29 APR 2021 20:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -254,9 +254,9 @@ Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: \l@canadian = using hyphenrules for english
 (babel)             (\language0) on input line 102.
 Package babel Info: \l@australian = using hyphenrules for ukenglish
-(babel)             (\language8) on input line 105.
+(babel)             (\language7) on input line 105.
 Package babel Info: \l@newzealand = using hyphenrules for ukenglish
-(babel)             (\language8) on input line 108.
+(babel)             (\language7) on input line 108.
 )))
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/iflang.sty
 Package: iflang 2018/01/21 v1.7 Checks for the current language (HO)
@@ -2277,24 +2277,27 @@ Package pdftex.def Info: figs//experiment_scheme_1.pdf  used on input line 170.
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `\Acf' on input line 233.
 
-[12]
+
+Underfull \vbox (badness 2478) has occurred while \output is active []
+
+ [12]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [13]
 <figs//main_chamber.pdf, id=314, 453.27942pt x 200.75pt>
 File: figs//main_chamber.pdf Graphic file (type pdf)
 <use figs//main_chamber.pdf>
-Package pdftex.def Info: figs//main_chamber.pdf  used on input line 256.
+Package pdftex.def Info: figs//main_chamber.pdf  used on input line 260.
 (pdftex.def)             Requested size: 437.46118pt x 193.75621pt.
 <figs//MOT_Energy.pdf, id=315, 510.41882pt x 302.65862pt>
 File: figs//MOT_Energy.pdf Graphic file (type pdf)
 <use figs//MOT_Energy.pdf>
-Package pdftex.def Info: figs//MOT_Energy.pdf  used on input line 262.
+Package pdftex.def Info: figs//MOT_Energy.pdf  used on input line 266.
 (pdftex.def)             Requested size: 393.71239pt x 233.45886pt.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\Acf' on input line 266.
+(hyperref)                removing `\Acf' on input line 270.
 
 ) [14 <./figs//main_chamber.pdf> <./figs//MOT_Energy.pdf
 
@@ -2364,11 +2367,11 @@ Package logreq Info: Writing requests to 'Thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 54081 strings out of 479304
- 1089900 string characters out of 5869779
+ 54079 strings out of 479304
+ 1089876 string characters out of 5869779
  2028839 words of memory out of 5000000
  69709 multiletter control sequences out of 15000+600000
- 734681 words of font info for 766 fonts, out of 8000000 for 9000
+ 734549 words of font info for 764 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  111i,20n,145p,10601b,3654s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf-pc.enc}{/usr/
@@ -2386,7 +2389,7 @@ type1/public/txfonts/txsya.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
 c/newtx/txsys.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/ztmb.
 pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/ztmr.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/newtx/ztmri.pfb>
-Output written on Thesis.pdf (31 pages, 2362792 bytes).
+Output written on Thesis.pdf (31 pages, 2362769 bytes).
 PDF statistics:
  603 PDF objects out of 1000 (max. 8388607)
  500 compressed objects within 5 object streams

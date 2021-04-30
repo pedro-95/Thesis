@@ -209,12 +209,12 @@ This equation for the radiation pressure suggests that a beam of atoms can be sl
 
 Which is a theoretical temperature limit for an ideal two levels atom \cite{Metcalf1999}. It can be seen from Equations \eqref{eq:radiation_pressure} and \eqref{eq:Doppler_limit}, that there must be a trade off in the experimental value for decay rate of the excited level $\gamma$. In order to achieve a strong enough value for the radiation pressure at the same time that a low enough Doppler temperature. There is however, the capability of cooling down further than the Doppler limit with the use of more refined techniques for multilevel atoms, such as the polarization gradient cooling approach \cite{Dalibard1989}. Nonetheless, for the case of complex multilevel elements like erbium, excited atoms may decay into intermediate states. This limits the cooling process and can suppress it almost completely, due to possible selection rules or high decay times in these intermediate states. If this is our case, the problematic state is commonly called Dark state. To solve this issue, additional pumping lasers or effectively closed transitions must be considered.
 
-\subsubsection{\Acf{tc}}
+\subsubsection{\Acl{tc}}
 
 Through the use of Optical cooling physical principles this experimental phase is used to collimate the atomic beam produced by the \ac{dfc} oven. In Figure \ref{fig:experiment_scheme_1}, a scheme and cross section of the \ac{tc} can be seen. The main objective is to increase the flux of atoms passing from \ac{dfc} to the initial part of the \ac{zs} aperture. To achieve this, a crossed optical beam of the red-detuned \SI{401}{\nano\meter} transition, transversal to the atomic beam, is used. As seen in the cross section scheme, the optical cross beam is overlaid with an ingoing and outgoing part. This results in four optical beams traversing the atomic beam in four perpendicular directions. This scheme together with the optical force described Equation \ref{eq:radiation_pressure} leads to radiation pressure acting towards the atomic beam centre, collimating it. Moreover, the high value for the decay rate of $\gamma = \SI{2.22e8}{\per\second}$ for the \SI{401}{\nano\meter} transition (see Table \ref{tab:Transitions}) makes the radiation pressure force considerably strong. In order to enhance the interaction between atomic and light beam, this last one has its shape widened elliptically with the mayor axis parallel to the atomic beam.
 
 
-\subsection{\Acf{zs}}
+\subsection{\Acl{zs}}
 
 As it has already been discussed in the previous section, the second problem that arises is the high speed at which the atomic beam is travelling. At the end of Section \ref{subsec:oven}, a calculation of the average speed of atoms leaving the oven resulted in approximately \SI{457}{\meter\per\second}. However, it has been estimated that the maximal trapping velocity is a few meters per second, for the specific \acl{mot} used in this experiment \cite{Ulitzsch2016}. The main objective of this experimental phase is to reduce the average atomic speed so that it is feasible to trap the atoms in an atomic ensemble. This requires another red-detuned laser beam from the \SI{401}{\nano\meter} transition moving in the opposite direction of the atomic beam. A counter-propagating optical beam transmits radiative pressure to the atomic beam as seen in Equation \eqref{eq:radiation_pressure}. However, as the atomic beam begins to be slowed down, the average velocity of the atoms $\vec{v}$ is reduced and the Doppler shift value $\Delta \omega_D = -\vec{k}\vec{v}$ in Equation \eqref{eq:radiation_pressure} also decreases. This results in a change of the resonance condition and suppression of the radiative pressure, which reduces the slowing effect of the atomic beam. In order to avoid this, the inner splinting of the atomic energy levels must be changed with the use of an spatially varying magnetic field. Thus, at the same time that the beam is being slowed down, the effective atomic resonance is being changed to match a reduction of the Doppler shift $\Delta \omega_D$. The atomic energy shift is affected by the position-dependent magnetic field $\vec{B}$, where the dominant effect is called Zeeman splitting $\Delta \omega_Z$, given by \cite{Zeeman1897}
 
@@ -230,7 +230,7 @@ Where $\mu_{\text{eff}}$ represents the effective magnetic moment \cite{Metcalf1
 
 With $a$ being the deceleration parameter, $v_0$ the maximal velocity at which the atoms can be slowed down and $z_0$ the spacial point where the atom deceleration begins. These types of magnetic fields can be shaped using coils with a spatial dependent number of wires, which is the case for a common \acf{zs} like the one used in this experiment. Figure \ref{fig:experiment_scheme_1} shows a scheme of the \ac{zs} with a counter propagating beam of \SI{401}{\nano\meter} transition providing the radiation pressure to the atomic beam and a group of five independent coils providing the magnetic field described by Equation \eqref{eq:magnetic_field_zeeman_slower}. For more details on the \ac{zs} experimental set-up and the description of these coils refer to \cite{Rehberger2013}.
 
-\subsection{\Acf{mot}}
+\subsection{\Acl{mot}}
 
 Once the atomic beam has passed the \ac{zs} and has been slowed down to a few meters per second, the erbium atoms enter the main \ac{uhv} chamber shown in Figure \ref{fig:main_chamber}. The next step requires trapping the atoms in a local region of the main chamber with the use of a \Acf{mot}. Thus, the atomic beam forms an ensemble of atoms with an even lower average velocity, which means a reduction in the erbium atoms temperature within the ensemble. 
 
@@ -258,7 +258,7 @@ With $\mu_B$ the Bohr magneton, $g_{g/e}$ the Landé factor and $\pm \vec{k} = \
 
 \begin{figure}[!htbp]\centering
 	\includegraphics[width=1.\columnwidth]{main_chamber.pdf}
-	\caption[Technical drawing of the main chamber]{Technical drawing of the main chamber. It has 17 viewports with different diameters and each one with anti-reflection coatings for the used laser transitions. The chamber also counts with a configuration of water cooled coils inside it, and some micrometer screws connected to lenses for collimation of the different laser beams passing through the ports. }\label{fig:main_chamber}
+	\caption[Technical drawing of the main chamber]{Technical drawing of the main chamber. It has 17 viewports with different diameters and each one with anti-reflection coatings for the used laser transitions. The chamber also counts with a configuration of water cooled coils inside it, and some micrometer screws connected to lenses for the collimation of different laser beams passing through the ports. }\label{fig:main_chamber}
 \end{figure}
 
 
@@ -267,9 +267,17 @@ With $\mu_B$ the Bohr magneton, $g_{g/e}$ the Landé factor and $\pm \vec{k} = \
 	\caption[Atomic scheme of energies inside the \ac{mot} for a $J=0 \arrowvert J'=1$ transition in the z axis]{Atomic scheme of energies inside the \ac{mot} for a $J=0 \rightarrow J'=1$ transition in the z axis. It shows the Zeeman splinting of the excited state with $J'=1$ into three different states with $m_e = -1, 0, 1$, due to the quadrupole magnetic field produced by two coils in anti-Helmholtz configuration. A counter-propagating pair of circularly polarized laser beams is represented by two yellow arrows. They have a frequency $\omega_l$ illustrated in the energetic scheme by a red dashed line. These optical beams are red-detuned by $\delta = \omega_0 - \omega_l$, where $\omega_0$ is the erbium frequency of the \SI{583}{\nano\meter} transition. Figure modified from original in \cite{Metcalf1999}.}\label{fig:MOT_Energy}
 \end{figure}
 
-\subsection{\Acf{odt}}
+\subsection{\Acl{odt}}
 
+As it has already been mentioned, the lowest possible temperature for the atoms trapped inside the \ac{mot} is just a few \si{\micro\kelvin}, which is not low enough to achieve the required critical temperature $T_C$ given by equation \eqref{eq:critical_temperature}. This prevents us to form an erbium \acl{bec} with the use of only a \acl{mot}. Therefore, lower temperatures of the erbium ensemble must be reached by using an additional experimental phase known as \Acf{odt}. This type of trap is achieved with the use of a $\text{CO}_2$ laser beam at a wavelength of \SI{10.6}{\micro\meter} and a power of approximately \SI{60}{\watt}, which is focused in a focal point with \SI{25}{\micro\meter} of radius. This laser beam is aligned in a way that its focal point overlays with the region where atomic erbium is trapped inside the \ac{mot}. This way, the transference of atoms from \ac{mot} to \ac{odt} can be performed with the least possible losses in the total number of trapped atoms.
 
+In the different types of \acp{odt}, the one used has the peculiarity that its $\text{CO}_2$ beam wavelength is far detuned for any erbium atomic transition. This type of \ac{odt} is commonly known as \Acf{quest} and were first proposed by T. Takekoshi et al. in 1994 \cite{Takekoshi1995}. Due to the far detuning between trap and atomic transitions, the trap can be approximated as a quasi-electrostatic field, which polarizes the atom and induces an atomic dipole moment \cite{Grimm2000}. The interaction between this induced dipole and the electric field $\vec{E}(\vec{r})$ from the $\text{CO}_2$ laser, is described by an interaction potential $U_{\text{dip}}$ given by
+
+\begin{equation}
+	U_{\text{dip}} = -\frac{\text{Re}(\alpha) I(\vec{r})}{2 \epsilon_0 c} 
+\end{equation}
+
+Where, $I(\vec{r}) = 2 \epsilon_0 c |\vec{E}(\vec{r})|^2$ represents the laser intensity, and $\alpha$ the complex polarizability, such as the induced atomic dipole amplitude is given by $\vec{p} = \alpha(\omega_l) \cdot \vec{E}(\vec{r})$ with $\omega_l$ being the laser frequency.
 
 %%% Local Variables: 
 %%% mode: latex

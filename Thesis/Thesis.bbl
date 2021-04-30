@@ -990,6 +990,103 @@
       \field{type}{mathesis}
       \field{year}{2016}
     \endentry
+    \entry{Takekoshi1995}{article}{}
+      \name{author}{3}{}{%
+        {{hash=f988356531a7fc92e4c91b46cfd53b35}{%
+           family={Takekoshi},
+           familyi={T\bibinitperiod},
+           given={T},
+           giveni={T\bibinitperiod}}}%
+        {{hash=abde562086c4455b02ee6d3fedca5ab9}{%
+           family={Yeh},
+           familyi={Y\bibinitperiod},
+           given={J.R},
+           giveni={J\bibinitperiod}}}%
+        {{hash=75a3386f6713651f50e20a93f2cfe25e}{%
+           family={Knize},
+           familyi={K\bibinitperiod},
+           given={R.J},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{5dccd311a1f4643e2b39a4d67b76f52c}
+      \strng{fullhash}{5dccd311a1f4643e2b39a4d67b76f52c}
+      \strng{bibnamehash}{5dccd311a1f4643e2b39a4d67b76f52c}
+      \strng{authorbibnamehash}{5dccd311a1f4643e2b39a4d67b76f52c}
+      \strng{authornamehash}{5dccd311a1f4643e2b39a4d67b76f52c}
+      \strng{authorfullhash}{5dccd311a1f4643e2b39a4d67b76f52c}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0030-4018}
+      \field{journaltitle}{Optics Communications}
+      \field{number}{5}
+      \field{title}{Quasi-electrostatic trap for neutral atoms}
+      \field{volume}{114}
+      \field{year}{1995}
+      \field{pages}{421\bibrangedash 424}
+      \range{pages}{4}
+      \verb{doi}
+      \verb https://doi.org/10.1016/0030-4018(94)00638-B
+      \endverb
+    \endentry
+    \entry{Grimm2000}{article}{}
+      \name{author}{3}{}{%
+        {{hash=fe2959547cb357a53a7a05b33161fd76}{%
+           family={Grimm},
+           familyi={G\bibinitperiod},
+           given={Rudolf},
+           giveni={R\bibinitperiod}}}%
+        {{hash=604ca347b0838576e0972c83aad2ec33}{%
+           family={Weidemüller},
+           familyi={W\bibinitperiod},
+           given={Matthias},
+           giveni={M\bibinitperiod}}}%
+        {{hash=e461893ff8f08d83158fbd189db92533}{%
+           family={Ovchinnikov},
+           familyi={O\bibinitperiod},
+           given={Yurii\bibnamedelima B.},
+           giveni={Y\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \name{editor}{2}{}{%
+        {{hash=5a0b3f8e3739393bee1ce7b907572074}{%
+           family={Bederson},
+           familyi={B\bibinitperiod},
+           given={Benjamin},
+           giveni={B\bibinitperiod}}}%
+        {{hash=0334cb122c9c7bee535dc1eb559c6169}{%
+           family={Walther},
+           familyi={W\bibinitperiod},
+           given={Herbert},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Academic Press}%
+      }
+      \strng{namehash}{fe64ee81819c2d533ee5596c0c4a5c71}
+      \strng{fullhash}{fe64ee81819c2d533ee5596c0c4a5c71}
+      \strng{bibnamehash}{fe64ee81819c2d533ee5596c0c4a5c71}
+      \strng{authorbibnamehash}{fe64ee81819c2d533ee5596c0c4a5c71}
+      \strng{authornamehash}{fe64ee81819c2d533ee5596c0c4a5c71}
+      \strng{authorfullhash}{fe64ee81819c2d533ee5596c0c4a5c71}
+      \strng{editorbibnamehash}{7c0dccfc5ac4eecad30a9eb1bc659dd7}
+      \strng{editornamehash}{7c0dccfc5ac4eecad30a9eb1bc659dd7}
+      \strng{editorfullhash}{7c0dccfc5ac4eecad30a9eb1bc659dd7}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1049-250X}
+      \field{series}{Advances In Atomic, Molecular, and Optical Physics}
+      \field{title}{Optical Dipole Traps for Neutral Atoms}
+      \field{volume}{42}
+      \field{year}{2000}
+      \field{pages}{95\bibrangedash 170}
+      \range{pages}{76}
+      \verb{doi}
+      \verb 10.1016/S1049-250X(08)60186-X
+      \endverb
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

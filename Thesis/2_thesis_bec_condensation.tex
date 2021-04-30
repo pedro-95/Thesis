@@ -274,10 +274,10 @@ As it has already been mentioned, the lowest possible temperature for the atoms 
 In the different types of \acp{odt}, the one used has the peculiarity that its $\text{CO}_2$ beam wavelength is far detuned for any erbium atomic transition. This type of \ac{odt} is commonly known as \Acf{quest} and were first proposed by T. Takekoshi et al. in 1994 \cite{Takekoshi1995}. Due to the far detuning between trap and atomic transitions, the trap can be approximated as a quasi-electrostatic field, which polarizes the atom and induces an atomic dipole moment \cite{Grimm2000}. The interaction between this induced dipole $\vec{p}$ and the electric field $\vec{E}(\vec{r})$ from the $\text{CO}_2$ laser, is described by an interaction potential $U_{\text{dip}}$ given by
 
 \begin{equation}\label{eq:interaction_potential}
-	U_{\text{dip}} = \frac{\text{Re}(\alpha) I(\vec{r})}{2 \epsilon_0 c} 
+	U_{\text{dip}} = \frac{1}{2} <\vec{p} \cdot \vec{E}(\vec{r})>=\frac{\text{Re}(\alpha) I(\vec{r})}{2 \epsilon_0 c} 
 \end{equation}
 
-Here, $I(\vec{r}) = 2 \epsilon_0 c |\vec{E}(\vec{r})|^2$ is the laser intensity, and $\alpha$ the complex polarizability, such as $\vec{p} = \alpha(\omega_l) \cdot \vec{E}(\vec{r})$ with $\omega_l$ being the laser frequency. A good approximation can be obtained when considering the intensity distribution of the $\text{CO}_2$ laser beam as Gaussian:
+Here, <> denotes time average over the rapid oscillating terms, $I(\vec{r}) = 2 \epsilon_0 c |\vec{E}(\vec{r})|^2$ is the laser intensity, and $\alpha$ the complex polarizability, such as $\vec{p} = \alpha(\omega_l) \cdot \vec{E}(\vec{r})$ with $\omega_l$ being the laser frequency. A good approximation can be obtained when considering the intensity distribution of the $\text{CO}_2$ laser beam as Gaussian:
 
 \begin{equation}\label{eq:intensity_gaussian}
 	I(\vec{r}, z) = \frac{2P}{\pi w^2(z)} e^{-2r^2/w^2(z)}

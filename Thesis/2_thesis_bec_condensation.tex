@@ -271,13 +271,23 @@ With $\mu_B$ the Bohr magneton, $g_{g/e}$ the Landé factor and $\pm \vec{k} = \
 
 As it has already been mentioned, the lowest possible temperature for the atoms trapped inside the \ac{mot} is just a few \si{\micro\kelvin}, which is not low enough to achieve the required critical temperature $T_C$ given by equation \eqref{eq:critical_temperature}. This prevents us to form an erbium \acl{bec} with the use of only a \acl{mot}. Therefore, lower temperatures of the erbium ensemble must be reached by using an additional experimental phase known as \Acf{odt}. This type of trap is achieved with the use of a $\text{CO}_2$ laser beam at a wavelength of \SI{10.6}{\micro\meter} and a power of approximately \SI{60}{\watt}, which is focused in a focal point with \SI{25}{\micro\meter} of radius. This laser beam is aligned in a way that its focal point overlays with the region where atomic erbium is trapped inside the \ac{mot}. This way, the transference of atoms from \ac{mot} to \ac{odt} can be performed with the least possible losses in the total number of trapped atoms.
 
-In the different types of \acp{odt}, the one used has the peculiarity that its $\text{CO}_2$ beam wavelength is far detuned for any erbium atomic transition. This type of \ac{odt} is commonly known as \Acf{quest} and were first proposed by T. Takekoshi et al. in 1994 \cite{Takekoshi1995}. Due to the far detuning between trap and atomic transitions, the trap can be approximated as a quasi-electrostatic field, which polarizes the atom and induces an atomic dipole moment \cite{Grimm2000}. The interaction between this induced dipole and the electric field $\vec{E}(\vec{r})$ from the $\text{CO}_2$ laser, is described by an interaction potential $U_{\text{dip}}$ given by
+In the different types of \acp{odt}, the one used has the peculiarity that its $\text{CO}_2$ beam wavelength is far detuned for any erbium atomic transition. This type of \ac{odt} is commonly known as \Acf{quest} and were first proposed by T. Takekoshi et al. in 1994 \cite{Takekoshi1995}. Due to the far detuning between trap and atomic transitions, the trap can be approximated as a quasi-electrostatic field, which polarizes the atom and induces an atomic dipole moment \cite{Grimm2000}. The interaction between this induced dipole $\vec{p}$ and the electric field $\vec{E}(\vec{r})$ from the $\text{CO}_2$ laser, is described by an interaction potential $U_{\text{dip}}$ given by
 
-\begin{equation}
-	U_{\text{dip}} = -\frac{\text{Re}(\alpha) I(\vec{r})}{2 \epsilon_0 c} 
+\begin{equation}\label{eq:interaction_potential}
+	U_{\text{dip}} = -\vec{p} \cdot \vec{E}(\vec{r}) = \frac{\text{Re}(\alpha) I(\vec{r})}{2 \epsilon_0 c} 
 \end{equation}
 
-Where, $I(\vec{r}) = 2 \epsilon_0 c |\vec{E}(\vec{r})|^2$ represents the laser intensity, and $\alpha$ the complex polarizability, such as the induced atomic dipole amplitude is given by $\vec{p} = \alpha(\omega_l) \cdot \vec{E}(\vec{r})$ with $\omega_l$ being the laser frequency.
+Here, $I(\vec{r}) = 2 \epsilon_0 c |\vec{E}(\vec{r})|^2$ is the laser intensity, and $\alpha$ the complex polarizability, such as the induced atomic dipole amplitude is given by $\vec{p} = \alpha(\omega_l) \cdot \vec{E}(\vec{r})$ with $\omega_l$ being the laser frequency. A good approximation can be obtained when considering the intensity distribution of the $\text{CO}_2$ laser beam as Gaussian:
+
+\begin{equation}\label{eq:intensity_gaussian}
+	I(\vec{r}, z) = \frac{2P}{\pi w^2(z)} e^{-2r^2/w^2(z)}
+\end{equation}
+
+The distribution is represented in cylindrical coordinates with $z$ being the propagation direction and $\vec{r}$ the radial position. Additionally, $w(z)$ represents the beam radius and $P$ the optical power. Using now Equations \eqref{eq:interaction_potential} and \eqref{eq:intensity_gaussian}, the spatial behaviour of the interaction potential can be obtained as
+
+\begin{equation}
+	U_{\text{dip}}(\vec{r}, z) = -\frac{\text{Re}(\alpha) P}{\epsilon_0 c \pi w_0^2} e^{-2r^2/w^2(z)}
+\end{equation}
 
 %%% Local Variables: 
 %%% mode: latex

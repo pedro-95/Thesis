@@ -286,8 +286,27 @@ Here, <> denotes time average over the rapid oscillating terms, $I(\vec{r}) = 2 
 The distribution is represented in cylindrical coordinates with $z$ being the propagation direction and $\vec{r}$ the radial position. Additionally, $w(z)$ represents the beam radius and $P$ the optical power. Using now Equations \eqref{eq:interaction_potential} and \eqref{eq:intensity_gaussian}, the spatial behaviour of the interaction potential can be obtained as
 
 \begin{equation}
-	U_{\text{dip}}(\vec{r}, z) = -\frac{\text{Re}(\alpha) P}{\epsilon_0 c \pi w_0^2} e^{-2r^2/w^2(z)}
+	U_{\text{dip}}(\vec{r}, z) =  -U_0 e^{-2r^2/w^2(z)}
 \end{equation}
+
+Where $U_0 = \frac{\text{Re}(\alpha) P}{\epsilon_0 c \pi w_0^2}$ is the trap depth at the focal point of the trap beam (i.e. for $\vec{r} = 0$ and $z=0$), and $w_0=w(0)$ the beam waist at the focal point. Considering now, the atoms trapped inside the \ac{odt} with an energy lower than the maximal trap depth. The radial and longitudinal expansions would be considerably smaller than the trap scales i.e. the beam waist $w_0$ and Rayleigh length $z_R = \pi w_0^2/ \lambda$. This way, a Taylor expansion of $U_{\text{dip}}(\vec{r}, z)$  around the beam focal point can be performed. 
+
+
+\begin{equation}\label{eq:harmonic_potential}
+	U_{\text{dip}}(\vec{r}, z) \simeq  -U_0 \bigg[1-2\bigg(\frac{r}{w_0}\bigg)^2-\bigg(\frac{z}{z_R}\bigg)^2\bigg]
+\end{equation}
+
+This is equivalent to the expression for an harmonic oscillator inside a cylindrical potential. By using Equation \eqref{eq:harmonic_potential}, the generated dipole force $\vec{F}_{\text{dip}}$, responsible of pushing the neutral erbium atoms towards the trap centre, can be estimated as
+
+\begin{equation}
+	\vec{F}_{\text{dip}}(\vec{r}, z) = -\grad{U_{\text{dip}}(\vec{r}, z)}= -2U_0\bigg(\frac{2 r}{w_0^2}\hat{e}_r + \frac{z}{z_R^2}\hat{e}_z\bigg)
+\end{equation}
+
+Where $\hat{e}_r$ is the radial and $\hat{e}_z$ the longitudinal unitary vectors in cylindrical coordinates.
+
+\subsection{Evaporative cooling}
+
+
 
 %%% Local Variables: 
 %%% mode: latex

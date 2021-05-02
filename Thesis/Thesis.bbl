@@ -1087,6 +1087,69 @@
       \verb 10.1016/S1049-250X(08)60186-X
       \endverb
     \endentry
+    \entry{Masuhara1988}{article}{}
+      \name{author}{7}{}{%
+        {{hash=dde46c32c9dba08606159621dad3cecb}{%
+           family={Masuhara},
+           familyi={M\bibinitperiod},
+           given={Naoto},
+           giveni={N\bibinitperiod}}}%
+        {{hash=766fd2106f17d28f0dc78f77cc258249}{%
+           family={Doyle},
+           familyi={D\bibinitperiod},
+           given={John\bibnamedelima M.},
+           giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=7006c356b3128839cdeb91354ab02aa3}{%
+           family={Sandberg},
+           familyi={S\bibinitperiod},
+           given={Jon\bibnamedelima C.},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=0f9d26ff6d9900263bd06697aa4d9d62}{%
+           family={Kleppner},
+           familyi={K\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod}}}%
+        {{hash=96b26e24a6806b9cbccbea7320936367}{%
+           family={Greytak},
+           familyi={G\bibinitperiod},
+           given={Thomas\bibnamedelima J.},
+           giveni={T\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=8a9f7b887133c20f3fac101431d4de44}{%
+           family={Hess},
+           familyi={H\bibinitperiod},
+           given={Harald\bibnamedelima F.},
+           giveni={H\bibinitperiod\bibinitdelim F\bibinitperiod}}}%
+        {{hash=17357e9e48260206c404df5233998508}{%
+           family={Kochanski},
+           familyi={K\bibinitperiod},
+           given={Greg\bibnamedelima P.},
+           giveni={G\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society}%
+      }
+      \strng{namehash}{c85ad6ef9e7c6353a0e2fc6136a0ee4d}
+      \strng{fullhash}{3378e0b040def08f8cc4178ab1178207}
+      \strng{bibnamehash}{c85ad6ef9e7c6353a0e2fc6136a0ee4d}
+      \strng{authorbibnamehash}{c85ad6ef9e7c6353a0e2fc6136a0ee4d}
+      \strng{authornamehash}{c85ad6ef9e7c6353a0e2fc6136a0ee4d}
+      \strng{authorfullhash}{3378e0b040def08f8cc4178ab1178207}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{8}
+      \field{journaltitle}{Phys. Rev. Lett.}
+      \field{month}{8}
+      \field{title}{Evaporative Cooling of Spin-Polarized Atomic Hydrogen}
+      \field{volume}{61}
+      \field{year}{1988}
+      \field{pages}{935\bibrangedash 938}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1103/PhysRevLett.61.935
+      \endverb
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

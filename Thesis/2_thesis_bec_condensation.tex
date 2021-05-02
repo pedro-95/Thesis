@@ -296,17 +296,20 @@ Where $U_0 = \frac{\text{Re}(\alpha) P}{\epsilon_0 c \pi w_0^2}$ is the trap dep
 	U_{\text{dip}}(\vec{r}, z) \simeq  -U_0 \bigg[1-2\bigg(\frac{r}{w_0}\bigg)^2-\bigg(\frac{z}{z_R}\bigg)^2\bigg]
 \end{equation}
 
-This is equivalent to the expression for an harmonic oscillator inside a cylindrical potential. By using Equation \eqref{eq:harmonic_potential}, the generated dipole force $\vec{F}_{\text{dip}}$, responsible of pushing the neutral erbium atoms towards the trap centre, can be estimated as
+This is equivalent to the expression for an harmonic oscillator inside a cylindrical potential. By using Equation \eqref{eq:harmonic_potential}, the generated dipole force $\vec{F}_{\text{dip}}$ affecting the neutral erbium atoms can be obtained as
 
 \begin{equation}
-	\vec{F}_{\text{dip}}(\vec{r}, z) = -\grad{U_{\text{dip}}(\vec{r}, z)}= -2U_0\bigg(\frac{2 r}{w_0^2}\hat{e}_r + \frac{z}{z_R^2}\hat{e}_z\bigg)
+	\vec{F}_{\text{dip}}(\vec{r}, z) = -\vec{\nabla}{U_{\text{dip}}(\vec{r}, z)}= -2U_0\bigg(\frac{2 r}{w_0^2}\hat{e}_r + \frac{z}{z_R^2}\hat{e}_z\bigg)
 \end{equation}
 
-Where $\hat{e}_r$ is the radial and $\hat{e}_z$ the longitudinal unitary vectors in cylindrical coordinates.
+Where $\hat{e}_r$ is the radial and $\hat{e}_z$ the longitudinal unitary vectors in cylindrical coordinates. This final expression shows that for atoms close enough to the trap, there is a dipole force pushing them linearly towards its centre.
 
 \subsection{Evaporative cooling}
 
+Once atomic erbium is trapped in an \ac{odt}, the required temperatures for achieving a \ac{bec} are still not reachable. Moreover, the photon scattering from the $\text{CO}_2$ beam, can even heat up the atomic ensemble. However, in the experiment this heating is reduced due to the type of \ac{odt} used, a far-detuned from atomic resonance \ac{quest} . To reach an erbium \ac{bec}, \aclp{odt} enable the use of another cooling technique commonly known as Evaporative cooling, which allows for the reaching of temperatures lower than $T_C$ from Equation \eqref{eq:critical_temperature} \cite{Masuhara1988}. The physical idea behind this phase is based on the fact that a group of trapped atoms have velocities, which follow a Maxwell-Boltzmann distribution with temperature $T_0$ and average velocity $\bar{v}$. Because of this, the temperature of a trapped atom ensemble, just requires letting the atoms with more energy leave the trap, while keeping the less energetic ones inside. This can be achieved by simply decreasing the laser intensity of the \ac{odt}'s beam, allowing for the atoms with higher energy to leave the trap. After this, the low energetic atoms inside the trap will interact via collisions with each other, restabilising the Maxwell-Boltzmann distribution and decreasing its temperature in a process called Re-thermalization. For a more effective cooling, this is performed in a continuous way and the speed at which the intensity is decreased becomes very important. Too fast would prevent the atoms from re-thermalizing and too slow would lead to problems with the maximum holding time of the trap. Any of both cases results in is inefficiency of the cooling process and the lost of too many atoms required to form a \ac{bec}. For more details on evaporative cooling refer to \cite{Ulitzsch2016, Metcalf1999, Roell2016}. The typical value reached for an erbium \ac{bec} are a number of around \num{30000}-\num{60000} atoms at temperature below \SI{200}{\nano\kelvin}.
 
+
+\subsection{Absorption imaging}
 
 %%% Local Variables: 
 %%% mode: latex

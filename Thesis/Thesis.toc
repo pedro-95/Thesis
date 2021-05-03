@@ -22,9 +22,10 @@
 \contentsline {subsection}{\numberline {2.3.5}\Acl {odt}}{15}{subsection.2.3.5}%
 \contentsline {subsection}{\numberline {2.3.6}Evaporative cooling}{16}{subsection.2.3.6}%
 \contentsline {subsection}{\numberline {2.3.7}Absorption imaging}{17}{subsection.2.3.7}%
-\contentsline {chapter}{\nonumberline Bibliography}{19}{chapter*.16}%
-\contentsline {chapter}{\numberline {A}Useful information}{21}{appendix.A}%
-\contentsline {chapter}{\nonumberline List of Figures}{23}{chapter*.17}%
-\contentsline {chapter}{\nonumberline List of Tables}{25}{chapter*.18}%
-\contentsline {chapter}{\nonumberline Acronyms}{27}{chapter*.19}%
+\contentsline {chapter}{\numberline {3}Bragg scattering of ultracold erbium atoms}{19}{chapter.3}%
+\contentsline {chapter}{\nonumberline Bibliography}{21}{chapter*.16}%
+\contentsline {chapter}{\numberline {A}Useful information}{23}{appendix.A}%
+\contentsline {chapter}{\nonumberline List of Figures}{25}{chapter*.17}%
+\contentsline {chapter}{\nonumberline List of Tables}{27}{chapter*.18}%
+\contentsline {chapter}{\nonumberline Acronyms}{29}{chapter*.19}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

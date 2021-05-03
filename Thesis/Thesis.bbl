@@ -1150,6 +1150,32 @@
       \verb 10.1103/PhysRevLett.61.935
       \endverb
     \endentry
+    \entry{Brammer2016}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=af06e8c58fdc6210b5337502c3233c6c}{%
+           family={Brammer},
+           familyi={B\bibinitperiod},
+           given={Henning},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Rheinischen Friedrich-Wilhelms-Universität Bonn}%
+      }
+      \strng{namehash}{af06e8c58fdc6210b5337502c3233c6c}
+      \strng{fullhash}{af06e8c58fdc6210b5337502c3233c6c}
+      \strng{bibnamehash}{af06e8c58fdc6210b5337502c3233c6c}
+      \strng{authorbibnamehash}{af06e8c58fdc6210b5337502c3233c6c}
+      \strng{authornamehash}{af06e8c58fdc6210b5337502c3233c6c}
+      \strng{authorfullhash}{af06e8c58fdc6210b5337502c3233c6c}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{9}
+      \field{title}{Ultrakalte Erbiumatome in einer CO$_2$-Laser Dipolfalle}
+      \field{type}{phdthesis}
+      \field{year}{2016}
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

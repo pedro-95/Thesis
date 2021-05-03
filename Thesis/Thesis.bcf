@@ -2397,6 +2397,13 @@
     <bcf:citekey order="36">Ulitzsch2016</bcf:citekey>
     <bcf:citekey order="36">Metcalf1999</bcf:citekey>
     <bcf:citekey order="36">Roell2016</bcf:citekey>
+    <bcf:citekey order="37">Rehberger2013</bcf:citekey>
+    <bcf:citekey order="38">Rehberger2013</bcf:citekey>
+    <bcf:citekey order="39">Ulitzsch2016</bcf:citekey>
+    <bcf:citekey order="40">Ulitzsch2016</bcf:citekey>
+    <bcf:citekey order="40">Roell2016</bcf:citekey>
+    <bcf:citekey order="41">Brammer2016</bcf:citekey>
+    <bcf:citekey order="42">Brammer2016</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

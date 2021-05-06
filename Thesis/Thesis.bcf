@@ -2404,6 +2404,9 @@
     <bcf:citekey order="40">Roell2016</bcf:citekey>
     <bcf:citekey order="41">Brammer2016</bcf:citekey>
     <bcf:citekey order="42">Brammer2016</bcf:citekey>
+    <bcf:citekey order="43">Lewenstein2007</bcf:citekey>
+    <bcf:citekey order="43">Bloch2008</bcf:citekey>
+    <bcf:citekey order="44">VanDerZiel1978</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

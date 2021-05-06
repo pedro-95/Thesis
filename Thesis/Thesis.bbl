@@ -1176,6 +1176,153 @@
       \field{type}{phdthesis}
       \field{year}{2016}
     \endentry
+    \entry{Lewenstein2007}{article}{}
+      \name{author}{6}{}{%
+        {{hash=bb70d7fd7235ae3a7ea0481b921e220e}{%
+           family={Lewenstein},
+           familyi={L\bibinitperiod},
+           given={Maciej},
+           giveni={M\bibinitperiod}}}%
+        {{hash=9511e09e4b569feb7f5bc006b60f2171}{%
+           family={Sanpera},
+           familyi={S\bibinitperiod},
+           given={Anna},
+           giveni={A\bibinitperiod}}}%
+        {{hash=3957b799d884662cfe7ee786b4838761}{%
+           family={Ahufinger},
+           familyi={A\bibinitperiod},
+           given={Veronica},
+           giveni={V\bibinitperiod}}}%
+        {{hash=1817d06cf3878060d518d16ffc730800}{%
+           family={Damski},
+           familyi={D\bibinitperiod},
+           given={Bogdan},
+           giveni={B\bibinitperiod}}}%
+        {{hash=052c66588dc3f727bb4c663a112462e8}{%
+           family={Sen(De)},
+           familyi={S\bibinitperiod},
+           given={Aditi},
+           giveni={A\bibinitperiod}}}%
+        {{hash=43b6917c56eb0e3f19527f7ef5021dd3}{%
+           family={Sen},
+           familyi={S\bibinitperiod},
+           given={Ujjwal},
+           giveni={U\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Taylor & Francis}%
+      }
+      \strng{namehash}{29f0a7ae7b64fae1a3190813b73624e0}
+      \strng{fullhash}{4e01e67d6ffae7b541c08cfd1947be35}
+      \strng{bibnamehash}{29f0a7ae7b64fae1a3190813b73624e0}
+      \strng{authorbibnamehash}{29f0a7ae7b64fae1a3190813b73624e0}
+      \strng{authornamehash}{29f0a7ae7b64fae1a3190813b73624e0}
+      \strng{authorfullhash}{4e01e67d6ffae7b541c08cfd1947be35}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Advances in Physics}
+      \field{number}{2}
+      \field{title}{Ultracold atomic gases in optical lattices: mimicking condensed matter physics and beyond}
+      \field{volume}{56}
+      \field{year}{2007}
+      \field{pages}{243\bibrangedash 379}
+      \range{pages}{137}
+      \verb{doi}
+      \verb 10.1080/00018730701223200
+      \endverb
+    \endentry
+    \entry{Bloch2008}{article}{}
+      \name{author}{3}{}{%
+        {{hash=2706649dd73bd9e5cf6ed59802894f8c}{%
+           family={Bloch},
+           familyi={B\bibinitperiod},
+           given={Immanuel},
+           giveni={I\bibinitperiod}}}%
+        {{hash=b9225759166c7a0a7cf7d85d74a2231d}{%
+           family={Dalibard},
+           familyi={D\bibinitperiod},
+           given={Jean},
+           giveni={J\bibinitperiod}}}%
+        {{hash=e71cd3622e001f6d3e422da4a5a22f90}{%
+           family={Zwerger},
+           familyi={Z\bibinitperiod},
+           given={Wilhelm},
+           giveni={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society}%
+      }
+      \strng{namehash}{d5b8a69739f752f59e1319f27e1f0a4d}
+      \strng{fullhash}{d5b8a69739f752f59e1319f27e1f0a4d}
+      \strng{bibnamehash}{d5b8a69739f752f59e1319f27e1f0a4d}
+      \strng{authorbibnamehash}{d5b8a69739f752f59e1319f27e1f0a4d}
+      \strng{authornamehash}{d5b8a69739f752f59e1319f27e1f0a4d}
+      \strng{authorfullhash}{d5b8a69739f752f59e1319f27e1f0a4d}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{3}
+      \field{journaltitle}{Rev. Mod. Phys.}
+      \field{month}{07}
+      \field{title}{Many-body physics with ultracold gases}
+      \field{volume}{80}
+      \field{year}{2008}
+      \field{pages}{885\bibrangedash 964}
+      \range{pages}{80}
+      \verb{doi}
+      \verb 10.1103/RevModPhys.80.885
+      \endverb
+    \endentry
+    \entry{VanDerZiel1978}{article}{}
+      \name{author}{2}{}{%
+        {{hash=37d2cafd30921d99c608848220636f2a}{%
+           family={{Van Der Ziel}},
+           familyi={V\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ac10eebfdc27a144021c6a266333e005}{%
+           family={Chenette},
+           familyi={C\bibinitperiod},
+           given={E.R.},
+           giveni={E\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=73fa75223306b81729dbcef2e9db8372}{%
+           family={Marton},
+           familyi={M\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Academic Press}%
+      }
+      \strng{namehash}{73fb872c773907fe79b951f9c6014a08}
+      \strng{fullhash}{73fb872c773907fe79b951f9c6014a08}
+      \strng{bibnamehash}{73fb872c773907fe79b951f9c6014a08}
+      \strng{authorbibnamehash}{73fb872c773907fe79b951f9c6014a08}
+      \strng{authornamehash}{73fb872c773907fe79b951f9c6014a08}
+      \strng{authorfullhash}{73fb872c773907fe79b951f9c6014a08}
+      \strng{editorbibnamehash}{73fa75223306b81729dbcef2e9db8372}
+      \strng{editornamehash}{73fa75223306b81729dbcef2e9db8372}
+      \strng{editorfullhash}{73fa75223306b81729dbcef2e9db8372}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0065-2539}
+      \field{series}{Advances in Electronics and Electron Physics}
+      \field{title}{Noise in Solid State Devices}
+      \field{volume}{46}
+      \field{year}{1978}
+      \field{pages}{313\bibrangedash 383}
+      \range{pages}{71}
+      \verb{doi}
+      \verb https://doi.org/10.1016/S0065-2539(08)60414-X
+      \endverb
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

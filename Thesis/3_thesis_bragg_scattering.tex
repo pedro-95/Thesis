@@ -8,7 +8,19 @@ In ultracold atoms physics, Optical lattices are defined as periodic standing wa
 
 \section{Theoretical description of an Optical lattice}
 
-As previously mentioned, generating an optical lattice requires the use of two interfering laser beams. Taken individually, each would interact with the atomic cloud like a typical \acf{odt}. However, 
+As previously mentioned, generating an optical lattice requires the use of two interfering laser beams. Taken individually, each would interact with the atomic cloud like a typical \acf{odt}. Therefore, each beam generates a dipole potential in the atomic ensemble given by Equation \eqref{eq:interaction_potential}. However, in this case there is not a far detuning between the laser beams forming the lattice and erbium atomic transitions. Due to this, assuming the optical fields as quasi-electrostatic does not work any more. Equation \eqref{eq:interaction_potential} still hold for this case and can be rewritten when the atoms are approximated as a two level scheme following the behaviour of a classical Lorentz oscillator \cite{Grimm2000}. For this case, it can be proved that the complex polarizability $\alpha$ has the form:
+
+\begin{equation}
+	\alpha = 6 \pi \epsilon_0 c^3 \frac{\Gamma/\omega_0^2}{\omega_0^2 -\omega^2 -i(\omega^3/\omega_0^2)\Gamma} 
+\end{equation} 
+
+Where $\omega$ is the optical frequency of the laser beam interacting with the atom ensemble, $\omega_0$ is the atomic transition and $\Gamma$ the on-resonance damping rate. For the classical Lorentz oscillator, this rate is given by
+
+\begin{equation}
+	\Gamma = \frac{e^2 \omega^2}{6\pi\epsilon_0m_ec^3}
+\end{equation}
+
+
 
 %%% Local Variables: 
 %%% mode: latex

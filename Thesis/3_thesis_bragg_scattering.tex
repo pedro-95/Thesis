@@ -8,19 +8,26 @@ In ultracold atoms physics, Optical lattices are defined as periodic standing wa
 
 \section{Theoretical description of an Optical lattice}
 
-As previously mentioned, generating an optical lattice requires the use of two interfering laser beams. Taken individually, each would interact with the atomic cloud like a typical \acf{odt}. Therefore, each beam generates a dipole potential in the atomic ensemble given by Equation \eqref{eq:interaction_potential}. However, in this case there is not a far detuning between the laser beams forming the lattice and erbium atomic transitions. Due to this, assuming the optical fields as quasi-electrostatic does not work any more. Equation \eqref{eq:interaction_potential} still hold for this case and can be rewritten when the atoms are approximated as a two level scheme following the behaviour of a classical Lorentz oscillator \cite{Grimm2000}. For this case, it can be proved that the complex polarizability $\alpha$ has the form:
+As previously mentioned, generating an optical lattice requires the use of two interfering laser beams. Taken individually, each would interact with the atomic cloud like a typical \acf{odt}. Therefore, each beam generates a dipole potential in the atomic ensemble given by Equation \eqref{eq:interaction_potential}. However, in this case there is not a far detuning between the laser beams forming the lattice and erbium atomic transitions. Due to this, assuming the optical fields as quasi-electrostatic does not work any more. But, Equation \eqref{eq:interaction_potential} holds in any case and can be rewritten when the atoms are approximated as a two level scheme following the behaviour of a classical Lorentz oscillator \cite{Grimm2000}. For this case, it can be proved that the complex polarizability $\alpha$ has the form:
 
-\begin{equation}
+\begin{equation}\label{eq:complex_polarizability}
 	\alpha = 6 \pi \epsilon_0 c^3 \frac{\Gamma/\omega_0^2}{\omega_0^2 -\omega^2 -i(\omega^3/\omega_0^2)\Gamma} 
 \end{equation} 
 
-Where $\omega$ is the optical frequency of the laser beam interacting with the atom ensemble, $\omega_0$ is the atomic transition and $\Gamma$ the on-resonance damping rate. For the classical Lorentz oscillator, this rate is given by
-
-\begin{equation}
-	\Gamma = \frac{e^2 \omega^2}{6\pi\epsilon_0m_ec^3}
+Where $\omega$ is the optical frequency of the laser beam interacting with the atom ensemble, $\omega_0$ is the atomic transition and $\Gamma$ the on-resonance damping rate. For the classical Lorentz oscillator, this rate is equivalent to $\Gamma = \Gamma_\text{cls}$ where:
+\begin{equation}\label{eq:classical_damping_rate}
+	\Gamma_\text{cls} = \frac{e^2 \omega_0^2}{6\pi\epsilon_0m_ec^3}
 \end{equation}
 
+Even though this result is obtained when using the classical Lorentz approximation, an equivalent result can be obtained when considering the semi-classical model of the atom. For which, the atom is considered as a two-level quantum system that interacts with a classical field of light. This way, Equation \eqref{eq:complex_polarizability} is valid but for the damping rate expression, which becomes $\Gamma = \Gamma_\text{smcls}$ where:
 
+\begin{equation}\label{eq:semiclassical_damping_rate}
+	\Gamma_\text{smcls} = \frac{\omega_0^3}{3\pi\epsilon_0 \hbar c^3} \mathopen|\bra{e}\mu\ket{g}\mathclose|^2
+\end{equation}
+
+\iffalse
+It must be noted that this semi-classical model uses the electric dipole approximation, which assumes the laser transition to have a wavelength way greater that the typical size of the atom. This is a reasonable approximation for most of the cases but will be considered as a possible source of errors in our model.
+\fi
 
 %%% Local Variables: 
 %%% mode: latex

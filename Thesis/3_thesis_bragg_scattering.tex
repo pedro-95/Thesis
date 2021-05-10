@@ -81,7 +81,18 @@ This is a crucial parameter that allows the complete characterization of the opt
 	U_{0}(r_1,r_2) = \frac{12 c^2 \Gamma\sqrt{P_1 P_2}}{\omega_0^3 \delta w_1 w_2} \cdot e^{-r_1^2/w_1^2} e^{-r_2^2/w_2^2}
 \end{equation} 
 
-There are two terms that must be accounted for in this expression. The first one corresponds to the fraction, with all terms contained in it being experimentally measurable within a reasonable uncertainty. 
+In this expression there are two terms that must be accounted for. The first one corresponds to the fraction, with all terms being experimentally measurable within a reasonable uncertainty. The second one nonetheless, is two exponentials dependant on the beams alignment with respect to the atomic \ac{bec} position. Due to this, it is not an easy term to measure because of the big changes that small variation in the position may cause. Therefore, a direct calculation of the lattice depth with the experimental parameters is not feasible and more advanced methods must be considered.
+
+\subsubsection{Moving optical lattice}
+
+Once the lattice potential has been obtained for two beams with the same frequency, there is a relevant case of study for which this appreciation is not valid. This is the situation in which there is a small detuning $\Delta$ between both beams. Figure \ref{fig:lattice_beams} shows it, in this case an additional temporal phase is added to one of the electric fields in Equation \eqref{eq:relation_electric_fields}. This means that the temporally independent expression for the lattice potential of Equation \ref{eq:relation_lattice_potential}, becomes temporally dependent with the form
+\begin{equation}\label{eq:relation_moving_lattice_potential}
+	U_{\text{lat}}(\vec{r},t) = U_{0}(\vec{r}) \cdot \text{cos}^2\bigg(kx-\frac{\Delta}{2}t\bigg)
+\end{equation} 
+
+Where the intensities have also been assumed to be of the same order $I_{1}(\vec{r}) \sim I_{2}(\vec{r})$. This way, the lattice becomes a periodic potential, which moves along the beam propagation axis with time. Allowing for a different interaction process with the atomic ensemble, which will be described in the following section.
+
+\subsection{Interaction with an ultracold atomic ensemble}
 
 %%% Local Variables: 
 %%% mode: latex

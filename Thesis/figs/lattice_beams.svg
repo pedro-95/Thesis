@@ -96,7 +96,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -143,5 +143,16 @@
          x="156.45731"
          y="58.10762"
          style="font-size:14.111px;stroke-width:0.264581">ω+Δ </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:14.1111px;line-height:1.25;font-family:'Times New Roman';-inkscape-font-specification:'Times New Roman, ';stroke-width:0.264583"
+       x="90.63456"
+       y="76.506958"
+       id="text23"><tspan
+         sodipodi:role="line"
+         id="tspan21"
+         x="90.63456"
+         y="76.506958"
+         style="font-size:14.1111px;stroke-width:0.264583">BEC</tspan></text>
   </g>
 </svg>

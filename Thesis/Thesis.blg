@@ -1,19 +1,19 @@
 [0] Config.pm:311> INFO - This is Biber 2.16
 [0] Config.pm:314> INFO - Logfile is 'Thesis.blg'
-[68] biber:340> INFO - === Fri May  7, 2021, 15:52:33
-[80] Biber.pm:415> INFO - Reading 'Thesis.bcf'
-[139] Biber.pm:952> INFO - Found 34 citekeys in bib section 0
-[150] Biber.pm:4340> INFO - Processing section 0
-[159] Biber.pm:4531> INFO - Looking for bibtex format file 'bib/thesis_refs.bib' for section 0
-[161] bibtex.pm:1689> INFO - LaTeX decoding ...
-[201] bibtex.pm:1494> INFO - Found BibTeX data source 'bib/thesis_refs.bib'
-[334] Utils.pm:384> WARN - legacy month field 'Nov' in entry 'Dalibard1989' is not an integer - this will probably not sort properly.
-[337] Utils.pm:384> WARN - legacy month field 'Feb' in entry 'Zeeman1897' is not an integer - this will probably not sort properly.
-[365] Utils.pm:384> WARN - legacy month field 'Aug' in entry 'Masuhara1988' is not an integer - this will probably not sort properly.
-[412] UCollate.pm:68> INFO - Overriding locale 'en-UK' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[413] UCollate.pm:68> INFO - Overriding locale 'en-UK' defaults 'variable = shifted' with 'variable = non-ignorable'
-[413] Biber.pm:4168> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-UK'
-[413] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-UK'
-[432] bbl.pm:654> INFO - Writing 'Thesis.bbl' with encoding 'UTF-8'
-[448] bbl.pm:757> INFO - Output to Thesis.bbl
-[448] Biber.pm:128> INFO - WARNINGS: 3
+[66] biber:340> INFO - === Mon May 10, 2021, 13:55:43
+[78] Biber.pm:415> INFO - Reading 'Thesis.bcf'
+[134] Biber.pm:952> INFO - Found 34 citekeys in bib section 0
+[146] Biber.pm:4340> INFO - Processing section 0
+[155] Biber.pm:4531> INFO - Looking for bibtex format file 'bib/thesis_refs.bib' for section 0
+[157] bibtex.pm:1689> INFO - LaTeX decoding ...
+[199] bibtex.pm:1494> INFO - Found BibTeX data source 'bib/thesis_refs.bib'
+[327] Utils.pm:384> WARN - legacy month field 'Nov' in entry 'Dalibard1989' is not an integer - this will probably not sort properly.
+[330] Utils.pm:384> WARN - legacy month field 'Feb' in entry 'Zeeman1897' is not an integer - this will probably not sort properly.
+[355] Utils.pm:384> WARN - legacy month field 'Aug' in entry 'Masuhara1988' is not an integer - this will probably not sort properly.
+[401] UCollate.pm:68> INFO - Overriding locale 'en-UK' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[401] UCollate.pm:68> INFO - Overriding locale 'en-UK' defaults 'variable = shifted' with 'variable = non-ignorable'
+[401] Biber.pm:4168> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-UK'
+[401] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-UK'
+[420] bbl.pm:654> INFO - Writing 'Thesis.bbl' with encoding 'UTF-8'
+[441] bbl.pm:757> INFO - Output to Thesis.bbl
+[441] Biber.pm:128> INFO - WARNINGS: 3

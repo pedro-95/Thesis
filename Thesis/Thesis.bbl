@@ -1323,6 +1323,32 @@
       \verb https://doi.org/10.1016/S0065-2539(08)60414-X
       \endverb
     \endentry
+    \entry{Kadau2011}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=58e7f9b0f2b95d1424a8593098a4fd63}{%
+           family={Kadau},
+           familyi={K\bibinitperiod},
+           given={Holger},
+           giveni={H\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Universität Stuttgart}%
+      }
+      \strng{namehash}{58e7f9b0f2b95d1424a8593098a4fd63}
+      \strng{fullhash}{58e7f9b0f2b95d1424a8593098a4fd63}
+      \strng{bibnamehash}{58e7f9b0f2b95d1424a8593098a4fd63}
+      \strng{authorbibnamehash}{58e7f9b0f2b95d1424a8593098a4fd63}
+      \strng{authornamehash}{58e7f9b0f2b95d1424a8593098a4fd63}
+      \strng{authorfullhash}{58e7f9b0f2b95d1424a8593098a4fd63}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{8}
+      \field{title}{A Dipolar Bose-Einstein Condensate in a one-dimensional Optical Lattice}
+      \field{type}{phdthesis}
+      \field{year}{2011}
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

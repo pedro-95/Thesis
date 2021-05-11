@@ -61,7 +61,7 @@ This way, assuming that both beams are linearly polarized in the arbitrary $\hat
 
 With $I_{1/2}(\vec{r})$ the individual intensity of the laser beams at the point in space $\vec{r}$ from the beam propagation axis. For intensities of the same order $I_{1}(\vec{r}) \sim I_{2}(\vec{r})$, the lattice intensity can be approximated as
 \begin{equation}\label{eq:relation_lattice_inesity}
-	I_{\text{lat}}(\vec{r}) = 4\sqrt{I_{1}(\vec{r})}\sqrt{I_{2}(\vec{r})} \cdot \text{cos}^2(kx)
+	I_{\text{lat}}(\vec{r}) = 4\sqrt{I_{1}(\vec{r})I_{2}(\vec{r})} \cdot \text{cos}^2(kx)
 \end{equation}
 
 Therefore, a final expression for the lattice potential can be obtained when combining Equations \eqref{eq:relation_lattice_potential_intensity} and \eqref{eq:relation_lattice_inesity}. The result is as expected, a temporally static potential with periodicity along the overlaying $x$ axis.
@@ -71,7 +71,7 @@ Therefore, a final expression for the lattice potential can be obtained when com
 
 This important result can be seen in the scheme shown in Figure \ref{fig:lattice_beams}. Where, $U_{0}(\vec{r})$ is known as the lattice depth for which
 \begin{equation}\label{eq:relation_lattice_potential_depth}
-	U_{0}(\vec{r}) = \frac{6\pi c^2 \Gamma}{\omega_0^3 \delta} \cdot \sqrt{I_{1}(\vec{r})}\sqrt{I_{2}(\vec{r})}
+	U_{0}(\vec{r}) = \frac{6\pi c^2 \Gamma}{\omega_0^3 \delta} \cdot \sqrt{I_{1}(\vec{r})I_{2}(\vec{r})}
 \end{equation} 
 
 This is a crucial parameter that allows the complete characterization of the optical lattice. In order to estimate it, $I_{1}(\vec{r})$ and $I_{2}(\vec{r})$ must be considered as Gaussian beam intensities governed by Equation \eqref{eq:intensity_gaussian}. However, in a real experiment for an atomic \ac{bec} localized in a given point in space $\vec{r}$, the alignment between optical beams is never perfect. This means that factors like spacial differences in the propagation axes or different waist sizes between beams, affect very strongly on the effective values of the intensities in Equation \eqref{eq:relation_lattice_potential_depth}. Due to this, two coordinate systems must be considered to account for the atomic ensemble position relative to the first and second beams. This way, the \ac{bec} is located at position $\vec{r}_1$ ($\vec{r}_2$) with respect to beam 1 (beam 2), which has a waist size of $w_1$ ($w_2$) at the atomic ensemble position. Using this argument together with Equations \eqref{eq:intensity_gaussian} and \eqref{eq:relation_lattice_potential_depth}, one gets the final expression for the lattice depth as $U_{0}(\vec{r})=U_{0}(r_1,r_2)$ with

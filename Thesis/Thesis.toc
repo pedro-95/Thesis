@@ -27,7 +27,7 @@
 \contentsline {subsection}{\numberline {3.1.1}Dipole interaction of one optical beam}{19}{subsection.3.1.1}%
 \contentsline {subsection}{\numberline {3.1.2}One-dimensional optical lattice}{21}{subsection.3.1.2}%
 \contentsline {subsubsection}{\nonumberline Moving optical lattice}{22}{subsubsection*.18}%
-\contentsline {section}{\numberline {3.2}Interaction with an ultracold atomic ensemble}{23}{section.3.2}%
+\contentsline {section}{\numberline {3.2}Diffraction of an ultracold atomic ensemble}{23}{section.3.2}%
 \contentsline {chapter}{\nonumberline Bibliography}{25}{chapter*.19}%
 \contentsline {chapter}{\numberline {A}Useful information}{29}{appendix.A}%
 \contentsline {chapter}{\nonumberline List of Figures}{31}{chapter*.20}%

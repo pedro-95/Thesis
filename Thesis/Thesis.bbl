@@ -1276,6 +1276,44 @@
       \verb 10.1103/RevModPhys.80.885
       \endverb
     \endentry
+    \entry{Morsch2006}{article}{}
+      \name{author}{2}{}{%
+        {{hash=f890f20b9de7a03f3e8cabc633597773}{%
+           family={Morsch},
+           familyi={M\bibinitperiod},
+           given={Oliver},
+           giveni={O\bibinitperiod}}}%
+        {{hash=4c3a92f03c307a30cbe0f1a24eb3d88a}{%
+           family={Oberthaler},
+           familyi={O\bibinitperiod},
+           given={Markus},
+           giveni={M\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society}%
+      }
+      \strng{namehash}{30ca8b8e79e6b7f1ba42fe26ac2c41c8}
+      \strng{fullhash}{30ca8b8e79e6b7f1ba42fe26ac2c41c8}
+      \strng{bibnamehash}{30ca8b8e79e6b7f1ba42fe26ac2c41c8}
+      \strng{authorbibnamehash}{30ca8b8e79e6b7f1ba42fe26ac2c41c8}
+      \strng{authornamehash}{30ca8b8e79e6b7f1ba42fe26ac2c41c8}
+      \strng{authorfullhash}{30ca8b8e79e6b7f1ba42fe26ac2c41c8}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{1}
+      \field{journaltitle}{Rev. Mod. Phys.}
+      \field{month}{2}
+      \field{title}{Dynamics of Bose-Einstein condensates in optical lattices}
+      \field{volume}{78}
+      \field{year}{2006}
+      \field{pages}{179\bibrangedash 215}
+      \range{pages}{37}
+      \verb{doi}
+      \verb 10.1103/RevModPhys.78.179
+      \endverb
+    \endentry
     \entry{VanDerZiel1978}{article}{}
       \name{author}{2}{}{%
         {{hash=37d2cafd30921d99c608848220636f2a}{%
@@ -1348,6 +1386,112 @@
       \field{title}{A Dipolar Bose-Einstein Condensate in a one-dimensional Optical Lattice}
       \field{type}{phdthesis}
       \field{year}{2011}
+    \endentry
+    \entry{Mueller2008}{article}{}
+      \name{author}{3}{}{%
+        {{hash=d083cd37d255a6bc40a5ca20bce5e04b}{%
+           family={Müller},
+           familyi={M\bibinitperiod},
+           given={Holger},
+           giveni={H\bibinitperiod}}}%
+        {{hash=7e419b7e4ed20707fe8433144e1c5e39}{%
+           family={Chiow},
+           familyi={C\bibinitperiod},
+           given={Sheng-wey},
+           giveni={S\bibinithyphendelim w\bibinitperiod}}}%
+        {{hash=ce2983c85cb80aecf0fb36f5130eada2}{%
+           family={Chu},
+           familyi={C\bibinitperiod},
+           given={Steven},
+           giveni={S\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society}%
+      }
+      \strng{namehash}{68e2d594527e1a26b2afab20c7b2dd70}
+      \strng{fullhash}{68e2d594527e1a26b2afab20c7b2dd70}
+      \strng{bibnamehash}{68e2d594527e1a26b2afab20c7b2dd70}
+      \strng{authorbibnamehash}{68e2d594527e1a26b2afab20c7b2dd70}
+      \strng{authornamehash}{68e2d594527e1a26b2afab20c7b2dd70}
+      \strng{authorfullhash}{68e2d594527e1a26b2afab20c7b2dd70}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{2}
+      \field{journaltitle}{Phys. Rev. A}
+      \field{month}{2}
+      \field{title}{Atom-wave diffraction between the Raman-Nath and the Bragg regime: Effective Rabi frequency, losses, and phase shifts}
+      \field{volume}{77}
+      \field{year}{2008}
+      \field{pages}{023609}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevA.77.023609
+      \endverb
+    \endentry
+    \entry{Ovchinnikov1999}{article}{}
+      \name{author}{7}{}{%
+        {{hash=a407c0f019cbf10ec4b6fc4ad92417cf}{%
+           family={Ovchinnikov},
+           familyi={O\bibinitperiod},
+           given={Yu.\bibnamedelimi B.},
+           giveni={Y\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=42af49cf8a178929a6e614a5c4bf33c4}{%
+           family={Müller},
+           familyi={M\bibinitperiod},
+           given={J.\bibnamedelimi H.},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=3b38f0e247ffa964c18df00fe4177b82}{%
+           family={Doery},
+           familyi={D\bibinitperiod},
+           given={M.\bibnamedelimi R.},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=4da7f523a0572fc57d2ee8093c19964d}{%
+           family={Vredenbregt},
+           familyi={V\bibinitperiod},
+           given={E.\bibnamedelimi J.\bibnamedelimi D.},
+           giveni={E\bibinitperiod\bibinitdelim J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+        {{hash=4ba87c8756ae765006f7e1c90bf212e6}{%
+           family={Helmerson},
+           familyi={H\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=1d4ac54e5de052e45a0b2e87d157cc6f}{%
+           family={Rolston},
+           familyi={R\bibinitperiod},
+           given={S.\bibnamedelimi L.},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=5bd7803291393af2a5033f06db8008d3}{%
+           family={Phillips},
+           familyi={P\bibinitperiod},
+           given={W.\bibnamedelimi D.},
+           giveni={W\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society}%
+      }
+      \strng{namehash}{2cfd35e8cda693b8342a3f527dcb705b}
+      \strng{fullhash}{89395ee4f134ba5823008ab0df4f0050}
+      \strng{bibnamehash}{2cfd35e8cda693b8342a3f527dcb705b}
+      \strng{authorbibnamehash}{2cfd35e8cda693b8342a3f527dcb705b}
+      \strng{authornamehash}{2cfd35e8cda693b8342a3f527dcb705b}
+      \strng{authorfullhash}{89395ee4f134ba5823008ab0df4f0050}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{2}
+      \field{journaltitle}{Phys. Rev. Lett.}
+      \field{month}{7}
+      \field{title}{Diffraction of a Released Bose-Einstein Condensate by a Pulsed Standing Light Wave}
+      \field{volume}{83}
+      \field{year}{1999}
+      \field{pages}{284\bibrangedash 287}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1103/PhysRevLett.83.284
+      \endverb
     \endentry
   \enddatalist
 \endrefsection

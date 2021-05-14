@@ -2405,6 +2405,11 @@ INPUT ./figs//lattice_beams.pdf
 INPUT figs//lattice_beams.pdf
 INPUT ./figs//lattice_beams.pdf
 INPUT ./figs//lattice_beams.pdf
+INPUT ./figs//diffraction.pdf
+INPUT ./figs//diffraction.pdf
+INPUT figs//diffraction.pdf
+INPUT ./figs//diffraction.pdf
+INPUT ./figs//diffraction.pdf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntx-Italic-tlf-t1.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-sc-t1.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntx-Italic-tlf-t1.tfm

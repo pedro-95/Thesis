@@ -28,9 +28,9 @@
 \contentsline {subsection}{\numberline {3.1.2}One-dimensional optical lattice}{21}{subsection.3.1.2}%
 \contentsline {subsubsection}{\nonumberline Moving optical lattice}{22}{subsubsection*.18}%
 \contentsline {section}{\numberline {3.2}Diffraction of an ultracold atomic ensemble}{23}{section.3.2}%
-\contentsline {chapter}{\nonumberline Bibliography}{25}{chapter*.19}%
+\contentsline {chapter}{\nonumberline Bibliography}{25}{chapter*.20}%
 \contentsline {chapter}{\numberline {A}Useful information}{29}{appendix.A}%
-\contentsline {chapter}{\nonumberline List of Figures}{31}{chapter*.20}%
-\contentsline {chapter}{\nonumberline List of Tables}{33}{chapter*.21}%
-\contentsline {chapter}{\nonumberline Acronyms}{35}{chapter*.22}%
+\contentsline {chapter}{\nonumberline List of Figures}{31}{chapter*.21}%
+\contentsline {chapter}{\nonumberline List of Tables}{33}{chapter*.22}%
+\contentsline {chapter}{\nonumberline Acronyms}{35}{chapter*.23}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

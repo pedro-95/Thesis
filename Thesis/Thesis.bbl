@@ -1530,6 +1530,74 @@
       \verb 10.1098/rspa.1913.0040
       \endverb
     \endentry
+    \entry{Kozuma1999}{article}{}
+      \name{author}{8}{}{%
+        {{hash=292f61436deabbae8443850269bdc0bd}{%
+           family={Kozuma},
+           familyi={K\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=ac8e704626a9ec7c14a8c7243ae9b793}{%
+           family={Deng},
+           familyi={D\bibinitperiod},
+           given={L.},
+           giveni={L\bibinitperiod}}}%
+        {{hash=926f2f6ac152fb4a76551cdbe72c8a74}{%
+           family={Hagley},
+           familyi={H\bibinitperiod},
+           given={E.\bibnamedelimi W.},
+           giveni={E\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=5697a66ca4254743e8f12262bf8d99cc}{%
+           family={Wen},
+           familyi={W\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=98b320ef5314d3534c1c943933d9ff57}{%
+           family={Lutwak},
+           familyi={L\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+        {{hash=4ba87c8756ae765006f7e1c90bf212e6}{%
+           family={Helmerson},
+           familyi={H\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=1d4ac54e5de052e45a0b2e87d157cc6f}{%
+           family={Rolston},
+           familyi={R\bibinitperiod},
+           given={S.\bibnamedelimi L.},
+           giveni={S\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=5bd7803291393af2a5033f06db8008d3}{%
+           family={Phillips},
+           familyi={P\bibinitperiod},
+           given={W.\bibnamedelimi D.},
+           giveni={W\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society}%
+      }
+      \strng{namehash}{4e8da39d56ef683490f5d9510ca12bb1}
+      \strng{fullhash}{729181d16caa4734ccbe0ffc5b35a41c}
+      \strng{bibnamehash}{4e8da39d56ef683490f5d9510ca12bb1}
+      \strng{authorbibnamehash}{4e8da39d56ef683490f5d9510ca12bb1}
+      \strng{authornamehash}{4e8da39d56ef683490f5d9510ca12bb1}
+      \strng{authorfullhash}{729181d16caa4734ccbe0ffc5b35a41c}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{5}
+      \field{journaltitle}{Phys. Rev. Lett.}
+      \field{month}{2}
+      \field{title}{Coherent Splitting of Bose-Einstein Condensed Atoms with Optically Induced Bragg Diffraction}
+      \field{volume}{82}
+      \field{year}{1999}
+      \field{pages}{871\bibrangedash 875}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1103/PhysRevLett.82.871
+      \endverb
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

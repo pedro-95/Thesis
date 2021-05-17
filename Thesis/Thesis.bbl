@@ -1493,6 +1493,43 @@
       \verb 10.1103/PhysRevLett.83.284
       \endverb
     \endentry
+    \entry{Bragg1913}{article}{}
+      \name{author}{2}{}{%
+        {{hash=6b6987e9313c9d64af6c54411aa431ed}{%
+           family={Bragg},
+           familyi={B\bibinitperiod},
+           given={William\bibnamedelima Henry},
+           giveni={W\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=fbe5fdedb0690d04c64476129af964cb}{%
+           family={Bragg},
+           familyi={B\bibinitperiod},
+           given={William\bibnamedelima Lawrence},
+           giveni={W\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {The Royal Society London}%
+      }
+      \strng{namehash}{df4a8deb4dd44db4765d142de154b8f8}
+      \strng{fullhash}{df4a8deb4dd44db4765d142de154b8f8}
+      \strng{bibnamehash}{df4a8deb4dd44db4765d142de154b8f8}
+      \strng{authorbibnamehash}{df4a8deb4dd44db4765d142de154b8f8}
+      \strng{authornamehash}{df4a8deb4dd44db4765d142de154b8f8}
+      \strng{authorfullhash}{df4a8deb4dd44db4765d142de154b8f8}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proc. R. Soc. Lond. A}
+      \field{number}{605}
+      \field{title}{The reflection of X-rays by crystals}
+      \field{volume}{88}
+      \field{year}{1913}
+      \field{pages}{428\bibrangedash 438}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1098/rspa.1913.0040
+      \endverb
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

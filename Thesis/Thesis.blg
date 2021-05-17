@@ -1,23 +1,15 @@
 [0] Config.pm:311> INFO - This is Biber 2.16
 [0] Config.pm:314> INFO - Logfile is 'Thesis.blg'
-[68] biber:340> INFO - === Mon May 17, 2021, 14:07:41
+[68] biber:340> INFO - === Mon May 17, 2021, 17:35:09
 [79] Biber.pm:415> INFO - Reading 'Thesis.bcf'
 [137] Biber.pm:952> INFO - Found 40 citekeys in bib section 0
-[147] Biber.pm:4340> INFO - Processing section 0
-[156] Biber.pm:4531> INFO - Looking for bibtex format file 'bib/thesis_refs.bib' for section 0
-[158] bibtex.pm:1689> INFO - LaTeX decoding ...
-[205] bibtex.pm:1494> INFO - Found BibTeX data source 'bib/thesis_refs.bib'
-[330] Utils.pm:384> WARN - legacy month field 'Nov' in entry 'Dalibard1989' is not an integer - this will probably not sort properly.
-[333] Utils.pm:384> WARN - legacy month field 'Feb' in entry 'Zeeman1897' is not an integer - this will probably not sort properly.
-[359] Utils.pm:384> WARN - legacy month field 'Aug' in entry 'Masuhara1988' is not an integer - this will probably not sort properly.
-[378] Utils.pm:384> WARN - legacy month field 'Feb' in entry 'Morsch2006' is not an integer - this will probably not sort properly.
-[390] Utils.pm:384> WARN - legacy month field 'Feb' in entry 'Mueller2008' is not an integer - this will probably not sort properly.
-[399] Utils.pm:384> WARN - legacy month field 'Jul' in entry 'Ovchinnikov1999' is not an integer - this will probably not sort properly.
-[413] Utils.pm:384> WARN - legacy month field 'Feb' in entry 'Kozuma1999' is not an integer - this will probably not sort properly.
-[442] UCollate.pm:68> INFO - Overriding locale 'en-UK' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[442] UCollate.pm:68> INFO - Overriding locale 'en-UK' defaults 'variable = shifted' with 'variable = non-ignorable'
-[442] Biber.pm:4168> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-UK'
-[442] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-UK'
-[463] bbl.pm:654> INFO - Writing 'Thesis.bbl' with encoding 'UTF-8'
-[482] bbl.pm:757> INFO - Output to Thesis.bbl
-[483] Biber.pm:128> INFO - WARNINGS: 7
+[148] Biber.pm:4340> INFO - Processing section 0
+[157] Biber.pm:4531> INFO - Looking for bibtex format file 'bib/thesis_refs.bib' for section 0
+[159] bibtex.pm:1689> INFO - LaTeX decoding ...
+[206] bibtex.pm:1494> INFO - Found BibTeX data source 'bib/thesis_refs.bib'
+[444] UCollate.pm:68> INFO - Overriding locale 'en-UK' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[444] UCollate.pm:68> INFO - Overriding locale 'en-UK' defaults 'variable = shifted' with 'variable = non-ignorable'
+[444] Biber.pm:4168> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-UK'
+[444] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-UK'
+[466] bbl.pm:654> INFO - Writing 'Thesis.bbl' with encoding 'UTF-8'
+[486] bbl.pm:757> INFO - Output to Thesis.bbl

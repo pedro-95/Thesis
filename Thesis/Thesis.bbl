@@ -1598,6 +1598,97 @@
       \verb 10.1103/PhysRevLett.82.871
       \endverb
     \endentry
+    \entry{Martin1988}{article}{}
+      \name{author}{4}{}{%
+        {{hash=92c782ae267d6798a2368b15d5c52038}{%
+           family={Martin},
+           familyi={M\bibinitperiod},
+           given={Peter\bibnamedelima J.},
+           giveni={P\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=b2678ce2d506ffed0db3786257cf28f2}{%
+           family={Oldaker},
+           familyi={O\bibinitperiod},
+           given={Bruce\bibnamedelima G.},
+           giveni={B\bibinitperiod\bibinitdelim G\bibinitperiod}}}%
+        {{hash=3755ebf8fced5424c8293409383bf949}{%
+           family={Miklich},
+           familyi={M\bibinitperiod},
+           given={Andrew\bibnamedelima H.},
+           giveni={A\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=144f235baee4b0094f25907a85011c9d}{%
+           family={Pritchard},
+           familyi={P\bibinitperiod},
+           given={David\bibnamedelima E.},
+           giveni={D\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society}%
+      }
+      \strng{namehash}{9dd5e2566997d5d9a3dc6e99bd1e81da}
+      \strng{fullhash}{eb37f5f94a2a5094522f273c538571c0}
+      \strng{bibnamehash}{9dd5e2566997d5d9a3dc6e99bd1e81da}
+      \strng{authorbibnamehash}{9dd5e2566997d5d9a3dc6e99bd1e81da}
+      \strng{authornamehash}{9dd5e2566997d5d9a3dc6e99bd1e81da}
+      \strng{authorfullhash}{eb37f5f94a2a5094522f273c538571c0}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{6}
+      \field{journaltitle}{Phys. Rev. Lett.}
+      \field{month}{2}
+      \field{title}{Bragg scattering of atoms from a standing light wave}
+      \field{volume}{60}
+      \field{year}{1988}
+      \field{pages}{515\bibrangedash 518}
+      \range{pages}{4}
+      \verb{doi}
+      \verb 10.1103/PhysRevLett.60.515
+      \endverb
+    \endentry
+    \entry{Giltner1995}{article}{}
+      \name{author}{3}{}{%
+        {{hash=369f55b6fbb6abceacfb0d5d7986c955}{%
+           family={Giltner},
+           familyi={G\bibinitperiod},
+           given={David\bibnamedelima M.},
+           giveni={D\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=0efb4446a7c28fa434fb1572dd365fef}{%
+           family={McGowan},
+           familyi={M\bibinitperiod},
+           given={Roger\bibnamedelima W.},
+           giveni={R\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+        {{hash=bee9716265832e32129fd2dc84a600ba}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Siu\bibnamedelima Au},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society}%
+      }
+      \strng{namehash}{f6bd7f4d226c9bc6e664d7ab05ffc1df}
+      \strng{fullhash}{f6bd7f4d226c9bc6e664d7ab05ffc1df}
+      \strng{bibnamehash}{f6bd7f4d226c9bc6e664d7ab05ffc1df}
+      \strng{authorbibnamehash}{f6bd7f4d226c9bc6e664d7ab05ffc1df}
+      \strng{authornamehash}{f6bd7f4d226c9bc6e664d7ab05ffc1df}
+      \strng{authorfullhash}{f6bd7f4d226c9bc6e664d7ab05ffc1df}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{5}
+      \field{journaltitle}{Phys. Rev. A}
+      \field{month}{11}
+      \field{title}{Theoretical and experimental study of the Bragg scattering of atoms from a standing light wave}
+      \field{volume}{52}
+      \field{year}{1995}
+      \field{pages}{3966\bibrangedash 3972}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1103/PhysRevA.52.3966
+      \endverb
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

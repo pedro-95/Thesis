@@ -30,7 +30,7 @@
 \contentsline {section}{\numberline {3.2}Diffraction of an ultracold atomic ensemble}{23}{section.3.2}%
 \contentsline {subsection}{\numberline {3.2.1}Bragg condition}{24}{subsection.3.2.1}%
 \contentsline {subsection}{\numberline {3.2.2}Rabi oscillations}{25}{subsection.3.2.2}%
-\contentsline {subsection}{\numberline {3.2.3}Different regimes}{26}{subsection.3.2.3}%
+\contentsline {section}{\numberline {3.3}Different regimes}{26}{section.3.3}%
 \contentsline {chapter}{\nonumberline Bibliography}{27}{chapter*.20}%
 \contentsline {chapter}{\numberline {A}Useful information}{31}{appendix.A}%
 \contentsline {chapter}{\nonumberline List of Figures}{33}{chapter*.21}%

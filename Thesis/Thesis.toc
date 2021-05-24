@@ -28,12 +28,12 @@
 \contentsline {subsection}{\numberline {3.1.2}One-dimensional optical lattice}{21}{subsection.3.1.2}%
 \contentsline {subsubsection}{\nonumberline Moving optical lattice}{22}{subsubsection*.18}%
 \contentsline {section}{\numberline {3.2}Diffraction of an ultracold atomic ensemble}{23}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}Bragg condition}{24}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.1}Bragg condition}{23}{subsection.3.2.1}%
 \contentsline {subsection}{\numberline {3.2.2}Rabi oscillations}{25}{subsection.3.2.2}%
 \contentsline {section}{\numberline {3.3}Different regimes}{26}{section.3.3}%
-\contentsline {chapter}{\nonumberline Bibliography}{27}{chapter*.20}%
+\contentsline {chapter}{\nonumberline Bibliography}{27}{chapter*.21}%
 \contentsline {chapter}{\numberline {A}Useful information}{31}{appendix.A}%
-\contentsline {chapter}{\nonumberline List of Figures}{33}{chapter*.21}%
-\contentsline {chapter}{\nonumberline List of Tables}{35}{chapter*.22}%
-\contentsline {chapter}{\nonumberline Acronyms}{37}{chapter*.23}%
+\contentsline {chapter}{\nonumberline List of Figures}{33}{chapter*.22}%
+\contentsline {chapter}{\nonumberline List of Tables}{35}{chapter*.23}%
+\contentsline {chapter}{\nonumberline Acronyms}{37}{chapter*.24}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

@@ -1,18 +1,18 @@
 [0] Config.pm:311> INFO - This is Biber 2.16
 [0] Config.pm:314> INFO - Logfile is 'Thesis.blg'
-[68] biber:340> INFO - === Wed May 19, 2021, 16:58:23
-[79] Biber.pm:415> INFO - Reading 'Thesis.bcf'
-[138] Biber.pm:952> INFO - Found 42 citekeys in bib section 0
-[149] Biber.pm:4340> INFO - Processing section 0
-[158] Biber.pm:4531> INFO - Looking for bibtex format file 'bib/thesis_refs.bib' for section 0
-[160] bibtex.pm:1689> INFO - LaTeX decoding ...
-[209] bibtex.pm:1494> INFO - Found BibTeX data source 'bib/thesis_refs.bib'
-[430] Utils.pm:384> WARN - legacy month field 'Feb' in entry 'Martin1988' is not an integer - this will probably not sort properly.
-[435] Utils.pm:384> WARN - legacy month field 'Nov' in entry 'Giltner1995' is not an integer - this will probably not sort properly.
-[465] UCollate.pm:68> INFO - Overriding locale 'en-UK' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[466] UCollate.pm:68> INFO - Overriding locale 'en-UK' defaults 'variable = shifted' with 'variable = non-ignorable'
-[466] Biber.pm:4168> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-UK'
-[466] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-UK'
-[488] bbl.pm:654> INFO - Writing 'Thesis.bbl' with encoding 'UTF-8'
-[508] bbl.pm:757> INFO - Output to Thesis.bbl
-[508] Biber.pm:128> INFO - WARNINGS: 2
+[75] biber:340> INFO - === Mo Mai 24, 2021, 18:29:12
+[87] Biber.pm:415> INFO - Reading 'Thesis.bcf'
+[145] Biber.pm:952> INFO - Found 43 citekeys in bib section 0
+[157] Biber.pm:4340> INFO - Processing section 0
+[165] Biber.pm:4531> INFO - Looking for bibtex format file 'bib/thesis_refs.bib' for section 0
+[168] bibtex.pm:1689> INFO - LaTeX decoding ...
+[219] bibtex.pm:1494> INFO - Found BibTeX data source 'bib/thesis_refs.bib'
+[443] Utils.pm:384> WARN - legacy month field 'Feb' in entry 'Martin1988' is not an integer - this will probably not sort properly.
+[448] Utils.pm:384> WARN - legacy month field 'Nov' in entry 'Giltner1995' is not an integer - this will probably not sort properly.
+[481] UCollate.pm:68> INFO - Overriding locale 'en-UK' defaults 'variable = shifted' with 'variable = non-ignorable'
+[482] UCollate.pm:68> INFO - Overriding locale 'en-UK' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[482] Biber.pm:4168> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-UK'
+[482] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-UK'
+[505] bbl.pm:654> INFO - Writing 'Thesis.bbl' with encoding 'UTF-8'
+[526] bbl.pm:757> INFO - Output to Thesis.bbl
+[526] Biber.pm:128> INFO - WARNINGS: 2

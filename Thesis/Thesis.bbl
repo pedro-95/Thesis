@@ -1598,6 +1598,33 @@
       \verb 10.1103/PhysRevLett.82.871
       \endverb
     \endentry
+    \entry{Foot2005}{book}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{1}{}{%
+        {{hash=2587b6412a9a4d977c9eaf24b2b03cd7}{%
+           family={Foot},
+           familyi={F\bibinitperiod},
+           given={Christopher\bibnamedelima J},
+           giveni={C\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Oxford University Press}%
+      }
+      \strng{namehash}{c6d586bcafc1ab3b68527784c62c4e56}
+      \strng{fullhash}{c6d586bcafc1ab3b68527784c62c4e56}
+      \strng{bibnamehash}{c6d586bcafc1ab3b68527784c62c4e56}
+      \strng{authorbibnamehash}{c6d586bcafc1ab3b68527784c62c4e56}
+      \strng{authornamehash}{c6d586bcafc1ab3b68527784c62c4e56}
+      \strng{authorfullhash}{c6d586bcafc1ab3b68527784c62c4e56}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Atomic physics}
+      \field{volume}{7}
+      \field{year}{2005}
+    \endentry
     \entry{Martin1988}{article}{}
       \name{author}{4}{}{%
         {{hash=92c782ae267d6798a2368b15d5c52038}{%

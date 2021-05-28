@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.4.23)  25 MAY 2021 10:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.4.22)  28 MAY 2021 16:16
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -254,9 +254,9 @@ Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: \l@canadian = using hyphenrules for english
 (babel)             (\language0) on input line 102.
 Package babel Info: \l@australian = using hyphenrules for ukenglish
-(babel)             (\language8) on input line 105.
+(babel)             (\language7) on input line 105.
 Package babel Info: \l@newzealand = using hyphenrules for ukenglish
-(babel)             (\language8) on input line 108.
+(babel)             (\language7) on input line 108.
 )))
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/iflang.sty
 Package: iflang 2018/01/21 v1.7 Checks for the current language (HO)
@@ -2346,10 +2346,15 @@ Package pdftex.def Info: figs//diffraction.pdf  used on input line 105.
 <figs//raman_scheme.pdf, id=799, 1146.98006pt x 631.69589pt>
 File: figs//raman_scheme.pdf Graphic file (type pdf)
 <use figs//raman_scheme.pdf>
-Package pdftex.def Info: figs//raman_scheme.pdf  used on input line 165.
+Package pdftex.def Info: figs//raman_scheme.pdf  used on input line 171.
 (pdftex.def)             Requested size: 349.97028pt x 192.73926pt.
- [25])
-[26 <./figs//raman_scheme.pdf>]
+ [25]
+[26 <./figs//raman_scheme.pdf>]) [27] [28
+
+
+
+
+]
 chapter without number
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
 (Font)              scaled to size 10.95pt on input line 225.
@@ -2362,21 +2367,16 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
 (Font)              scaled to size 8.0pt on input line 225.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
 (Font)              scaled to size 6.1pt on input line 225.
-[27
-
-
-
-
-] [28] [29]
+[29] [30] [31]
 \openout2 = `thesis_appendix.aux'.
 
- (./thesis_appendix.tex [30
+ (./thesis_appendix.tex [32
 
 
 
 ]
 chapter A.
-) [31] [32
+) [33] [34
 
 
 
@@ -2388,10 +2388,10 @@ Package tocbasic Info: character protrusion at lof deactivated on input line 25
 \tf@lof=\write7
 \openout7 = `Thesis.lof'.
 
- [33
+ [35
 
 
-] [34
+] [36
 
 
 ]
@@ -2401,12 +2401,12 @@ Package tocbasic Info: character protrusion at lot deactivated on input line 25
 \tf@lot=\write8
 \openout8 = `Thesis.lot'.
 
- [35] [36
+ [37] [38
 
 
 ]
 chapter without number
-[37] (./Thesis.aux (./thesis_acknowledge.aux) (./1_thesis_intro.aux)
+[39] (./Thesis.aux (./thesis_acknowledge.aux) (./1_thesis_intro.aux)
 (./2_thesis_bec_condensation.aux) (./3_thesis_bragg_scattering.aux)
 (./thesis_appendix.aux) (./Thesis.acr))
 Package logreq Info: Writing requests to 'Thesis.run.xml'.
@@ -2414,13 +2414,13 @@ Package logreq Info: Writing requests to 'Thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 54544 strings out of 479304
- 1104002 string characters out of 5869779
- 2038707 words of memory out of 5000000
- 70049 multiletter control sequences out of 15000+600000
- 738747 words of font info for 792 fonts, out of 8000000 for 9000
+ 54552 strings out of 479304
+ 1104142 string characters out of 5869779
+ 2038805 words of memory out of 5000000
+ 70053 multiletter control sequences out of 15000+600000
+ 738383 words of font info for 791 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 111i,20n,145p,10601b,3654s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 111i,20n,145p,10601b,3656s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf-pc.enc}{/usr/
 share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}{/usr/share/texli
 ve/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}{/usr/share/texmf/fonts/enc
@@ -2436,10 +2436,10 @@ type1/public/txfonts/txsya.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
 c/newtx/txsys.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/ztmb.
 pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/ztmr.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/newtx/ztmri.pfb>
-Output written on Thesis.pdf (43 pages, 2580910 bytes).
+Output written on Thesis.pdf (45 pages, 2584028 bytes).
 PDF statistics:
- 1189 PDF objects out of 1200 (max. 8388607)
- 1028 compressed objects within 11 object streams
- 181 named destinations out of 1000 (max. 500000)
+ 1203 PDF objects out of 1440 (max. 8388607)
+ 1040 compressed objects within 11 object streams
+ 186 named destinations out of 1000 (max. 500000)
  251655 words of extra memory for PDF output out of 266212 (max. 10000000)
 

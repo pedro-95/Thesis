@@ -157,20 +157,33 @@ For a lattice formed by two counter-propagating waves.
 
 \subsection{Rabi oscillations}
 
-As it has already been said, the diffraction of an atomic \ac{bec} with optical lattices can be considered as a 2$N$-photon process. This sort of processes are also known as Raman transitions. The energetic scheme of a 2-photon Raman transition process, like the one discussed in previous section, can be seen in Figure \ref{fig:raman_scheme} \cite{Kozuma1999}. Therefore, the system acts an effective 2-level scheme formed by the initial momentum state $\ket{g, 0}$, together with the final state $\ket{e, 2\hbar k}$ for the 1st diffraction order. This results in Rabi oscillations appearing in the population number of both states, analogously to what happens for the case of a real 2-level system \cite{Foot2005}. Thus, the diffraction of an atomic \ac{bec} produces oscillations in the population rate of the 1st diffracted order as a function of the interaction time $t_\text{int}$ between optical lattice and ensemble \cite{Martin1988}.
+As it has already been said, the diffraction of an atomic \ac{bec} with optical lattices can be considered as a 2$N$-photon process. This sort of processes are also known as Raman transitions. The energetic scheme of a 2-photon Raman transition process, like the one discussed in previous section, can be seen in Figure \ref{fig:raman_scheme} \cite{Kozuma1999}. Therefore, the system acts an effective 2-level scheme formed by the initial momentum state $\ket{g, 0}$, together with the final state $\ket{e, 2\hbar k}$ for the 1st diffraction order. This results in Rabi oscillations appearing in the population number of both states, analogously to what happens for the case of a real 2-level system \cite{Foot2005}. Thus, the diffraction of an atomic \ac{bec} produces oscillations in the population rate of the 1st diffracted order as a function of the interaction time $t_\text{int}$ between optical lattice and ensemble \cite{Martin1988}. In order to make calculations easier, the experimental situation will always use an optical lattice with a shaped like squared well in time. This way, the lattice will be on with constant intensity during a time $t_{\text{int}}$ and completely off the rest of experimental phases. For the case of a Raman transition like the one disused in Figure \ref{fig:raman_scheme}, the population in a first resonant ($\Delta=\Delta_1$) diffracted order $\ket{g, 2\hbar k}$ as a function of the interaction time with the lattice can be expressed as
+\begin{equation}
+	P_1(t_\text{int}) = \text{sin}^2\bigg(\frac{\Omega_\text{eff} t_\text{int}}{2}\bigg)
+\end{equation}
 
-\cite{Giltner1995}
+Resulting in the well-known Rabi oscillations like in the case of an atomic 2-level system. The variable $\Omega_\text{eff}$ is playing here the role of effective Rabi frequency for the 2-photons Raman transition. For the first resonant order, the effective Rabi frequency can be expressed as
+\begin{equation}
+	\Omega_\text{eff} = \frac{\Omega_1 \cdot \Omega_2}{2\delta}
+\end{equation}
 
 \begin{figure}[!htbp]\centering
 	\includegraphics[width=0.8\columnwidth]{raman_scheme.pdf}
-	\caption[Energy scheme of the 2-photon Raman transition process]{Energy scheme of the 2-photon Raman transition process. The 2-levels atom is initially in the state $\ket{g, 0}$, with $g$ representing the atomic ground state and 0 the null momentum transferred initially to the atom. Then, the atom absorbs a first photon with frequency $\omega_1$, which stimulates it to an imaginary state $\ket{i, \hbar k}$. Finally, the atom emits a second photon with frequency $\omega_2$ through stimulated emission. It must be noted that the momentum transfer has been considered for two counter-propagating photons ($\theta=\pi$ in Equation \eqref{eq:two_photon_recoil}), and also that $\Delta_1$ represents the resonance condition for the first order given by Equation \eqref{eq:Bragg_condition} with $n=1$. Therefore, when $\Delta = \Delta_1$ the condition is fulfilled for this order and the energetic transition gets enhanced. Moreover, to avoid real excitation of the atom into $\ket{e, \hbar k_0}$, which produces spontaneous emission processes, the detuning from atomic resonance $\delta$ must be large enough. }\label{fig:raman_scheme}
+	\caption[Energy scheme of the 2-photon Raman transition process]{Energy scheme of the 2-photon Raman transition process. The 2-level atom is initially in the state $\ket{g, 0}$, with $g$ representing the atomic ground state and 0 the null momentum transferred initially to the atom. Then, the atom absorbs a first photon with frequency $\omega_1$, which stimulates it to an imaginary state $\ket{i, \hbar k}$. Finally, the atom emits a second photon with frequency $\omega_2$ through stimulated emission. It must be noted that the momentum transfer has been considered for two counter-propagating photons ($\theta=\pi$ in Equation \eqref{eq:two_photon_recoil}), and also that $\Delta_1$ represents the resonance condition for the first order given by Equation \eqref{eq:Bragg_condition} with $n=1$. Therefore, when $\Delta = \Delta_1$ the condition is fulfilled for this order and the energetic transition gets enhanced. Moreover, to avoid real excitation of the atom into $\ket{e, \hbar k}$, which produces spontaneous emission processes, the detuning from atomic resonance $\delta$ must be large enough. }\label{fig:raman_scheme}
 \end{figure}
+
+The variables $\Omega_1$ and $\Omega_2$ represent the single photon Rabi frequency for the atomic 2-level system interacting with a photon from the left and right laser beam respectively \cite{Foot2005}. By using the electric dipole approximation (the wavelength transition can be considered much greater than the typical size of the atom) and considering both beams to be linearly polarized in the $z$ direction, the single photon Rabi frequency can be considered as
+\begin{equation}
+	\Omega_i = \frac{eZ_{12}}{\hbar} \mathopen|\vec{E}_{i}\mathclose|
+\end{equation} 
+
+Where $e$ is the electron charge, $eZ_{12}=\bra{g}\nu\ket{e}$ the dipole matrix element and $\mathopen|\vec{E}_{i}\mathclose|$ the electric field amplitude produced by beam $i\in {1,2}$.
 
 \newpage
 
 \section{Different regimes}
 
-%besides the 2$n$-photon process can be 
+\cite{Giltner1995}
 
 %%% Local Variables: 
 %%% mode: latex

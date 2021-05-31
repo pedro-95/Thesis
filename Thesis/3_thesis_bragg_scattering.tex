@@ -162,8 +162,8 @@ As it has already been said, the diffraction of an atomic \ac{bec} with optical 
 	P_1(t_\text{int}) = \text{sin}^2\bigg(\frac{\Omega_\text{eff} t_\text{int}}{2}\bigg)
 \end{equation}
 
-Resulting in the well-known Rabi oscillations like in the case of an atomic 2-level system. The variable $\Omega_\text{eff}$ is playing here the role of effective Rabi frequency for the 2-photons Raman transition. For the first resonant order, the effective Rabi frequency can be expressed as
-\begin{equation}
+Resulting in the well-known Rabi oscillations like in the case of an atomic 2-level system. The variable $\Omega_\text{eff}$ is playing here the role of effective Rabi frequency for the 2-photons Raman transition. It is commonly called 2-photon Rabi frequency and, for the first resonant order, it can be expressed as
+\begin{equation}\label{eq:effective_Rabi_frequency}
 	\Omega_\text{eff} = \frac{\Omega_1 \cdot \Omega_2}{2\delta}
 \end{equation}
 
@@ -174,16 +174,27 @@ Resulting in the well-known Rabi oscillations like in the case of an atomic 2-le
 
 The variables $\Omega_1$ and $\Omega_2$ represent the single photon Rabi frequency for the atomic 2-level system interacting with a photon from the left and right laser beam respectively \cite{Foot2005}. By using the electric dipole approximation (the wavelength transition can be considered much greater than the typical size of the atom) and considering both beams to be linearly polarized in the $z$ direction, the single photon Rabi frequency can be considered as
 \begin{equation}
-	\Omega_i = \frac{eZ_{12}}{\hbar} \mathopen|\vec{E}_{i}\mathclose|
+	\Omega_i = \frac{eZ_{12}}{\hbar} \mathopen|\vec{E}_{i}\mathclose(\vec{r})|
 \end{equation} 
 
-Where $e$ is the electron charge, $eZ_{12}=\bra{g}\nu\ket{e}$ the dipole matrix element and $\mathopen|\vec{E}_{i}\mathclose|$ the electric field amplitude produced by beam $i\in {1,2}$.
+Where $e$ is the electron charge, $eZ_{12}=\bra{g}\mu\ket{e}$ the dipole matrix element and $\mathopen|\vec{E}_{i}(\vec{r})\mathclose|$ the electric field amplitude at the point $\vec{r}$ produced by beam $i\in [1,2]$. Therefore, using the relation between electric field amplitude and optical intensity in vacuum is given by
+\begin{equation}
+	\mathopen|\vec{E}_{i}(\vec{r})\mathclose| = \sqrt{\frac{2}{c \epsilon_0}}\sqrt{I_i(\vec{r})}
+\end{equation}
 
-\newpage
+A relation between the 2-photon Rabi frequency and the optical lattice depth can be obtained simply by using Equations \eqref{eq:relation_lattice_potential_depth} and \eqref{eq:effective_Rabi_frequency} as \cite{Ovchinnikov1999}
+\begin{equation}
+	U_0 = 2\hbar\Omega_\text{eff}
+\end{equation}
+
+Where the semi-classical approximation has been used $\Gamma=\Gamma_\text{smcl}$ given by Equation \eqref{eq:semiclassical_damping_rate}. This shows a direct relation between the 2-photons Rabi frequency of the diffraction process and the optical lattice depth. It had been shown that this is an important factor required to characterize the system but it could not be estimated experimentally in an accurate way. Now, it is possible to estimate the optical lattice depth by obtaining just the 2-photon Rabi frequency. It must be noted that the linear factor $2\hbar$ may not hold for some cases, where a really high accuracy must be needed, so multiple alternative calibration methods have been proposed \cite{Ovchinnikov1999,Cabrera2018, Friebel1998,Cristiani2002}. However, the topic is out of reach for this thesis, with a complex calibration of the lattice being a possible pending job for the future. As a side note, the calculations shown here can be generalized for 2$N$-photon processes \cite{Giltner1995}. With the effective Rabi frequency for any resonant $n$ diffracted order being
+\begin{equation}
+	\Omega_\text{eff}^{(n)} = \frac{(\Omega_1 \cdot \Omega_2)^n}{2^{4n-3}((n-1)!)^2\delta^n(\Delta_1/4)^{n-1}}
+\end{equation}
+
+Note that for the first order $n=1$, Equation \eqref{eq:effective_Rabi_frequency} is reached.
 
 \section{Different regimes}
-
-\cite{Giltner1995}
 
 %%% Local Variables: 
 %%% mode: latex

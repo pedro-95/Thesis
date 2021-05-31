@@ -1673,6 +1673,180 @@
       \verb 10.1103/PhysRevLett.60.515
       \endverb
     \endentry
+    \entry{Cabrera2018}{article}{}
+      \name{author}{8}{}{%
+        {{hash=d34a4ff0cd1822b4c46f9789e0c9f30d}{%
+           family={Cabrera-Gutiérrez},
+           familyi={C\bibinithyphendelim G\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=251156db2f86e06e64681569058a45ec}{%
+           family={Michon},
+           familyi={M\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+        {{hash=b61ae5a76f85bed834fc259894a0f76c}{%
+           family={Brunaud},
+           familyi={B\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+        {{hash=604266b4c37ba4ab0fc19c550cc277b7}{%
+           family={Kawalec},
+           familyi={K\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=1d4e8d6640661a66fd1f75cce07f068b}{%
+           family={Fortun},
+           familyi={F\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=feb741495582a94d0157bedb1371e109}{%
+           family={Arnal},
+           familyi={A\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=927dcd47fb45398262d648296adc2d7b}{%
+           family={Billy},
+           familyi={B\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=7edc2c760df912ffc883150e397a4b0a}{%
+           family={Guéry-Odelin},
+           familyi={G\bibinithyphendelim O\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society}%
+      }
+      \strng{namehash}{675c1089d9e4aa45e40a4165fd620c6d}
+      \strng{fullhash}{f99b382b45ca41390e3da8c0484bb98c}
+      \strng{bibnamehash}{675c1089d9e4aa45e40a4165fd620c6d}
+      \strng{authorbibnamehash}{675c1089d9e4aa45e40a4165fd620c6d}
+      \strng{authornamehash}{675c1089d9e4aa45e40a4165fd620c6d}
+      \strng{authorfullhash}{f99b382b45ca41390e3da8c0484bb98c}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{4}
+      \field{journaltitle}{Phys. Rev. A}
+      \field{month}{4}
+      \field{title}{Robust calibration of an optical-lattice depth based on a phase shift}
+      \field{volume}{97}
+      \field{year}{2018}
+      \field{pages}{043617}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevA.97.043617
+      \endverb
+    \endentry
+    \entry{Friebel1998}{article}{}
+      \name{author}{5}{}{%
+        {{hash=f8d5a2c937bdc65ed3aa4c2ad3641de8}{%
+           family={Friebel},
+           familyi={F\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=b6afaeaf34154679f24012452ac98e1c}{%
+           family={D'Andrea},
+           familyi={D\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=91aa622f079d3a76d86e0186027f35f9}{%
+           family={Walz},
+           familyi={W\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=6d94927b02be586a9ab7ccd326f08376}{%
+           family={Weitz},
+           familyi={W\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=9298e5194eb6d3a8d20a7ce76491d65e}{%
+           family={Hänsch},
+           familyi={H\bibinitperiod},
+           given={T.\bibnamedelimi W.},
+           giveni={T\bibinitperiod\bibinitdelim W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society}%
+      }
+      \strng{namehash}{bef40a394a4165dfbd6804149bd06829}
+      \strng{fullhash}{46476abca0da222197c09b9b87dca3c5}
+      \strng{bibnamehash}{bef40a394a4165dfbd6804149bd06829}
+      \strng{authorbibnamehash}{bef40a394a4165dfbd6804149bd06829}
+      \strng{authornamehash}{bef40a394a4165dfbd6804149bd06829}
+      \strng{authorfullhash}{46476abca0da222197c09b9b87dca3c5}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{1}
+      \field{journaltitle}{Phys. Rev. A}
+      \field{month}{1}
+      \field{title}{${\mathrm{CO}}_{2}$-laser optical lattice with cold rubidium atoms}
+      \field{volume}{57}
+      \field{year}{1998}
+      \field{pages}{R20\bibrangedash R23}
+      \range{pages}{-1}
+      \verb{doi}
+      \verb 10.1103/PhysRevA.57.R20
+      \endverb
+    \endentry
+    \entry{Cristiani2002}{article}{}
+      \name{author}{5}{}{%
+        {{hash=1255819e443b42ed02971ee128e2a08c}{%
+           family={Cristiani},
+           familyi={C\bibinitperiod},
+           given={M.},
+           giveni={M\bibinitperiod}}}%
+        {{hash=aa2dc9cbd8f8e69587d034f6b4fcfb96}{%
+           family={Morsch},
+           familyi={M\bibinitperiod},
+           given={O.},
+           giveni={O\bibinitperiod}}}%
+        {{hash=42af49cf8a178929a6e614a5c4bf33c4}{%
+           family={Müller},
+           familyi={M\bibinitperiod},
+           given={J.\bibnamedelimi H.},
+           giveni={J\bibinitperiod\bibinitdelim H\bibinitperiod}}}%
+        {{hash=b0b813e10aa02e0cfc5d91c318300db5}{%
+           family={Ciampini},
+           familyi={C\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=570b12944864c549ce5c1421c5533c02}{%
+           family={Arimondo},
+           familyi={A\bibinitperiod},
+           given={E.},
+           giveni={E\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {American Physical Society}%
+      }
+      \strng{namehash}{d79ded60a811094d14626be7d791d403}
+      \strng{fullhash}{866d0b943cf39e068e4793de0a78c1c6}
+      \strng{bibnamehash}{d79ded60a811094d14626be7d791d403}
+      \strng{authorbibnamehash}{d79ded60a811094d14626be7d791d403}
+      \strng{authornamehash}{d79ded60a811094d14626be7d791d403}
+      \strng{authorfullhash}{866d0b943cf39e068e4793de0a78c1c6}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issue}{6}
+      \field{journaltitle}{Phys. Rev. A}
+      \field{month}{6}
+      \field{title}{Experimental properties of Bose-Einstein condensates in one-dimensional optical lattices: Bloch oscillations, Landau-Zener tunneling, and mean-field effects}
+      \field{volume}{65}
+      \field{year}{2002}
+      \field{pages}{063612}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1103/PhysRevA.65.063612
+      \endverb
+    \endentry
     \entry{Giltner1995}{article}{}
       \name{author}{3}{}{%
         {{hash=369f55b6fbb6abceacfb0d5d7986c955}{%

@@ -2419,7 +2419,12 @@
     <bcf:citekey order="52">Foot2005</bcf:citekey>
     <bcf:citekey order="53">Martin1988</bcf:citekey>
     <bcf:citekey order="54">Foot2005</bcf:citekey>
-    <bcf:citekey order="55">Giltner1995</bcf:citekey>
+    <bcf:citekey order="55">Ovchinnikov1999</bcf:citekey>
+    <bcf:citekey order="56">Ovchinnikov1999</bcf:citekey>
+    <bcf:citekey order="56">Cabrera2018</bcf:citekey>
+    <bcf:citekey order="56">Friebel1998</bcf:citekey>
+    <bcf:citekey order="56">Cristiani2002</bcf:citekey>
+    <bcf:citekey order="57">Giltner1995</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

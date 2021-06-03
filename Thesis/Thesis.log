@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.4.23)  1 JUN 2021 09:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.4.22)  3 JUN 2021 12:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -254,9 +254,9 @@ Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: \l@canadian = using hyphenrules for english
 (babel)             (\language0) on input line 102.
 Package babel Info: \l@australian = using hyphenrules for ukenglish
-(babel)             (\language8) on input line 105.
+(babel)             (\language7) on input line 105.
 Package babel Info: \l@newzealand = using hyphenrules for ukenglish
-(babel)             (\language8) on input line 108.
+(babel)             (\language7) on input line 108.
 )))
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/iflang.sty
 Package: iflang 2018/01/21 v1.7 Checks for the current language (HO)
@@ -2414,9 +2414,9 @@ Package logreq Info: Writing requests to 'Thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 54572 strings out of 479304
- 1104685 string characters out of 5869779
- 2039081 words of memory out of 5000000
+ 54573 strings out of 479304
+ 1104708 string characters out of 5869779
+ 2039093 words of memory out of 5000000
  70063 multiletter control sequences out of 15000+600000
  738601 words of font info for 794 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
@@ -2436,10 +2436,10 @@ type1/public/txfonts/txsya.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
 c/newtx/txsys.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/ztmb.
 pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/ztmr.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/newtx/ztmri.pfb>
-Output written on Thesis.pdf (45 pages, 2587538 bytes).
+Output written on Thesis.pdf (45 pages, 2588232 bytes).
 PDF statistics:
- 1226 PDF objects out of 1440 (max. 8388607)
- 1063 compressed objects within 11 object streams
- 192 named destinations out of 1000 (max. 500000)
+ 1231 PDF objects out of 1440 (max. 8388607)
+ 1068 compressed objects within 11 object streams
+ 193 named destinations out of 1000 (max. 500000)
  251655 words of extra memory for PDF output out of 266212 (max. 10000000)
 

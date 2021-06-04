@@ -188,20 +188,33 @@ A relation between the 2-photon Rabi frequency and the optical lattice depth can
 \end{equation}
 
 Where the semi-classical approximation has been used $\Gamma=\Gamma_\text{smcl}$ given by Equation \eqref{eq:semiclassical_damping_rate}. This shows a direct relation between the 2-photons Rabi frequency of the diffraction process and the optical lattice depth. It had been shown that this is an important factor required to characterize the system but it could not be estimated experimentally in an accurate way. Now, it is possible to estimate the optical lattice depth by obtaining just the 2-photon Rabi frequency. It must be noted that the linear factor $2\hbar$ may not hold for some cases, where a really high accuracy must be needed, so multiple alternative calibration methods have been proposed \cite{Ovchinnikov1999,Cabrera2018, Friebel1998,Cristiani2002}. However, the topic is out of reach for this thesis, with a complex calibration of the lattice being a possible pending job for the future. As a side note, the calculations shown here can be generalized for 2$N$-photon processes \cite{Giltner1995}. With the effective Rabi frequency for any resonant $n$ diffracted order being
-\begin{equation}
-	\Omega_\text{eff}^{(n)} = \frac{(\Omega_1 \cdot \Omega_2)^n}{2^{4n-3}((n-1)!)^2\delta^n(\Delta_1/4)^{n-1}}
+\begin{equation}\label{eq:effective_Rabi_frequency_n}
+	\Omega_\text{eff}^{(n)} = \frac{(\Omega_1 \cdot \Omega_2)^n}{2^{4n-3}((n-1)!)^2\delta^n\omega_r^{n-1}}
 \end{equation}
 
-Note that for the first order $n=1$, Equation \eqref{eq:effective_Rabi_frequency} is reached.
+Here, the commonly used  parameter $\omega_r$ is known as recoil frequency and has the expression
+\begin{equation}
+	\omega_r = \frac{\Delta_1}{4} = \frac{\hbar k^2}{2M}
+\end{equation}
+
+Lastly, note that Equation \eqref{eq:effective_Rabi_frequency} can be reached for the first order $n=1$ in Equation \eqref{eq:effective_Rabi_frequency_n}. 
 
 \subsection{Diffraction regimes}
 
-Once the interaction process between an atomic \ac{bec} and optical lattice has been described, one can take a closer look to the global process taking place. This way, two different regimes can be distinguished by analysing the Hamiltonian for atoms interacting with an optical lattice as \cite{Mueller2008}
+Once the interaction process between an atomic \ac{bec} and optical lattice has been described, one can take a closer look to the system in a more general approach. This way, two different regimes can be distinguished by analysing the Hamiltonian for atoms interacting with an optical lattice as \cite{Mueller2008}
 \begin{equation}
-	H= \frac{p^2}{2M} + U_\text{lat}
+	\hat{H}= \frac{\hat{p}^2}{2M} + U_\text{lat}
 \end{equation}
 
-Where $U_\text{lat}$ represents the lattice potential described by Equation \eqref{eq:relation_lattice_potential}. 
+Where $U_\text{lat}$ represents the lattice potential described by Equation \eqref{eq:relation_lattice_potential}. Therefore, the resulting Schr\"odinger equation looks like
+\begin{equation}\label{eq:Schroedinger}
+	i\hbar \dot\psi(x,t) = -\frac{\hbar^2}{2M}\frac{\partial^2 \psi(x,t)}{\partial x^2} + 2\hbar \Omega_\text{eff} \text{cos}^2(kx)\cdot\psi(x,t)
+\end{equation}
+
+With $\psi(x,t)$ being the wave function of the 2-level atoms and $\dot\psi(x,t) \equiv \frac{\partial \psi(x,t)}{\partial t}$ the temporal partial derivative. In order to reach this expression, it is required to assume that the atomic detuning is much greater than the excited state linewidth $\Delta \gg \Gamma, \Omega_1, \Omega_2, \omega_r$. This avoids the excitation of most the atoms into its excited state, allowing for $\psi(x,t)$ to be considered the wave function of atoms in the ground state. Moreover, the system have been assumed to be a one direction problem, with the atoms being only able to interact with the optical lattice in the $x$ direction. As it can be seen, the rest of parameters related with atomic, optical and alignment properties of the system are conveniently hidden within the 2-photon Rabi frequency $\Omega_\text{eff}$. For the case in which $\Omega_\text{eff}$ is not time dependant, Equation \eqref{eq:Schroedinger} enters under the classification group known as Mathieu's differential equations \cite{Mathieu1868}. This type of equation can not generally be solved analytically, which results in the need of simplifying the problem by distinguishing different regimes. This paper will approach the topic by discussing only the two main regimes in a qualitative way. For a more in-depth study, please refer to \cite{Mueller2008, Meystre2001, Ovchinnikov1999, Kadau2011,Keller1999}.
+
+\subsubsection{Raman-Nath regime}
+In the case of very short interaction times $t_\text{int}$, the atoms move only by a very small distance compared to the lattice period $\pi/k$. Therefore, the movement of atoms during the lattice pulse can be neglected, which allows to remove the kinetic energy term in the Schr\"odinger Equation \eqref{eq:Schroedinger} (first term on the right hand side). This is known as Raman-Nath approximation
 
 
 %%% Local Variables: 

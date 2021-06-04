@@ -1890,6 +1890,114 @@
       \verb 10.1103/PhysRevA.52.3966
       \endverb
     \endentry
+    \entry{Mathieu1868}{article}{}
+      \name{author}{1}{}{%
+        {{hash=258bcbedda8ed7a80c6c7798dda5ab4f}{%
+           family={Mathieu},
+           familyi={M\bibinitperiod},
+           given={Émile},
+           giveni={É\bibinitperiod}}}%
+      }
+      \strng{namehash}{258bcbedda8ed7a80c6c7798dda5ab4f}
+      \strng{fullhash}{258bcbedda8ed7a80c6c7798dda5ab4f}
+      \strng{bibnamehash}{258bcbedda8ed7a80c6c7798dda5ab4f}
+      \strng{authorbibnamehash}{258bcbedda8ed7a80c6c7798dda5ab4f}
+      \strng{authornamehash}{258bcbedda8ed7a80c6c7798dda5ab4f}
+      \strng{authorfullhash}{258bcbedda8ed7a80c6c7798dda5ab4f}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal de Mathématiques Pures et Appliquées}
+      \field{title}{Mémoire sur le mouvement vibratoire d'une membrane de forme elliptique.}
+      \field{volume}{13}
+      \field{year}{1868}
+      \field{pages}{137\bibrangedash 203}
+      \range{pages}{67}
+    \endentry
+    \entry{Meystre2001}{book}{}
+      \name{author}{1}{}{%
+        {{hash=0de8afa80d20030887bc81f8e1c6f4b6}{%
+           family={Meystre},
+           familyi={M\bibinitperiod},
+           given={Pierre},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer-Verlag New York}%
+      }
+      \strng{namehash}{0de8afa80d20030887bc81f8e1c6f4b6}
+      \strng{fullhash}{0de8afa80d20030887bc81f8e1c6f4b6}
+      \strng{bibnamehash}{0de8afa80d20030887bc81f8e1c6f4b6}
+      \strng{authorbibnamehash}{0de8afa80d20030887bc81f8e1c6f4b6}
+      \strng{authornamehash}{0de8afa80d20030887bc81f8e1c6f4b6}
+      \strng{authorfullhash}{0de8afa80d20030887bc81f8e1c6f4b6}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{1}
+      \field{series}{Springer Series on Atomic, Optical, and Plasma Physics}
+      \field{title}{Atom optics}
+      \field{volume}{33}
+      \field{year}{2001}
+    \endentry
+    \entry{Keller1999}{article}{}
+      \name{author}{6}{}{%
+        {{hash=c88847edb5fdf79de4f304d695609654}{%
+           family={Keller},
+           familyi={K\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=666a0bee35a7a955722ce2d124213482}{%
+           family={Schmiedmayer},
+           familyi={S\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod}}}%
+        {{hash=407e51a45fe191f3be1c320691f9f430}{%
+           family={Zeilinger},
+           familyi={Z\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+        {{hash=ff738019c400d216a3415db0a693c2ed}{%
+           family={Nonn},
+           familyi={N\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=d41f96265b95ef2835cd49f3f8aa6932}{%
+           family={Dürr},
+           familyi={D\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=947e855a3655b66d07435912fbc5baf5}{%
+           family={Rempe},
+           familyi={R\bibinitperiod},
+           given={G.},
+           giveni={G\bibinitperiod}}}%
+      }
+      \strng{namehash}{f8171c1b71d3bcf68870921380c4b13b}
+      \strng{fullhash}{10414db9396125f61ec0c229ea32c95e}
+      \strng{bibnamehash}{f8171c1b71d3bcf68870921380c4b13b}
+      \strng{authorbibnamehash}{f8171c1b71d3bcf68870921380c4b13b}
+      \strng{authornamehash}{f8171c1b71d3bcf68870921380c4b13b}
+      \strng{authorfullhash}{10414db9396125f61ec0c229ea32c95e}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1432-0649}
+      \field{journaltitle}{Applied Physics B}
+      \field{month}{10}
+      \field{number}{4}
+      \field{title}{Adiabatic following in standing-wave diffraction of atoms}
+      \field{volume}{69}
+      \field{year}{1999}
+      \field{pages}{303\bibrangedash 309}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1007/s003400050810
+      \endverb
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

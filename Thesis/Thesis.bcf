@@ -2426,6 +2426,12 @@
     <bcf:citekey order="56">Cristiani2002</bcf:citekey>
     <bcf:citekey order="57">Giltner1995</bcf:citekey>
     <bcf:citekey order="58">Mueller2008</bcf:citekey>
+    <bcf:citekey order="59">Mathieu1868</bcf:citekey>
+    <bcf:citekey order="60">Mueller2008</bcf:citekey>
+    <bcf:citekey order="60">Meystre2001</bcf:citekey>
+    <bcf:citekey order="60">Ovchinnikov1999</bcf:citekey>
+    <bcf:citekey order="60">Kadau2011</bcf:citekey>
+    <bcf:citekey order="60">Keller1999</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

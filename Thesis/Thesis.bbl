@@ -1998,6 +1998,43 @@
       \verb 10.1007/s003400050810
       \endverb
     \endentry
+    \entry{Raman1935}{article}{}
+      \name{author}{2}{}{%
+        {{hash=99001587f6f15ff9e84b6482152d54e8}{%
+           family={Raman},
+           familyi={R\bibinitperiod},
+           given={C.\bibnamedelimi V.},
+           giveni={C\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=de491dc1a211e03ff4fa8c03f864c1a5}{%
+           family={Nagendra\bibnamedelima Nathe},
+           familyi={N\bibinitperiod\bibinitdelim N\bibinitperiod},
+           given={N.\bibnamedelimi S.},
+           giveni={N\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{0e87ae26b2ba4957ff03b28ca72f7276}
+      \strng{fullhash}{0e87ae26b2ba4957ff03b28ca72f7276}
+      \strng{bibnamehash}{0e87ae26b2ba4957ff03b28ca72f7276}
+      \strng{authorbibnamehash}{0e87ae26b2ba4957ff03b28ca72f7276}
+      \strng{authornamehash}{0e87ae26b2ba4957ff03b28ca72f7276}
+      \strng{authorfullhash}{0e87ae26b2ba4957ff03b28ca72f7276}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{abstract}{(a) A theory of the phenomenon of the diffraction of light by sound-waves of high frequency in a medium, discovered by Debye and Sears and Lucas and Biquard, is developed.}
+      \field{issn}{0973-7685}
+      \field{journaltitle}{Proceedings of the Indian Academy of Sciences - Section A}
+      \field{month}{10}
+      \field{number}{4}
+      \field{title}{The diffraction of light by high frequency sound waves: Part I.}
+      \field{volume}{2}
+      \field{year}{1935}
+      \field{pages}{406\bibrangedash 412}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1007/BF03035840
+      \endverb
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

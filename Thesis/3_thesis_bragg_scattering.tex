@@ -214,8 +214,22 @@ Where $U_\text{lat}$ represents the lattice potential described by Equation \eqr
 With $\psi(x,t)$ being the wave function of the 2-level atoms and $\dot\psi(x,t) \equiv \frac{\partial \psi(x,t)}{\partial t}$ the temporal partial derivative. In order to reach this expression, it is required to assume that the atomic detuning is much greater than the excited state linewidth $\Delta \gg \Gamma, \Omega_1, \Omega_2, \omega_r$. This avoids the excitation of most the atoms into its excited state, allowing for $\psi(x,t)$ to be considered the wave function of atoms in the ground state. Moreover, the system have been assumed to be a one direction problem, with the atoms being only able to interact with the optical lattice in the $x$ direction. As it can be seen, the rest of parameters related with atomic, optical and alignment properties of the system are conveniently hidden within the 2-photon Rabi frequency $\Omega_\text{eff}$. For the case in which $\Omega_\text{eff}$ is not time dependant, Equation \eqref{eq:Schroedinger} enters under the classification group known as Mathieu's differential equations \cite{Mathieu1868}. This type of equation can not generally be solved analytically, which results in the need of simplifying the problem by distinguishing different regimes. This paper will approach the topic by discussing only the two main regimes in a qualitative way. For a more in-depth study, please refer to \cite{Mueller2008, Meystre2001, Ovchinnikov1999, Kadau2011,Keller1999}.
 
 \subsubsection{Raman-Nath regime}
-In the case of very short interaction times $t_\text{int}$, the atoms move only by a very small distance compared to the lattice period $\pi/k$. Therefore, the movement of atoms during the lattice pulse can be neglected, which allows to remove the kinetic energy term in Equation \eqref{eq:Schroedinger} (first term on the right hand side). This is known as Raman-Nath approximation and was first introduced in the study of light diffraction with sound waves, acting as a thin grating \cite{Raman1935}. After removing the kinetic energy term, the Schr\"odinger equation is solvable 
+In the case of very short interaction times $t_\text{int}$, the atoms move only by a very small distance compared to the lattice period $\pi/k$. Therefore, the movement of atoms during the lattice pulse can be neglected, which allows to remove the kinetic energy term in Equation \eqref{eq:Schroedinger} (first term on the right hand side). This is known as Raman-Nath approximation and was first introduced in the study of light diffraction with sound waves, acting as a thin grating \cite{Raman1935}. After removing the kinetic energy term, the Schr\"odinger equation becomes solvable. This solution splits the ground sate wave function into multiple $n$ terms with a momentum transfer of $2n\hbar k$, representing the diffraction orders described during this section.
+\begin{equation}
+	\psi(x,t) = \sum_{n=-\infty}^{+\infty}g_n(t)e^{i 2nkx}
+\end{equation}
 
+With the coefficients of every diffraction order given by Bessel functions of the first kind \cite{Mueller2008, Meystre2001}
+\begin{equation}
+	g_n(t) = (-i)^n J_n(\Omega_\text{eff} t)
+\end{equation}
+
+Therefore, the resulting population probability of any diffraction order $n$ after an interaction time with the lattice of $t_\text{int}$ can be expressed as
+\begin{equation}\label{eq:population_Raman_Nath}
+	P_n(t_\text{int}) = J_n^2(\Omega_\text{eff} t_\text{int})
+\end{equation}
+
+As a result, multiple diffraction orders are generated in this regime, each one with a population probability given by Equation \eqref{eq:population_Raman_Nath}. Initially, this number of diffraction orders increases with the interaction time $t_\text{int}$. However, after a certain limit, the number of orders stops increasing by effect of the kinetic energy term in the Hamiltonian. This can be justified by using the argument of energy-momentum conservation. Due to the dispersion relation being quadratic for atoms and linear for light, which avoids the conservation of energy and momentum for high orders. This effect can again be compared with phase mismatch in non-linear optics. The saturation of diffraction orders is what restricts the regime, and it can be proved, that the Raman-Nath approximation holds for interaction times $t_\text{int} \ll 1/\sqrt{\Omega_\text{eff} \omega_r}$ \cite{Meystre2001}. 
 
 %%% Local Variables: 
 %%% mode: latex

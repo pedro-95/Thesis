@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.4.22)  4 JUN 2021 20:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.4.22)  5 JUN 2021 19:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2414,13 +2414,13 @@ Package logreq Info: Writing requests to 'Thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 54595 strings out of 479304
- 1105322 string characters out of 5869779
- 2039443 words of memory out of 5000000
- 70077 multiletter control sequences out of 15000+600000
+ 54599 strings out of 479304
+ 1105393 string characters out of 5869779
+ 2039502 words of memory out of 5000000
+ 70078 multiletter control sequences out of 15000+600000
  738601 words of font info for 794 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 111i,20n,145p,10601b,3653s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 111i,20n,145p,10601b,3651s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf-pc.enc}{/usr/
 share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}{/usr/share/texli
 ve/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}{/usr/share/texmf/fonts/enc
@@ -2436,10 +2436,10 @@ type1/public/txfonts/txsya.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
 c/newtx/txsys.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/ztmb.
 pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/ztmr.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/newtx/ztmri.pfb>
-Output written on Thesis.pdf (45 pages, 2594798 bytes).
+Output written on Thesis.pdf (45 pages, 2597656 bytes).
 PDF statistics:
- 1256 PDF objects out of 1440 (max. 8388607)
- 1093 compressed objects within 11 object streams
- 201 named destinations out of 1000 (max. 500000)
+ 1266 PDF objects out of 1440 (max. 8388607)
+ 1102 compressed objects within 12 object streams
+ 204 named destinations out of 1000 (max. 500000)
  251655 words of extra memory for PDF output out of 266212 (max. 10000000)
 

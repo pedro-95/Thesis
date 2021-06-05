@@ -1,23 +1,23 @@
 [0] Config.pm:311> INFO - This is Biber 2.16
-[0] Config.pm:314> INFO - Logfile is 'Thesis.blg'
-[67] biber:340> INFO - === Fri Jun  4, 2021, 18:29:11
-[78] Biber.pm:415> INFO - Reading 'Thesis.bcf'
-[136] Biber.pm:952> INFO - Found 50 citekeys in bib section 0
-[147] Biber.pm:4340> INFO - Processing section 0
-[155] Biber.pm:4531> INFO - Looking for bibtex format file 'bib/thesis_refs.bib' for section 0
-[158] bibtex.pm:1689> INFO - LaTeX decoding ...
-[216] bibtex.pm:1494> INFO - Found BibTeX data source 'bib/thesis_refs.bib'
-[434] Utils.pm:384> WARN - legacy month field 'Feb' in entry 'Martin1988' is not an integer - this will probably not sort properly.
-[443] Utils.pm:384> WARN - legacy month field 'Apr' in entry 'Cabrera2018' is not an integer - this will probably not sort properly.
-[450] Utils.pm:384> WARN - legacy month field 'Jan' in entry 'Friebel1998' is not an integer - this will probably not sort properly.
-[457] Utils.pm:384> WARN - legacy month field 'Jun' in entry 'Cristiani2002' is not an integer - this will probably not sort properly.
-[462] Utils.pm:384> WARN - legacy month field 'Nov' in entry 'Giltner1995' is not an integer - this will probably not sort properly.
-[474] Utils.pm:384> WARN - legacy month field 'Oct' in entry 'Keller1999' is not an integer - this will probably not sort properly.
-[478] Utils.pm:384> WARN - legacy month field 'Oct' in entry 'Raman1935' is not an integer - this will probably not sort properly.
-[514] UCollate.pm:68> INFO - Overriding locale 'en-UK' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[514] UCollate.pm:68> INFO - Overriding locale 'en-UK' defaults 'variable = shifted' with 'variable = non-ignorable'
-[514] Biber.pm:4168> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-UK'
-[514] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-UK'
-[540] bbl.pm:654> INFO - Writing 'Thesis.bbl' with encoding 'UTF-8'
-[565] bbl.pm:757> INFO - Output to Thesis.bbl
-[565] Biber.pm:128> INFO - WARNINGS: 7
+[3] Config.pm:314> INFO - Logfile is 'Thesis.blg'
+[74] biber:340> INFO - === Sa Jun  5, 2021, 18:48:53
+[85] Biber.pm:415> INFO - Reading 'Thesis.bcf'
+[149] Biber.pm:952> INFO - Found 50 citekeys in bib section 0
+[160] Biber.pm:4340> INFO - Processing section 0
+[169] Biber.pm:4531> INFO - Looking for bibtex format file 'bib/thesis_refs.bib' for section 0
+[172] bibtex.pm:1689> INFO - LaTeX decoding ...
+[233] bibtex.pm:1494> INFO - Found BibTeX data source 'bib/thesis_refs.bib'
+[462] Utils.pm:384> WARN - legacy month field 'Feb' in entry 'Martin1988' is not an integer - this will probably not sort properly.
+[476] Utils.pm:384> WARN - legacy month field 'Apr' in entry 'Cabrera2018' is not an integer - this will probably not sort properly.
+[483] Utils.pm:384> WARN - legacy month field 'Jan' in entry 'Friebel1998' is not an integer - this will probably not sort properly.
+[491] Utils.pm:384> WARN - legacy month field 'Jun' in entry 'Cristiani2002' is not an integer - this will probably not sort properly.
+[496] Utils.pm:384> WARN - legacy month field 'Nov' in entry 'Giltner1995' is not an integer - this will probably not sort properly.
+[509] Utils.pm:384> WARN - legacy month field 'Oct' in entry 'Keller1999' is not an integer - this will probably not sort properly.
+[513] Utils.pm:384> WARN - legacy month field 'Oct' in entry 'Raman1935' is not an integer - this will probably not sort properly.
+[552] UCollate.pm:68> INFO - Overriding locale 'en-UK' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[552] UCollate.pm:68> INFO - Overriding locale 'en-UK' defaults 'variable = shifted' with 'variable = non-ignorable'
+[552] Biber.pm:4168> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-UK'
+[552] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-UK'
+[580] bbl.pm:654> INFO - Writing 'Thesis.bbl' with encoding 'UTF-8'
+[606] bbl.pm:757> INFO - Output to Thesis.bbl
+[607] Biber.pm:128> INFO - WARNINGS: 7

@@ -32,9 +32,10 @@
 \contentsline {subsection}{\numberline {3.2.2}Rabi oscillations}{25}{subsection.3.2.2}%
 \contentsline {subsection}{\numberline {3.2.3}Diffraction regimes}{27}{subsection.3.2.3}%
 \contentsline {subsubsection}{\nonumberline Raman-Nath regime}{28}{subsubsection*.22}%
-\contentsline {chapter}{\nonumberline Bibliography}{29}{chapter*.23}%
+\contentsline {subsubsection}{\nonumberline Bragg regime}{28}{subsubsection*.24}%
+\contentsline {chapter}{\nonumberline Bibliography}{29}{chapter*.25}%
 \contentsline {chapter}{\numberline {A}Useful information}{33}{appendix.A}%
-\contentsline {chapter}{\nonumberline List of Figures}{35}{chapter*.24}%
-\contentsline {chapter}{\nonumberline List of Tables}{37}{chapter*.25}%
-\contentsline {chapter}{\nonumberline Acronyms}{39}{chapter*.26}%
+\contentsline {chapter}{\nonumberline List of Figures}{35}{chapter*.26}%
+\contentsline {chapter}{\nonumberline List of Tables}{37}{chapter*.27}%
+\contentsline {chapter}{\nonumberline Acronyms}{39}{chapter*.28}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

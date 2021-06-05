@@ -96,7 +96,7 @@ Once the lattice potential were obtained for two beams with the same frequency, 
 Where the intensities have also been assumed to be of the same order $I_{1}(\vec{r}) \sim I_{2}(\vec{r})$. This way, the lattice becomes a periodic potential, which moves along the beam propagation axis with time. Allowing for a different interaction process with the atomic ensemble, which will be described in the following section.
 
 
-\section{Diffraction of an ultracold atomic ensemble}
+\section{Diffraction of an ultracold atomic ensemble}\label{sec:diffraction_atomic_ensemble}
 
 When an atomic \ac{bec} interacts with an optical lattice, there are multiple processes that may be involved. Therefore, different regimes will appear, based on the lattice properties and interaction time with an atomic ensemble. The main ones, which will be discussed in this thesis, are related with diffraction processes of the ensemble. These two are commonly known as the Bragg and Raman-Nath regimes, which will be discussed in this section \cite{Mueller2008,Ovchinnikov1999}. To give an idea of how this diffraction effects act over an atomic ensemble, its experimental set-up must be considered analogous to the well-known process of light diffraction. Figure \ref{fig:diffraction} shows this analogy between both processes, generating different orders (0th, $\pm$1st ...) as a result. All these orders must fulfil a theoretical restriction known as the Bragg condition, which was initially theorized only for light diffraction by a crystal lattice \cite{Bragg1913}. However, this condition is also valid for atomic diffraction, with the detuning $\Delta$ between optical lattice beams, acting as the restricted parameter.
 
@@ -219,7 +219,7 @@ In the case of very short interaction times $t_\text{int}$, the atoms move only 
 	\psi(x,t) = \sum_{n=-\infty}^{+\infty}g_n(t)e^{i 2nkx}
 \end{equation}
 
-With the coefficients of every diffraction order given by Bessel functions of the first kind \cite{Mueller2008, Meystre2001}
+With the coefficients of every diffraction order given by Bessel functions of the first kind \cite{Mueller2008}
 \begin{equation}
 	g_n(t) = (-i)^n J_n(\Omega_\text{eff} t)
 \end{equation}
@@ -229,7 +229,11 @@ Therefore, the resulting population probability of any diffraction order $n$ aft
 	P_n(t_\text{int}) = J_n^2(\Omega_\text{eff} t_\text{int})
 \end{equation}
 
-As a result, multiple diffraction orders are generated in this regime, each one with a population probability given by Equation \eqref{eq:population_Raman_Nath}. Initially, this number of diffraction orders increases with the interaction time $t_\text{int}$. However, after a certain limit, the number of orders stops increasing by effect of the kinetic energy term in the Hamiltonian. This can be justified by using the argument of energy-momentum conservation. Due to the dispersion relation being quadratic for atoms and linear for light, which avoids the conservation of energy and momentum for high orders. This effect can again be compared with phase mismatch in non-linear optics. The saturation of diffraction orders is what restricts the regime, and it can be proved, that the Raman-Nath approximation holds for interaction times $t_\text{int} \ll 1/\sqrt{\Omega_\text{eff} \omega_r}$ \cite{Meystre2001}. 
+As a result, multiple diffraction orders are generated in this regime, each one with a population probability given by Equation \eqref{eq:population_Raman_Nath}. From a physical point of view, the diffraction into multiple orders can be understood as a result of the energy uncertainty due to short interaction times. Initially, this number of diffraction orders increases with $t_\text{int}$. However, after a certain limit, the number of orders stops increasing by effect of the kinetic energy term in the Hamiltonian. This can be justified by using the argument of energy-momentum conservation. Due to the dispersion relation being quadratic for atoms and linear for light, which avoids the conservation of energy and momentum for higher orders. This effect can again be compared with the process of phase mismatch appearing in non-linear optics. The saturation of diffraction orders is what restricts the regime, and it can be proved, that the Raman-Nath approximation holds only for interaction times $t_\text{int} \ll 1/\sqrt{2\Omega_\text{eff} \omega_r}$ \cite{Meystre2001}. 
+
+\subsubsection{Bragg regime}
+For the case of longer interaction times, the effects of energy-momentum conservation are very strong and do not permit the kinetic energy term removal in Schr\"odinger equation. The kinetic contribution increasingly limits the number of allowed diffraction orders, at the point of permitting only two for a low enough value of the lattice depth. This is commonly known as the Bragg regime because of its similarities with Bragg diffraction in optics, as already discussed in this Section \ref{sec:diffraction_atomic_ensemble}. 
+
 
 %%% Local Variables: 
 %%% mode: latex

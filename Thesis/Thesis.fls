@@ -2416,6 +2416,11 @@ INPUT ./figs//raman_scheme.pdf
 INPUT figs//raman_scheme.pdf
 INPUT ./figs//raman_scheme.pdf
 INPUT ./figs//raman_scheme.pdf
+INPUT ./figs//raman_set_up.pdf
+INPUT ./figs//raman_set_up.pdf
+INPUT figs//raman_set_up.pdf
+INPUT ./figs//raman_set_up.pdf
+INPUT ./figs//raman_set_up.pdf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntx-Italic-tlf-t1.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-sc-t1.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntx-Italic-tlf-t1.tfm

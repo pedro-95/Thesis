@@ -33,9 +33,10 @@
 \contentsline {subsection}{\numberline {3.2.3}Diffraction regimes}{27}{subsection.3.2.3}%
 \contentsline {subsubsection}{\nonumberline Raman-Nath regime}{28}{subsubsection*.22}%
 \contentsline {subsubsection}{\nonumberline Bragg regime}{28}{subsubsection*.24}%
-\contentsline {chapter}{\nonumberline Bibliography}{29}{chapter*.25}%
-\contentsline {chapter}{\numberline {A}Useful information}{33}{appendix.A}%
-\contentsline {chapter}{\nonumberline List of Figures}{35}{chapter*.26}%
-\contentsline {chapter}{\nonumberline List of Tables}{37}{chapter*.27}%
-\contentsline {chapter}{\nonumberline Acronyms}{39}{chapter*.28}%
+\contentsline {section}{\numberline {3.3}Experimental realization of a one-dimensional optical lattice}{29}{section.3.3}%
+\contentsline {chapter}{\nonumberline Bibliography}{31}{chapter*.25}%
+\contentsline {chapter}{\numberline {A}Useful information}{35}{appendix.A}%
+\contentsline {chapter}{\nonumberline List of Figures}{37}{chapter*.26}%
+\contentsline {chapter}{\nonumberline List of Tables}{39}{chapter*.27}%
+\contentsline {chapter}{\nonumberline Acronyms}{41}{chapter*.28}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

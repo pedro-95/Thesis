@@ -5,8 +5,16 @@
 \label{chap:raman_manipulation}
 %==============================================================================
 
+After the theoretical description of the Raman processes occurring in the diffraction of ultracold atomic ensembles, the following step consists in the generation of momentum and spin states components. The process has a strong resemblance with the previously described, with the added factor that now every momentum state also carries a different internal energy state. This is due to Raman transitions taking place in the hyperfine structure produced by Zeeman splinting of the energetic ground state of Erbium. For the experimental process to function as expected, it is required a given magnetic field $\vec{B}_\text{R} = B_{\text{R}} \vec{e}_x$ along the optical lattice axis $x$. This field will produce the Zeeman splitting of the ground state energy level of erbium, and the optical lattice will be in charge of producing the Raman transitions, separating the atomic ensemble into multiple energy levels of the hyperfine structure. However, for this to happen the Bragg condition must be fulfilled, and now it corresponds with the energy difference between two contiguous Zeeman split states $\Delta E_\text{Ze} = g_J \mu_B B_\text{R}$ \cite{Foot2005}. Due to this, knowing the exact value of $\Delta E_\text{Ze}$ becomes a key factor, and some background magnetic fields  affecting the \ac{bec} can produce values for the Zeeman splitting very different to the expectation. For this reason, a preparatory experiment must be carried out, that allows the estimation of $\Delta E_\text{Ze}$ and with helps the compensation of background fields in favour of the known $\vec{B}_\text{R}$ field.
 
+\section{\Acl{rf} transitions and the Stern-Gerlach experiment}
 
+The objective of this experiment is to quantify the Zeeman splitting induced into an erbium \ac{bec}. As it can be seen in Figure \ref{fig:erbium_scheme}, the energetic ground state of erbium has a total electronic angular momentum of $J = 6$. When the atomic ensemble is being affect by a magnetic field $\vec{B}$, the ground state gets Zeeman split into 13 energy states with respect to the secondary quantum number $m_J = \text{-6, -5, ..., +6}$, each one with energy \cite{Foot2005}
+\begin{equation}
+	E_\text{Ze} = g_J \mu_B m_J B
+\end{equation}
+
+Where $g_J$ represents the Landé g-factor, for this case $g_J\approx11/6$. Due to the way in which the experimental set-up is constructed, the \ac{mot} \SI{583}{\nano\meter} beam light interacting with erbium in the $z$ axis pushing the atoms against gravity  is $\sigma^-$ polarized \cite{Ulitzsch2016}. Because of this, the beam that interacts mostly with the atomic ensemble forces the atoms to remain the hyperfine state with $m_J = -6$. This makes the \ac{bec} splitting into different orders with respect to energetic differences between Zeeman levels not possible directly.
 %%% Local Variables: 
 %%% mode: latex
 %%% TeX-master: "Thesis"

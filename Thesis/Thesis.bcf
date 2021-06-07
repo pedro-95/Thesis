@@ -2439,6 +2439,9 @@
     <bcf:citekey order="65">Helten2019</bcf:citekey>
     <bcf:citekey order="66">Helten2019</bcf:citekey>
     <bcf:citekey order="67">Helten2019</bcf:citekey>
+    <bcf:citekey order="68">Foot2005</bcf:citekey>
+    <bcf:citekey order="69">Foot2005</bcf:citekey>
+    <bcf:citekey order="70">Ulitzsch2016</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

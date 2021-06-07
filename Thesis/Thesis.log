@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.4.22)  6 JUN 2021 23:08
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.4.23)  7 JUN 2021 10:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -254,9 +254,9 @@ Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: \l@canadian = using hyphenrules for english
 (babel)             (\language0) on input line 102.
 Package babel Info: \l@australian = using hyphenrules for ukenglish
-(babel)             (\language7) on input line 105.
+(babel)             (\language8) on input line 105.
 Package babel Info: \l@newzealand = using hyphenrules for ukenglish
-(babel)             (\language7) on input line 108.
+(babel)             (\language8) on input line 108.
 )))
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/iflang.sty
 Package: iflang 2018/01/21 v1.7 Checks for the current language (HO)
@@ -2421,11 +2421,11 @@ Package logreq Info: Writing requests to 'Thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 54620 strings out of 479304
- 1105825 string characters out of 5869779
- 2039802 words of memory out of 5000000
- 70092 multiletter control sequences out of 15000+600000
- 738603 words of font info for 794 fonts, out of 8000000 for 9000
+ 54628 strings out of 479304
+ 1106031 string characters out of 5869779
+ 2039946 words of memory out of 5000000
+ 70095 multiletter control sequences out of 15000+600000
+ 738775 words of font info for 796 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  111i,20n,145p,10601b,3657s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf-pc.enc}{/usr/
@@ -2443,10 +2443,10 @@ type1/public/txfonts/txsya.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
 c/newtx/txsys.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/ztmb.
 pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/ztmr.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/newtx/ztmri.pfb>
-Output written on Thesis.pdf (47 pages, 2622806 bytes).
+Output written on Thesis.pdf (47 pages, 2623699 bytes).
 PDF statistics:
- 1420 PDF objects out of 1440 (max. 8388607)
- 1224 compressed objects within 13 object streams
- 210 named destinations out of 1000 (max. 500000)
+ 1426 PDF objects out of 1440 (max. 8388607)
+ 1229 compressed objects within 13 object streams
+ 211 named destinations out of 1000 (max. 500000)
  251668 words of extra memory for PDF output out of 266212 (max. 10000000)
 

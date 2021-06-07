@@ -2035,6 +2035,34 @@
       \verb 10.1007/BF03035840
       \endverb
     \endentry
+    \entry{Helten2019}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=6a974e2be0d3dc724623e4f4f124ee01}{%
+           family={Helten},
+           familyi={H\bibinitperiod},
+           given={David},
+           giveni={D\bibinitperiod}}}%
+      }
+      \list{institution}{1}{%
+        {Rheinische Friedrich-Wilhelms-Universität Bonn}%
+      }
+      \list{location}{1}{%
+        {Bonn, Germany}%
+      }
+      \strng{namehash}{6a974e2be0d3dc724623e4f4f124ee01}
+      \strng{fullhash}{6a974e2be0d3dc724623e4f4f124ee01}
+      \strng{bibnamehash}{6a974e2be0d3dc724623e4f4f124ee01}
+      \strng{authorbibnamehash}{6a974e2be0d3dc724623e4f4f124ee01}
+      \strng{authornamehash}{6a974e2be0d3dc724623e4f4f124ee01}
+      \strng{authorfullhash}{6a974e2be0d3dc724623e4f4f124ee01}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Bragg scattering of ultracold erbium atoms off a one-dimensional optical lattice}
+      \field{type}{mathesis}
+      \field{year}{2019}
+    \endentry
   \enddatalist
 \endrefsection
 \endinput

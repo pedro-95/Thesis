@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.4.23)  7 JUN 2021 10:59
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.4.23)  7 JUN 2021 13:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1458,6 +1458,7 @@ Package: physics
 \g__acro_rms_int=\count500
 \g__acro_quest_int=\count501
 \g__acro_tof_int=\count502
+\g__acro_pbs_int=\count503
 
 (/usr/share/texlive/texmf-dist/tex/latex/background/background.sty
 Package: background 2014/03/04 v2.1 background material
@@ -1504,14 +1505,14 @@ ex
 \pgf@yd=\dimen298
 \w@pgf@writea=\write4
 \r@pgf@reada=\read5
-\c@pgf@counta=\count503
-\c@pgf@countb=\count504
-\c@pgf@countc=\count505
-\c@pgf@countd=\count506
+\c@pgf@counta=\count504
+\c@pgf@countb=\count505
+\c@pgf@countc=\count506
+\c@pgf@countd=\count507
 \t@pgf@toka=\toks39
 \t@pgf@tokb=\toks40
 \t@pgf@tokc=\toks41
-\pgf@sys@id@count=\count507
+\pgf@sys@id@count=\count508
  (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
 File: pgf.cfg 2020/12/27 v3.1.8b (3.1.8b)
 )
@@ -1527,8 +1528,8 @@ File: pgfsys-common-pdf.def 2020/12/27 v3.1.8b (3.1.8b)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
 tex
 File: pgfsyssoftpath.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgfsyssoftpath@smallbuffer@items=\count508
-\pgfsyssoftpath@bigbuffer@items=\count509
+\pgfsyssoftpath@smallbuffer@items=\count509
+\pgfsyssoftpath@bigbuffer@items=\count510
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
 tex
@@ -1542,7 +1543,7 @@ Package: pgfcore 2020/12/27 v3.1.8b (3.1.8b)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
 \pgfmath@dimen=\dimen299
-\pgfmath@count=\count510
+\pgfmath@count=\count511
 \pgfmath@box=\box75
 \pgfmath@toks=\toks42
 \pgfmath@stack@operand=\toks43
@@ -1566,7 +1567,7 @@ tex)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
 thmetics.code.tex)))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count511
+\c@pgfmathroundto@lastzeros=\count512
 ))
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
@@ -1605,7 +1606,7 @@ File: pgfcorescopes.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 \pgfpic=\box76
 \pgf@hbox=\box77
 \pgf@layerbox@main=\box78
-\pgf@picture@serial@count=\count512
+\pgf@picture@serial@count=\count513
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
 ode.tex
@@ -1638,8 +1639,8 @@ File: pgfcorearrows.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 \pgf@max=\dimen323
-\pgf@sys@shading@range@num=\count513
-\pgf@shadingcount=\count514
+\pgf@sys@shading@range@num=\count514
+\pgf@shadingcount=\count515
 )
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2020/12/27 v3.1.8b (3.1.8b)
@@ -1699,7 +1700,7 @@ Package: tikz 2020/12/27 v3.1.8b (3.1.8b)
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
 .code.tex
 File: pgflibraryplothandlers.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgf@plot@mark@count=\count515
+\pgf@plot@mark@count=\count516
 \pgfplotmarksize=\dimen328
 )
 \tikz@lastx=\dimen329
@@ -1714,18 +1715,18 @@ File: pgflibraryplothandlers.code.tex 2020/12/27 v3.1.8b (3.1.8b)
 \tikz@figbox@bg=\box82
 \tikz@tempbox=\box83
 \tikz@tempbox@bg=\box84
-\tikztreelevel=\count516
-\tikznumberofchildren=\count517
-\tikznumberofcurrentchild=\count518
-\tikz@fig@count=\count519
+\tikztreelevel=\count517
+\tikznumberofchildren=\count518
+\tikznumberofcurrentchild=\count519
+\tikz@fig@count=\count520
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgfmatrixcurrentrow=\count520
-\pgfmatrixcurrentcolumn=\count521
-\pgf@matrix@numberofcolumns=\count522
+\pgfmatrixcurrentrow=\count521
+\pgfmatrixcurrentcolumn=\count522
+\pgf@matrix@numberofcolumns=\count523
 )
-\tikz@expandcount=\count523
+\tikz@expandcount=\count524
 
 (/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
 zlibrarytopaths.code.tex
@@ -1759,74 +1760,74 @@ Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
  (./Thesis.aux
 (./thesis_acknowledge.aux) (./1_thesis_intro.aux)
-(./2_thesis_bec_condensation.aux) (./3_thesis_bragg_scattering.aux)
-(./thesis_appendix.aux) (./Thesis.acr))
+(./2_thesis_bec_condensation.aux) (./3_thesis_bec_diffraction.aux)
+(./4_thesis_stern_gerlach.aux) (./thesis_appendix.aux) (./Thesis.acr))
 \openout1 = `Thesis.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 154.
+LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 156.
 LaTeX Font Info:    Trying to load font information for OML+ntxmi on input line
- 154.
+ 156.
 
 (/usr/share/texlive/texmf-dist/tex/latex/newtx/omlntxmi.fd
 File: omlntxmi.fd 2015/08/25 Fontinst v1.933 font definitions for OML/ntxmi.
 )
-LaTeX Font Info:    ... okay on input line 154.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 154.
-LaTeX Font Info:    ... okay on input line 154.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 154.
-LaTeX Font Info:    ... okay on input line 154.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 154.
-LaTeX Font Info:    ... okay on input line 154.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 154.
-LaTeX Font Info:    ... okay on input line 154.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 154.
-LaTeX Font Info:    ... okay on input line 154.
-LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 154.
+LaTeX Font Info:    ... okay on input line 156.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 156.
+LaTeX Font Info:    ... okay on input line 156.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 156.
+LaTeX Font Info:    ... okay on input line 156.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 156.
+LaTeX Font Info:    ... okay on input line 156.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 156.
+LaTeX Font Info:    ... okay on input line 156.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 156.
+LaTeX Font Info:    ... okay on input line 156.
+LaTeX Font Info:    Checking defaults for U/ntxexa/m/n on input line 156.
 LaTeX Font Info:    Trying to load font information for U+ntxexa on input line 
-154.
+156.
 
 (/usr/share/texlive/texmf-dist/tex/latex/newtx/untxexa.fd
 File: untxexa.fd 2012/04/16 Fontinst v1.933 font definitions for U/ntxexa.
 )
-LaTeX Font Info:    ... okay on input line 154.
-LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 154.
+LaTeX Font Info:    ... okay on input line 156.
+LaTeX Font Info:    Checking defaults for LMS/ntxsy/m/n on input line 156.
 LaTeX Font Info:    Trying to load font information for LMS+ntxsy on input line
- 154.
+ 156.
 
 (/usr/share/texlive/texmf-dist/tex/latex/newtx/lmsntxsy.fd
 File: lmsntxsy.fd 2016/07/02 Fontinst v1.933 font definitions for LMS/ntxsy.
 )
-LaTeX Font Info:    ... okay on input line 154.
-LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 154.
+LaTeX Font Info:    ... okay on input line 156.
+LaTeX Font Info:    Checking defaults for LMX/ntxexx/m/n on input line 156.
 LaTeX Font Info:    Trying to load font information for LMX+ntxexx on input lin
-e 154.
+e 156.
 
 (/usr/share/texlive/texmf-dist/tex/latex/newtx/lmxntxexx.fd
 File: lmxntxexx.fd 2016/07/03 Fontinst v1.933 font definitions for LMX/ntxexx.
 )
-LaTeX Font Info:    ... okay on input line 154.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 154.
-LaTeX Font Info:    ... okay on input line 154.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 154.
-LaTeX Font Info:    ... okay on input line 154.
-Package scrbase Info: activating UKenglish \contentsname on input line 154.
-Package scrbase Info: activating UKenglish \listfigurename on input line 154.
-Package scrbase Info: activating UKenglish \listtablename on input line 154.
-\c@mv@tabular=\count524
-\c@mv@boldtabular=\count525
+LaTeX Font Info:    ... okay on input line 156.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 156.
+LaTeX Font Info:    ... okay on input line 156.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 156.
+LaTeX Font Info:    ... okay on input line 156.
+Package scrbase Info: activating UKenglish \contentsname on input line 156.
+Package scrbase Info: activating UKenglish \listfigurename on input line 156.
+Package scrbase Info: activating UKenglish \listtablename on input line 156.
+\c@mv@tabular=\count525
+\c@mv@boldtabular=\count526
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count526
+\scratchcounter=\count527
 \scratchdimen=\dimen337
 \scratchbox=\box87
-\nofMPsegments=\count527
-\nofMParguments=\count528
+\nofMPsegments=\count528
+\nofMParguments=\count529
 \everyMPshowfont=\toks48
-\MPscratchCnt=\count529
+\MPscratchCnt=\count530
 \MPscratchDim=\dimen338
-\MPnumerator=\count530
-\makeMPintoPDFobject=\count531
+\MPnumerator=\count531
+\makeMPintoPDFobject=\count532
 \everyMPtoPDFconversion=\toks49
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -1858,16 +1859,16 @@ Package caption Info: rotating package is loaded.
 Package caption Info: xtab package is loaded.
 Package caption Info: End \AtBeginDocument code.
 
-Package chemgreek Info: Activating mapping `newtx' on line 154.
+Package chemgreek Info: Activating mapping `newtx' on line 156.
 
-LaTeX Info: Redefining \microtypecontext on input line 154.
+LaTeX Info: Redefining \microtypecontext on input line 156.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 154.
+LaTeX Info: Redefining \showhyphens on input line 156.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -1923,7 +1924,7 @@ Package scrdate Info: \dateczech not defined.
 (scrdate)             \todaysname probably cannot use \dayname@czech.
 Package scrdate Info: \dateslovak not defined.
 (scrdate)             \todaysname probably cannot use \dayname@slovak.
-Package hyperref Info: Link coloring ON on input line 154.
+Package hyperref Info: Link coloring ON on input line 156.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -1934,11 +1935,11 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count532
+\c@section@level=\count533
 )
-LaTeX Info: Redefining \ref on input line 154.
-LaTeX Info: Redefining \pageref on input line 154.
-LaTeX Info: Redefining \nameref on input line 154.
+LaTeX Info: Redefining \ref on input line 156.
+LaTeX Info: Redefining \pageref on input line 156.
+LaTeX Info: Redefining \nameref on input line 156.
 Package biblatex Info: Trying to load language 'UKenglish'...
 Package biblatex Info: ... file 'UKenglish.lbx' found.
 
@@ -1996,8 +1997,8 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Thesis.bbl' found.
 
 (./Thesis.bbl)
-Package biblatex Info: Reference section=0 on input line 154.
-Package biblatex Info: Reference segment=0 on input line 154.
+Package biblatex Info: Reference section=0 on input line 156.
+Package biblatex Info: Reference segment=0 on input line 156.
 \l__acro_aux_file_iow=\write5
 \openout5 = `Thesis.acr'.
 
@@ -2013,19 +2014,19 @@ File: translations-basic-dictionary-german.trsl (german translation file `trans
 lations-basic-dictionary')
 )
 Package translations Info: loading dictionary `translations-basic-dictionary' f
-or `german'. on input line 154.
+or `german'. on input line 156.
 LaTeX Font Info:    Trying to load font information for OT1+ntxtlf on input lin
-e 154.
+e 156.
  (/usr/share/texlive/texmf-dist/tex/latex/newtx/ot1ntxtlf.fd
 File: ot1ntxtlf.fd 2015/01/17 v1.0 font definition file for OT1/ntx/tlf
 )
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.95pt on input line 154.
+(Font)              scaled to size 10.95pt on input line 156.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 8.0pt on input line 154.
+(Font)              scaled to size 8.0pt on input line 156.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 6.1pt on input line 154.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 154
+(Font)              scaled to size 6.1pt on input line 156.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 156
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
@@ -2034,7 +2035,7 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 (/usr/share/texlive/texmf-dist/tex/latex/microtype/mt-msa.cfg
 File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 154
+LaTeX Font Info:    Trying to load font information for U+msb on input line 156
 .
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
@@ -2044,83 +2045,83 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
 )
 LaTeX Font Info:    Trying to load font information for U+ntxmia on input line 
-154.
+156.
 
 (/usr/share/texlive/texmf-dist/tex/latex/newtx/untxmia.fd
 File: untxmia.fd 2018/04/14 Fontinst v1.933 font definitions for U/ntxmia.
 )
 LaTeX Font Info:    Trying to load font information for U+ntxsym on input line 
-154.
+156.
 
 (/usr/share/texlive/texmf-dist/tex/latex/newtx/untxsym.fd
 File: untxsym.fd 2015/03/20 Fontinst v1.933 font definitions for U/ntxsym.
 )
 LaTeX Font Info:    Trying to load font information for U+ntxsyc on input line 
-154.
+156.
 
 (/usr/share/texlive/texmf-dist/tex/latex/newtx/untxsyc.fd
 File: untxsyc.fd 2012/04/12 Fontinst v1.933 font definitions for U/ntxsyc.
 )
 LaTeX Font Info:    Trying to load font information for T1+qhv on input line 15
-4.
+6.
 
 (/usr/share/texmf/tex/latex/tex-gyre/t1qhv.fd
 File: t1qhv.fd 2009/09/25 v1.2 font definition file for T1/qhv
 )
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 9.85492pt on input line 154.
+(Font)              scaled to size 9.85492pt on input line 156.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `qhv' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 7.19995pt on input line 154.
+(Font)              scaled to size 7.19995pt on input line 156.
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 5.48996pt on input line 154.
+(Font)              scaled to size 5.48996pt on input line 156.
 LaTeX Font Info:    Trying to load font information for T1+ntxtt on input line 
-154.
+156.
 
 (/usr/share/texlive/texmf-dist/tex/latex/newtx/t1ntxtt.fd
 File: t1ntxtt.fd 2012/04/20 v3.1
 )
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 10.95pt on input line 154.
+(Font)              scaled to size 10.95pt on input line 156.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `ntxtt' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 8.0pt on input line 154.
+(Font)              scaled to size 8.0pt on input line 156.
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 6.1pt on input line 154.
+(Font)              scaled to size 6.1pt on input line 156.
 
 (../Template/cover/Master_Submit_Title.tex)
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 10.95pt on input line 187.
+(Font)              scaled to size 10.95pt on input line 189.
 LaTeX Font Info:    Font shape `T1/ntxtlf/b/n' will be
-(Font)              scaled to size 20.74pt on input line 187.
+(Font)              scaled to size 20.74pt on input line 189.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 14.4pt on input line 187.
+(Font)              scaled to size 14.4pt on input line 189.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 14.4pt on input line 187.
+(Font)              scaled to size 14.4pt on input line 189.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 10.5pt on input line 187.
+(Font)              scaled to size 10.5pt on input line 189.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/m/n' will be
-(Font)              scaled to size 7.9pt on input line 187.
+(Font)              scaled to size 7.9pt on input line 189.
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 12.9599pt on input line 187.
+(Font)              scaled to size 12.9599pt on input line 189.
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 9.44994pt on input line 187.
+(Font)              scaled to size 9.44994pt on input line 189.
 LaTeX Font Info:    Font shape `T1/qhv/m/n' will be
-(Font)              scaled to size 7.10994pt on input line 187.
+(Font)              scaled to size 7.10994pt on input line 189.
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 14.4pt on input line 187.
+(Font)              scaled to size 14.4pt on input line 189.
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 10.5pt on input line 187.
+(Font)              scaled to size 10.5pt on input line 189.
 LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
-(Font)              scaled to size 7.9pt on input line 187.
+(Font)              scaled to size 7.9pt on input line 189.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
-(Font)              scaled to size 17.28pt on input line 187.
+(Font)              scaled to size 17.28pt on input line 189.
  [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
@@ -2151,7 +2152,7 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 
 ]
 Package tocbasic Info: character protrusion at toc deactivated on input line 19
-6.
+8.
  (./Thesis.toc
 LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
 (Font)              scaled to size 10.95pt on input line 11.
@@ -2238,7 +2239,7 @@ LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [4]
-<figs//erbium_term_scheme.pdf, id=149, 475.44272pt x 421.17148pt>
+<figs//erbium_term_scheme.pdf, id=151, 475.44272pt x 421.17148pt>
 File: figs//erbium_term_scheme.pdf Graphic file (type pdf)
 <use figs//erbium_term_scheme.pdf>
 Package pdftex.def Info: figs//erbium_term_scheme.pdf  used on input line 64.
@@ -2251,7 +2252,7 @@ LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
 (Font)              scaled to size 10.0pt on input line 65.
 
 [5 <./figs//erbium_term_scheme.pdf>] [6]
-<figs//table_set_up.pdf, id=205, 453.27942pt x 282.05376pt>
+<figs//table_set_up.pdf, id=207, 453.27942pt x 282.05376pt>
 File: figs//table_set_up.pdf Graphic file (type pdf)
 <use figs//table_set_up.pdf>
 Package pdftex.def Info: figs//table_set_up.pdf  used on input line 145.
@@ -2268,7 +2269,7 @@ LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
 LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
 (Font)              scaled to size 9.0pt on input line 157.
  [8 <./figs//table_set_up.pdf>]
-<figs//experiment_scheme_1.pdf, id=242, 361.35pt x 212.74446pt>
+<figs//experiment_scheme_1.pdf, id=244, 361.35pt x 212.74446pt>
 File: figs//experiment_scheme_1.pdf Graphic file (type pdf)
 <use figs//experiment_scheme_1.pdf>
 Package pdftex.def Info: figs//experiment_scheme_1.pdf  used on input line 170.
@@ -2282,12 +2283,12 @@ Underfull \vbox (badness 2478) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [13]
-<figs//main_chamber.pdf, id=338, 453.27942pt x 200.75pt>
+<figs//main_chamber.pdf, id=340, 453.27942pt x 200.75pt>
 File: figs//main_chamber.pdf Graphic file (type pdf)
 <use figs//main_chamber.pdf>
 Package pdftex.def Info: figs//main_chamber.pdf  used on input line 260.
 (pdftex.def)             Requested size: 437.46118pt x 193.75621pt.
-<figs//MOT_Energy.pdf, id=339, 510.41882pt x 302.65862pt>
+<figs//MOT_Energy.pdf, id=341, 510.41882pt x 302.65862pt>
 File: figs//MOT_Energy.pdf Graphic file (type pdf)
 <use figs//MOT_Energy.pdf>
 Package pdftex.def Info: figs//MOT_Energy.pdf  used on input line 266.
@@ -2298,13 +2299,13 @@ Package pdftex.def Info: figs//MOT_Energy.pdf  used on input line 266.
 pdfTeX warning: pdflatex (file ./figs//MOT_Energy.pdf): PDF inclusion: multiple
  pdfs with page group included in a single page
 >] [15]
-<figs//evap_scheme.pdf, id=400, 384.45059pt x 113.95938pt>
+<figs//evap_scheme.pdf, id=402, 384.45059pt x 113.95938pt>
 File: figs//evap_scheme.pdf Graphic file (type pdf)
 <use figs//evap_scheme.pdf>
 Package pdftex.def Info: figs//evap_scheme.pdf  used on input line 313.
 (pdftex.def)             Requested size: 437.46118pt x 129.67679pt.
  [16 <./figs//evap_scheme.pdf>]
-<figs//absorption_scheme.pdf, id=609, 377.7221pt x 130.2816pt>
+<figs//absorption_scheme.pdf, id=611, 377.7221pt x 130.2816pt>
 File: figs//absorption_scheme.pdf Graphic file (type pdf)
 <use figs//absorption_scheme.pdf>
 Package pdftex.def Info: figs//absorption_scheme.pdf  used on input line 331.
@@ -2312,10 +2313,10 @@ Package pdftex.def Info: figs//absorption_scheme.pdf  used on input line 331.
 LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
 (Font)              scaled to size 10.0pt on input line 332.
 ) [17 <./figs//absorption_scheme.pdf>]
-\openout2 = `3_thesis_bragg_scattering.aux'.
+\openout2 = `3_thesis_bec_diffraction.aux'.
 
 
-(./3_thesis_bragg_scattering.tex [18
+(./3_thesis_bec_diffraction.tex [18
 
 
 
@@ -2330,33 +2331,44 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [21]
-<figs//lattice_beams.pdf, id=728, 564.60938pt x 302.31924pt>
+<figs//lattice_beams.pdf, id=730, 564.60938pt x 302.31924pt>
 File: figs//lattice_beams.pdf Graphic file (type pdf)
 <use figs//lattice_beams.pdf>
 Package pdftex.def Info: figs//lattice_beams.pdf  used on input line 85.
 (pdftex.def)             Requested size: 306.22148pt x 163.96957pt.
 
 [22 <./figs//lattice_beams.pdf>]
-<figs//diffraction.pdf, id=759, 534.50246pt x 240.9pt>
+<figs//diffraction.pdf, id=761, 534.50246pt x 240.9pt>
 File: figs//diffraction.pdf Graphic file (type pdf)
 <use figs//diffraction.pdf>
 Package pdftex.def Info: figs//diffraction.pdf  used on input line 105.
 (pdftex.def)             Requested size: 437.46118pt x 197.16066pt.
  [23 <./figs//diffraction.pdf>] [24]
-<figs//raman_scheme.pdf, id=803, 1146.98006pt x 631.69589pt>
+<figs//raman_scheme.pdf, id=805, 1146.98006pt x 631.69589pt>
 File: figs//raman_scheme.pdf Graphic file (type pdf)
 <use figs//raman_scheme.pdf>
 Package pdftex.def Info: figs//raman_scheme.pdf  used on input line 171.
 (pdftex.def)             Requested size: 349.97028pt x 192.73926pt.
  [25]
 [26 <./figs//raman_scheme.pdf>] [27] [28]
-<figs//raman_set_up.pdf, id=910, 595.74805pt x 217.60007pt>
+<figs//raman_set_up.pdf, id=918, 595.74805pt x 217.60007pt>
 File: figs//raman_set_up.pdf Graphic file (type pdf)
 <use figs//raman_set_up.pdf>
-Package pdftex.def Info: figs//raman_set_up.pdf  used on input line 240.
+Package pdftex.def Info: figs//raman_set_up.pdf  used on input line 244.
 (pdftex.def)             Requested size: 437.46118pt x 159.78967pt.
 ) [29 <./figs//raman_set_up.pdf>]
-[30
+\openout2 = `4_thesis_stern_gerlach.aux'.
+
+
+(./4_thesis_stern_gerlach.tex [30
+
+
+
+
+
+]
+chapter 4.
+) [31] [32
 
 
 
@@ -2364,70 +2376,70 @@ Package pdftex.def Info: figs//raman_set_up.pdf  used on input line 240.
 ]
 chapter without number
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
-(Font)              scaled to size 10.95pt on input line 225.
+(Font)              scaled to size 10.95pt on input line 228.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/sc' will be
-(Font)              scaled to size 10.95pt on input line 225.
+(Font)              scaled to size 10.95pt on input line 228.
 Package microtype Info: Character `029' is missing
 (microtype)             in font `T1/ntxtlf/m/sc/10.95'.
 (microtype)             Ignoring protrusion settings for this character.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
-(Font)              scaled to size 8.0pt on input line 225.
+(Font)              scaled to size 8.0pt on input line 228.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
-(Font)              scaled to size 6.1pt on input line 225.
-[31] [32] [33] [34]
+(Font)              scaled to size 6.1pt on input line 228.
+[33] [34] [35] [36]
 \openout2 = `thesis_appendix.aux'.
 
  (./thesis_appendix.tex
 chapter A.
-) [35
+) [37
 
 
 
-] [36
+] [38
 
 
 
 
 ]
 Package tocbasic Info: character protrusion at lof deactivated on input line 25
-0.
+3.
  (./Thesis.lof)
 \tf@lof=\write7
 \openout7 = `Thesis.lof'.
 
- [37
+ [39
 
 
-] [38
+] [40
 
 
 ]
 Package tocbasic Info: character protrusion at lot deactivated on input line 25
-1.
+4.
  (./Thesis.lot)
 \tf@lot=\write8
 \openout8 = `Thesis.lot'.
 
- [39] [40
+ [41] [42
 
 
 ]
 chapter without number
-[41] (./Thesis.aux (./thesis_acknowledge.aux) (./1_thesis_intro.aux)
-(./2_thesis_bec_condensation.aux) (./3_thesis_bragg_scattering.aux)
-(./thesis_appendix.aux) (./Thesis.acr))
+[43] (./Thesis.aux (./thesis_acknowledge.aux) (./1_thesis_intro.aux)
+(./2_thesis_bec_condensation.aux) (./3_thesis_bec_diffraction.aux)
+(./4_thesis_stern_gerlach.aux) (./thesis_appendix.aux) (./Thesis.acr))
 Package logreq Info: Writing requests to 'Thesis.run.xml'.
 \openout1 = `Thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 54628 strings out of 479304
- 1106031 string characters out of 5869779
- 2039946 words of memory out of 5000000
- 70095 multiletter control sequences out of 15000+600000
- 738775 words of font info for 796 fonts, out of 8000000 for 9000
+ 54744 strings out of 479304
+ 1110264 string characters out of 5869779
+ 2044690 words of memory out of 5000000
+ 70199 multiletter control sequences out of 15000+600000
+ 739164 words of font info for 798 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 111i,20n,145p,10601b,3657s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 111i,20n,145p,10601b,3655s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf-pc.enc}{/usr/
 share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}{/usr/share/texli
 ve/texmf-dist/fonts/enc/dvips/newtx/ntx-ot1-tlf.enc}{/usr/share/texmf/fonts/enc
@@ -2443,10 +2455,10 @@ type1/public/txfonts/txsya.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
 c/newtx/txsys.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/ztmb.
 pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/ztmr.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/newtx/ztmri.pfb>
-Output written on Thesis.pdf (47 pages, 2623699 bytes).
+Output written on Thesis.pdf (49 pages, 2626372 bytes).
 PDF statistics:
- 1426 PDF objects out of 1440 (max. 8388607)
- 1229 compressed objects within 13 object streams
- 211 named destinations out of 1000 (max. 500000)
- 251668 words of extra memory for PDF output out of 266212 (max. 10000000)
+ 1446 PDF objects out of 1728 (max. 8388607)
+ 1247 compressed objects within 13 object streams
+ 214 named destinations out of 1000 (max. 500000)
+ 251676 words of extra memory for PDF output out of 266212 (max. 10000000)
 

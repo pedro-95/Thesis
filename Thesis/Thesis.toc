@@ -34,7 +34,7 @@
 \contentsline {subsubsection}{\nonumberline Raman-Nath regime}{28}{subsubsection*.22}%
 \contentsline {subsubsection}{\nonumberline Bragg regime}{28}{subsubsection*.24}%
 \contentsline {section}{\numberline {3.3}Experimental realization of a one-dimensional optical lattice}{29}{section.3.3}%
-\contentsline {chapter}{\numberline {4}Stern-Gerlach Experiment}{31}{chapter.4}%
+\contentsline {chapter}{\numberline {4}Towards Raman manipulation of spin-momentum state components}{31}{chapter.4}%
 \contentsline {chapter}{\nonumberline Bibliography}{33}{chapter*.26}%
 \contentsline {chapter}{\numberline {A}Useful information}{37}{appendix.A}%
 \contentsline {chapter}{\nonumberline List of Figures}{39}{chapter*.27}%

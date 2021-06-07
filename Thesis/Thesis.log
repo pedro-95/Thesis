@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.4.23)  7 JUN 2021 13:52
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.4.23)  7 JUN 2021 14:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1761,7 +1761,7 @@ Package csquotes Info: ... found 'babel' package.
  (./Thesis.aux
 (./thesis_acknowledge.aux) (./1_thesis_intro.aux)
 (./2_thesis_bec_condensation.aux) (./3_thesis_bec_diffraction.aux)
-(./4_thesis_stern_gerlach.aux) (./thesis_appendix.aux) (./Thesis.acr))
+(./4_thesis_raman_manipulation.aux) (./thesis_appendix.aux) (./Thesis.acr))
 \openout1 = `Thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 156.
@@ -2357,10 +2357,10 @@ File: figs//raman_set_up.pdf Graphic file (type pdf)
 Package pdftex.def Info: figs//raman_set_up.pdf  used on input line 244.
 (pdftex.def)             Requested size: 437.46118pt x 159.78967pt.
 ) [29 <./figs//raman_set_up.pdf>]
-\openout2 = `4_thesis_stern_gerlach.aux'.
+\openout2 = `4_thesis_raman_manipulation.aux'.
 
 
-(./4_thesis_stern_gerlach.tex [30
+(./4_thesis_raman_manipulation.tex [30
 
 
 
@@ -2427,15 +2427,15 @@ Package tocbasic Info: character protrusion at lot deactivated on input line 25
 chapter without number
 [43] (./Thesis.aux (./thesis_acknowledge.aux) (./1_thesis_intro.aux)
 (./2_thesis_bec_condensation.aux) (./3_thesis_bec_diffraction.aux)
-(./4_thesis_stern_gerlach.aux) (./thesis_appendix.aux) (./Thesis.acr))
+(./4_thesis_raman_manipulation.aux) (./thesis_appendix.aux) (./Thesis.acr))
 Package logreq Info: Writing requests to 'Thesis.run.xml'.
 \openout1 = `Thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
  54744 strings out of 479304
- 1110264 string characters out of 5869779
- 2044690 words of memory out of 5000000
+ 1110319 string characters out of 5869779
+ 2044731 words of memory out of 5000000
  70199 multiletter control sequences out of 15000+600000
  739164 words of font info for 798 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
@@ -2455,7 +2455,7 @@ type1/public/txfonts/txsya.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
 c/newtx/txsys.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/ztmb.
 pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/ztmr.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/newtx/ztmri.pfb>
-Output written on Thesis.pdf (49 pages, 2626372 bytes).
+Output written on Thesis.pdf (49 pages, 2626182 bytes).
 PDF statistics:
  1446 PDF objects out of 1728 (max. 8388607)
  1247 compressed objects within 13 object streams

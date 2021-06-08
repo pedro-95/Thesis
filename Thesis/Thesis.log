@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.4.23)  7 JUN 2021 19:02
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.4.22)  7 JUN 2021 20:40
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -254,9 +254,9 @@ Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: \l@canadian = using hyphenrules for english
 (babel)             (\language0) on input line 102.
 Package babel Info: \l@australian = using hyphenrules for ukenglish
-(babel)             (\language8) on input line 105.
+(babel)             (\language7) on input line 105.
 Package babel Info: \l@newzealand = using hyphenrules for ukenglish
-(babel)             (\language8) on input line 108.
+(babel)             (\language7) on input line 108.
 )))
 (/usr/share/texlive/texmf-dist/tex/generic/oberdiek/iflang.sty
 Package: iflang 2018/01/21 v1.7 Checks for the current language (HO)
@@ -1762,33 +1762,24 @@ Package csquotes Info: ... found 'babel' package.
  (./Thesis.aux
 (./thesis_acknowledge.aux) (./1_thesis_intro.aux)
 (./2_thesis_bec_condensation.aux) (./3_thesis_bec_diffraction.aux)
-(./4_thesis_raman_manipulation.aux) (./thesis_appendix.aux))
-Runaway argument?
-{none/global//global/glo 
-! File ended while scanning use of \abx@aux@defaultrefcontext.
-<inserted text> 
-                \par 
-l.157 \begin{document}
-                      
-? 
-! Emergency stop.
-<inserted text> 
-                \par 
-l.157 \begin{document}
-                      
-End of file on the terminal!
+(./4_thesis_raman_manipulation.aux) (./thesis_appendix.aux) (./Thesis.acr))
+\openout1 = `Thesis.aux'.
 
- 
-Here is how much of TeX's memory you used:
- 49376 strings out of 479304
- 987760 string characters out of 5869779
- 1674205 words of memory out of 5000000
- 65953 multiletter control sequences out of 15000+600000
- 406535 words of font info for 29 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 111i,1n,145p,10601b,461s stack positions out of 5000i,500n,10000p,200000b,80000s
-!  ==> Fatal error occurred, no output PDF file produced!
-aults for TS1/cmr/m/n on input line 157.
+LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 157.
+LaTeX Font Info:    Trying to load font information for OML+ntxmi on input line
+ 157.
+
+(/usr/share/texlive/texmf-dist/tex/latex/newtx/omlntxmi.fd
+File: omlntxmi.fd 2015/08/25 Fontinst v1.933 font definitions for OML/ntxmi.
+)
+LaTeX Font Info:    ... okay on input line 157.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 157.
+LaTeX Font Info:    ... okay on input line 157.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 157.
+LaTeX Font Info:    ... okay on input line 157.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 157.
+LaTeX Font Info:    ... okay on input line 157.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 157.
 LaTeX Font Info:    ... okay on input line 157.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 157.
 LaTeX Font Info:    ... okay on input line 157.
@@ -2465,7 +2456,7 @@ type1/public/txfonts/txsya.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
 c/newtx/txsys.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/ztmb.
 pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/ztmr.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/newtx/ztmri.pfb>
-Output written on Thesis.pdf (49 pages, 2631138 bytes).
+Output written on Thesis.pdf (49 pages, 2631090 bytes).
 PDF statistics:
  1458 PDF objects out of 1728 (max. 8388607)
  1259 compressed objects within 13 object streams

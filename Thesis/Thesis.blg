@@ -1,23 +1,15 @@
 [0] Config.pm:311> INFO - This is Biber 2.16
 [0] Config.pm:314> INFO - Logfile is 'Thesis.blg'
-[72] biber:340> INFO - === Fri Jun 11, 2021, 11:08:20
-[85] Biber.pm:415> INFO - Reading 'Thesis.bcf'
-[149] Biber.pm:952> INFO - Found 51 citekeys in bib section 0
-[161] Biber.pm:4340> INFO - Processing section 0
-[171] Biber.pm:4531> INFO - Looking for bibtex format file 'bib/thesis_refs.bib' for section 0
-[174] bibtex.pm:1689> INFO - LaTeX decoding ...
-[235] bibtex.pm:1494> INFO - Found BibTeX data source 'bib/thesis_refs.bib'
-[478] Utils.pm:384> WARN - legacy month field 'Feb' in entry 'Martin1988' is not an integer - this will probably not sort properly.
-[488] Utils.pm:384> WARN - legacy month field 'Apr' in entry 'Cabrera2018' is not an integer - this will probably not sort properly.
-[495] Utils.pm:384> WARN - legacy month field 'Jan' in entry 'Friebel1998' is not an integer - this will probably not sort properly.
-[502] Utils.pm:384> WARN - legacy month field 'Jun' in entry 'Cristiani2002' is not an integer - this will probably not sort properly.
-[507] Utils.pm:384> WARN - legacy month field 'Nov' in entry 'Giltner1995' is not an integer - this will probably not sort properly.
-[520] Utils.pm:384> WARN - legacy month field 'Oct' in entry 'Keller1999' is not an integer - this will probably not sort properly.
-[523] Utils.pm:384> WARN - legacy month field 'Oct' in entry 'Raman1935' is not an integer - this will probably not sort properly.
-[563] UCollate.pm:68> INFO - Overriding locale 'en-UK' defaults 'variable = shifted' with 'variable = non-ignorable'
-[564] UCollate.pm:68> INFO - Overriding locale 'en-UK' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[564] Biber.pm:4168> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-UK'
-[564] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-UK'
-[595] bbl.pm:654> INFO - Writing 'Thesis.bbl' with encoding 'UTF-8'
-[621] bbl.pm:757> INFO - Output to Thesis.bbl
-[621] Biber.pm:128> INFO - WARNINGS: 7
+[66] biber:340> INFO - === Fri Jun 11, 2021, 16:52:48
+[78] Biber.pm:415> INFO - Reading 'Thesis.bcf'
+[137] Biber.pm:952> INFO - Found 54 citekeys in bib section 0
+[147] Biber.pm:4340> INFO - Processing section 0
+[155] Biber.pm:4531> INFO - Looking for bibtex format file 'bib/thesis_refs.bib' for section 0
+[158] bibtex.pm:1689> INFO - LaTeX decoding ...
+[219] bibtex.pm:1494> INFO - Found BibTeX data source 'bib/thesis_refs.bib'
+[533] UCollate.pm:68> INFO - Overriding locale 'en-UK' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[533] UCollate.pm:68> INFO - Overriding locale 'en-UK' defaults 'variable = shifted' with 'variable = non-ignorable'
+[533] Biber.pm:4168> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-UK'
+[533] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-UK'
+[561] bbl.pm:654> INFO - Writing 'Thesis.bbl' with encoding 'UTF-8'
+[588] bbl.pm:757> INFO - Output to Thesis.bbl

@@ -2444,6 +2444,10 @@
     <bcf:citekey order="70">Ulitzsch2016</bcf:citekey>
     <bcf:citekey order="71">Foot2005</bcf:citekey>
     <bcf:citekey order="72">Ulitzsch2016</bcf:citekey>
+    <bcf:citekey order="73">Foot2005</bcf:citekey>
+    <bcf:citekey order="74">Debs2009</bcf:citekey>
+    <bcf:citekey order="75">Lin2009</bcf:citekey>
+    <bcf:citekey order="75">Jimenez2012</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

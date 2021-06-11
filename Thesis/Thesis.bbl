@@ -1663,7 +1663,7 @@
       \field{labeltitlesource}{title}
       \field{issue}{6}
       \field{journaltitle}{Phys. Rev. Lett.}
-      \field{month}{2}
+      \field{month}{02}
       \field{title}{Bragg scattering of atoms from a standing light wave}
       \field{volume}{60}
       \field{year}{1988}
@@ -1731,7 +1731,7 @@
       \field{labeltitlesource}{title}
       \field{issue}{4}
       \field{journaltitle}{Phys. Rev. A}
-      \field{month}{4}
+      \field{month}{04}
       \field{title}{Robust calibration of an optical-lattice depth based on a phase shift}
       \field{volume}{97}
       \field{year}{2018}
@@ -1784,7 +1784,7 @@
       \field{labeltitlesource}{title}
       \field{issue}{1}
       \field{journaltitle}{Phys. Rev. A}
-      \field{month}{1}
+      \field{month}{01}
       \field{title}{${\mathrm{CO}}_{2}$-laser optical lattice with cold rubidium atoms}
       \field{volume}{57}
       \field{year}{1998}
@@ -1837,7 +1837,7 @@
       \field{labeltitlesource}{title}
       \field{issue}{6}
       \field{journaltitle}{Phys. Rev. A}
-      \field{month}{6}
+      \field{month}{06}
       \field{title}{Experimental properties of Bose-Einstein condensates in one-dimensional optical lattices: Bloch oscillations, Landau-Zener tunneling, and mean-field effects}
       \field{volume}{65}
       \field{year}{2002}
@@ -2062,6 +2062,144 @@
       \field{title}{Bragg scattering of ultracold erbium atoms off a one-dimensional optical lattice}
       \field{type}{mathesis}
       \field{year}{2019}
+    \endentry
+    \entry{Debs2009}{article}{}
+      \name{author}{6}{}{%
+        {{hash=2e36d6235c35c1eea0d146f3114bad01}{%
+           family={Debs},
+           familyi={D\bibinitperiod},
+           given={J.\bibnamedelimi E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=df8db08e96adc443de643d7685665821}{%
+           family={Döring},
+           familyi={D\bibinitperiod},
+           given={D.},
+           giveni={D\bibinitperiod}}}%
+        {{hash=1864d1236d50e80c5493ce986b8878ff}{%
+           family={Robins},
+           familyi={R\bibinitperiod},
+           given={N.\bibnamedelimi P.},
+           giveni={N\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+        {{hash=aa6e0c78bf399387fe1e9dddd88773ae}{%
+           family={Figl},
+           familyi={F\bibinitperiod},
+           given={C.},
+           giveni={C\bibinitperiod}}}%
+        {{hash=16189e9218d2344a0e017cf8b0694e25}{%
+           family={Altin},
+           familyi={A\bibinitperiod},
+           given={P.\bibnamedelimi A.},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=c4b5cc1f4a0ef90bc681ae36ceaa4b82}{%
+           family={Close},
+           familyi={C\bibinitperiod},
+           given={J.\bibnamedelimi D.},
+           giveni={J\bibinitperiod\bibinitdelim D\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {OSA}%
+      }
+      \strng{namehash}{902518d5d36f7e01046c5fd0bb50dabc}
+      \strng{fullhash}{5b2cb0be4da386d322747274b378a366}
+      \strng{bibnamehash}{902518d5d36f7e01046c5fd0bb50dabc}
+      \strng{authorbibnamehash}{902518d5d36f7e01046c5fd0bb50dabc}
+      \strng{authornamehash}{902518d5d36f7e01046c5fd0bb50dabc}
+      \strng{authorfullhash}{5b2cb0be4da386d322747274b378a366}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Opt. Express}
+      \field{month}{02}
+      \field{number}{4}
+      \field{title}{A two-state Raman coupler for coherent atom optics}
+      \field{volume}{17}
+      \field{year}{2009}
+      \field{pages}{2319\bibrangedash 2325}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1364/OE.17.002319
+      \endverb
+      \keyw{Atomic and molecular physics; Atom optics ; Bose-Einstein condensates ; Laser beams; Laser coupling; Laser interferometry; Optical design; Photon correlations; Tunable diode lasers}
+    \endentry
+    \entry{Lin2009}{article}{}
+      \name{author}{5}{}{%
+        {{hash=6ef34c44933e570fbe13cf03e2a4cffe}{%
+           family={Lin},
+           familyi={L\bibinitperiod},
+           given={Y.-J.},
+           giveni={Y\bibinithyphendelim J\bibinitperiod}}}%
+        {{hash=c930f69480084db5e21bd277165ddf0d}{%
+           family={Compton},
+           familyi={C\bibinitperiod},
+           given={R.\bibnamedelimi L.},
+           giveni={R\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=ad24d9c77a5e5c043a369edd1429e09b}{%
+           family={Jiménez-García},
+           familyi={J\bibinithyphendelim G\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=a227ff04ec6292373ac9f5de557f5e3a}{%
+           family={Porto},
+           familyi={P\bibinitperiod},
+           given={J.\bibnamedelimi V.},
+           giveni={J\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=73f7e0605072c42e9927e1cc78898ff1}{%
+           family={Spielman},
+           familyi={S\bibinitperiod},
+           given={I.\bibnamedelimi B.},
+           giveni={I\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \strng{namehash}{4ae39067a9e9bf679f6e3f3c8d4dc4d9}
+      \strng{fullhash}{f35e7b27b455b6f6bbb18f6975c6abf8}
+      \strng{bibnamehash}{4ae39067a9e9bf679f6e3f3c8d4dc4d9}
+      \strng{authorbibnamehash}{4ae39067a9e9bf679f6e3f3c8d4dc4d9}
+      \strng{authornamehash}{4ae39067a9e9bf679f6e3f3c8d4dc4d9}
+      \strng{authorfullhash}{f35e7b27b455b6f6bbb18f6975c6abf8}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1476-4687}
+      \field{journaltitle}{Nature}
+      \field{month}{12}
+      \field{number}{7273}
+      \field{title}{Synthetic magnetic fields for ultracold neutral atoms}
+      \field{volume}{462}
+      \field{year}{2009}
+      \field{pages}{628\bibrangedash 632}
+      \range{pages}{5}
+      \verb{doi}
+      \verb 10.1038/nature08609
+      \endverb
+    \endentry
+    \entry{Jimenez2012}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=1298a5671838b81786ffbae9cc485123}{%
+           family={Jiménez-García},
+           familyi={J\bibinithyphendelim G\bibinitperiod},
+           given={Karina},
+           giveni={K\bibinitperiod}}}%
+      }
+      \list{institution}{3}{%
+        {National Institute of Standards}%
+        {Technology,}%
+        {the University of Maryland}%
+      }
+      \strng{namehash}{1298a5671838b81786ffbae9cc485123}
+      \strng{fullhash}{1298a5671838b81786ffbae9cc485123}
+      \strng{bibnamehash}{1298a5671838b81786ffbae9cc485123}
+      \strng{authorbibnamehash}{1298a5671838b81786ffbae9cc485123}
+      \strng{authornamehash}{1298a5671838b81786ffbae9cc485123}
+      \strng{authorfullhash}{1298a5671838b81786ffbae9cc485123}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{9}
+      \field{title}{Artificial Gauge Fields for Ultracold Neutral Atoms}
+      \field{type}{phdthesis}
+      \field{year}{2012}
     \endentry
   \enddatalist
 \endrefsection

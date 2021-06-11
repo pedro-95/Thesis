@@ -1,4 +1,4 @@
-PWD /home/pedro/Escritorio/Thesis/Thesis/Thesis
+PWD /home/pedro/Desktop/Thesis/Thesis/Thesis
 INPUT /etc/texmf/web2c/texmf.cnf
 INPUT /usr/share/texmf/web2c/texmf.cnf
 INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
@@ -2448,6 +2448,11 @@ INPUT 4_thesis_raman_manipulation.tex
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/newtx/ntxbsy.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/txbsys.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/txbex-bar.tfm
+INPUT ./figs//rama_spin_mainpulation.pdf
+INPUT ./figs//rama_spin_mainpulation.pdf
+INPUT figs//rama_spin_mainpulation.pdf
+INPUT ./figs//rama_spin_mainpulation.pdf
+INPUT ./figs//rama_spin_mainpulation.pdf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntx-Italic-tlf-t1.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-sc-t1.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntx-Italic-tlf-t1.tfm

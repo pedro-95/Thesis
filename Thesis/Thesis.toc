@@ -40,6 +40,8 @@
 \contentsline {chapter}{\numberline {5}Results and discussion}{35}{chapter.5}%
 \contentsline {section}{\numberline {5.1}Measurement of the Raman beams radius}{35}{section.5.1}%
 \contentsline {section}{\numberline {5.2}Characterization of the \SI {841}{\nano \meter } erbium transition with a \ac {bec}}{36}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Diffraction of an erbium \ac {bec} with a 1D-lattice}{37}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Bragg regime}{37}{subsection.5.3.1}%
 \contentsline {chapter}{\nonumberline Bibliography}{39}{chapter*.29}%
 \contentsline {chapter}{\numberline {A}Useful information}{43}{appendix.A}%
 \contentsline {chapter}{\nonumberline List of Figures}{45}{chapter*.30}%

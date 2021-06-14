@@ -39,10 +39,10 @@
 \contentsline {section}{\numberline {4.2}Raman manipulation of spin-momentum state components}{33}{section.4.2}%
 \contentsline {chapter}{\numberline {5}Results and discussion}{35}{chapter.5}%
 \contentsline {section}{\numberline {5.1}Measurement of the Raman beams radius}{35}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Spectroscopy of the \SI {841}{\nano \meter } erbium transition with a \ac {bec}}{36}{section.5.2}%
-\contentsline {chapter}{\nonumberline Bibliography}{37}{chapter*.28}%
-\contentsline {chapter}{\numberline {A}Useful information}{41}{appendix.A}%
-\contentsline {chapter}{\nonumberline List of Figures}{43}{chapter*.29}%
-\contentsline {chapter}{\nonumberline List of Tables}{45}{chapter*.30}%
-\contentsline {chapter}{\nonumberline Acronyms}{47}{chapter*.31}%
+\contentsline {section}{\numberline {5.2}Characterization of the \SI {841}{\nano \meter } erbium transition with a \ac {bec}}{36}{section.5.2}%
+\contentsline {chapter}{\nonumberline Bibliography}{39}{chapter*.29}%
+\contentsline {chapter}{\numberline {A}Useful information}{43}{appendix.A}%
+\contentsline {chapter}{\nonumberline List of Figures}{45}{chapter*.30}%
+\contentsline {chapter}{\nonumberline List of Tables}{47}{chapter*.31}%
+\contentsline {chapter}{\nonumberline Acronyms}{49}{chapter*.32}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

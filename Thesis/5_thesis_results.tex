@@ -42,7 +42,19 @@ Note that the use of 1 and 2 for the Raman beams is also used as a distinction t
 \end{figure}
 
 
-\section{Spectroscopy of the \SI{841}{\nano\meter} erbium transition with a \ac{bec}}
+\section{Characterization of the \SI{841}{\nano\meter} erbium transition with a \ac{bec}}
+
+The following part consists in studying the \SI{841}{\nano\meter} erbium transition by blocking arbitrarily the beam R2 and allowing R1 to interact freely with the erbium \ac{bec}. This way, the Raman beam frequency can be locked in every cycle to a specific value. After an interaction time of 10\si{\milli\second} before the final part of the evaporation phase, the atomic ensemble falls freely during a \ac{tof} of 20\si{\milli\second}. Then, the measurement is taken with the absorption imaging phase. From these measurements, the number of atoms can be estimated and the result, after scanning the frequency of R1, is shown in Figure \ref{fig:resonance_841_transition}. As it can be seen, the plot shows a drop in the atom number when R1 is locked to a wavelength of approximately \SI{840.98827}{\nano\meter} in air. This is because most of the atoms forming a \ac{bec} are resonant at this wavelength get excited by the R1 beam, which expel them out of the ensemble and reduce drastically the atom number. In order to avoid effects like power broadening, the optical power of R1 has been kept as low as possible: $P_{\text{R1}} = (49.0 \pm 0.5) \si{\milli\watt}$. This way, the Gaussian fit performed in Figure \ref{fig:resonance_841_transition} gives an estimation of the resonant wavelength $\lambda_0$ and the power broadened linewidth $\Gamma_{\text{PB}}$ as :
+\begin{align*}
+	\lambda_0 &= 840.988266(2)\si{\nano\meter}   &   \Gamma_{\text{PB}} &= (3600 \pm 1700)\si{\kilo\hertz}
+\end{align*}
+
+
+
+\begin{figure}\centering
+	\includegraphics[width=1.\columnwidth]{Plot_resonance.pdf}
+	\caption[Interaction of an erbium \ac{bec} with the beam R1]{Interaction of an erbium \ac{bec} with the beam R1. The plot shows how the atom number of the \ac{bec}, normalized to the maximum value, changes as a function of the R1 wavelength in air. The interaction between R1 and the atomic ensemble lasted 10\si{\milli\second} before the end of evaporation phase in every experimental cycle. Each measured point has been obtained by averaging the atom number of 5 experimental cycles. }\label{fig:resonance_841_transition}
+\end{figure}
 
 %%% Local Variables: 
 %%% mode: latex

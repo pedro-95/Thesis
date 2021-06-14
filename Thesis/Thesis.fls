@@ -2475,6 +2475,40 @@ INPUT ./5_thesis_results.tex
 INPUT 5_thesis_results.tex
 INPUT ./5_thesis_results.tex
 INPUT 5_thesis_results.tex
+INPUT ./figs//Fiber 1.pdf
+INPUT ./figs//Fiber 1.pdf
+INPUT figs//Fiber 1.pdf
+INPUT ./figs//Fiber 1.pdf
+INPUT ./figs//Fiber 1.pdf
+INPUT ./figs//Fiber 2.pdf
+INPUT ./figs//Fiber 2.pdf
+INPUT figs//Fiber 2.pdf
+INPUT ./figs//Fiber 2.pdf
+INPUT ./figs//Fiber 2.pdf
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntx-Bold-tlf-ot1.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntx-Bold-tlf-ot1.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntx-Bold-tlf-ot1.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntxbmi.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntxbmi.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntxbmi7.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntxbsy.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntxbsy.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntxbsy7.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntxbexx.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntxbexx.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntxbexx.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntxbmia.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntxbmia.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntxbmia.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntxbsym.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntxbsym.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntxbsym.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntxbsyc.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntxbsyc.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntxbsyc.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntxbexa.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntxbexa.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntxbexa.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntx-Italic-tlf-t1.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-sc-t1.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntx-Italic-tlf-t1.tfm
@@ -2564,6 +2598,12 @@ INPUT /usr/share/texmf/fonts/enc/dvips/tex-gyre/q-ec.enc
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/newtx/NewTXMI.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/newtx/NewTXMI5.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/newtx/NewTXMI7.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 INPUT /usr/share/texmf/fonts/type1/public/tex-gyre/qhvb.pfb
 INPUT /usr/share/texmf/fonts/type1/public/tex-gyre/qtmr.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/t1xtt.pfb

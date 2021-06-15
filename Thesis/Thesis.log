@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.4.23)  14 JUN 2021 19:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.4.23)  15 JUN 2021 12:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2421,12 +2421,10 @@ File: figs//Plot_resonance.pdf Graphic file (type pdf)
 <use figs//Plot_resonance.pdf>
 Package pdftex.def Info: figs//Plot_resonance.pdf  used on input line 58.
 (pdftex.def)             Requested size: 437.46118pt x 232.10329pt.
-) [37 <./figs//Plot_resonance.pdf>] [38
+)
+Underfull \vbox (badness 1194) has occurred while \output is active []
 
-
-
-
-]
+ [37 <./figs//Plot_resonance.pdf>] [38]
 chapter without number
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
 (Font)              scaled to size 10.95pt on input line 231.
@@ -2439,7 +2437,12 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
 (Font)              scaled to size 8.0pt on input line 231.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
 (Font)              scaled to size 6.1pt on input line 231.
-[39] [40] [41] [42]
+[39
+
+
+
+
+] [40] [41] [42]
 \openout2 = `thesis_appendix.aux'.
 
  (./thesis_appendix.tex
@@ -2487,11 +2490,11 @@ Package logreq Info: Writing requests to 'Thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 55031 strings out of 479304
- 1118325 string characters out of 5869779
- 2050381 words of memory out of 5000000
- 70416 multiletter control sequences out of 15000+600000
- 753306 words of font info for 845 fonts, out of 8000000 for 9000
+ 55030 strings out of 479304
+ 1118311 string characters out of 5869779
+ 2051435 words of memory out of 5000000
+ 70417 multiletter control sequences out of 15000+600000
+ 753220 words of font info for 844 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  111i,20n,145p,10601b,4332s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf-pc.enc}{/usr/
@@ -2516,10 +2519,10 @@ ve/texmf-dist/fonts/type1/public/txfonts/txsya.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/public/newtx/txsys.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/public/newtx/ztmb.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx
 /ztmr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/ztmri.pfb>
-Output written on Thesis.pdf (55 pages, 2918613 bytes).
+Output written on Thesis.pdf (55 pages, 2920383 bytes).
 PDF statistics:
- 1689 PDF objects out of 1728 (max. 8388607)
- 1438 compressed objects within 15 object streams
+ 1692 PDF objects out of 1728 (max. 8388607)
+ 1441 compressed objects within 15 object streams
  239 named destinations out of 1000 (max. 500000)
  257896 words of extra memory for PDF output out of 266212 (max. 10000000)
 

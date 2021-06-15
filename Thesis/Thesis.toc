@@ -42,9 +42,9 @@
 \contentsline {section}{\numberline {5.2}Characterization of the \SI {841}{\nano \meter } erbium transition with a \ac {bec}}{36}{section.5.2}%
 \contentsline {section}{\numberline {5.3}Diffraction of an erbium \ac {bec} with a 1D-lattice}{37}{section.5.3}%
 \contentsline {subsection}{\numberline {5.3.1}Bragg regime}{38}{subsection.5.3.1}%
-\contentsline {chapter}{\nonumberline Bibliography}{41}{chapter*.31}%
+\contentsline {chapter}{\nonumberline Bibliography}{41}{chapter*.32}%
 \contentsline {chapter}{\numberline {A}Useful information}{45}{appendix.A}%
-\contentsline {chapter}{\nonumberline List of Figures}{47}{chapter*.32}%
-\contentsline {chapter}{\nonumberline List of Tables}{49}{chapter*.33}%
-\contentsline {chapter}{\nonumberline Acronyms}{51}{chapter*.34}%
+\contentsline {chapter}{\nonumberline List of Figures}{47}{chapter*.33}%
+\contentsline {chapter}{\nonumberline List of Tables}{49}{chapter*.34}%
+\contentsline {chapter}{\nonumberline Acronyms}{51}{chapter*.35}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

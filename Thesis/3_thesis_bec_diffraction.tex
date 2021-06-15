@@ -158,7 +158,7 @@ For a lattice formed by two counter-propagating waves.
 \subsection{Rabi oscillations}\label{subsec:Rabi_oscillations}
 
 As it has already been said, the diffraction of an atomic \ac{bec} with optical lattices can be considered as a 2$N$-photon process. This sort of processes are also known as Raman transitions. The energetic scheme of a 2-photon Raman transition process, like the one discussed in previous section, can be seen in Figure \ref{fig:raman_scheme} \cite{Kozuma1999}. Therefore, the system acts an effective 2-level scheme formed by the initial momentum state $\ket{g, 0}$, together with the final state $\ket{e, 2\hbar k}$ for the 1st diffraction order. This results in Rabi oscillations appearing in the population number of both states, analogously to what happens for the case of a real 2-level system \cite{Foot2005}. Thus, the diffraction of an atomic \ac{bec} produces oscillations in the population rate of the 1st diffracted order as a function of the interaction time $t_\text{int}$ between optical lattice and ensemble \cite{Martin1988}. In order to make calculations easier, the experimental situation will always use an optical lattice with a shaped like squared well in time. This way, the lattice will be on with constant intensity during a time $t_{\text{int}}$ and completely off the rest of experimental phases. For the case of a Raman transition like the one disused in Figure \ref{fig:raman_scheme}, the population in a first resonant ($\Delta=\Delta_1$) diffracted order $\ket{g, 2\hbar k}$ as a function of the interaction time with the lattice can be expressed as
-\begin{equation}
+\begin{equation}\label{eq:population_excited_state}
 	P_1(t_\text{int}) = \text{sin}^2\bigg(\frac{\Omega_\text{eff} t_\text{int}}{2}\bigg)
 \end{equation}
 
@@ -177,7 +177,7 @@ The variables $\Omega_1$ and $\Omega_2$ represent the single photon Rabi frequen
 	\Omega_i = \frac{eZ_{12}}{\hbar} \mathopen|\vec{E}_{i}\mathclose(\vec{r})|
 \end{equation} 
 
-Where $e$ is the electron charge, $eZ_{12}=\bra{g}\mu\ket{e}$ the dipole matrix element and $\mathopen|\vec{E}_{i}(\vec{r})\mathclose|$ the electric field amplitude at the point $\vec{r}$ produced by beam $i\in [1,2]$. Therefore, using the relation between electric field amplitude and optical intensity in vacuum is given by
+Where $e$ is the electron charge, $eZ_{12}=\bra{g}\mu\ket{e}$ the dipole matrix element and $\mathopen|\vec{E}_{i}(\vec{r})\mathclose|$ the electric field amplitude at the point $\vec{r}$ produced by beam $i\in \{1,2\}$. Therefore, using the relation between electric field amplitude and optical intensity in vacuum is given by
 \begin{equation}
 	\mathopen|\vec{E}_{i}(\vec{r})\mathclose| = \sqrt{\frac{2}{c \epsilon_0}}\sqrt{I_i(\vec{r})}
 \end{equation}

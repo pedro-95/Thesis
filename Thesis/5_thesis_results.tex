@@ -67,16 +67,54 @@ Now, it is the moment to study the diffraction of an erbium \ac{bec} with the de
 \end{equation*}
 
 Therefore, the approximations used for the Hamiltonian in Section \ref{subsec:diffraction_regimes} are fulfilled. Because $\delta \gg \Gamma, \Delta\nu_0$ being the decay rate $\Gamma$ and natural linewidth $\Delta\nu_0$ of the \SI{841}{\nano\meter} transition (see Table \ref{tab:Transitions}). Another approximation that has been performed along this thesis results to be $\delta \gg \omega_r = \frac{\Delta_1}{4}$, with the 2-photon recoil frequency $\Delta_1$ given by Equation \eqref{eq:Bragg_condition} with $n=1$. From this expression and the data already shown, one can get the value of $\Delta_1$ to be
-\begin{equation}
+\begin{equation*}
 	\Delta_1 = 2\pi \cdot (6.713 \pm 0.004)\si{kHz}
-\end{equation}
+\end{equation*}
 
 This result proves the approximation $\delta \gg \Delta_1$ to also be reasonable within the described situation. Therefore, the different theoretical regimes seem to be valid and a more in-depth study is available.
 
 \subsection{Bragg regime}
 
-As seen in Chapter \ref{chap:one_dimensional_lattices}, the Bragg regime is achieved only for long interaction times and when the Bragg condition is being fulfilled.
+As seen in Chapter \ref{chap:one_dimensional_lattices}, the Bragg regime is achieved only for long interaction times and when the Bragg condition is being fulfilled. To achieve it, the detuning between Raman beams has been set to $\Delta_1$. The result is an effective two level system between the 0th and +1st diffraction orders acting as ground and excited states respectively. This generates Rabi oscillations for different interaction times $t_\text{int}$ with frequency $\Omega_\text{eff}$ between the ground and excited state population rates, with the last one ideally governed by Equation \ref{eq:population_excited_state}. This effect has been observed for the case of optical power in the Raman beams chosen like: $P_1 = (3.05 \pm 0.05)\si{\milli\watt}$ and $P_2 = (9.10 \pm 0.05)\si{\milli\watt}$. These powers allow to estimate the ``effective'' intensity of the lattice as
+\begin{equation*}
+	I_\text{eff} = \sqrt{I_1\cdot I_2} = (7.7 \pm 0.4)\si{\kilo\watt\per\meter\squared}
+\end{equation*} 
 
+Figure \ref{fig:Bragg_images} shows the effect of Rabi oscillations between the 0th and 1st orders for the exposed value of $I_\text{eff}$. These images are just a small sample of all the measured for this same situation but different values of $t_\text{int}$. From each image, the population rate of any $i$ order with $i \in \{0,1\}$ can be estimated as
+\begin{equation}
+	P_i = \frac{N_i}{N_0+N_1}
+\end{equation}
+
+Where $N_0$ and $N_1$ are the number of atoms in each diffraction order. Therefore, it is possible to measure the population rate in each picture and plot it as a function of $t_\text{int}$, this is shown in Figure \ref{fig:Bragg_measurement}.
+
+\begin{figure}[!htbp]
+	\centering
+	\begin{subfigure}{.33\textwidth}
+		\centering
+		\includegraphics[width=.9\linewidth]{Rabi_measurement_60us.png}
+		\caption{ $t_\text{int} = 60\si{\micro\second}$}
+		\label{fig:Bragg_images_1}
+	\end{subfigure}%
+	\begin{subfigure}{.33\textwidth}
+		\centering
+		\includegraphics[width=.9\linewidth]{Rabi_measurement_120us.png}
+		\caption{ $t_\text{int} = 120\si{\micro\second}$}
+		\label{fig:Bragg_images_2}
+	\end{subfigure}
+	\begin{subfigure}{.33\textwidth}
+		\centering
+		\includegraphics[width=0.9\linewidth]{Rabi_measurement_240us.png}
+		\caption{ $t_\text{int} = 240\si{\micro\second}$}
+		\label{fig:Bragg_images_3}
+	\end{subfigure}
+	\caption[Diffracted ultracold erbium ensemble after an interaction time with the lattice $t_\text{int}$ and a \ac{tof}$=19\si{\milli\second}$]{Diffracted ultracold erbium ensemble after an interaction time with the lattice $t_\text{int}$ and a \ac{tof}$=19\si{\milli\second}$. One can observe the effect of Rabi oscillations due to different $t_\text{int}$ values. The top atomic cloud corresponds to the 0th diffraction order while the bottom cloud is the 1st. This images have been normalized with respect to the maximum minimum value in frame. During the \ac{tof}, gravity pulls the atoms towards right because the camera is rotated 90° counter-clockwise. The ``effective'' intensity of the lattice used was $I_\text{eff} = (7.7 \pm 0.4)\si{\kilo\watt\per\meter\squared}$.}
+	\label{fig:Bragg_images}
+\end{figure}
+
+\begin{figure}[!htbp]\centering
+	\includegraphics[width=1.\columnwidth]{Rabi_measurement_7.7.pdf}
+	\caption[]{}\label{fig:Bragg_measurement}
+\end{figure}
 %%% Local Variables: 
 %%% mode: latex
 %%% TeX-master: "Thesis"

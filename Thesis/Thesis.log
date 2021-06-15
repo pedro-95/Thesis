@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.4.22)  15 JUN 2021 22:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.4.22)  15 JUN 2021 22:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2451,22 +2451,25 @@ Package pdftex.def Info: figs//Rabi_measurement_7.7.pdf  used on input line 115
 <figs//Rabi_fit_7.7.pdf, id=1268, 622.40936pt x 341.82594pt>
 File: figs//Rabi_fit_7.7.pdf Graphic file (type pdf)
 <use figs//Rabi_fit_7.7.pdf>
-Package pdftex.def Info: figs//Rabi_fit_7.7.pdf  used on input line 124.
-(pdftex.def)             Requested size: 262.47937pt x 144.15009pt.
+Package pdftex.def Info: figs//Rabi_fit_7.7.pdf  used on input line 125.
+(pdftex.def)             Requested size: 328.09589pt x 180.18631pt.
 <figs//Rabi_fit_12.7.pdf, id=1269, 622.40936pt x 341.82594pt>
 File: figs//Rabi_fit_12.7.pdf Graphic file (type pdf)
 <use figs//Rabi_fit_12.7.pdf>
-Package pdftex.def Info: figs//Rabi_fit_12.7.pdf  used on input line 131.
-(pdftex.def)             Requested size: 262.47937pt x 144.15009pt.
+Package pdftex.def Info: figs//Rabi_fit_12.7.pdf  used on input line 132.
+(pdftex.def)             Requested size: 328.09589pt x 180.18631pt.
 <figs//Rabi_fit_24.6.pdf, id=1270, 622.40936pt x 341.82594pt>
 File: figs//Rabi_fit_24.6.pdf Graphic file (type pdf)
 <use figs//Rabi_fit_24.6.pdf>
-Package pdftex.def Info: figs//Rabi_fit_24.6.pdf  used on input line 138.
-(pdftex.def)             Requested size: 262.47937pt x 144.15009pt.
+Package pdftex.def Info: figs//Rabi_fit_24.6.pdf  used on input line 139.
+(pdftex.def)             Requested size: 328.09589pt x 180.18631pt.
+
+
+LaTeX Warning: Float too large for page by 22.52847pt on input line 144.
+
 ) [38 <./figs//Rabi_measurement_60us.png> <./figs//Rabi_measurement_120us.png> 
-<./figs//Rabi_measurement_240us.png>]
-[39 <./figs//Rabi_measurement_7.7.pdf>] [40 <./figs//Rabi_fit_7.7.pdf> <./figs/
-/Rabi_fit_12.7.pdf
+<./figs//Rabi_measurement_240us.png>] [39 <./figs//Rabi_measurement_7.7.pdf>]
+[40 <./figs//Rabi_fit_7.7.pdf> <./figs//Rabi_fit_12.7.pdf
 
 pdfTeX warning: pdflatex (file ./figs//Rabi_fit_12.7.pdf): PDF inclusion: multi
 ple pdfs with page group included in a single page
@@ -2540,11 +2543,11 @@ Package logreq Info: Writing requests to 'Thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 55557 strings out of 479304
- 1129810 string characters out of 5869779
- 2052641 words of memory out of 5000000
+ 55559 strings out of 479304
+ 1129852 string characters out of 5869779
+ 2052755 words of memory out of 5000000
  70747 multiletter control sequences out of 15000+600000
- 852109 words of font info for 1071 fonts, out of 8000000 for 9000
+ 852195 words of font info for 1072 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  111i,20n,145p,10601b,4332s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf-pc.enc}{/usr/
@@ -2570,10 +2573,10 @@ exlive/texmf-dist/fonts/type1/public/newtx/txmiaX.pfb></usr/share/texlive/texmf
 /type1/public/newtx/txsys.pfb></usr/share/texlive/texmf-dist/fonts/type1/public
 /newtx/ztmb.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/ztmr.pf
 b></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/ztmri.pfb>
-Output written on Thesis.pdf (57 pages, 3003204 bytes).
+Output written on Thesis.pdf (57 pages, 3003601 bytes).
 PDF statistics:
- 1808 PDF objects out of 2073 (max. 8388607)
- 1531 compressed objects within 16 object streams
+ 1809 PDF objects out of 2073 (max. 8388607)
+ 1532 compressed objects within 16 object streams
  245 named destinations out of 1000 (max. 500000)
  344459 words of extra memory for PDF output out of 383344 (max. 10000000)
 

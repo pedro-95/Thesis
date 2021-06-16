@@ -2657,6 +2657,11 @@ INPUT ./figs//Rabi_fit_24.6.pdf
 INPUT figs//Rabi_fit_24.6.pdf
 INPUT ./figs//Rabi_fit_24.6.pdf
 INPUT ./figs//Rabi_fit_24.6.pdf
+INPUT ./figs//Linear_Fit.pdf
+INPUT ./figs//Linear_Fit.pdf
+INPUT figs//Linear_Fit.pdf
+INPUT ./figs//Linear_Fit.pdf
+INPUT ./figs//Linear_Fit.pdf
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/newtx/ntxsy.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/txsys.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/txex-bar.tfm

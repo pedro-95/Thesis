@@ -118,8 +118,15 @@ Where $N_0$ and $N_1$ are the number of atoms in each diffraction order. Therefo
 
 The plot confirms theory and shows Rabi oscillations in an effective 2-level system as a predominant effect for this regime of parameters. Once this set of data is obtained, one can perform a more in-depth analysis of the oscillations. As it has been said, Equation \ref{eq:population_excited_state} must be fulfilled in this regime for the behaviour of population in the 1st diffracted order $P_1$. This way, a sine squared function fit can be performed to this population rate. However, in order to account for factors like noise or coherent losses in the \ac{bec}, a damped term has been added. Thus, the fitted function expression results
 \begin{equation}
-	f_\text{fit}(t_\text{int}) = 
+	f_\text{fit}(t_\text{int}) = A \text{exp}(-b t_\text{int}) \cdot \text{sin}^2\bigg(\frac{\Omega_\text{eff}t_\text{int}}{2} +\phi\bigg) + y_0
 \end{equation}
+
+Where $A$, $b$, $\Omega_\text{eff}$, $\phi$ and $y_0$ are free parameters of the fit. This allows the estimation of relevant system parameters such as the 2-photon Rabi frequency for any value of $I_\text{eff}$. The result can be seen in Figure \ref{fig:Bragg_fit_1st_order} for three different values of $I_\text{eff}$. From this analysis, one can easily see a proportional relation between $I_\text{eff}$ and $\Omega_\text{eff}$, which is also described in the theory. When combining Equations \eqref{eq:relation_rabi_frequency_lattice_depth} and \eqref{eq:relation_lattice_potential_depth_final} one gets
+\begin{equation}
+	\Omega_\text{eff} = \Bigg(\frac{3 \pi c^2 \Gamma}{\omega_0^3 \delta \hbar} \text{exp}\bigg(-\frac{r_1^2}{w_1^2}-\frac{r_2^2}{w_2^2}\bigg)\Bigg) \cdot I_\text{eff}
+\end{equation}
+
+Which contains an exponential term describing how ``good'' the erbium \ac{bec} is aligned with respect to the Raman beams. Unfortunately, this term can not be obtained experimentally within a reasonable value of uncertainty. However, it can be estimated with the obtained data by simply performing a linear fit to the measured values of $\Omega_\text{eff}$ as a function of $I_\text{eff}$. This can be seen in Figure \ref{fig:Linear_fit}.
 
 
 \begin{figure}[!htbp]
@@ -147,6 +154,15 @@ The plot confirms theory and shows Rabi oscillations in an effective 2-level sys
 	\caption[Fit of a damped sine squared function to the population rate for different values of $I_\text{eff}$]{Fit of a damped sine squared function to the population rate for different values of $I_\text{eff}$. The main is to characterize the Rabi oscillations in this state and obtain an estimation of the 2-photon Rabi frequency $\Omega_\text{eff}$.}
 	\label{fig:Bragg_fit_1st_order}
 \end{figure}
+
+\begin{figure}[!htbp]\centering
+	\includegraphics[width=1.\columnwidth]{Linear_Fit.pdf}
+	\caption[Linear fit of the 2-photon Rabi frequency as a function of the effective intensity in the lattice]{Linear fit of the 2-photon Rabi frequency as a function of the effective intensity in the lattice.}\label{fig:Linear_fit}
+\end{figure}
+
+\newpage
+
+As a result, the linear fit seems to fulfil very accurately the measured data behaviour, which also coincides with theory.
 
 %%% Local Variables: 
 %%% mode: latex

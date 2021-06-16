@@ -2665,6 +2665,16 @@ INPUT ./figs//Linear_Fit.pdf
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/newtx/ntxsy.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/txsys.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/txex-bar.tfm
+INPUT ./figs//raman_nath.pdf
+INPUT ./figs//raman_nath.pdf
+INPUT figs//raman_nath.pdf
+INPUT ./figs//raman_nath.pdf
+INPUT ./figs//raman_nath.pdf
+INPUT ./figs//raman_nath_cut.pdf
+INPUT ./figs//raman_nath_cut.pdf
+INPUT figs//raman_nath_cut.pdf
+INPUT ./figs//raman_nath_cut.pdf
+INPUT ./figs//raman_nath_cut.pdf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntx-Italic-tlf-t1.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-sc-t1.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntx-Italic-tlf-t1.tfm

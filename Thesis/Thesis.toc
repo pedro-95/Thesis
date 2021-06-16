@@ -43,8 +43,9 @@
 \contentsline {section}{\numberline {5.3}Diffraction of an erbium \ac {bec} with a 1D-lattice}{37}{section.5.3}%
 \contentsline {subsection}{\numberline {5.3.1}Bragg regime}{38}{subsection.5.3.1}%
 \contentsline {subsection}{\numberline {5.3.2}Raman-Nath regime}{42}{subsection.5.3.2}%
-\contentsline {chapter}{\nonumberline Bibliography}{43}{chapter*.34}%
-\contentsline {chapter}{\nonumberline List of Figures}{47}{chapter*.35}%
-\contentsline {chapter}{\nonumberline List of Tables}{49}{chapter*.36}%
-\contentsline {chapter}{\nonumberline Acronyms}{51}{chapter*.37}%
+\contentsline {section}{\numberline {5.4}Magnetic fields characterization with \acs {rf} transitions}{43}{section.5.4}%
+\contentsline {chapter}{\nonumberline Bibliography}{45}{chapter*.34}%
+\contentsline {chapter}{\nonumberline List of Figures}{49}{chapter*.35}%
+\contentsline {chapter}{\nonumberline List of Tables}{51}{chapter*.36}%
+\contentsline {chapter}{\nonumberline Acronyms}{53}{chapter*.37}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

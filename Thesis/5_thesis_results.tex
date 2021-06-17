@@ -177,15 +177,62 @@ Once, the Bragg regime has been characterized, it is the moment of briefly showi
 
 \begin{figure}[!htbp]\centering
 	\includegraphics[width=1.\columnwidth]{raman_nath.pdf}
-	\caption[Absorption image of a multiple orders diffracted \ac{bec} after a \ac{tof} of \SI{19}{\milli\second}]{Absorption image of a multiple orders diffracted \ac{bec} after a \ac{tof} of \SI{19}{\milli\second}. The result was obtained after an average of over 104 different pictures for a changing interaction time $t_\text{int} = 0\si{\micro\second}\text{ - }100\si{\micro\second}$ with an effective intensity of $I_\text{eff} = (42.12 \pm 0.5)\si{\kilo\watt\per\meter\squared}$.}\label{fig:raman_nath}
+	\caption[Absorption image of a multiple orders diffracted \ac{bec} after a \ac{tof} of \SI{19}{\milli\second}]{Absorption image of a multiple orders diffracted \ac{bec} after a \ac{tof} of \SI{19}{\milli\second}. The result was obtained after an average of over 104 different pictures with an effective intensity of $I_\text{eff} = (42.12 \pm 0.5)\si{\kilo\watt\per\meter\squared}$. The image has been rotated to match the gravitational axis with the up-down axis in the frame.}\label{fig:raman_nath_cut}\label{fig:raman_nath}
 \end{figure}
 
 \begin{figure}[!htbp]\centering
 	\includegraphics[width=1.\columnwidth]{raman_nath_cut.pdf}
-	\caption[Average cut performed to the image shown in Figure \ref{fig:raman_nath}]{Average cut performed to the image shown in Figure \ref{fig:raman_nath}.}\label{fig:raman_nath_cut}
+	\caption[Average cut performed to the image shown in Figure \ref{fig:raman_nath}]{Average cut performed to the image shown in Figure \ref{fig:raman_nath}}
 \end{figure}
 
+\pagebreak
+
 \section{Magnetic fields characterization with \acs{rf} transitions}
+
+
+\begin{figure}[!htbp]
+	\centering
+	\begin{subfigure}{.5\textwidth}
+		\centering
+		\includegraphics[width=1.\linewidth]{RF_pulse_non-resonant.pdf}
+		\caption{Far-resonant \ac{rf} pulse}
+		\label{fig:RF_pulse_non-resonant}
+	\end{subfigure}%
+	\begin{subfigure}{.5\textwidth}
+		\centering
+		\includegraphics[width=1.\linewidth]{RF_pulse_resonant.pdf}
+		\caption{Near-resonant \ac{rf} pulse}
+		\label{fig:RF_pulse_resonant}
+	\end{subfigure}
+	\caption[Comparative set of two different interactions between an erbium \ac{bec} and a \ac{rf}-pulse.]{Comparative set of two different interactions between an erbium \ac{bec} and a \ac{rf}-pulse. Both images were taken after an interaction time with the \ac{rf}-pulse of \SI{0.4}{\milli\second} and a \ac{tof} of \SI{19}{\milli\second}. During this \acl{tof} a gradient field of approximately 4G/cm was applied in order to separate the different $m_J$ orders. The gradient field direction was being applied along the gravitational axis, which corresponds to the left-right direction in both images.}
+	\label{fig:RF_pulse}
+\end{figure}
+
+\begin{figure}[!htbp]
+	\centering
+	\begin{subfigure}{1.\textwidth}
+		\centering
+		\label{fig:Plot_RF_Experiment_fields}
+		\includegraphics[width=.75\linewidth]{Plot_RF_Experiment_fields.pdf}
+		\caption{Experiment magnetic field $\vec{B}_\text{H}$}
+	\end{subfigure}%
+	\hfill
+	\begin{subfigure}{1.\textwidth}
+		\centering
+		\label{fig:Plot_RF_Compensated_fields}
+		\includegraphics[width=.75\linewidth]{Plot_RF_Compensated_fields.pdf}
+		\caption{Compensated magnetic field $\vec{B}_\text{Comp}$}
+	\end{subfigure}
+	\hfill
+	\begin{subfigure}{1.\textwidth}
+		\centering
+		\label{fig:Plot_RF_Known_fields}
+		\includegraphics[width=0.75\linewidth]{Plot_RF_Known_fields.pdf}
+		\caption{Added magnetic field $\vec{B}'_\text{H} = \vec{B}_\text{Comp} +B_\text{R}\vec{e}_x$}
+	\end{subfigure}
+	\caption[Measured frequency spectrum of the \ac{rf} transitions for different homogeneous magnetic fields causing the splitting of Zeeman states in the erbium \ac{bec}]{Measured frequency spectrum of the \ac{rf} transitions for different homogeneous magnetic fields causing the splitting of Zeeman states in the erbium \ac{bec}. This data has been obtained measuring the population in each state and comparing the result for state $m_J = -6$ with the added population of the rest $m_J = $-5, -4, ..., +6. A Gaussian fit has been applied in each set of data in order to obtain an estimation of the resonant frequencies and transition linewidths.}
+	\label{fig:Plot_RF_All_fields}
+\end{figure}
 
 %%% Local Variables: 
 %%% mode: latex

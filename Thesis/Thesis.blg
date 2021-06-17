@@ -1,15 +1,15 @@
 [0] Config.pm:311> INFO - This is Biber 2.16
 [0] Config.pm:314> INFO - Logfile is 'Thesis.blg'
-[102] biber:340> INFO - === Mi Jun 16, 2021, 23:17:49
-[131] Biber.pm:415> INFO - Reading 'Thesis.bcf'
-[223] Biber.pm:952> INFO - Found 54 citekeys in bib section 0
-[237] Biber.pm:4340> INFO - Processing section 0
-[253] Biber.pm:4531> INFO - Looking for bibtex format file 'bib/thesis_refs.bib' for section 0
-[257] bibtex.pm:1689> INFO - LaTeX decoding ...
-[345] bibtex.pm:1494> INFO - Found BibTeX data source 'bib/thesis_refs.bib'
-[841] UCollate.pm:68> INFO - Overriding locale 'en-UK' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[841] UCollate.pm:68> INFO - Overriding locale 'en-UK' defaults 'variable = shifted' with 'variable = non-ignorable'
-[841] Biber.pm:4168> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-UK'
-[841] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-UK'
-[889] bbl.pm:654> INFO - Writing 'Thesis.bbl' with encoding 'UTF-8'
-[931] bbl.pm:757> INFO - Output to Thesis.bbl
+[68] biber:340> INFO - === Thu Jun 17, 2021, 09:58:06
+[80] Biber.pm:415> INFO - Reading 'Thesis.bcf'
+[140] Biber.pm:952> INFO - Found 54 citekeys in bib section 0
+[152] Biber.pm:4340> INFO - Processing section 0
+[162] Biber.pm:4531> INFO - Looking for bibtex format file 'bib/thesis_refs.bib' for section 0
+[165] bibtex.pm:1689> INFO - LaTeX decoding ...
+[229] bibtex.pm:1494> INFO - Found BibTeX data source 'bib/thesis_refs.bib'
+[558] UCollate.pm:68> INFO - Overriding locale 'en-UK' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[558] UCollate.pm:68> INFO - Overriding locale 'en-UK' defaults 'variable = shifted' with 'variable = non-ignorable'
+[558] Biber.pm:4168> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-UK'
+[559] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-UK'
+[587] bbl.pm:654> INFO - Writing 'Thesis.bbl' with encoding 'UTF-8'
+[614] bbl.pm:757> INFO - Output to Thesis.bbl

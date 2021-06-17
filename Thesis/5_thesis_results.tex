@@ -189,6 +189,7 @@ Once, the Bragg regime has been characterized, it is the moment of briefly showi
 
 \section{Magnetic fields characterization with \acs{rf} transitions}
 
+After characterising an optical set-up that results in Raman transitions between components in the momentum space, the following goal is already described in Chapter \ref{chap:raman_manipulation}. This objective consists in obtaining Raman transitions between components in the spin and momentum space. But first, it is required the use of \ac{rf} transitions to estimate the Zeeman splitting caused by the magnetic fields inside the vacuum chamber. This way, the effect can be compensated first and then an extra field can be added along the quantization axis of the Raman beams, which will be required for the Raman transitions. Section \ref{sec:rf_transitions} describes this in further detail, while here the focus will be in analysing the measured data. Figure \ref{fig:RF_pulse} shows two reference samples of the measurements. An erbium \ac{bec} interacts with an \ac{rf}-pulse during \SI{0.4}{\milli\second} and falls through a gradient field of approximately 4G/cm during the \ac{tof} of \SI{19}{\milli\second}, which allows the separation between Zeeman states due to the Stern-Gerlach force. When the \ac{rf}-pulse frequency is far away from the Zeeman resonance $\omega_\text{Ze} \equiv \Delta E_{\text{Ze}}/\hbar$ given by Equation \ref{eq:Zeeman_splitting_difference}, the result is shown in Figure \ref{fig:RF_pulse_non-resonant}. The \ac{rf} transitions are being suppressed and the\ac{bec} remains mostly in the state $m_J=-6$ due to the experimental set-up configuration (see Section \ref{sec:rf_transitions}). On the other hand, when the \ac{rf}-pulse frequency is close to $\omega_\text{Ze}$, the transitions into other Zeeman levels are allowed, as shown in Figure \ref{fig:RF_pulse_resonant}. Therefore, by scanning the \ac{rf}-pulse frequency in the region of Zeeman resonance and comparing the population in different states, one can get an estimation of $\omega_\text{Ze}$ produced by any homogeneous magnetic field $\vec{B}_\text{H}$. Thus, the measurements of $\omega_\text{Ze}$ for three different homogeneous fields can be seen in Figure \ref{fig:Plot_RF_All_fields}.
 
 \begin{figure}[!htbp]
 	\centering
@@ -207,6 +208,8 @@ Once, the Bragg regime has been characterized, it is the moment of briefly showi
 	\caption[Comparative set of two different interactions between an erbium \ac{bec} and a \ac{rf}-pulse.]{Comparative set of two different interactions between an erbium \ac{bec} and a \ac{rf}-pulse. Both images were taken after an interaction time with the \ac{rf}-pulse of \SI{0.4}{\milli\second} and a \ac{tof} of \SI{19}{\milli\second}. During this \acl{tof} a gradient field of approximately 4G/cm was applied in order to separate the different $m_J$ orders. The gradient field direction was being applied along the gravitational axis, which corresponds to the left-right direction in both images.}
 	\label{fig:RF_pulse}
 \end{figure}
+
+
 
 \begin{figure}[!htbp]
 	\centering
@@ -233,6 +236,21 @@ Once, the Bragg regime has been characterized, it is the moment of briefly showi
 	\caption[Measured frequency spectrum of the \ac{rf} transitions for different homogeneous magnetic fields causing the splitting of Zeeman states in the erbium \ac{bec}]{Measured frequency spectrum of the \ac{rf} transitions for different homogeneous magnetic fields causing the splitting of Zeeman states in the erbium \ac{bec}. This data has been obtained measuring the population in each state and comparing the result for state $m_J = -6$ with the added population of the rest $m_J = $-5, -4, ..., +6. A Gaussian fit has been applied in each set of data in order to obtain an estimation of the resonant frequencies and transition linewidths.}
 	\label{fig:Plot_RF_All_fields}
 \end{figure}
+
+\pagebreak
+
+Each plotted data in the three parts of Figure \ref{fig:Plot_RF_All_fields} corresponds to a ratio of the atom number in the ground state $m_J = -6$ and the rest of states $m_J = $-5, -4, ..., +6. The different fields are: $\vec{B}_\text{H}$ the default magnetic field affecting the \ac{bec} during the experiment, $\vec{B}_\text{Comp}$ the compensated field with offset coils in order to make $\omega_\text{Ze}$ as low as possible, and $\vec{B}'_\text{H} = \vec{B}_\text{Comp} +B_\text{R}\vec{e}_x$ the result of adding to the compensated field and extra one in the quantization axis for the following section. By applying a Gaussian fit to each set of data, an estimation of relevant parameters like the Zeeman resonant frequencies $\omega_\text{Ze}$ and the \ac{rf} transition linewidths $\Delta \omega_\text{Ze}$ were obtained:
+
+\begin{table}[htbp] \centering
+	\begin{tabular}{@{}l|c|c@{}}\hline
+	Magnetic field	                  & $\omega_\text{Ze}$         & $\Delta \omega_\text{Ze}$ \\ \hline\hline
+	$\vec{B}_\text{H}$	     &                    &         \\
+	$\vec{B}_\text{Comp}$	 &                    &         \\ 
+	$\vec{B}'_\text{H}$	 &                    &          \\\hline
+	\end{tabular}
+	\caption[]{}\label{tab:}
+\end{table}
+
 
 %%% Local Variables: 
 %%% mode: latex

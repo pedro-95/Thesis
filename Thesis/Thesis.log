@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.4.23)  17 JUN 2021 11:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.4.23)  17 JUN 2021 16:20
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2491,40 +2491,43 @@ Package pdftex.def Info: figs//raman_nath_cut.pdf  used on input line 184.
 pdfTeX warning: pdflatex (file ./figs//raman_nath_cut.pdf): PDF inclusion: mult
 iple pdfs with page group included in a single page
 >]
-<figs//RF_pulse_non-resonant.pdf, id=1432, 346.89601pt x 333.41705pt>
+<figs//RF_pulse_non-resonant.pdf, id=1440, 346.89601pt x 333.41705pt>
 File: figs//RF_pulse_non-resonant.pdf Graphic file (type pdf)
 <use figs//RF_pulse_non-resonant.pdf>
 Package pdftex.def Info: figs//RF_pulse_non-resonant.pdf  used on input line 19
-7.
+8.
 (pdftex.def)             Requested size: 218.73059pt x 210.2319pt.
-<figs//RF_pulse_resonant.pdf, id=1433, 346.89601pt x 333.41705pt>
+<figs//RF_pulse_resonant.pdf, id=1441, 346.89601pt x 333.41705pt>
 File: figs//RF_pulse_resonant.pdf Graphic file (type pdf)
 <use figs//RF_pulse_resonant.pdf>
-Package pdftex.def Info: figs//RF_pulse_resonant.pdf  used on input line 203.
+Package pdftex.def Info: figs//RF_pulse_resonant.pdf  used on input line 204.
 (pdftex.def)             Requested size: 218.73059pt x 210.2319pt.
-<figs//Plot_RF_Experiment_fields.pdf, id=1434, 708.24597pt x 346.77966pt>
+<figs//Plot_RF_Experiment_fields.pdf, id=1442, 708.24597pt x 346.77966pt>
 File: figs//Plot_RF_Experiment_fields.pdf Graphic file (type pdf)
 <use figs//Plot_RF_Experiment_fields.pdf>
 Package pdftex.def Info: figs//Plot_RF_Experiment_fields.pdf  used on input lin
-e 216.
+e 219.
 (pdftex.def)             Requested size: 328.09589pt x 160.64764pt.
-<figs//Plot_RF_Compensated_fields.pdf, id=1435, 708.24597pt x 346.89601pt>
+<figs//Plot_RF_Compensated_fields.pdf, id=1443, 708.24597pt x 346.89601pt>
 File: figs//Plot_RF_Compensated_fields.pdf Graphic file (type pdf)
 <use figs//Plot_RF_Compensated_fields.pdf>
 Package pdftex.def Info: figs//Plot_RF_Compensated_fields.pdf  used on input li
-ne 223.
+ne 226.
 (pdftex.def)             Requested size: 328.09589pt x 160.70154pt.
-<figs//Plot_RF_Known_fields.pdf, id=1436, 708.24597pt x 346.89601pt>
+<figs//Plot_RF_Known_fields.pdf, id=1444, 708.24597pt x 346.89601pt>
 File: figs//Plot_RF_Known_fields.pdf Graphic file (type pdf)
 <use figs//Plot_RF_Known_fields.pdf>
-Package pdftex.def Info: figs//Plot_RF_Known_fields.pdf  used on input line 230
+Package pdftex.def Info: figs//Plot_RF_Known_fields.pdf  used on input line 233
 .
 (pdftex.def)             Requested size: 328.09589pt x 160.70154pt.
 
 
-LaTeX Warning: Float too large for page by 0.71661pt on input line 235.
+LaTeX Warning: Float too large for page by 0.71661pt on input line 238.
 
-) [43 <./figs//RF_pulse_non-resonant.pdf> <./figs//RF_pulse_resonant.pdf
+
+Underfull \vbox (badness 5231) has occurred while \output is active []
+
+ [43 <./figs//RF_pulse_non-resonant.pdf> <./figs//RF_pulse_resonant.pdf
 
 pdfTeX warning: pdflatex (file ./figs//RF_pulse_resonant.pdf): PDF inclusion: m
 ultiple pdfs with page group included in a single page
@@ -2537,7 +2540,12 @@ lusion: multiple pdfs with page group included in a single page
 
 pdfTeX warning: pdflatex (file ./figs//Plot_RF_Known_fields.pdf): PDF inclusion
 : multiple pdfs with page group included in a single page
->]
+>]) [45] [46
+
+
+
+
+]
 chapter without number
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
 (Font)              scaled to size 10.95pt on input line 231.
@@ -2550,24 +2558,19 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
 (Font)              scaled to size 8.0pt on input line 231.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
 (Font)              scaled to size 6.1pt on input line 231.
-[45
-
-
-
-
-] [46] [47] [48]
+[47] [48] [49] [50]
 Package tocbasic Info: character protrusion at lof deactivated on input line 25
 6.
  (./Thesis.lof)
 \tf@lof=\write7
 \openout7 = `Thesis.lof'.
 
- [49
+ [51
 
 
 
 
-] [50
+] [52
 
 
 ]
@@ -2577,12 +2580,12 @@ Package tocbasic Info: character protrusion at lot deactivated on input line 25
 \tf@lot=\write8
 \openout8 = `Thesis.lot'.
 
- [51] [52
+ [53] [54
 
 
 ]
 chapter without number
-[53] (./Thesis.aux (./1_thesis_intro.aux) (./2_thesis_bec_condensation.aux)
+[55] (./Thesis.aux (./1_thesis_intro.aux) (./2_thesis_bec_condensation.aux)
 (./3_thesis_bec_diffraction.aux) (./4_thesis_raman_manipulation.aux)
 (./5_thesis_results.aux) (./Thesis.acr))
 Package logreq Info: Writing requests to 'Thesis.run.xml'.
@@ -2590,11 +2593,11 @@ Package logreq Info: Writing requests to 'Thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 55646 strings out of 479304
- 1132317 string characters out of 5869779
- 2049057 words of memory out of 5000000
- 70804 multiletter control sequences out of 15000+600000
- 857352 words of font info for 1092 fonts, out of 8000000 for 9000
+ 55655 strings out of 479304
+ 1132491 string characters out of 5869779
+ 2049294 words of memory out of 5000000
+ 70810 multiletter control sequences out of 15000+600000
+ 857354 words of font info for 1092 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  111i,20n,145p,10601b,4343s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf-pc.enc}{/usr/
@@ -2619,10 +2622,10 @@ ve/texmf-dist/fonts/type1/public/txfonts/txsya.pfb></usr/share/texlive/texmf-di
 st/fonts/type1/public/newtx/txsys.pfb></usr/share/texlive/texmf-dist/fonts/type
 1/public/newtx/ztmb.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx
 /ztmr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/ztmri.pfb>
-Output written on Thesis.pdf (57 pages, 3180662 bytes).
+Output written on Thesis.pdf (59 pages, 3184945 bytes).
 PDF statistics:
- 1960 PDF objects out of 2073 (max. 8388607)
- 1650 compressed objects within 17 object streams
- 252 named destinations out of 1000 (max. 500000)
+ 1980 PDF objects out of 2073 (max. 8388607)
+ 1668 compressed objects within 17 object streams
+ 255 named destinations out of 1000 (max. 500000)
  352699 words of extra memory for PDF output out of 383344 (max. 10000000)
 

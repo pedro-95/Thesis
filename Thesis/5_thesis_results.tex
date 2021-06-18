@@ -252,9 +252,34 @@ Each plotted data in the three parts of Figure \ref{fig:Plot_RF_All_fields} corr
 	\label{tab:results_Plot_RF_All_fields}
 \end{table}
 
-These results are within expectation and for the case of $\Delta \omega_\text{Ze}$ show of stable are the Zeeman splitting and magnetic field. As a result, one can conclude for the next section that the Raman condition for the 2-photon detuning $\Delta$ must be of approximately $891\si{\kilo\hertz}$ with an error margin of $58\si{\kilo\hertz}$ given by $\omega_\text{Ze}$ for the compensated fields.
+These results are within expectation and for the case of $\Delta \omega_\text{Ze}$ show of stable are the Zeeman splitting and magnetic field. As a result, one can conclude for the next section that the Raman condition for the 2-photon detuning $\Delta$ must be of approximately $890\si{\kilo\hertz}$ with an error margin of $58\si{\kilo\hertz}$ given by $\omega_\text{Ze}$ for the compensated fields.
 
 \section{Raman transitions in the spin-momentum space}
+
+Finally, the last measurement achieved in this thesis correspond to Raman transitions between Zeeman states. In order to achieve it, the offset coils of the experiment have been configured to produce the magnetic field $\vec{B}'_\text{H}$, which is mostly pointing throughout the Raman beams axis. After this, the Raman beams were re-aligned and their radius at the \ac{bec} position reduced to:
+\begin{align*}
+	w_{01} &= (66.9\pm1.5)\si{\micro\meter}   &   w_{02} &= (71.1\pm 1.1)\si{\micro\meter}
+\end{align*}
+
+Moreover, the beams polarization was changed from linear to circular, in order to achieve the experimental set-up described in Section \ref{sec:raman_manipulation_theory}. The optical powers for each beam were approximately $50\si{\milli\watt}$. And, the 2-photon detuning between beams was adjusted by using the value obtained at the previous section and Equation \eqref{eq:raman_condition} as $\Delta_\text{R} \approx 2\cdot840 \si{\kilo\hertz}$. There result was the obtention of Raman transitions in the spin-momentum space, which can be seen in Figure \ref{fig:raman_gradient}. For both cases, the images were taken after an interaction time with the Raman beams and a \ac{tof} of \SI{220}{\micro\second} and \SI{20}{\milli\second} respectively. The only difference between both images is that Figure \ref{fig:raman_without_gradient} had no gradient field being applied during the \ac{tof} and \ref{fig:raman_with_gradient} did have it of roughly 4G \si{\per\centi\meter}. The result is that the orders generated in the first image do not suffer an Stern-Gerlach force, described by Equation \ref{eq:Stern-Gerlach_force}, while the second image does suffer from this effect. Due to this, the Raman orders are separated in the gradient direction as a function of their spin value $m_J$, apart from the separation due to different momentum transfer that remains the unaltered. This effect proves without a doubt the internal energetic difference between orders and the achievement of Raman transitions in states with different spin. After this, an in-depth study of the experimental system would be required. However, time constraints during the realization of this thesis will leave this achievement aside for a future work.
+
+\begin{figure}[!htbp]
+	\centering
+	\begin{subfigure}{.5\textwidth}
+		\centering
+		\includegraphics[width=1.\linewidth]{raman_without_gradient.pdf}
+		\caption{Without magnetic gradient}
+		\label{fig:raman_without_gradient}
+	\end{subfigure}%
+	\begin{subfigure}{.5\textwidth}
+		\centering
+		\includegraphics[width=1.\linewidth]{raman_with_gradient.pdf}
+		\caption{With magnetic gradient}
+		\label{fig:raman_with_gradient}
+	\end{subfigure}
+	\caption[Comparative picture of Raman transitions between spin-momentum orders with and without gradient field interaction]{Comparative picture of Raman transitions between spin-momentum orders with and without gradient field interaction. This gravitational direction is again matched with the gradient field and corresponds to the left-right axis on both frames. In (b), the Stern-Gerlach force separates the diffracted orders as a function of the spin value $m_J$ throughout the gradient field direction. Proving the internal energy difference in each order. }
+	\label{fig:raman_gradient}
+\end{figure}
 
 %%% Local Variables: 
 %%% mode: latex

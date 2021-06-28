@@ -17,37 +17,37 @@
 \contentsline {subsection}{\numberline {2.3.2}Transversal and Optical cooling}{10}{subsection.2.3.2}%
 \contentsline {subsubsection}{\nonumberline Optical cooling}{10}{subsubsection*.8}%
 \contentsline {subsubsection}{\nonumberline \Acl {tc}}{11}{subsubsection*.10}%
-\contentsline {subsection}{\numberline {2.3.3}\Acl {zs}}{12}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.3}\Acl {zs}}{11}{subsection.2.3.3}%
 \contentsline {subsection}{\numberline {2.3.4}\Acl {mot}}{12}{subsection.2.3.4}%
-\contentsline {subsection}{\numberline {2.3.5}\Acl {odt}}{15}{subsection.2.3.5}%
-\contentsline {subsection}{\numberline {2.3.6}Evaporative cooling}{16}{subsection.2.3.6}%
-\contentsline {subsection}{\numberline {2.3.7}Absorption imaging}{17}{subsection.2.3.7}%
-\contentsline {chapter}{\numberline {3}Diffraction of a \acl {bec} with a one-dimensional Optical lattice}{19}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Theoretical description of an Optical lattice}{19}{section.3.1}%
-\contentsline {subsection}{\numberline {3.1.1}Dipole interaction of one optical beam}{19}{subsection.3.1.1}%
-\contentsline {subsection}{\numberline {3.1.2}One-dimensional optical lattice}{21}{subsection.3.1.2}%
-\contentsline {subsubsection}{\nonumberline Moving optical lattice}{22}{subsubsection*.17}%
-\contentsline {section}{\numberline {3.2}Diffraction of an ultracold atomic ensemble}{23}{section.3.2}%
-\contentsline {subsection}{\numberline {3.2.1}Bragg condition}{23}{subsection.3.2.1}%
-\contentsline {subsection}{\numberline {3.2.2}Rabi oscillations}{25}{subsection.3.2.2}%
-\contentsline {subsection}{\numberline {3.2.3}Diffraction regimes}{27}{subsection.3.2.3}%
-\contentsline {subsubsection}{\nonumberline Raman-Nath regime}{28}{subsubsection*.21}%
-\contentsline {subsubsection}{\nonumberline Bragg regime}{28}{subsubsection*.23}%
-\contentsline {section}{\numberline {3.3}Experimental realization of a one-dimensional optical lattice}{29}{section.3.3}%
-\contentsline {chapter}{\numberline {4}Towards Raman manipulation of spin-momentum state components}{31}{chapter.4}%
-\contentsline {section}{\numberline {4.1}\Acl {rf} transitions and the Stern-Gerlach experiment}{31}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Raman manipulation of spin-momentum state components}{33}{section.4.2}%
-\contentsline {chapter}{\numberline {5}Results and discussion}{35}{chapter.5}%
-\contentsline {section}{\numberline {5.1}Measurement of the Raman beams radius}{35}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Characterization of the \SI {841}{\nano \meter } erbium transition with a \ac {bec}}{36}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Diffraction of an erbium \ac {bec} with a 1D-lattice}{37}{section.5.3}%
-\contentsline {subsection}{\numberline {5.3.1}Bragg regime}{38}{subsection.5.3.1}%
-\contentsline {subsection}{\numberline {5.3.2}Raman-Nath regime}{42}{subsection.5.3.2}%
-\contentsline {section}{\numberline {5.4}Magnetic fields characterization with \acs {rf} transitions}{43}{section.5.4}%
-\contentsline {section}{\numberline {5.5}Raman transitions in the spin-momentum space}{45}{section.5.5}%
-\contentsline {chapter}{\numberline {6}Conclusion and outlook}{47}{chapter.6}%
-\contentsline {chapter}{\nonumberline Bibliography}{49}{chapter*.38}%
-\contentsline {chapter}{\nonumberline List of Figures}{53}{chapter*.39}%
-\contentsline {chapter}{\nonumberline List of Tables}{55}{chapter*.40}%
-\contentsline {chapter}{\nonumberline Acronyms}{57}{chapter*.41}%
+\contentsline {subsection}{\numberline {2.3.5}\Acl {odt}}{13}{subsection.2.3.5}%
+\contentsline {subsection}{\numberline {2.3.6}Evaporative cooling}{15}{subsection.2.3.6}%
+\contentsline {subsection}{\numberline {2.3.7}Absorption imaging}{15}{subsection.2.3.7}%
+\contentsline {chapter}{\numberline {3}Diffraction of a \acl {bec} with a one-dimensional Optical lattice}{17}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Theoretical description of an Optical lattice}{17}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Dipole interaction of one optical beam}{17}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}One-dimensional optical lattice}{19}{subsection.3.1.2}%
+\contentsline {subsubsection}{\nonumberline Moving optical lattice}{20}{subsubsection*.16}%
+\contentsline {section}{\numberline {3.2}Diffraction of an ultracold atomic ensemble}{21}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Bragg condition}{21}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Rabi oscillations}{23}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Diffraction regimes}{25}{subsection.3.2.3}%
+\contentsline {subsubsection}{\nonumberline Raman-Nath regime}{26}{subsubsection*.20}%
+\contentsline {subsubsection}{\nonumberline Bragg regime}{26}{subsubsection*.22}%
+\contentsline {section}{\numberline {3.3}Experimental realization of a one-dimensional optical lattice}{27}{section.3.3}%
+\contentsline {chapter}{\numberline {4}Towards Raman manipulation of spin-momentum state components}{29}{chapter.4}%
+\contentsline {section}{\numberline {4.1}\Acl {rf} transitions and the Stern-Gerlach experiment}{29}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Raman manipulation of spin-momentum state components}{31}{section.4.2}%
+\contentsline {chapter}{\numberline {5}Results and discussion}{33}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Measurement of the Raman beams radius}{33}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Characterization of the \SI {841}{\nano \meter } erbium transition with a \ac {bec}}{34}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Diffraction of an erbium \ac {bec} with a 1D-lattice}{35}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Bragg regime}{36}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}Raman-Nath regime}{40}{subsection.5.3.2}%
+\contentsline {section}{\numberline {5.4}Magnetic fields characterization with \acs {rf} transitions}{41}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Raman transitions in the spin-momentum space}{43}{section.5.5}%
+\contentsline {chapter}{\numberline {6}Conclusion and outlook}{45}{chapter.6}%
+\contentsline {chapter}{\nonumberline Bibliography}{47}{chapter*.37}%
+\contentsline {chapter}{\nonumberline List of Figures}{51}{chapter*.38}%
+\contentsline {chapter}{\nonumberline List of Tables}{53}{chapter*.39}%
+\contentsline {chapter}{\nonumberline Acronyms}{55}{chapter*.40}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

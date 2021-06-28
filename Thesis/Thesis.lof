@@ -13,29 +13,28 @@
 \contentsline {figure}{\numberline {2.1}{\ignorespaces Erbium energy scheme}}{5}{figure.caption.4}%
 \contentsline {figure}{\numberline {2.2}{\ignorespaces Scheme of the experimental setup}}{8}{figure.caption.5}%
 \contentsline {figure}{\numberline {2.3}{\ignorespaces Oven, \acl {tc} and \acl {zs} schemes}}{9}{figure.caption.6}%
-\contentsline {figure}{\numberline {2.4}{\ignorespaces Technical drawing of the main chamber}}{14}{figure.caption.11}%
-\contentsline {figure}{\numberline {2.5}{\ignorespaces Atomic scheme of energies inside the \ac {mot} for a $J=0 \rightarrow J'=1$ transition in the z axis}}{14}{figure.caption.12}%
-\contentsline {figure}{\numberline {2.6}{\ignorespaces Evaporative cooling scheme}}{16}{figure.caption.13}%
-\contentsline {figure}{\numberline {2.7}{\ignorespaces Scheme of the absorption imaging process}}{17}{figure.caption.14}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces Technical drawing of the main chamber}}{13}{figure.caption.11}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces Evaporative cooling scheme}}{15}{figure.caption.12}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces Scheme of the absorption imaging process}}{16}{figure.caption.13}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Scheme of an atomic \ac {bec} interacting with a one dimensional optical lattice}}{22}{figure.caption.15}%
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Analogy between the processes of light diffraction and atomic diffraction of an ultracold ensemble}}{23}{figure.caption.18}%
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Energy scheme of the 2-photon Raman transition process}}{26}{figure.caption.19}%
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Experimental set-up for the optical lattice beam formed inside the \ac {uhv} main chamber}}{29}{figure.caption.24}%
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Scheme of an atomic \ac {bec} interacting with a one dimensional optical lattice}}{20}{figure.caption.14}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Analogy between the processes of light diffraction and atomic diffraction of an ultracold ensemble}}{21}{figure.caption.17}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Energy scheme of the 2-photon Raman transition process}}{24}{figure.caption.18}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Experimental set-up for the optical lattice beam formed inside the \ac {uhv} main chamber}}{27}{figure.caption.23}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {4.1}{\ignorespaces Experimental and energetic scheme of the 2-photon Raman transition process in the spin-momentum configuration}}{33}{figure.caption.25}%
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Experimental and energetic scheme of the 2-photon Raman transition process in the spin-momentum configuration}}{31}{figure.caption.24}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {5.1}{\ignorespaces Beam radius measurement of the Raman beams performed with a knife-edge method}}{36}{figure.caption.26}%
-\contentsline {figure}{\numberline {5.2}{\ignorespaces Interaction of an erbium \ac {bec} with the beam R1}}{37}{figure.caption.27}%
-\contentsline {figure}{\numberline {5.3}{\ignorespaces Diffracted ultracold erbium ensemble after an interaction time with the lattice $t_\text {int}$ and a \ac {tof}$=19\si {\milli \second }$}}{38}{figure.caption.28}%
-\contentsline {figure}{\numberline {5.4}{\ignorespaces Population rate as a function of the interaction time between erbium \ac {bec} and Raman lattice}}{39}{figure.caption.29}%
-\contentsline {figure}{\numberline {5.5}{\ignorespaces Fit of a damped sine squared function to the population rate for different values of $I_\text {eff}$}}{40}{figure.caption.30}%
-\contentsline {figure}{\numberline {5.6}{\ignorespaces Linear fit of the 2-photon Rabi frequency as a function of the effective intensity in the lattice}}{41}{figure.caption.31}%
-\contentsline {figure}{\numberline {5.7}{\ignorespaces Absorption image of a multiple orders diffracted \ac {bec} after a \ac {tof} of \SI {19}{\milli \second }}}{42}{figure.caption.32}%
-\contentsline {figure}{\numberline {5.8}{\ignorespaces Average cut performed to the image shown in Figure \ref {fig:raman_nath}}}{42}{figure.caption.33}%
-\contentsline {figure}{\numberline {5.9}{\ignorespaces Comparative set of two different interactions between an erbium \ac {bec} and a \ac {rf}-pulse.}}{43}{figure.caption.34}%
-\contentsline {figure}{\numberline {5.10}{\ignorespaces Measured frequency spectrum of the \ac {rf} transitions for different homogeneous magnetic fields causing the splitting of Zeeman states in the erbium \ac {bec}}}{44}{figure.caption.35}%
-\contentsline {figure}{\numberline {5.11}{\ignorespaces Comparative picture of Raman transitions between spin-momentum orders with and without gradient field interaction}}{46}{figure.caption.37}%
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Beam radius measurement of the Raman beams performed with a knife-edge method}}{34}{figure.caption.25}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Interaction of an erbium \ac {bec} with the beam R1}}{35}{figure.caption.26}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Diffracted ultracold erbium ensemble after an interaction time with the lattice $t_\text {int}$ and a \ac {tof}$=19\si {\milli \second }$}}{36}{figure.caption.27}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Population rate as a function of the interaction time between erbium \ac {bec} and Raman lattice}}{37}{figure.caption.28}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Fit of a damped sine squared function to the population rate for different values of $I_\text {eff}$}}{38}{figure.caption.29}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Linear fit of the 2-photon Rabi frequency as a function of the effective intensity in the lattice}}{39}{figure.caption.30}%
+\contentsline {figure}{\numberline {5.7}{\ignorespaces Absorption image of a multiple orders diffracted \ac {bec} after a \ac {tof} of \SI {19}{\milli \second }}}{40}{figure.caption.31}%
+\contentsline {figure}{\numberline {5.8}{\ignorespaces Average cut performed to the image shown in Figure \ref {fig:raman_nath}}}{40}{figure.caption.32}%
+\contentsline {figure}{\numberline {5.9}{\ignorespaces Comparative set of two different interactions between an erbium \ac {bec} and a \ac {rf}-pulse.}}{41}{figure.caption.33}%
+\contentsline {figure}{\numberline {5.10}{\ignorespaces Measured frequency spectrum of the \ac {rf} transitions for different homogeneous magnetic fields causing the splitting of Zeeman states in the erbium \ac {bec}}}{42}{figure.caption.34}%
+\contentsline {figure}{\numberline {5.11}{\ignorespaces Comparative picture of Raman transitions between spin-momentum orders with and without gradient field interaction}}{44}{figure.caption.36}%
 \addvspace {10\p@ }
 \addvspace {10\p@ }
 \addvspace {10\p@ }

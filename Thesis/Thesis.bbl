@@ -885,6 +885,29 @@
       \field{title}{The Elements (Oxford Chemistry Guides)}
       \field{year}{1998}
     \endentry
+    \entry{Frisch2014}{thesis}{}
+      \name{author}{1}{}{%
+        {{hash=4ffeafbc20c11eac42bc35ffe286f3a7}{%
+           family={Frisch},
+           familyi={F\bibinitperiod},
+           given={A.},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{4ffeafbc20c11eac42bc35ffe286f3a7}
+      \strng{fullhash}{4ffeafbc20c11eac42bc35ffe286f3a7}
+      \strng{bibnamehash}{4ffeafbc20c11eac42bc35ffe286f3a7}
+      \strng{authorbibnamehash}{4ffeafbc20c11eac42bc35ffe286f3a7}
+      \strng{authornamehash}{4ffeafbc20c11eac42bc35ffe286f3a7}
+      \strng{authorfullhash}{4ffeafbc20c11eac42bc35ffe286f3a7}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{month}{07}
+      \field{title}{Dipolar quantum gases of erbium}
+      \field{type}{phdthesis}
+      \field{year}{2014}
+    \endentry
     \entry{sansonetti2005handbook}{article}{}
       \name{author}{2}{}{%
         {{hash=fe89fed89488b7ca6438406d22956667}{%
@@ -956,8 +979,8 @@
       \strng{authorbibnamehash}{c2bdcdb903ba7612ed579f55fb537f2b}
       \strng{authornamehash}{c2bdcdb903ba7612ed579f55fb537f2b}
       \strng{authorfullhash}{7e87f4f23f79cad482dc4336ba0807b4}
-      \field{sortinit}{1}
-      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Abstract We discuss laser cooling opportunities in atomic erbium, identifying five J{\textrightarrow}J$+$1 transitions from the 4f126s2 3H6 ground state that are accessible to common visible and near-infrared continuous-wave tunable lasers. We present lifetime measurements for the 4f11(4Io15/2)5d5/26s2 (15/2, 5/2)7 o state at 11888 cm{−}1 and the 4f11(4Io 13/2)5d3/26s2 (13/2, 5/2)7o state at 15847 cm{−}1, showing values of 20{\textpm}4 {\textmu}s and 5.6{\textpm}1.4 {\textmu}s, respectively. We also present a calculated value of 13{\textpm}7 s{−}1 for the transition rate from the 4f11(4Io 15/2)5d3/26s2 (15/2, 3/2)7 o state at 7697 cm-1 to the ground state, based on scaled Hartree-Fock energy parameters. Laser cooling on these transitions in combination with a strong, fast (5.8 ns) laser cooling transition at 401 nm, suggest new opportunities for narrowband laser cooling of a large-magnetic moment atom, with possible applications in quantum information processing, high-precision atomic clocks, quantum degenerate gases, and deterministic single-atom doping of materials.}
@@ -1319,39 +1342,6 @@
       \verb https://doi.org/10.1142/7216
       \endverb
     \endentry
-    \entry{deBroglie1970}{article}{}
-      \name{author}{1}{}{%
-        {{hash=9957aaa86ccf437c6dcb56c14de6688f}{%
-           family={Broglie},
-           familyi={B\bibinitperiod},
-           given={Louis},
-           giveni={L\bibinitperiod},
-           prefix={de},
-           prefixi={d\bibinitperiod}}}%
-      }
-      \strng{namehash}{9957aaa86ccf437c6dcb56c14de6688f}
-      \strng{fullhash}{9957aaa86ccf437c6dcb56c14de6688f}
-      \strng{bibnamehash}{9957aaa86ccf437c6dcb56c14de6688f}
-      \strng{authorbibnamehash}{9957aaa86ccf437c6dcb56c14de6688f}
-      \strng{authornamehash}{9957aaa86ccf437c6dcb56c14de6688f}
-      \strng{authorfullhash}{9957aaa86ccf437c6dcb56c14de6688f}
-      \field{sortinit}{3}
-      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{1572-9516}
-      \field{journaltitle}{Foundations of Physics}
-      \field{month}{03}
-      \field{number}{1}
-      \field{title}{The reinterpretation of wave mechanics}
-      \field{volume}{1}
-      \field{year}{1970}
-      \field{pages}{5\bibrangedash 15}
-      \range{pages}{11}
-      \verb{doi}
-      \verb 10.1007/BF00708650
-      \endverb
-    \endentry
     \entry{Pethick2008}{book}{}
       \name{author}{2}{}{%
         {{hash=51982a6e8e4825889211a5e335e8d184}{%
@@ -1383,6 +1373,39 @@
       \field{year}{2008}
       \verb{doi}
       \verb 10.1017/CBO9780511802850
+      \endverb
+    \endentry
+    \entry{deBroglie1970}{article}{}
+      \name{author}{1}{}{%
+        {{hash=9957aaa86ccf437c6dcb56c14de6688f}{%
+           family={Broglie},
+           familyi={B\bibinitperiod},
+           given={Louis},
+           giveni={L\bibinitperiod},
+           prefix={de},
+           prefixi={d\bibinitperiod}}}%
+      }
+      \strng{namehash}{9957aaa86ccf437c6dcb56c14de6688f}
+      \strng{fullhash}{9957aaa86ccf437c6dcb56c14de6688f}
+      \strng{bibnamehash}{9957aaa86ccf437c6dcb56c14de6688f}
+      \strng{authorbibnamehash}{9957aaa86ccf437c6dcb56c14de6688f}
+      \strng{authornamehash}{9957aaa86ccf437c6dcb56c14de6688f}
+      \strng{authorfullhash}{9957aaa86ccf437c6dcb56c14de6688f}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1572-9516}
+      \field{journaltitle}{Foundations of Physics}
+      \field{month}{03}
+      \field{number}{1}
+      \field{title}{The reinterpretation of wave mechanics}
+      \field{volume}{1}
+      \field{year}{1970}
+      \field{pages}{5\bibrangedash 15}
+      \range{pages}{11}
+      \verb{doi}
+      \verb 10.1007/BF00708650
       \endverb
     \endentry
     \entry{Ulitzsch2016}{thesis}{}
@@ -1506,8 +1529,8 @@
       \strng{authorbibnamehash}{f30addcfd7639efc15692adc720f8063}
       \strng{authornamehash}{f30addcfd7639efc15692adc720f8063}
       \strng{authorfullhash}{f30addcfd7639efc15692adc720f8063}
-      \field{sortinit}{3}
-      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{J. Opt. Soc. Am. B}
@@ -1941,8 +1964,8 @@
       \strng{authorbibnamehash}{58e7f9b0f2b95d1424a8593098a4fd63}
       \strng{authornamehash}{58e7f9b0f2b95d1424a8593098a4fd63}
       \strng{authorfullhash}{58e7f9b0f2b95d1424a8593098a4fd63}
-      \field{sortinit}{5}
-      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{8}
@@ -2288,8 +2311,8 @@
       \strng{authorbibnamehash}{675c1089d9e4aa45e40a4165fd620c6d}
       \strng{authornamehash}{675c1089d9e4aa45e40a4165fd620c6d}
       \strng{authorfullhash}{f99b382b45ca41390e3da8c0484bb98c}
-      \field{sortinit}{6}
-      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issue}{4}
@@ -2341,8 +2364,8 @@
       \strng{authorbibnamehash}{bef40a394a4165dfbd6804149bd06829}
       \strng{authornamehash}{bef40a394a4165dfbd6804149bd06829}
       \strng{authorfullhash}{46476abca0da222197c09b9b87dca3c5}
-      \field{sortinit}{6}
-      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issue}{1}
@@ -2394,8 +2417,8 @@
       \strng{authorbibnamehash}{d79ded60a811094d14626be7d791d403}
       \strng{authornamehash}{d79ded60a811094d14626be7d791d403}
       \strng{authorfullhash}{866d0b943cf39e068e4793de0a78c1c6}
-      \field{sortinit}{6}
-      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issue}{6}

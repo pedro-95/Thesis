@@ -25,13 +25,13 @@
 \contentsline {chapter}{\numberline {3}Diffraction of a \acl {bec} with a one-dimensional Optical lattice}{17}{chapter.3}%
 \contentsline {section}{\numberline {3.1}Theoretical description of an Optical lattice}{17}{section.3.1}%
 \contentsline {subsection}{\numberline {3.1.1}Dipole interaction of one optical beam}{17}{subsection.3.1.1}%
-\contentsline {subsection}{\numberline {3.1.2}One-dimensional optical lattice}{19}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.2}One-dimensional optical lattice}{18}{subsection.3.1.2}%
 \contentsline {subsubsection}{\nonumberline Moving optical lattice}{20}{subsubsection*.16}%
-\contentsline {section}{\numberline {3.2}Diffraction of an ultracold atomic ensemble}{21}{section.3.2}%
+\contentsline {section}{\numberline {3.2}Diffraction of an ultracold atomic ensemble}{20}{section.3.2}%
 \contentsline {subsection}{\numberline {3.2.1}Bragg condition}{21}{subsection.3.2.1}%
 \contentsline {subsection}{\numberline {3.2.2}Rabi oscillations}{23}{subsection.3.2.2}%
 \contentsline {subsection}{\numberline {3.2.3}Diffraction regimes}{25}{subsection.3.2.3}%
-\contentsline {subsubsection}{\nonumberline Raman-Nath regime}{26}{subsubsection*.20}%
+\contentsline {subsubsection}{\nonumberline Raman-Nath regime}{25}{subsubsection*.20}%
 \contentsline {subsubsection}{\nonumberline Bragg regime}{26}{subsubsection*.22}%
 \contentsline {section}{\numberline {3.3}Experimental realization of a one-dimensional optical lattice}{27}{section.3.3}%
 \contentsline {chapter}{\numberline {4}Towards Raman manipulation of spin-momentum state components}{29}{chapter.4}%

@@ -2456,17 +2456,16 @@
     <bcf:citekey order="78">Helten2019</bcf:citekey>
     <bcf:citekey order="79">Helten2019</bcf:citekey>
     <bcf:citekey order="80">Helten2019</bcf:citekey>
-    <bcf:citekey order="81">Helten2019</bcf:citekey>
+    <bcf:citekey order="81">Foot2005</bcf:citekey>
     <bcf:citekey order="82">Foot2005</bcf:citekey>
-    <bcf:citekey order="83">Foot2005</bcf:citekey>
-    <bcf:citekey order="84">Ulitzsch2016</bcf:citekey>
-    <bcf:citekey order="85">Foot2005</bcf:citekey>
-    <bcf:citekey order="86">Ulitzsch2016</bcf:citekey>
-    <bcf:citekey order="87">Foot2005</bcf:citekey>
-    <bcf:citekey order="88">Debs2009</bcf:citekey>
+    <bcf:citekey order="83">Ulitzsch2016</bcf:citekey>
+    <bcf:citekey order="84">Foot2005</bcf:citekey>
+    <bcf:citekey order="85">Ulitzsch2016</bcf:citekey>
+    <bcf:citekey order="86">Foot2005</bcf:citekey>
+    <bcf:citekey order="87">Debs2009</bcf:citekey>
+    <bcf:citekey order="88">Lin2009</bcf:citekey>
+    <bcf:citekey order="88">Jimenez2012</bcf:citekey>
     <bcf:citekey order="89">Lin2009</bcf:citekey>
-    <bcf:citekey order="89">Jimenez2012</bcf:citekey>
-    <bcf:citekey order="90">Lin2009</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

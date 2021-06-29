@@ -2426,11 +2426,11 @@ INPUT 4_thesis_raman_manipulation.tex
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/newtx/ntxbsy.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/txbsys.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/txbex-bar.tfm
-INPUT ./figs//rama_spin_mainpulation.pdf
-INPUT ./figs//rama_spin_mainpulation.pdf
-INPUT figs//rama_spin_mainpulation.pdf
-INPUT ./figs//rama_spin_mainpulation.pdf
-INPUT ./figs//rama_spin_mainpulation.pdf
+INPUT ./figs//rama_spin_mainpulation_2.pdf
+INPUT ./figs//rama_spin_mainpulation_2.pdf
+INPUT figs//rama_spin_mainpulation_2.pdf
+INPUT ./figs//rama_spin_mainpulation_2.pdf
+INPUT ./figs//rama_spin_mainpulation_2.pdf
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/newtx/ntxsy7.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/txsys.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/txex-bar.tfm

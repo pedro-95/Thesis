@@ -2708,34 +2708,6 @@
       \endverb
       \keyw{Atomic and molecular physics; Atom optics ; Bose-Einstein condensates ; Laser beams; Laser coupling; Laser interferometry; Optical design; Photon correlations; Tunable diode lasers}
     \endentry
-    \entry{Jimenez2012}{thesis}{}
-      \name{author}{1}{}{%
-        {{hash=1298a5671838b81786ffbae9cc485123}{%
-           family={Jiménez-García},
-           familyi={J\bibinithyphendelim G\bibinitperiod},
-           given={Karina},
-           giveni={K\bibinitperiod}}}%
-      }
-      \list{institution}{3}{%
-        {National Institute of Standards}%
-        {Technology,}%
-        {the University of Maryland}%
-      }
-      \strng{namehash}{1298a5671838b81786ffbae9cc485123}
-      \strng{fullhash}{1298a5671838b81786ffbae9cc485123}
-      \strng{bibnamehash}{1298a5671838b81786ffbae9cc485123}
-      \strng{authorbibnamehash}{1298a5671838b81786ffbae9cc485123}
-      \strng{authornamehash}{1298a5671838b81786ffbae9cc485123}
-      \strng{authorfullhash}{1298a5671838b81786ffbae9cc485123}
-      \field{sortinit}{8}
-      \field{sortinithash}{1b24cab5087933ef0826a7cd3b99e994}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{month}{9}
-      \field{title}{Artificial Gauge Fields for Ultracold Neutral Atoms}
-      \field{type}{phdthesis}
-      \field{year}{2012}
-    \endentry
   \enddatalist
 \endrefsection
 \endinput

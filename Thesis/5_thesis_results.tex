@@ -61,29 +61,27 @@ The result is a quite accurate estimation of $\lambda_0^*$ while the calculation
 
 Now, it is the moment to study the diffraction of an erbium \ac{bec} with the described Raman lattice set-up. In order to do this, the one photon detuning $\delta$ must be measured. Due to the conclusions made in previous section, the optical frequency of the Raman beams has been chosen for this whole part to be $\lambda_\text{R} = 840.98880(1) \si{\nano\meter}$. Thus, the resulting value for $\delta$ turns out to be
 \begin{equation*}
-	\delta = 2\pi c\cdot\bigg(\frac{1}{\lambda_{0}} - \frac{1}{\lambda_\text{R}} \bigg) = 2\pi \cdot(225 \pm 6) \si{\mega\hertz}
+	\delta = 2\pi c\cdot\bigg(\frac{1}{\lambda_{0}} - \frac{1}{\lambda_\text{R}} \bigg) = 2\pi \cdot(225 \pm 6) \si{\mega\hertz} \approx \num{1.8e-5} \cdot\Delta\nu_0.
 \end{equation*}
 
-Therefore, the approximations used for the Hamiltonian in Section \ref{subsec:diffraction_regimes} are fulfilled. Because $\delta \gg \Gamma, \Delta\nu_0$ being the decay rate $\Gamma$ and natural linewidth $\Delta\nu_0$ of the \SI{841}{\nano\meter} transition (see Table \ref{tab:Transitions}). Another approximation that has been performed along this thesis results to be $\delta \gg \omega_r = \frac{\Delta_1}{4}$, with the 2-photon recoil frequency $\Delta_1$ given by Equation \eqref{eq:Bragg_condition} with $n=1$. From this expression and the data already shown, one can get the value of $\Delta_1$ to be
+Therefore, the approximations used for the Hamiltonian in Section \ref{subsec:diffraction_regimes} are fulfilled. Because $\delta \gg \Gamma, \Delta\nu_0$ being the decay rate $\Gamma$ and natural linewidth $\Delta\nu_0$ of the \SI{841}{\nano\meter} transition (see Table \ref{tab:Transitions}). Another approximation that has been performed along this thesis results to be $\delta \gg \omega_r = \frac{\Delta_1}{4}$, with the 2-photon recoil frequency $\Delta_1$ given by Equation \eqref{eq:Bragg_condition} with $n=1$. From this expression one can get the value of $\Delta_1$ to be
 \begin{equation*}
-	\Delta_1 = 2\pi \cdot (6.713 \pm 0.004)\si{kHz}
+	\Delta_1 = \frac{2\hbar k^2}{M} = 2\pi \cdot (6.713 \pm 0.004)\si{kHz}.
 \end{equation*}
-
-This result proves the approximation $\delta \gg \Delta_1$ to also be reasonable within the described situation. Therefore, the different theoretical regimes seem to be valid and a more in-depth study is available.
+This result proves the approximation $\delta \gg \Delta_1$ to also be reasonable within the described situation. Therefore, the different theoretical regimes seem to be valid and a more in-depth study is possible.
 
 \subsection{Bragg regime}
 
 As seen in Chapter \ref{chap:one_dimensional_lattices}, the Bragg regime is achieved only for long interaction times and when the Bragg condition is being fulfilled. To achieve it, the detuning between Raman beams has been set to $\Delta_1$. The result is an effective two level system between the 0th and +1st diffraction orders acting as ground and excited states respectively. This generates Rabi oscillations for different interaction times $t_\text{int}$ with frequency $\Omega_\text{eff}$ between the ground and excited state population rates, with the last one ideally governed by Equation \ref{eq:population_excited_state}. This effect has been observed for the case of optical power in the Raman beams chosen like: $P_1 = (3.05 \pm 0.05)\si{\milli\watt}$ and $P_2 = (9.10 \pm 0.05)\si{\milli\watt}$. These powers allow to estimate the ``effective'' intensity of the lattice as
 \begin{equation*}
-	I_\text{eff} = \sqrt{I_1\cdot I_2} = (7.7 \pm 0.4)\si{\kilo\watt\per\meter\squared}
+	I_\text{eff} = \sqrt{I_1\cdot I_2} = (7.7 \pm 0.4)\si{\kilo\watt\per\meter\squared}.
 \end{equation*} 
 
 Figure \ref{fig:Bragg_images} shows the effect of Rabi oscillations between the 0th and 1st orders for the exposed value of $I_\text{eff}$. These images are just a small sample of all the measured for this same situation but different values of $t_\text{int}$. From each image, the population rate of any $i$ order with $i \in \{0,1\}$ can be estimated as
 \begin{equation}
-	P_i = \frac{N_i}{N_0+N_1}
+	P_i = \frac{N_i}{N_0+N_1},
 \end{equation}
-
-Where $N_0$ and $N_1$ are the number of atoms in each diffraction order. Therefore, it is possible to measure the population rate in each picture and plot it as a function of $t_\text{int}$. This is shown in Figure \ref{fig:Bragg_measurement}.
+where $N_0$ and $N_1$ are the number of atoms in each diffraction order. Therefore, it is possible to measure the population rate in each picture and plot it as a function of $t_\text{int}$. This is shown in Figure \ref{fig:Bragg_measurement}.
 
 \begin{figure}[!htbp]
 	\centering
@@ -105,26 +103,24 @@ Where $N_0$ and $N_1$ are the number of atoms in each diffraction order. Therefo
 		\caption{ $t_\text{int} = 240\si{\micro\second}$}
 		\label{fig:Bragg_images_3}
 	\end{subfigure}
-	\caption[Diffracted ultracold erbium ensemble after an interaction time with the lattice $t_\text{int}$ and a \ac{tof}$=19\si{\milli\second}$]{Diffracted ultracold erbium ensemble after an interaction time with the lattice $t_\text{int}$ and a \ac{tof}$=19\si{\milli\second}$. One can observe the effect of Rabi oscillations due to different $t_\text{int}$ values. The top atomic cloud corresponds to the 0th diffraction order while the bottom cloud is the 1st. This images have been normalized with respect to the maximum minimum value in frame. During the \ac{tof}, gravity pulls the atoms towards right because the camera is rotated 90° counter-clockwise. The effective intensity of the lattice used was $I_\text{eff} = (7.7 \pm 0.4)\si{\kilo\watt\per\meter\squared}$.}
+	\caption[Diffracted ultracold erbium ensemble after an interaction time with the lattice $t_\text{int}$ and a \ac{tof}$=19\si{\milli\second}$]{Diffracted ultracold erbium ensemble after an interaction time with the lattice $t_\text{int}$ and a \ac{tof}$=19\si{\milli\second}$. One can observe the effect of Rabi oscillations due to different $t_\text{int}$ values. The top atomic cloud corresponds to the 0th diffraction order while the bottom cloud is the 1st. Each image has been normalized with respect to the maximum and minimum value in the frame. The used camera is rotated 90° counter-clockwise, resulting in the separation of orders in the vertical axis of the frames. The effective intensity of the lattice used was $I_\text{eff} = (7.7 \pm 0.4)\si{\kilo\watt\per\meter\squared}$.}
 	\label{fig:Bragg_images}
 \end{figure}
 
 \begin{figure}[!htbp]\centering
 	\includegraphics[width=1.\columnwidth]{Rabi_measurement_7.7.pdf}
-	\caption[Population rate as a function of the interaction time between erbium \ac{bec} and Raman lattice]{Population rate as a function of the interaction time between erbium \ac{bec} and Raman lattice. The plot shows Rabi oscillations in rate populations of the 0th and 1st diffraction orders. Each pair of points has been taken by averaging between 3 to 5 images. The Raman lattice had an effective intensity of $I_\text{eff} = (7.7 \pm 0.4)\si{\kilo\watt\per\meter\squared}$. }\label{fig:Bragg_measurement}
+	\caption[Population rate as a function of the interaction time between erbium \ac{bec} and Raman lattice]{Population rate as a function of the interaction time between erbium \ac{bec} and Raman lattice. The plot shows Rabi oscillations in rate populations of the 0th and 1st diffraction orders. Each pair of points has been taken by averaging 5 different images. The Raman lattice had an effective intensity of $I_\text{eff} = (7.7 \pm 0.4)\si{\kilo\watt\per\meter\squared}$. }\label{fig:Bragg_measurement}
 \end{figure}
 
-The plot confirms theory and shows Rabi oscillations in an effective 2-level system as a predominant effect for this regime of parameters. Once this set of data is obtained, one can perform a more in-depth analysis of the oscillations. As it has been said, Equation \ref{eq:population_excited_state} must be fulfilled in this regime for the behaviour of population in the 1st diffracted order $P_1$. This way, a sine squared function fit can be performed to this population rate. However, in order to account for factors like noise or coherent losses in the \ac{bec}, a damped term has been added. Thus, the fitted function expression results
+The plot confirms the theory and shows Rabi oscillations in an effective 2-level system as a predominant effect for this regime of parameters. Once this set of data is obtained, one can perform a more in-depth analysis of the oscillations. As it has been said, Equation \ref{eq:population_excited_state} must be fulfilled in this regime for the behaviour of population in the 1st diffracted order $P_1$. This way, a sine squared function fit can be performed to this population rate. However, in order to account for factors like noise or coherent losses in the \ac{bec}, a damped term has been added. Thus, the fitted function expression results
 \begin{equation}
-	f_\text{fit}(t_\text{int}) = A \text{exp}(-b t_\text{int}) \cdot \text{sin}^2\bigg(\frac{\Omega_\text{eff}t_\text{int}}{2} +\phi\bigg) + y_0
+	f_\text{fit}(t_\text{int}) = A \text{exp}(-b t_\text{int}) \cdot \text{sin}^2\bigg(\frac{\Omega_\text{eff}t_\text{int}}{2} +\phi\bigg) + y_0,
 \end{equation}
-
-Where $A$, $b$, $\Omega_\text{eff}$, $\phi$ and $y_0$ are free parameters of the fit. This allows the estimation of relevant system parameters such as the 2-photon Rabi frequency for any value of $I_\text{eff}$. The result can be seen in Figure \ref{fig:Bragg_fit_1st_order} for three different values of $I_\text{eff}$. From this analysis, one can easily see a proportional relation between $I_\text{eff}$ and $\Omega_\text{eff}$, which is also described in the theory. When combining Equations \eqref{eq:relation_rabi_frequency_lattice_depth} and \eqref{eq:relation_lattice_potential_depth_final} one gets
+where $A$, $b$, $\Omega_\text{eff}$, $\phi$ and $y_0$ are free parameters of the fit. This allows the estimation of relevant system parameters such as the 2-photon Rabi frequency for any value of $I_\text{eff}$. The result can be seen in Figure \ref{fig:Bragg_fit_1st_order} for three different values of $I_\text{eff}$. From this analysis, one can easily see a proportional relation between $I_\text{eff}$ and $\Omega_\text{eff}$, which is also described in the theory. When combining Equations \eqref{eq:relation_rabi_frequency_lattice_depth} and \eqref{eq:relation_lattice_potential_depth_final} one gets
 \begin{equation}\label{eq:relation_Ieff_omega_eff}
-	\Omega_\text{eff} = \Bigg(\frac{3 \pi c^2 \Gamma}{\omega_0^3 \delta \hbar} \text{exp}\bigg(-\frac{r_1^2}{w_1^2}-\frac{r_2^2}{w_2^2}\bigg)\Bigg) \cdot I_\text{eff}
+	\Omega_\text{eff} = \Bigg(\frac{3 \pi c^2 \Gamma}{\omega_0^3 \delta \hbar} \text{exp}\bigg(-\frac{r_1^2}{w_1^2}-\frac{r_2^2}{w_2^2}\bigg)\Bigg) \cdot I_\text{eff},
 \end{equation}
-
-Which contains an exponential term describing how ``good'' the erbium \ac{bec} is aligned with respect to the Raman beams. Unfortunately, this term can not be obtained experimentally within a reasonable value of uncertainty. However, it can be estimated with the obtained data by simply performing a linear fit to the measured values of $\Omega_\text{eff}$ as a function of $I_\text{eff}$. This can be seen in Figure \ref{fig:Linear_fit}.
+which contains an exponential term describing how ``good'' the Raman beams are aligned with respect to the erbium \ac{bec}. Unfortunately, this term can not be measured independently within a reasonable value of uncertainty. However, it can be estimated with the obtained data by simply performing a linear fit to the measured values of $\Omega_\text{eff}$ as a function of $I_\text{eff}$. This can be seen in Figure \ref{fig:Linear_fit}.
 
 
 \begin{figure}[!htbp]
@@ -132,24 +128,26 @@ Which contains an exponential term describing how ``good'' the erbium \ac{bec} i
 	\begin{subfigure}{1.\textwidth}
 		\centering
 		\label{fig:fig:Bragg_fit_1st_order_7.7}
-		\includegraphics[width=.75\linewidth]{Rabi_fit_7.7.pdf}
-		\caption{$I_\text{eff} = (7.7\pm 0.4)\si{\kilo\watt\per\meter\squared}$}
+		\includegraphics[width=.8\linewidth]{Rabi_fit_7.7.pdf}
+		%\caption{$I_\text{eff} = (7.7\pm 0.4)\si{\kilo\watt\per\meter\squared}$}
 	\end{subfigure}%
 	\hfill
+	\vspace{0.2cm}
 	\begin{subfigure}{1.\textwidth}
 		\centering
 		\label{fig:Bragg_fit_1st_order_12.7}
-		\includegraphics[width=.75\linewidth]{Rabi_fit_12.7.pdf}
-		\caption{$I_\text{eff} = (12.7\pm 0.4)\si{\kilo\watt\per\meter\squared}$}
+		\includegraphics[width=.8\linewidth]{Rabi_fit_12.7.pdf}
+		%\caption{$I_\text{eff} = (12.7\pm 0.4)\si{\kilo\watt\per\meter\squared}$}
 	\end{subfigure}
 	\hfill
+	\vspace{0.2cm}
 	\begin{subfigure}{1.\textwidth}
 		\centering
 		\label{fig:Bragg_fit_1st_order_24.6}
-		\includegraphics[width=0.75\linewidth]{Rabi_fit_24.6.pdf}
-		\caption{$I_\text{eff} = (24.6\pm 0.4)\si{\kilo\watt\per\meter\squared}$}
+		\includegraphics[width=0.8\linewidth]{Rabi_fit_24.6.pdf}
+		%\caption{$I_\text{eff} = (24.6\pm 0.4)\si{\kilo\watt\per\meter\squared}$}
 	\end{subfigure}
-	\caption[Fit of a damped sine squared function to the population rate for different values of $I_\text{eff}$]{Fit of a damped sine squared function to the population rate for different values of $I_\text{eff}$. The main is to characterize the Rabi oscillations in this state and obtain an estimation of the 2-photon Rabi frequency $\Omega_\text{eff}$.}
+	\caption[Fit of a damped sine squared function to the population rate for different values of $I_\text{eff}$]{Fit of a damped sine squared function to the population rate for different values of $I_\text{eff}$. The objective is to characterize the Rabi oscillations in this state and obtain an estimation of the 2-photon Rabi frequency $\Omega_\text{eff}$.}
 	\label{fig:Bragg_fit_1st_order}
 \end{figure}
 
@@ -160,12 +158,11 @@ Which contains an exponential term describing how ``good'' the erbium \ac{bec} i
 
 \newpage
 
-As a result, the linear fit seems to fulfil very accurately the measured data behaviour, which also coincides with theory. One could argue, the amount of data points to not be high enough. This is due to time constrains at the moment of taking the data, as different experimental problems appeared together with the requirement of measuring more data that will be shown below. In any case, the linear fit also shows a discrepancy with Equation \eqref{eq:relation_Ieff_omega_eff}, which consist in a non-zero intercept of $(2.97\pm0.05)\si{\kilo\hertz}$. This can be due to different reasons, the main one being the differences between Raman beam sizes. It could be a mayor factor because together with the beam misalignment, there will be a mayor difference between the optical intensities perceived by the \ac{bec}. This produces a shift in the lattice potential, which in principle should not affect these measurements for small shift values, but in the case of very big ones it could be a responsible factor. Other possibility is that the little amount of points covers a non-linear behaviour for small values of $I_\text{eff}$ for unknown reasons. In any case, the slope estimation of $(0.214\pm0.003)\si{\kilo\hertz\meter\squared\per\kilo\watt}$ allows the calculation of a ``misalignment'' factor $\beta$ as
+As a result, the linear fit seems to fulfil very accurately the measured data behaviour, which also coincides with theory. One could argue, the amount of data points to not be high enough. This is due to time constrains at the moment of taking the data, as different experimental problems appeared together with the requirement of measuring more data that will be shown below. In any case, the linear fit also shows a discrepancy with Equation \eqref{eq:relation_Ieff_omega_eff}, which consist in a non-zero intercept of $(2.97\pm0.05)\si{\kilo\hertz}$. This can be due to different reasons, the main one being the differences between Raman beam sizes. It could be a mayor factor because together with the beam misalignment, there will be a major difference between the optical intensities perceived by the \ac{bec}. This produces a shift in the lattice potential, which in principle should not affect these measurements for small shift values, but in the case of very big ones it could be a responsible factor. Other possibility is that the little amount of points covers a non-linear behaviour for small values of $I_\text{eff}$ for unknown reasons. In any case, the slope estimation of $(0.214\pm0.003)\si{\kilo\hertz\meter\squared\per\kilo\watt}$ allows the calculation of a ``misalignment'' factor $\beta$ as
 \begin{equation*}
-	\beta \equiv \text{exp}\bigg(-\frac{r_1^2}{w_1^2}-\frac{r_2^2}{w_2^2}\bigg) = (8.5\pm0.3)\cdot10^{-3}
+	\beta \equiv \text{exp}\bigg(-\frac{r_1^2}{w_1^2}-\frac{r_2^2}{w_2^2}\bigg) = (8.5\pm0.3)\cdot10^{-3},
 \end{equation*}
-
-Which gives a maximum misalignment distance between the \ac{bec} position and R1/R2 beams' centre to be $r_1^\text{max} = (1.083 \pm 0.003) \si{\milli\meter}$ and  $r_2^\text{max} = (1.384\pm0.006) \si{\milli\meter}$ respectively. These values are within a reasonable order, but the alignment factor seems to be of very low quality for the implemented theoretical model.
+which gives a maximum misalignment distance between the \ac{bec} position and R1/R2 beams' centre to be $r_1^\text{max} = (1.083 \pm 0.003) \si{\milli\meter}$ and  $r_2^\text{max} = (1.384\pm0.006) \si{\milli\meter}$ respectively. These values are within a reasonable order, but the alignment factor seems to be of very low quality for the implemented theoretical model.
 
 \pagebreak
 

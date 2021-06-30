@@ -2667,9 +2667,6 @@ INPUT ./figs//Linear_Fit.pdf
 INPUT figs//Linear_Fit.pdf
 INPUT ./figs//Linear_Fit.pdf
 INPUT ./figs//Linear_Fit.pdf
-INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/newtx/ntxsy.vf
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/txsys.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/txex-bar.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/tex-gyre/ts1-qtmr.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/tex-gyre/ts1-qtmr.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntx-Regular-tlf-t1.tfm
@@ -2709,6 +2706,9 @@ INPUT ./figs//Plot_RF_Known_fields.pdf
 INPUT figs//Plot_RF_Known_fields.pdf
 INPUT ./figs//Plot_RF_Known_fields.pdf
 INPUT ./figs//Plot_RF_Known_fields.pdf
+INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/newtx/ntxsy.vf
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/txsys.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/txex-bar.tfm
 INPUT ./figs//raman_without_gradient.pdf
 INPUT ./figs//raman_without_gradient.pdf
 INPUT figs//raman_without_gradient.pdf

@@ -1,17 +1,17 @@
 [0] Config.pm:311> INFO - This is Biber 2.16
 [0] Config.pm:314> INFO - Logfile is 'Thesis.blg'
-[69] biber:340> INFO - === Tue Jun 29, 2021, 19:24:19
-[81] Biber.pm:415> INFO - Reading 'Thesis.bcf'
-[147] Biber.pm:952> INFO - Found 63 citekeys in bib section 0
-[158] Biber.pm:4340> INFO - Processing section 0
-[167] Biber.pm:4531> INFO - Looking for bibtex format file 'bib/thesis_refs.bib' for section 0
-[169] bibtex.pm:1689> INFO - LaTeX decoding ...
-[248] bibtex.pm:1494> INFO - Found BibTeX data source 'bib/thesis_refs.bib'
+[67] biber:340> INFO - === Wed Jun 30, 2021, 11:00:41
+[79] Biber.pm:415> INFO - Reading 'Thesis.bcf'
+[141] Biber.pm:952> INFO - Found 63 citekeys in bib section 0
+[153] Biber.pm:4340> INFO - Processing section 0
+[162] Biber.pm:4531> INFO - Looking for bibtex format file 'bib/thesis_refs.bib' for section 0
+[165] bibtex.pm:1689> INFO - LaTeX decoding ...
+[244] bibtex.pm:1494> INFO - Found BibTeX data source 'bib/thesis_refs.bib'
 [342] Utils.pm:384> WARN - legacy month field 'Nov' in entry 'Klaers2010' is not an integer - this will probably not sort properly.
-[645] UCollate.pm:68> INFO - Overriding locale 'en-UK' defaults 'variable = shifted' with 'variable = non-ignorable'
-[645] UCollate.pm:68> INFO - Overriding locale 'en-UK' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[646] Biber.pm:4168> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-UK'
-[646] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-UK'
-[679] bbl.pm:654> INFO - Writing 'Thesis.bbl' with encoding 'UTF-8'
-[713] bbl.pm:757> INFO - Output to Thesis.bbl
-[713] Biber.pm:128> INFO - WARNINGS: 1
+[658] UCollate.pm:68> INFO - Overriding locale 'en-UK' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[658] UCollate.pm:68> INFO - Overriding locale 'en-UK' defaults 'variable = shifted' with 'variable = non-ignorable'
+[659] Biber.pm:4168> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-UK'
+[659] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-UK'
+[694] bbl.pm:654> INFO - Writing 'Thesis.bbl' with encoding 'UTF-8'
+[728] bbl.pm:757> INFO - Output to Thesis.bbl
+[728] Biber.pm:128> INFO - WARNINGS: 1

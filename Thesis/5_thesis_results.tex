@@ -158,7 +158,7 @@ which contains an exponential term describing how ``good'' the Raman beams are a
 
 \newpage
 
-As a result, the linear fit seems to fulfil very accurately the measured data behaviour, which also coincides with theory. One could argue, the amount of data points to not be high enough. This is due to time constrains at the moment of taking the data, as different experimental problems appeared together with the requirement of measuring more data that will be shown below. In any case, the linear fit also shows a discrepancy with Equation \eqref{eq:relation_Ieff_omega_eff}, which consist in a non-zero intercept of $(2.97\pm0.05)\si{\kilo\hertz}$. This can be due to different reasons, the main one being the differences between Raman beam sizes. It could be a mayor factor because together with the beam misalignment, there will be a major difference between the optical intensities perceived by the \ac{bec}. This produces a shift in the lattice potential, which in principle should not affect these measurements for small shift values, but in the case of very big ones it could be a responsible factor. Other possibility is that the little amount of points covers a non-linear behaviour for small values of $I_\text{eff}$ for unknown reasons. In any case, the slope estimation of $(0.214\pm0.003)\si{\kilo\hertz\meter\squared\per\kilo\watt}$ allows the calculation of a ``misalignment'' factor $\beta$ as
+As a result, the linear fit seems to fulfil very accurately the measured data behaviour, which also coincides with theory. One could argue, the amount of data points to not be high enough. This is due to time constrains at the moment of taking the data, as different experimental problems appeared together with the requirement of measuring more data that will be shown below. In any case, the linear fit also shows a discrepancy with Equation \eqref{eq:relation_Ieff_omega_eff}, which consist in a non-zero intercept of $(2.97\pm0.05)\si{\kilo\hertz}$. This can be due to different reasons, the main one being the differences between Raman beam sizes. It could be a mayor factor because together with the beam misalignment, there will be a major difference between the optical intensities perceived by the \ac{bec}. This produces a shift in the lattice potential, which in principle should not affect these measurements for small shift values, but in the case of very big ones it could be a responsible factor. Other possibility is that the little amount of points covers a non-linear behaviour for small values of $I_\text{eff}$ for unknown reasons. In any case, the slope estimation of $(0.214\pm0.003)\si{\kilo\hertz\meter\squared\per\kilo\watt}$ allows the calculation of a ``misalignment'' factor as
 \begin{equation*}
 	\beta \equiv \text{exp}\bigg(-\frac{r_1^2}{w_1^2}-\frac{r_2^2}{w_2^2}\bigg) = (8.5\pm0.3)\cdot10^{-3},
 \end{equation*}
@@ -168,7 +168,7 @@ which gives a maximum misalignment distance between the \ac{bec} position and R1
 
 \subsection{Raman-Nath regime}
 
-Once, the Bragg regime has been characterized, it is the moment of briefly showing that the Raman-Nath regime is also achievable in this experimental set-up. After ramping up the effective intensity in the optical lattice to $I_\text{eff} = (42.12 \pm 0.5)\si{\kilo\watt\per\meter\squared}$, and setting the 2-photon detuning between R1 and R2 to zero. The result can be seen in Figures \ref{fig:raman_nath} and \ref{fig:raman_nath_cut}, where an average of over 104 different pictures for a changing interaction time $t_\text{int} = 0\si{\micro\second}\text{ - }100\si{\micro\second}$ has been performed. As it can be seen, up to 5 different diffraction orders can be distinguished, which confirms the described theory and shows the experimental set-up capability to achieve the Raman-Nath regime.
+Once, the Bragg regime has been characterized, it is the moment of briefly showing that the Raman-Nath regime is also achievable in this experimental set-up. After ramping up the effective intensity in the optical lattice to $I_\text{eff} = (42.12 \pm 0.5)\si{\kilo\watt\per\meter\squared}$, and setting the 2-photon detuning between R1 and R2 to zero. The result can be seen in Figures \ref{fig:raman_nath} and \ref{fig:raman_nath_cut}, where an average of over 104 different pictures has been performed. As it can be seen, up to 5 different diffraction orders can be distinguished, which confirms the described theory and shows the experimental set-up capability to achieve the Raman-Nath regime.
 
 \begin{figure}[!htbp]\centering
 	\includegraphics[width=1.\columnwidth]{raman_nath.pdf}
@@ -184,23 +184,23 @@ Once, the Bragg regime has been characterized, it is the moment of briefly showi
 
 \section{Magnetic fields characterization with \acs{rf} transitions}
 
-After characterising an optical set-up that results in Raman transitions between components in the momentum space, the following goal is already described in Chapter \ref{chap:raman_manipulation}. This objective consists in obtaining Raman transitions between components in the spin and momentum space. But first, it is required the use of \ac{rf} transitions to estimate the Zeeman splitting caused by the magnetic fields inside the vacuum chamber. This way, the effect can be compensated first and then an extra field can be added along the quantization axis of the Raman beams, which will be required for the Raman transitions. Section \ref{sec:rf_transitions} describes this in further detail, while here the focus will be in analysing the measured data. Figure \ref{fig:RF_pulse} shows two reference samples of the measurements. An erbium \ac{bec} interacts with an \ac{rf}-pulse during \SI{0.4}{\milli\second} and falls through a gradient field of approximately 4G/cm during the \ac{tof} of \SI{19}{\milli\second}, which allows the separation between Zeeman states due to the Stern-Gerlach force. When the \ac{rf}-pulse frequency is far away from the Zeeman resonance $\omega_\text{Ze} \equiv \Delta E_{\text{Ze}}/\hbar$ given by Equation \ref{eq:Zeeman_splitting_difference}, the result is shown in Figure \ref{fig:RF_pulse_non-resonant}. The \ac{rf} transitions are being suppressed and the\ac{bec} remains mostly in the state $m_J=-6$ due to the experimental set-up configuration (see Section \ref{sec:rf_transitions}). On the other hand, when the \ac{rf}-pulse frequency is close to $\omega_\text{Ze}$, the transitions into other Zeeman levels are allowed, as shown in Figure \ref{fig:RF_pulse_resonant}. Therefore, by scanning the \ac{rf}-pulse frequency in the region of Zeeman resonance and comparing the population in different states, one can get an estimation of $\omega_\text{Ze}$ produced by any homogeneous magnetic field $\vec{B}_\text{H}$. Thus, the measurements of $\omega_\text{Ze}$ for three different homogeneous fields can be seen in Figure \ref{fig:Plot_RF_All_fields}.
+After characterising an optical set-up that results in Raman transitions between components in the momentum space, the following goal is already described in Chapter \ref{chap:raman_manipulation}. This objective consists in obtaining Raman transitions between components in the spin and momentum space. But first, it is required the use of \ac{rf} transitions to estimate the Zeeman splitting caused by the magnetic fields inside the vacuum chamber. This way, the effect can be compensated first and then an extra field can be added along the quantization axis of the Raman beams, which will be required for the Raman transitions. Section \ref{sec:rf_transitions} describes this in further detail, while here the focus will be in analysing the measured data. Figure \ref{fig:RF_pulse} shows two reference samples of the measurements. An erbium \ac{bec} interacts with an \ac{rf}-pulse during \SI{0.4}{\milli\second} and falls through a gradient field of approximately 4G/cm during the \ac{tof} of \SI{19}{\milli\second}, which allows the separation between Zeeman states due to the Stern-Gerlach force. When the \ac{rf}-pulse frequency is far away from the Zeeman resonance $\omega_\text{Ze} \equiv \Delta E_{\text{Ze}}/\hbar$ given by Equation \ref{eq:Zeeman_splitting_difference}, the result is shown in Figure \ref{fig:RF_pulse_non-resonant}. The \ac{rf} transitions are being suppressed and the \ac{bec} remains mostly in the state $m_J=-6$ due to the experimental set-up configuration (see Section \ref{sec:rf_transitions}). On the other hand, when the \ac{rf}-pulse frequency is close to $\omega_\text{Ze}$, the transitions into other Zeeman levels are allowed, as shown in Figure \ref{fig:RF_pulse_resonant}. Therefore, by scanning the \ac{rf}-pulse frequency in the region of Zeeman resonance and comparing the population in different states, one can get an estimation of $\omega_\text{Ze}$ produced by any homogeneous magnetic field $\vec{B}_\text{H}$. Thus, the measurements of $\omega_\text{Ze}$ for three different homogeneous fields can be seen in Figure \ref{fig:Plot_RF_All_fields}.
 
 \begin{figure}[!htbp]
 	\centering
 	\begin{subfigure}{.5\textwidth}
 		\centering
-		\includegraphics[width=1.\linewidth]{RF_pulse_non-resonant.pdf}
+		\includegraphics[width=0.7\linewidth]{RF_pulse_non-resonant.png}
 		\caption{Far-resonant \ac{rf} pulse}
 		\label{fig:RF_pulse_non-resonant}
 	\end{subfigure}%
 	\begin{subfigure}{.5\textwidth}
 		\centering
-		\includegraphics[width=1.\linewidth]{RF_pulse_resonant.pdf}
+		\includegraphics[width=0.7\linewidth]{RF_pulse_resonant.png}
 		\caption{Near-resonant \ac{rf} pulse}
 		\label{fig:RF_pulse_resonant}
 	\end{subfigure}
-	\caption[Comparative set of two different interactions between an erbium \ac{bec} and a \ac{rf}-pulse.]{Comparative set of two different interactions between an erbium \ac{bec} and a \ac{rf}-pulse. Both images were taken after an interaction time with the \ac{rf}-pulse of \SI{0.4}{\milli\second} and a \ac{tof} of \SI{19}{\milli\second}. During this \acl{tof} a gradient field of approximately 4G/cm was applied in order to separate the different $m_J$ orders. The gradient field direction was being applied along the gravitational axis, which corresponds to the left-right direction in both images.}
+	\caption[Comparative set of two different interactions between an erbium \ac{bec} and a \ac{rf}-pulse.]{Comparative set of two different interactions between an erbium \ac{bec} and a \ac{rf}-pulse. Both images were taken after an interaction time with the \ac{rf}-pulse of \SI{0.4}{\milli\second} and a \ac{tof} of \SI{19}{\milli\second}. During this \acl{tof} a gradient field of approximately 4G/cm was applied in order to separate the different $m_J$ orders. The gradient field direction was being applied along the gravitational axis, which corresponds to the vertical direction in both images.}
 	\label{fig:RF_pulse}
 \end{figure}
 
@@ -215,6 +215,7 @@ After characterising an optical set-up that results in Raman transitions between
 		\caption{Experiment magnetic field $\vec{B}_\text{H}$}
 	\end{subfigure}%
 	\hfill
+	\vspace{0.2cm}
 	\begin{subfigure}{1.\textwidth}
 		\centering
 		\label{fig:Plot_RF_Compensated_fields}
@@ -222,6 +223,7 @@ After characterising an optical set-up that results in Raman transitions between
 		\caption{Compensated magnetic field $\vec{B}_\text{Comp}$}
 	\end{subfigure}
 	\hfill
+	\vspace{0.2cm}
 	\begin{subfigure}{1.\textwidth}
 		\centering
 		\label{fig:Plot_RF_Known_fields}
@@ -234,7 +236,7 @@ After characterising an optical set-up that results in Raman transitions between
 
 \pagebreak
 
-Each plotted data in the three parts of Figure \ref{fig:Plot_RF_All_fields} corresponds to a ratio of the atom number in the ground state $m_J = -6$ and the rest of states $m_J = $-5, -4, ..., +6. The different fields are: $\vec{B}_\text{H}$ the default magnetic field affecting the \ac{bec} during the experiment, $\vec{B}_\text{Comp}$ the compensated field with offset coils in order to make $\omega_\text{Ze}$ as low as possible, and $\vec{B}'_\text{H} = \vec{B}_\text{Comp} +B_\text{R}\vec{e}_x$ the result of adding to the compensated field and extra one in the quantization axis for the following section. By applying a Gaussian fit to each set of data, an estimation of relevant parameters like the Zeeman resonant frequencies $\omega_\text{Ze}$ and the \ac{rf} transition linewidths $\Delta \omega_\text{Ze}$ were obtained:
+Each plotted data in the three parts of Figure \ref{fig:Plot_RF_All_fields} corresponds to a ratio of the atom number in the ground state $m_J = -6$ and the rest of states $m_J = $-5, -4, ..., +6. The different fields are: $\vec{B}_\text{H}$ the default magnetic field affecting the \ac{bec} during the experiment, $\vec{B}_\text{Comp}$ the compensated field with offset coils in order to make $\omega_\text{Ze}$ as low as possible, and $\vec{B}'_\text{H} = \vec{B}_\text{Comp} +B_\text{R}\vec{e}_x$ the result of adding to the compensated field and extra one in the Raman beams direction for the following section. By applying a Gaussian fit to each set of data, an estimation of relevant parameters like the Zeeman resonant frequencies $\omega_\text{Ze}$ and the \ac{rf} transition linewidths $\Delta \omega_\text{Ze}$ were obtained:
 
 \begin{table}[htbp] \centering
 	\begin{tabular}{@{}l|c|c@{}}\hline
@@ -247,28 +249,27 @@ Each plotted data in the three parts of Figure \ref{fig:Plot_RF_All_fields} corr
 	\label{tab:results_Plot_RF_All_fields}
 \end{table}
 
-These results are within expectation and for the case of $\Delta \omega_\text{Ze}$ show of stable are the Zeeman splitting and magnetic field. As a result, one can conclude for the next section that the Raman condition for the 2-photon detuning $\Delta$ must be of approximately $890\si{\kilo\hertz}$ with an error margin of $58\si{\kilo\hertz}$ given by $\omega_\text{Ze}$ for the compensated fields.
+These results are reasonable and for the case of $\Delta \omega_\text{Ze}$ show how stable are the Zeeman splitting and magnetic field. As a result, one can conclude for the next section that the Raman condition for the 2-photon detuning $\Delta$ must be of approximately $2\cdot890\si{\kilo\hertz}$ with an error margin of $58\si{\kilo\hertz}$ given by $\omega_\text{Ze}$ for the compensated field $\vec{B}_\text{Comp}$.
 
 \section{Raman transitions in the spin-momentum space}
 
 Finally, the last measurement achieved in this thesis correspond to Raman transitions between Zeeman states. In order to achieve it, the offset coils of the experiment have been configured to produce the magnetic field $\vec{B}'_\text{H}$, which is mostly pointing throughout the Raman beams axis. After this, the Raman beams were re-aligned and their radius at the \ac{bec} position reduced to:
 \begin{align*}
-	w_{01} &= (66.9\pm1.5)\si{\micro\meter}   &   w_{02} &= (71.1\pm 1.1)\si{\micro\meter}
+	w_{01} &= (134\pm2)\si{\micro\meter}   &   w_{02} &= (142\pm 2)\si{\micro\meter}.
 \end{align*}
-
-Moreover, the beams polarization was changed from linear to circular, in order to achieve the experimental set-up described in Section \ref{sec:raman_manipulation_theory}. The optical powers for each beam were approximately $50\si{\milli\watt}$. And, the 2-photon detuning between beams was adjusted by using the value obtained at the previous section and Equation \eqref{eq:raman_condition} as $\Delta_\text{R} \approx 2\cdot840 \si{\kilo\hertz}$. There result was the obtention of Raman transitions in the spin-momentum space, which can be seen in Figure \ref{fig:raman_gradient}. For both cases, the images were taken after an interaction time with the Raman beams and a \ac{tof} of \SI{220}{\micro\second} and \SI{20}{\milli\second} respectively. The only difference between both images is that Figure \ref{fig:raman_without_gradient} had no gradient field being applied during the \ac{tof} and \ref{fig:raman_with_gradient} did have it of roughly 4G \si{\per\centi\meter}. The result is that the orders generated in the first image do not suffer an Stern-Gerlach force, described by Equation \ref{eq:Stern-Gerlach_force}, while the second image does suffer from this effect. Due to this, the Raman orders are separated in the gradient direction as a function of their spin value $m_J$, apart from the separation due to different momentum transfer that remains the unaltered. This effect proves without a doubt the internal energetic difference between orders and the achievement of Raman transitions in states with different spin. After this, an in-depth study of the experimental system would be required. However, time constraints during the realization of this thesis will leave this achievement aside for a future work.
+Moreover, the beams polarization was changed from linear to circular, in order to achieve the experimental set-up described in Section \ref{sec:raman_manipulation_theory}. The optical powers for each beam were approximately $50\si{\milli\watt}$. And, the 2-photon detuning between beams was adjusted by using the value obtained at the previous section and Equation \eqref{eq:raman_condition} as $\Delta_\text{R} \approx 2\cdot890 \si{\kilo\hertz}$. There result was the obtention of Raman transitions in the spin-momentum space, which can be seen in Figure \ref{fig:raman_gradient}. For both cases, the images were taken after an interaction time of \SI{220}{\micro\second} with the Raman beams and a \ac{tof} of \SI{20}{\milli\second}. The only difference between both images is that Figure \ref{fig:raman_without_gradient} had no gradient field being applied during the \ac{tof} and \ref{fig:raman_with_gradient} did have it of roughly 4G \si{\per\centi\meter}. The result is that the orders generated in the first image do not experience an Stern-Gerlach force, described by Equation \ref{eq:Stern-Gerlach_force}, while the orders in the second image are affected from this effect. Due to this, the Raman orders are separated in the gradient direction as a function of their spin value $m_J$, apart from the separation due to different momentum transfer that remains unaltered. This effect proves without a doubt the internal energetic difference between orders and the achievement of Raman transitions in states with different spin. After this achievement, an in-depth study of the experimental system will remain for a future work.
 
 \begin{figure}[!htbp]
 	\centering
 	\begin{subfigure}{.5\textwidth}
 		\centering
-		\includegraphics[width=0.7\linewidth]{raman_without_gradient.pdf}
+		\includegraphics[width=0.7\linewidth]{raman_without_gradient.png}
 		\caption{Without magnetic gradient}
 		\label{fig:raman_without_gradient}
 	\end{subfigure}%
 	\begin{subfigure}{.5\textwidth}
 		\centering
-		\includegraphics[width=0.7\linewidth]{raman_with_gradient.pdf}
+		\includegraphics[width=0.7\linewidth]{raman_with_gradient.png}
 		\caption{With magnetic gradient}
 		\label{fig:raman_with_gradient}
 	\end{subfigure}

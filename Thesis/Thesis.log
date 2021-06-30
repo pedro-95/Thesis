@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.4.23)  30 JUN 2021 13:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.4.23)  30 JUN 2021 18:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1443,6 +1443,7 @@ Package: multirow 2021/01/29 v2.7 Span multiple rows of a table
 (/usr/share/texlive/texmf-dist/tex/latex/physics/physics.sty
 Package: physics 
 )
+Package hyperref Info: Option `colorlinks' set `false' on input line 43.
 \g__acro_bec_int=\count488
 \g__acro_mot_int=\count489
 \g__acro_odt_int=\count490
@@ -1925,7 +1926,7 @@ Package scrdate Info: \dateczech not defined.
 (scrdate)             \todaysname probably cannot use \dayname@czech.
 Package scrdate Info: \dateslovak not defined.
 (scrdate)             \todaysname probably cannot use \dayname@slovak.
-Package hyperref Info: Link coloring ON on input line 159.
+Package hyperref Info: Link coloring OFF on input line 159.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
@@ -2483,48 +2484,42 @@ Package pdftex.def Info: figs//raman_nath_cut.pdf  used on input line 179.
 pdfTeX warning: pdflatex (file ./figs//raman_nath_cut.pdf): PDF inclusion: mult
 iple pdfs with page group included in a single page
 >]
-<figs//RF_pulse_non-resonant.pdf, id=1436, 346.89601pt x 333.41705pt>
-File: figs//RF_pulse_non-resonant.pdf Graphic file (type pdf)
-<use figs//RF_pulse_non-resonant.pdf>
-Package pdftex.def Info: figs//RF_pulse_non-resonant.pdf  used on input line 19
+<figs//RF_pulse_non-resonant.png, id=1436, 229.96313pt x 346.896pt>
+File: figs//RF_pulse_non-resonant.png Graphic file (type png)
+<use figs//RF_pulse_non-resonant.png>
+Package pdftex.def Info: figs//RF_pulse_non-resonant.png  used on input line 19
 3.
-(pdftex.def)             Requested size: 218.73059pt x 210.2319pt.
-<figs//RF_pulse_resonant.pdf, id=1437, 346.89601pt x 333.41705pt>
-File: figs//RF_pulse_resonant.pdf Graphic file (type pdf)
-<use figs//RF_pulse_resonant.pdf>
-Package pdftex.def Info: figs//RF_pulse_resonant.pdf  used on input line 199.
-(pdftex.def)             Requested size: 218.73059pt x 210.2319pt.
-<figs//Plot_RF_Experiment_fields.pdf, id=1438, 708.24597pt x 346.77966pt>
+(pdftex.def)             Requested size: 153.11073pt x 230.97406pt.
+<figs//RF_pulse_resonant.png, id=1438, 229.96313pt x 346.896pt>
+File: figs//RF_pulse_resonant.png Graphic file (type png)
+<use figs//RF_pulse_resonant.png>
+Package pdftex.def Info: figs//RF_pulse_resonant.png  used on input line 199.
+(pdftex.def)             Requested size: 153.11073pt x 230.97406pt.
+<figs//Plot_RF_Experiment_fields.pdf, id=1439, 708.24597pt x 346.77966pt>
 File: figs//Plot_RF_Experiment_fields.pdf Graphic file (type pdf)
 <use figs//Plot_RF_Experiment_fields.pdf>
 Package pdftex.def Info: figs//Plot_RF_Experiment_fields.pdf  used on input lin
 e 214.
 (pdftex.def)             Requested size: 328.09589pt x 160.64764pt.
-<figs//Plot_RF_Compensated_fields.pdf, id=1439, 708.24597pt x 346.89601pt>
+<figs//Plot_RF_Compensated_fields.pdf, id=1440, 708.24597pt x 346.89601pt>
 File: figs//Plot_RF_Compensated_fields.pdf Graphic file (type pdf)
 <use figs//Plot_RF_Compensated_fields.pdf>
 Package pdftex.def Info: figs//Plot_RF_Compensated_fields.pdf  used on input li
-ne 221.
+ne 222.
 (pdftex.def)             Requested size: 328.09589pt x 160.70154pt.
-<figs//Plot_RF_Known_fields.pdf, id=1440, 708.24597pt x 346.89601pt>
+<figs//Plot_RF_Known_fields.pdf, id=1441, 708.24597pt x 346.89601pt>
 File: figs//Plot_RF_Known_fields.pdf Graphic file (type pdf)
 <use figs//Plot_RF_Known_fields.pdf>
-Package pdftex.def Info: figs//Plot_RF_Known_fields.pdf  used on input line 228
+Package pdftex.def Info: figs//Plot_RF_Known_fields.pdf  used on input line 230
 .
 (pdftex.def)             Requested size: 328.09589pt x 160.70154pt.
 
 
-LaTeX Warning: Float too large for page by 0.71661pt on input line 233.
+LaTeX Warning: Float too large for page by 13.09753pt on input line 235.
 
-
-Underfull \vbox (badness 5231) has occurred while \output is active []
-
- [41 <./figs//RF_pulse_non-resonant.pdf> <./figs//RF_pulse_resonant.pdf
-
-pdfTeX warning: pdflatex (file ./figs//RF_pulse_resonant.pdf): PDF inclusion: m
-ultiple pdfs with page group included in a single page
->] [42 <./figs//Plot_RF_Experiment_fields.pdf> <./figs//Plot_RF_Compensated_fie
-lds.pdf
+[41 <./figs//RF_pulse_non-resonant.png> <./figs//RF_pulse_resonant.png>]
+[42 <./figs//Plot_RF_Experiment_fields.pdf> <./figs//Plot_RF_Compensated_fields
+.pdf
 
 pdfTeX warning: pdflatex (file ./figs//Plot_RF_Compensated_fields.pdf): PDF inc
 lusion: multiple pdfs with page group included in a single page
@@ -2533,24 +2528,20 @@ lusion: multiple pdfs with page group included in a single page
 pdfTeX warning: pdflatex (file ./figs//Plot_RF_Known_fields.pdf): PDF inclusion
 : multiple pdfs with page group included in a single page
 >]
-<figs//raman_without_gradient.pdf, id=1534, 193.43109pt x 346.89601pt>
-File: figs//raman_without_gradient.pdf Graphic file (type pdf)
-<use figs//raman_without_gradient.pdf>
-Package pdftex.def Info: figs//raman_without_gradient.pdf  used on input line 2
-65.
-(pdftex.def)             Requested size: 153.11073pt x 274.59534pt.
-<figs//raman_with_gradient.pdf, id=1535, 193.43109pt x 346.89601pt>
-File: figs//raman_with_gradient.pdf Graphic file (type pdf)
-<use figs//raman_with_gradient.pdf>
-Package pdftex.def Info: figs//raman_with_gradient.pdf  used on input line 271.
+<figs//raman_without_gradient.png, id=1530, 193.39452pt x 346.896pt>
+File: figs//raman_without_gradient.png Graphic file (type png)
+<use figs//raman_without_gradient.png>
+Package pdftex.def Info: figs//raman_without_gradient.png  used on input line 2
+66.
+(pdftex.def)             Requested size: 153.11073pt x 274.63766pt.
+<figs//raman_with_gradient.png, id=1531, 193.39452pt x 346.896pt>
+File: figs//raman_with_gradient.png Graphic file (type png)
+<use figs//raman_with_gradient.png>
+Package pdftex.def Info: figs//raman_with_gradient.png  used on input line 272.
 
-(pdftex.def)             Requested size: 153.11073pt x 274.59534pt.
-) [43] [44 <./figs//raman_without_gradient.pdf> <./figs//raman_with_gradient.pd
-f
-
-pdfTeX warning: pdflatex (file ./figs//raman_with_gradient.pdf): PDF inclusion:
- multiple pdfs with page group included in a single page
->]
+(pdftex.def)             Requested size: 153.11073pt x 274.63766pt.
+) [43] [44 <./figs//raman_without_gradient.png> <./figs//raman_with_gradient.pn
+g>]
 \openout2 = `6_outlook.aux'.
 
  (./6_outlook.tex
@@ -2615,10 +2606,10 @@ Package logreq Info: Writing requests to 'Thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 55715 strings out of 479304
- 1134118 string characters out of 5869779
- 2051907 words of memory out of 5000000
- 70851 multiletter control sequences out of 15000+600000
+ 55714 strings out of 479304
+ 1134014 string characters out of 5869779
+ 2051913 words of memory out of 5000000
+ 70850 multiletter control sequences out of 15000+600000
  857642 words of font info for 1095 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  111i,20n,145p,10601b,4343s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -2645,10 +2636,10 @@ t/fonts/type1/public/txfonts/txsya.pfb></usr/share/texlive/texmf-dist/fonts/typ
 e1/public/newtx/txsys.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/new
 tx/ztmb.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/ztmr.pfb></
 usr/share/texlive/texmf-dist/fonts/type1/public/newtx/ztmri.pfb>
-Output written on Thesis.pdf (59 pages, 3181490 bytes).
+Output written on Thesis.pdf (59 pages, 3981701 bytes).
 PDF statistics:
- 2043 PDF objects out of 2073 (max. 8388607)
- 1730 compressed objects within 18 object streams
+ 2034 PDF objects out of 2073 (max. 8388607)
+ 1721 compressed objects within 18 object streams
  263 named destinations out of 1000 (max. 500000)
  352720 words of extra memory for PDF output out of 383344 (max. 10000000)
 

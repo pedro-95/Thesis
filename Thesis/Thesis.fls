@@ -2198,6 +2198,9 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/txexs.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/newtx/ntxmia.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/txmiaSTbb.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/tex-gyre/ts1-qtmr.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/newtx/ntxsym.vf
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/txfonts/txsyb.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/txfonts/txsya.tfm
 INPUT ./figs//table_set_up.pdf
 INPUT ./figs//table_set_up.pdf
 INPUT figs//table_set_up.pdf
@@ -2206,9 +2209,6 @@ INPUT ./figs//table_set_up.pdf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntx-Bold-tlf-ot1.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntx-Bold-tlf-ot1.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntx-Bold-tlf-ot1.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/newtx/ntxsym.vf
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/txfonts/txsyb.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/txfonts/txsya.tfm
 INPUT /usr/share/texmf/fonts/tfm/public/tex-gyre/ec-qhvb.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntx-Bold-tlf-ot1.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/ntx-Bold-tlf-ot1.tfm
@@ -2370,14 +2370,14 @@ INPUT ./figs//lattice_beams.pdf
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/newtx/ntxmi.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/NewTXMI.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/stxscr.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/newtx/ntxsy.vf
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/txsys.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/txex-bar.tfm
 INPUT ./figs//diffraction.pdf
 INPUT ./figs//diffraction.pdf
 INPUT figs//diffraction.pdf
 INPUT ./figs//diffraction.pdf
 INPUT ./figs//diffraction.pdf
-INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/newtx/ntxsy.vf
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/txsys.tfm
-INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/newtx/txex-bar.tfm
 INPUT ./figs//raman_scheme.pdf
 INPUT ./figs//raman_scheme.pdf
 INPUT figs//raman_scheme.pdf

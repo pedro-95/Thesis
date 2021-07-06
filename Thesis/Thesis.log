@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.4.23)  6 JUL 2021 14:27
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.4.23)  6 JUL 2021 16:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2263,55 +2263,50 @@ LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
 Underfull \vbox (badness 1946) has occurred while \output is active []
 
  [6]
-<figs//table_set_up.pdf, id=250, 453.27942pt x 282.05376pt>
+[7]
+<figs//table_set_up.pdf, id=262, 453.27942pt x 282.05376pt>
 File: figs//table_set_up.pdf Graphic file (type pdf)
 <use figs//table_set_up.pdf>
-Package pdftex.def Info: figs//table_set_up.pdf  used on input line 142.
+Package pdftex.def Info: figs//table_set_up.pdf  used on input line 145.
 (pdftex.def)             Requested size: 437.46118pt x 272.2275pt.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
-(Font)              scaled to size 10.0pt on input line 143.
+(Font)              scaled to size 10.0pt on input line 146.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
-(Font)              scaled to size 7.3pt on input line 143.
+(Font)              scaled to size 7.3pt on input line 146.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
-(Font)              scaled to size 5.5pt on input line 143.
-
-[7]
+(Font)              scaled to size 5.5pt on input line 146.
 LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
-(Font)              scaled to size 10.79993pt on input line 150.
+(Font)              scaled to size 10.79993pt on input line 149.
 LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
-(Font)              scaled to size 9.0pt on input line 152.
-
-Underfull \vbox (badness 2452) has occurred while \output is active []
-
+(Font)              scaled to size 9.0pt on input line 151.
  [8 <./figs//table_set_up.pdf>]
 <figs//experiment_scheme_1.pdf, id=288, 361.35pt x 227.55981pt>
 File: figs//experiment_scheme_1.pdf Graphic file (type pdf)
 <use figs//experiment_scheme_1.pdf>
-Package pdftex.def Info: figs//experiment_scheme_1.pdf  used on input line 160.
+Package pdftex.def Info: figs//experiment_scheme_1.pdf  used on input line 159.
 
 (pdftex.def)             Requested size: 437.46118pt x 275.49405pt.
- [9 <./figs//experiment_scheme_1.pdf>] [10] [11] [12]
+ [9 <./figs//experiment_scheme_1.pdf>]
+[10] [11] [12]
 <figs//main_chamber.pdf, id=374, 453.27942pt x 200.75pt>
 File: figs//main_chamber.pdf Graphic file (type pdf)
 <use figs//main_chamber.pdf>
-Package pdftex.def Info: figs//main_chamber.pdf  used on input line 216.
+Package pdftex.def Info: figs//main_chamber.pdf  used on input line 215.
 (pdftex.def)             Requested size: 437.46118pt x 193.75621pt.
-
-[13 <./figs//main_chamber.pdf>]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [14]
-<figs//evap_scheme.pdf, id=414, 384.45059pt x 113.95938pt>
+ [13 <./figs//main_chamber.pdf>] [14]
+<figs//evap_scheme.pdf, id=416, 384.45059pt x 113.95938pt>
 File: figs//evap_scheme.pdf Graphic file (type pdf)
 <use figs//evap_scheme.pdf>
-Package pdftex.def Info: figs//evap_scheme.pdf  used on input line 258.
+Package pdftex.def Info: figs//evap_scheme.pdf  used on input line 257.
 (pdftex.def)             Requested size: 437.46118pt x 129.67679pt.
 
-[15 <./figs//evap_scheme.pdf>]
-<figs//absorption_scheme.pdf, id=624, 377.7221pt x 130.2816pt>
+Underfull \vbox (badness 1466) has occurred while \output is active []
+
+ [15 <./figs//evap_scheme.pdf>]
+<figs//absorption_scheme.pdf, id=625, 377.7221pt x 130.2816pt>
 File: figs//absorption_scheme.pdf Graphic file (type pdf)
 <use figs//absorption_scheme.pdf>
-Package pdftex.def Info: figs//absorption_scheme.pdf  used on input line 274.
+Package pdftex.def Info: figs//absorption_scheme.pdf  used on input line 273.
 (pdftex.def)             Requested size: 437.46118pt x 150.88622pt.
 ) [16 <./figs//absorption_scheme.pdf>]
 \openout2 = `3_thesis_bec_diffraction.aux'.
@@ -2326,7 +2321,7 @@ chapter 3.
 
 
 ]
-Underfull \vbox (badness 7397) has occurred while \output is active []
+Underfull \vbox (badness 1521) has occurred while \output is active []
 
  [18]
 <figs//lattice_beams.pdf, id=726, 564.60938pt x 302.31924pt>
@@ -2335,10 +2330,7 @@ File: figs//lattice_beams.pdf Graphic file (type pdf)
 Package pdftex.def Info: figs//lattice_beams.pdf  used on input line 69.
 (pdftex.def)             Requested size: 306.22148pt x 163.96957pt.
 
-Underfull \vbox (badness 6526) has occurred while \output is active []
-
- [19]
-[20 <./figs//lattice_beams.pdf>]
+[19] [20 <./figs//lattice_beams.pdf>]
 <figs//diffraction.pdf, id=770, 534.50246pt x 240.9pt>
 File: figs//diffraction.pdf Graphic file (type pdf)
 <use figs//diffraction.pdf>
@@ -2350,8 +2342,8 @@ File: figs//raman_scheme.pdf Graphic file (type pdf)
 <use figs//raman_scheme.pdf>
 Package pdftex.def Info: figs//raman_scheme.pdf  used on input line 145.
 (pdftex.def)             Requested size: 306.22148pt x 168.8938pt.
- [23]
-[24 <./figs//raman_scheme.pdf>] [25] [26]
+
+[23] [24 <./figs//raman_scheme.pdf>] [25] [26]
 <figs//raman_set_up.pdf, id=924, 595.74805pt x 217.60007pt>
 File: figs//raman_set_up.pdf Graphic file (type pdf)
 <use figs//raman_set_up.pdf>
@@ -2359,7 +2351,6 @@ Package pdftex.def Info: figs//raman_set_up.pdf  used on input line 208.
 (pdftex.def)             Requested size: 437.46118pt x 159.78967pt.
 ) [27 <./figs//raman_set_up.pdf>]
 \openout2 = `4_thesis_raman_manipulation.aux'.
-
 
 (./4_thesis_raman_manipulation.tex [28
 
@@ -2615,11 +2606,11 @@ Package logreq Info: Writing requests to 'Thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 55595 strings out of 479304
- 1131603 string characters out of 5869779
- 2038026 words of memory out of 5000000
+ 55597 strings out of 479304
+ 1131615 string characters out of 5869779
+ 2038113 words of memory out of 5000000
  70739 multiletter control sequences out of 15000+600000
- 848485 words of font info for 1088 fonts, out of 8000000 for 9000
+ 848578 words of font info for 1089 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  111i,20n,145p,10601b,4341s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}{/usr/sha
@@ -2644,7 +2635,7 @@ exmf-dist/fonts/type1/public/txfonts/txsya.pfb></usr/share/texlive/texmf-dist/f
 onts/type1/public/newtx/txsys.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
 blic/newtx/ztmb.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/ztm
 r.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/ztmri.pfb>
-Output written on Thesis.pdf (59 pages, 3962709 bytes).
+Output written on Thesis.pdf (59 pages, 3964058 bytes).
 PDF statistics:
  1940 PDF objects out of 2073 (max. 8388607)
  1629 compressed objects within 17 object streams

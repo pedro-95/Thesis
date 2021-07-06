@@ -14,18 +14,18 @@
 \contentsline {section}{\numberline {2.2}Bose-Einstein condensation}{5}{section.2.2}%
 \contentsline {section}{\numberline {2.3}Experimental realization of an erbium \ac {bec}}{7}{section.2.3}%
 \contentsline {subsection}{\numberline {2.3.1}Oven}{9}{subsection.2.3.1}%
-\contentsline {subsection}{\numberline {2.3.2}Transversal and Optical cooling}{10}{subsection.2.3.2}%
-\contentsline {subsubsection}{\nonumberline Optical cooling}{10}{subsubsection*.8}%
+\contentsline {subsection}{\numberline {2.3.2}Transversal and laser cooling}{10}{subsection.2.3.2}%
+\contentsline {subsubsection}{\nonumberline Laser cooling}{10}{subsubsection*.8}%
 \contentsline {subsubsection}{\nonumberline \Acl {tc}}{11}{subsubsection*.10}%
 \contentsline {subsection}{\numberline {2.3.3}\Acl {zs}}{11}{subsection.2.3.3}%
 \contentsline {subsection}{\numberline {2.3.4}\Acl {mot}}{12}{subsection.2.3.4}%
 \contentsline {subsection}{\numberline {2.3.5}\Acl {odt}}{13}{subsection.2.3.5}%
-\contentsline {subsection}{\numberline {2.3.6}Evaporative cooling}{15}{subsection.2.3.6}%
+\contentsline {subsection}{\numberline {2.3.6}Evaporative cooling}{14}{subsection.2.3.6}%
 \contentsline {subsection}{\numberline {2.3.7}Absorption imaging}{15}{subsection.2.3.7}%
-\contentsline {chapter}{\numberline {3}Diffraction of a \acl {bec} with a one-dimensional optical lattice}{17}{chapter.3}%
-\contentsline {section}{\numberline {3.1}Theoretical description of an optical lattice}{17}{section.3.1}%
+\contentsline {chapter}{\numberline {3}Diffraction of a \acl {bec} off a one-dimensional optical lattice potential}{17}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Theoretical description of an optical lattice potential}{17}{section.3.1}%
 \contentsline {subsection}{\numberline {3.1.1}Dipole interaction of one optical beam}{17}{subsection.3.1.1}%
-\contentsline {subsection}{\numberline {3.1.2}One-dimensional optical lattice}{18}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.2}One-dimensional optical lattice potential}{18}{subsection.3.1.2}%
 \contentsline {subsubsection}{\nonumberline Moving optical lattice}{20}{subsubsection*.16}%
 \contentsline {section}{\numberline {3.2}Diffraction of an ultracold atomic ensemble}{20}{section.3.2}%
 \contentsline {subsection}{\numberline {3.2.1}Bragg condition}{21}{subsection.3.2.1}%

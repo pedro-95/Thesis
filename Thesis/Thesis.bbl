@@ -69,8 +69,8 @@
       \strng{authornamehash}{29a34a00e610eaed35baff40f473278f}
       \strng{authorfullhash}{29a34a00e610eaed35baff40f473278f}
       \field{extraname}{1}
-      \field{sortinit}{1}
-      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Sitzungsberichte der Preussischen Akademie der Wissenschaften}
@@ -102,8 +102,8 @@
       \strng{authornamehash}{29a34a00e610eaed35baff40f473278f}
       \strng{authorfullhash}{29a34a00e610eaed35baff40f473278f}
       \field{extraname}{2}
-      \field{sortinit}{1}
-      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{journaltitle}{Sitzungsberichte der Preussischen Akademie der Wissenschaften}
@@ -166,8 +166,8 @@
       \strng{authorbibnamehash}{e8c27dbf82f8274e5866f921145f810d}
       \strng{authornamehash}{e8c27dbf82f8274e5866f921145f810d}
       \strng{authorfullhash}{e32077f597e3cb36f4384349f46b4f48}
-      \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issue}{22}
@@ -219,8 +219,8 @@
       \strng{authorbibnamehash}{d304c0bea272f132f630ccf00684b7fb}
       \strng{authornamehash}{ed3bd99f35d39f50bada5aaeb7e26523}
       \strng{authorfullhash}{d304c0bea272f132f630ccf00684b7fb}
-      \field{sortinit}{3}
-      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{0036-8075}
@@ -267,8 +267,8 @@
       \strng{authorbibnamehash}{a77558eb20ff1269def8812e8235324a}
       \strng{authornamehash}{ff29b781392af67990621a48c92b8ca3}
       \strng{authorfullhash}{a77558eb20ff1269def8812e8235324a}
-      \field{sortinit}{4}
-      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issue}{9}
@@ -320,8 +320,8 @@
       \strng{authorbibnamehash}{24638a294a6da127a93dee8c1eb239f9}
       \strng{authornamehash}{9293f3e5e29785a56b44c03653ec72e8}
       \strng{authorfullhash}{24638a294a6da127a93dee8c1eb239f9}
-      \field{sortinit}{5}
-      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issue}{20}
@@ -388,8 +388,8 @@
       \strng{authorbibnamehash}{1b2e84b7e92342804d366b443ccd32c7}
       \strng{authornamehash}{1b2e84b7e92342804d366b443ccd32c7}
       \strng{authorfullhash}{c31844563c63515735f76a631c259d76}
-      \field{sortinit}{6}
-      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issue}{4}
@@ -436,8 +436,8 @@
       \strng{authorbibnamehash}{5c2c4e6c9ed80a47409b0292776bd4d8}
       \strng{authornamehash}{a0d0d1920a619dc48031fcd191b14bee}
       \strng{authorfullhash}{5c2c4e6c9ed80a47409b0292776bd4d8}
-      \field{sortinit}{7}
-      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{sortinit}{8}
+      \field{sortinithash}{1b24cab5087933ef0826a7cd3b99e994}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issue}{19}
@@ -499,8 +499,8 @@
       \strng{authorbibnamehash}{508fc12199481231f27170f3be45bb2d}
       \strng{authornamehash}{508fc12199481231f27170f3be45bb2d}
       \strng{authorfullhash}{4de3891a91f737f48d1f48dc08fcf0ee}
-      \field{sortinit}{8}
-      \field{sortinithash}{1b24cab5087933ef0826a7cd3b99e994}
+      \field{sortinit}{9}
+      \field{sortinithash}{54047ffb55bdefa0694bbd554c1b11a0}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issue}{21}
@@ -544,8 +544,8 @@
       \strng{authorbibnamehash}{6063109998bad00c0135bd29b5e0740c}
       \strng{authornamehash}{719275eedd90bc20b798b785f4eec9bb}
       \strng{authorfullhash}{6063109998bad00c0135bd29b5e0740c}
-      \field{sortinit}{9}
-      \field{sortinithash}{54047ffb55bdefa0694bbd554c1b11a0}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issn}{1476-4687}
@@ -877,7 +877,6 @@
       \strng{authorbibnamehash}{53431ca956391aaf00ebad88e58cf689}
       \strng{authornamehash}{53431ca956391aaf00ebad88e58cf689}
       \strng{authorfullhash}{53431ca956391aaf00ebad88e58cf689}
-      \field{extraname}{1}
       \field{sortinit}{1}
       \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
       \field{labelnamesource}{author}
@@ -909,40 +908,6 @@
       \field{title}{Dipolar quantum gases of erbium}
       \field{type}{phdthesis}
       \field{year}{2014}
-    \endentry
-    \entry{sansonetti2005handbook}{article}{}
-      \name{author}{2}{}{%
-        {{hash=fe89fed89488b7ca6438406d22956667}{%
-           family={Sansonetti},
-           familyi={S\bibinitperiod},
-           given={J.\bibnamedelimi E.},
-           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
-        {{hash=e5e9b5b223837466fe6a209a0d524f8b}{%
-           family={Martin},
-           familyi={M\bibinitperiod},
-           given={W.\bibnamedelimi C.},
-           giveni={W\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
-      }
-      \strng{namehash}{7fb1d3efc008f63005241d17e3c78a15}
-      \strng{fullhash}{7fb1d3efc008f63005241d17e3c78a15}
-      \strng{bibnamehash}{7fb1d3efc008f63005241d17e3c78a15}
-      \strng{authorbibnamehash}{7fb1d3efc008f63005241d17e3c78a15}
-      \strng{authornamehash}{7fb1d3efc008f63005241d17e3c78a15}
-      \strng{authorfullhash}{7fb1d3efc008f63005241d17e3c78a15}
-      \field{sortinit}{1}
-      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{journaltitle}{Journal of Physical and Chemical Reference Data}
-      \field{number}{4}
-      \field{title}{Handbook of Basic Atomic Spectroscopic Data}
-      \field{volume}{34}
-      \field{year}{2005}
-      \field{pages}{1559\bibrangedash 2259}
-      \range{pages}{701}
-      \verb{doi}
-      \verb 10.1063/1.1800011
-      \endverb
     \endentry
     \entry{ban2005laser}{article}{}
       \name{author}{5}{}{%
@@ -981,8 +946,8 @@
       \strng{authorbibnamehash}{7e87f4f23f79cad482dc4336ba0807b4}
       \strng{authornamehash}{c2bdcdb903ba7612ed579f55fb537f2b}
       \strng{authorfullhash}{7e87f4f23f79cad482dc4336ba0807b4}
-      \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{abstract}{Abstract We discuss laser cooling opportunities in atomic erbium, identifying five J{\textrightarrow}J$+$1 transitions from the 4f126s2 3H6 ground state that are accessible to common visible and near-infrared continuous-wave tunable lasers. We present lifetime measurements for the 4f11(4Io15/2)5d5/26s2 (15/2, 5/2)7 o state at 11888 cm{−}1 and the 4f11(4Io 13/2)5d3/26s2 (13/2, 5/2)7o state at 15847 cm{−}1, showing values of 20{\textpm}4 {\textmu}s and 5.6{\textpm}1.4 {\textmu}s, respectively. We also present a calculated value of 13{\textpm}7 s{−}1 for the transition rate from the 4f11(4Io 15/2)5d3/26s2 (15/2, 3/2)7 o state at 7697 cm-1 to the ground state, based on scaled Hartree-Fock energy parameters. Laser cooling on these transitions in combination with a strong, fast (5.8 ns) laser cooling transition at 401 nm, suggest new opportunities for narrowband laser cooling of a large-magnetic moment atom, with possible applications in quantum information processing, high-precision atomic clocks, quantum degenerate gases, and deterministic single-atom doping of materials.}
@@ -999,85 +964,39 @@
       \endverb
       \keyw{Oscillator strengths; Laser trapping; Laser arrays; Laser sources; Optical clocks; Optical cooling; Quantum information processing; Tunable lasers}
     \endentry
-    \entry{mears1987low}{article}{}
-      \name{author}{4}{}{%
-        {{hash=0d638cfd881e1c1660d1d35643471907}{%
-           family={Mears},
+    \entry{sansonetti2005handbook}{article}{}
+      \name{author}{2}{}{%
+        {{hash=fe89fed89488b7ca6438406d22956667}{%
+           family={Sansonetti},
+           familyi={S\bibinitperiod},
+           given={J.\bibnamedelimi E.},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod}}}%
+        {{hash=e5e9b5b223837466fe6a209a0d524f8b}{%
+           family={Martin},
            familyi={M\bibinitperiod},
-           given={R.J.},
-           giveni={R\bibinitperiod}}}%
-        {{hash=27c6e2132e4663811a5c180b016288aa}{%
-           family={Reekie},
-           familyi={R\bibinitperiod},
-           given={L.},
-           giveni={L\bibinitperiod}}}%
-        {{hash=5b831b591039f087afa1e8be8727157f}{%
-           family={Jauncey},
-           familyi={J\bibinitperiod},
-           given={I.M.},
-           giveni={I\bibinitperiod}}}%
-        {{hash=df537050563a21113db3de356a7c058e}{%
-           family={Payne},
-           familyi={P\bibinitperiod},
-           given={D.N.},
-           giveni={D\bibinitperiod}}}%
+           given={W.\bibnamedelimi C.},
+           giveni={W\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
       }
-      \list{language}{1}{%
-        {English}%
-      }
-      \list{publisher}{2}{%
-        {Institution of Engineering}%
-        {Technology}%
-      }
-      \strng{namehash}{817ebcf44f6e766f9a0fcbff5afa268e}
-      \strng{fullhash}{26d38100f3366f407e7283bff1f5de36}
-      \strng{bibnamehash}{26d38100f3366f407e7283bff1f5de36}
-      \strng{authorbibnamehash}{26d38100f3366f407e7283bff1f5de36}
-      \strng{authornamehash}{817ebcf44f6e766f9a0fcbff5afa268e}
-      \strng{authorfullhash}{26d38100f3366f407e7283bff1f5de36}
+      \strng{namehash}{7fb1d3efc008f63005241d17e3c78a15}
+      \strng{fullhash}{7fb1d3efc008f63005241d17e3c78a15}
+      \strng{bibnamehash}{7fb1d3efc008f63005241d17e3c78a15}
+      \strng{authorbibnamehash}{7fb1d3efc008f63005241d17e3c78a15}
+      \strng{authornamehash}{7fb1d3efc008f63005241d17e3c78a15}
+      \strng{authorfullhash}{7fb1d3efc008f63005241d17e3c78a15}
       \field{sortinit}{2}
       \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{High gain amplification of up to 28 dB has been observed in a 3m-long erbium-doped fibre. The amplifier has a spectral bandwidth of greater than 300 GHz in the region of 1.536$\mu m$~ and a measured sensitivity of –42dBm at a bit rate of 140Mbit/s.}
-      \field{issn}{0013-5194}
-      \field{issue}{19}
-      \field{journaltitle}{Electronics Letters}
-      \field{month}{09}
-      \field{title}{Low-noise erbium-doped fibre amplifier operating at 1.54$\mu m$}
-      \field{volume}{23}
-      \field{year}{1987}
-      \field{pages}{1026\bibrangedash 1028(2)}
-      \range{pages}{-1}
+      \field{journaltitle}{Journal of Physical and Chemical Reference Data}
+      \field{number}{4}
+      \field{title}{Handbook of Basic Atomic Spectroscopic Data}
+      \field{volume}{34}
+      \field{year}{2005}
+      \field{pages}{1559\bibrangedash 2259}
+      \range{pages}{701}
       \verb{doi}
-      \verb 10.1049/el:19870719
+      \verb 10.1063/1.1800011
       \endverb
-      \keyw{1.54 micron;Er3+:fibre laser;140 Mbit/s;28 dB;spectral bandwidth;1.536 micron;3 m;300 GHz;}
-    \endentry
-    \entry{emsley2011nature}{book}{}
-      \name{author}{1}{}{%
-        {{hash=53431ca956391aaf00ebad88e58cf689}{%
-           family={Emsley},
-           familyi={E\bibinitperiod},
-           given={John},
-           giveni={J\bibinitperiod}}}%
-      }
-      \list{publisher}{1}{%
-        {Oxford University Press}%
-      }
-      \strng{namehash}{53431ca956391aaf00ebad88e58cf689}
-      \strng{fullhash}{53431ca956391aaf00ebad88e58cf689}
-      \strng{bibnamehash}{53431ca956391aaf00ebad88e58cf689}
-      \strng{authorbibnamehash}{53431ca956391aaf00ebad88e58cf689}
-      \strng{authornamehash}{53431ca956391aaf00ebad88e58cf689}
-      \strng{authorfullhash}{53431ca956391aaf00ebad88e58cf689}
-      \field{extraname}{2}
-      \field{sortinit}{2}
-      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{title}{Nature's building blocks: an AZ guide to the elements}
-      \field{year}{2011}
     \endentry
     \entry{mcclelland2006natural}{article}{}
       \name{author}{1}{}{%
@@ -1966,8 +1885,8 @@
       \strng{authorbibnamehash}{58e7f9b0f2b95d1424a8593098a4fd63}
       \strng{authornamehash}{58e7f9b0f2b95d1424a8593098a4fd63}
       \strng{authorfullhash}{58e7f9b0f2b95d1424a8593098a4fd63}
-      \field{sortinit}{6}
-      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{month}{8}
@@ -2313,8 +2232,8 @@
       \strng{authorbibnamehash}{675c1089d9e4aa45e40a4165fd620c6d}
       \strng{authornamehash}{675c1089d9e4aa45e40a4165fd620c6d}
       \strng{authorfullhash}{f99b382b45ca41390e3da8c0484bb98c}
-      \field{sortinit}{7}
-      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issue}{4}
@@ -2366,8 +2285,8 @@
       \strng{authorbibnamehash}{46476abca0da222197c09b9b87dca3c5}
       \strng{authornamehash}{bef40a394a4165dfbd6804149bd06829}
       \strng{authorfullhash}{46476abca0da222197c09b9b87dca3c5}
-      \field{sortinit}{7}
-      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issue}{1}
@@ -2419,8 +2338,8 @@
       \strng{authorbibnamehash}{866d0b943cf39e068e4793de0a78c1c6}
       \strng{authornamehash}{d79ded60a811094d14626be7d791d403}
       \strng{authorfullhash}{866d0b943cf39e068e4793de0a78c1c6}
-      \field{sortinit}{7}
-      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{issue}{6}

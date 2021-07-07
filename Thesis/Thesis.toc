@@ -34,13 +34,13 @@
 \contentsline {subsubsection}{\nonumberline Raman-Nath regime}{25}{subsubsection*.20}%
 \contentsline {subsubsection}{\nonumberline Bragg regime}{26}{subsubsection*.22}%
 \contentsline {section}{\numberline {3.3}Experimental realization of a one-dimensional optical lattice}{26}{section.3.3}%
-\contentsline {chapter}{\numberline {4}Towards Raman manipulation of spin-momentum state components}{29}{chapter.4}%
+\contentsline {chapter}{\numberline {4}Raman manipulation between spin-momentum state components}{29}{chapter.4}%
 \contentsline {section}{\numberline {4.1}\Acl {rf} transitions and the Stern-Gerlach experiment}{29}{section.4.1}%
 \contentsline {section}{\numberline {4.2}Raman manipulation of spin-momentum state components}{31}{section.4.2}%
 \contentsline {chapter}{\numberline {5}Results and discussion}{33}{chapter.5}%
 \contentsline {section}{\numberline {5.1}Measurement of the Raman beams radius}{33}{section.5.1}%
-\contentsline {section}{\numberline {5.2}Characterization of the \SI {841}{\nano \meter } erbium transition with a \ac {bec}}{34}{section.5.2}%
-\contentsline {section}{\numberline {5.3}Diffraction of an erbium \ac {bec} with a 1D-lattice}{35}{section.5.3}%
+\contentsline {section}{\numberline {5.2}Characterization of the \SI {841}{\nano \meter } erbium transition}{34}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Diffraction of an erbium \ac {bec} off a 1D-lattice potential}{35}{section.5.3}%
 \contentsline {subsection}{\numberline {5.3.1}Bragg regime}{36}{subsection.5.3.1}%
 \contentsline {subsection}{\numberline {5.3.2}Raman-Nath regime}{40}{subsection.5.3.2}%
 \contentsline {section}{\numberline {5.4}Magnetic fields characterization with \acs {rf} transitions}{41}{section.5.4}%

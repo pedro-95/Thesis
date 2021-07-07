@@ -9,7 +9,7 @@ Once the theoretical description of the experiment has been completely introduce
 
 \section{Measurement of the Raman beams radius}
 
-These laser beams of the \SI{841}{\nano\meter} transition have been considered during all the theory as Gaussian beams. Therefore, they are described spatially by Equation \eqref{eq:intensity_gaussian}, which gives the relation between beam power $P$ and maximum intensity $I_{0}$ as
+These laser beams tuned to near the \SI{841}{\nano\meter} transition have been considered during all the theory as Gaussian beams. Therefore, they are described spatially by Equation \eqref{eq:intensity_gaussian}, which gives the relation between beam power $P$ and maximum intensity $I_{0}$ as
 \begin{equation}
 	I_0 = \frac{2P}{\pi w_0^2},
 \end{equation}
@@ -17,7 +17,7 @@ where $w_0$ represents the beam radius at the atomic cloud position. Thus, a mea
 \begin{align*}
 	w_{01} &= (0.4961\pm0.0012)\si{\milli\meter}   &   w_{02} &= (0.8778\pm0.0024)\si{\milli\meter}.
 \end{align*}
-Note that the use of 1 and 2 for the Raman beams is also used as a distinction tool in Figure \ref{fig:raman_set_up}. As one can observe, the difference in beam size is approximately a factor of 3 between both beams. This must be compensated by adjusting the beam powers; however, it is a strong mismatch in the parameters that could not be solved due to time constraints. Therefore, the discussion part of the following measurements will have into account this mismatch in beam sizes as a source of possible non-correspondence between theory and experiment.
+Note that the use of 1 and 2 for the Raman beams is also used as a distinction tool in Figure \ref{fig:raman_set_up}. As one can observe, the difference between both beam radii is approximately a factor of 1.77, which results in a size difference of approximately 3 between both beams. This must be compensated by adjusting the beam powers; however, it is a strong mismatch in the parameters that could not be solved due to time constraints. Therefore, the discussion part of the following measurements will have into account this mismatch in beam sizes as a source of possible non-correspondence between theory and experiment.
 
 \pagebreak
 
@@ -40,9 +40,9 @@ Note that the use of 1 and 2 for the Raman beams is also used as a distinction t
 \end{figure}
 
 
-\section{Characterization of the \SI{841}{\nano\meter} erbium transition with a \ac{bec}}
+\section{Characterization of the \SI{841}{\nano\meter} erbium transition}
 
-The following part consists in studying the \SI{841}{\nano\meter} erbium transition by blocking arbitrarily the beam R2 and allowing R1 to interact freely with the erbium \ac{bec}. This way, the Raman beam frequency can be locked in every cycle to a specific value. After an interaction time of 10\si{\milli\second} in the final part of the evaporation phase, the atomic ensemble falls freely during a \ac{tof} of 20\si{\milli\second}. Then, the measurement is taken with the absorption imaging phase. From these measurements, the number of atoms can be estimated and the result, after scanning the frequency of R1, is shown in Figure \ref{fig:resonance_841_transition}. The data with a maximum of $N_\text{max} = 34849$ atoms was taken as normalization factor. As it can be seen from the image, the plot shows a drop in the atom number when R1 is locked to a wavelength of approximately \SI{840.98827}{\nano\meter} in air. This is because most of the atoms forming a \ac{bec} are resonant at this wavelength and get excited by the R1 beam, which expel them out of the ensemble and reduce drastically the atom number. In order to avoid effects like power broadening, the optical power of R1 has been kept as low as possible: $P_{\text{R1}} = (49.0 \pm 0.5) \si{\milli\watt}$. This way, the Gaussian fit performed in Figure \ref{fig:resonance_841_transition} gives an estimation of the resonant wavelength $\lambda_0^*$ and the linewidth broadened mostly due to the beam power $\Delta\nu_{\text{PB}}$ as
+The following part consists in studying the \SI{841}{\nano\meter} erbium transition by blocking arbitrarily the beam R2 and allowing only R1 to interact with the erbium \ac{bec}. It is expected that the single running wave near resonance will heat the atoms, so that in this case the \ac{bec} population fraction reduces. After an interaction time of 10\si{\milli\second} in the final part of the evaporation phase, the atomic ensemble falls freely during a \ac{tof} of 20\si{\milli\second}. Then, the measurement is taken with the absorption imaging phase. From these measurements, the number of atoms can be estimated and the result, after scanning the frequency of R1, is shown in Figure \ref{fig:resonance_841_transition}. The data with a maximum of $N_\text{max} = 34849$ atoms was taken as normalization factor. As it can be seen from the image, the plot shows a drop in the atom number when the laser is locked to a wavelength of approximately \SI{840.98827}{\nano\meter} in air. This is because most of the atoms forming a \ac{bec} are resonant at this wavelength and get excited by the R1 beam, which expel them out of the ensemble and reduce drastically the atom number. In order to avoid effects like power broadening, the optical power of R1 has been kept as low as possible: $P_{\text{R1}} = (49.0 \pm 0.5) \si{\milli\watt}$. This way, the Gaussian fit performed in Figure \ref{fig:resonance_841_transition} gives an estimation of the resonant wavelength $\lambda_0^*$ and the linewidth $\Delta\nu_{\text{PB}}$ broadened mostly due to the beam power as
 \begin{align*}
 	\lambda_0^* &= 840.988266(2)\si{\nano\meter}   &   \Delta\nu_{\text{PB}} &= (3600 \pm 1700)\si{\kilo\hertz}
 \end{align*}
@@ -54,14 +54,14 @@ The result is a quite accurate estimation of $\lambda_0^*$ while the calculation
 
 \begin{figure}\centering
 	\includegraphics[width=1.\columnwidth]{Plot_resonance.pdf}
-	\caption[Interaction of an erbium \ac{bec} with the beam R1]{Interaction of an erbium \ac{bec} with the beam R1. The plot shows the atom number of the \ac{bec}, normalized to the maximum measured value, as a function of the R1 wavelength in air. The interaction between R1 and the atomic ensemble lasts 10\si{\milli\second} before the end of evaporation phase in every experimental cycle. Each measured point has been obtained by averaging the atom number of 5 experimental cycles. }\label{fig:resonance_841_transition}
+	\caption[Interaction of an erbium \ac{bec} with the beam R1]{Interaction of an erbium \ac{bec} with the beam R1. The plot shows the atom number of the \ac{bec} after a pulse of R1, normalized to the maximum measured value, as a function of the laser wavelength in air. The interaction between R1 and the atomic ensemble lasts 10\si{\milli\second} before the end of evaporation phase in every experimental cycle. Each measured point has been obtained by averaging the atom number of 5 experimental cycles. }\label{fig:resonance_841_transition}
 \end{figure}
 
-\section{Diffraction of an erbium \ac{bec} with a 1D-lattice}
+\section{Diffraction of an erbium \ac{bec} off a 1D-lattice potential}
 
 Now, it is the moment to study the diffraction of an erbium \ac{bec} with the described Raman lattice set-up. In order to do this, the one photon detuning $\delta$ must be measured. Due to the conclusions made in previous section, the optical frequency of the Raman beams has been chosen for this whole part to be $\lambda_\text{R} = 840.98880(1) \si{\nano\meter}$. Thus, the resulting value for $\delta$ turns out to be
 \begin{equation*}
-	\delta = 2\pi c\cdot\bigg(\frac{1}{\lambda_{0}} - \frac{1}{\lambda_\text{R}} \bigg) = 2\pi \cdot(225 \pm 6) \si{\mega\hertz} \approx \num{1.8e-5} \cdot\Delta\nu_0.
+	\delta = 2\pi c\cdot\bigg(\frac{1}{\lambda_{0}} - \frac{1}{\lambda_\text{R}} \bigg) = 2\pi \cdot(225 \pm 6) \si{\mega\hertz} \approx \num{1.8e5} \cdot\Delta\nu_0.
 \end{equation*}
 
 Therefore, the approximations used for the Hamiltonian in Section \ref{subsec:diffraction_regimes} are fulfilled. Because $\delta \gg \Gamma, \Delta\nu_0$ being the decay rate $\Gamma$ and natural linewidth $\Delta\nu_0$ of the \SI{841}{\nano\meter} transition (see Table \ref{tab:Transitions}). Another approximation that has been performed along this thesis results to be $\delta \gg \omega_r = \frac{\Delta_1}{4}$, with the 2-photon recoil frequency $\Delta_1$ given by Equation \eqref{eq:Bragg_condition} with $n=1$. From this expression one can get the value of $\Delta_1$ to be

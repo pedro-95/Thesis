@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.4.23)  6 JUL 2021 17:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.4.23)  7 JUL 2021 13:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2247,7 +2247,7 @@ LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [4]
-<figs//erbium_term_scheme.pdf, id=196, 475.44272pt x 421.17148pt>
+<figs//erbium_term_scheme.pdf, id=195, 475.44272pt x 421.17148pt>
 File: figs//erbium_term_scheme.pdf Graphic file (type pdf)
 <use figs//erbium_term_scheme.pdf>
 Package pdftex.def Info: figs//erbium_term_scheme.pdf  used on input line 63.
@@ -2264,7 +2264,7 @@ Underfull \vbox (badness 1946) has occurred while \output is active []
 
  [6]
 [7]
-<figs//table_set_up.pdf, id=262, 453.27942pt x 282.05376pt>
+<figs//table_set_up.pdf, id=261, 453.27942pt x 282.05376pt>
 File: figs//table_set_up.pdf Graphic file (type pdf)
 <use figs//table_set_up.pdf>
 Package pdftex.def Info: figs//table_set_up.pdf  used on input line 145.
@@ -2280,7 +2280,7 @@ LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
 LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
 (Font)              scaled to size 9.0pt on input line 151.
  [8 <./figs//table_set_up.pdf>]
-<figs//experiment_scheme_1.pdf, id=288, 361.35pt x 227.55981pt>
+<figs//experiment_scheme_1.pdf, id=287, 361.35pt x 227.55981pt>
 File: figs//experiment_scheme_1.pdf Graphic file (type pdf)
 <use figs//experiment_scheme_1.pdf>
 Package pdftex.def Info: figs//experiment_scheme_1.pdf  used on input line 159.
@@ -2288,13 +2288,13 @@ Package pdftex.def Info: figs//experiment_scheme_1.pdf  used on input line 159.
 (pdftex.def)             Requested size: 437.46118pt x 275.49405pt.
  [9 <./figs//experiment_scheme_1.pdf>]
 [10] [11] [12]
-<figs//main_chamber.pdf, id=374, 453.27942pt x 200.75pt>
+<figs//main_chamber.pdf, id=373, 453.27942pt x 200.75pt>
 File: figs//main_chamber.pdf Graphic file (type pdf)
 <use figs//main_chamber.pdf>
 Package pdftex.def Info: figs//main_chamber.pdf  used on input line 215.
 (pdftex.def)             Requested size: 437.46118pt x 193.75621pt.
  [13 <./figs//main_chamber.pdf>] [14]
-<figs//evap_scheme.pdf, id=416, 384.45059pt x 113.95938pt>
+<figs//evap_scheme.pdf, id=415, 384.45059pt x 113.95938pt>
 File: figs//evap_scheme.pdf Graphic file (type pdf)
 <use figs//evap_scheme.pdf>
 Package pdftex.def Info: figs//evap_scheme.pdf  used on input line 257.
@@ -2303,7 +2303,7 @@ Package pdftex.def Info: figs//evap_scheme.pdf  used on input line 257.
 Underfull \vbox (badness 1466) has occurred while \output is active []
 
  [15 <./figs//evap_scheme.pdf>]
-<figs//absorption_scheme.pdf, id=625, 377.7221pt x 130.2816pt>
+<figs//absorption_scheme.pdf, id=624, 377.7221pt x 130.2816pt>
 File: figs//absorption_scheme.pdf Graphic file (type pdf)
 <use figs//absorption_scheme.pdf>
 Package pdftex.def Info: figs//absorption_scheme.pdf  used on input line 273.
@@ -2324,20 +2324,20 @@ chapter 3.
 Underfull \vbox (badness 1521) has occurred while \output is active []
 
  [18]
-<figs//lattice_beams.pdf, id=726, 564.60938pt x 302.31924pt>
+<figs//lattice_beams.pdf, id=725, 564.60938pt x 302.31924pt>
 File: figs//lattice_beams.pdf Graphic file (type pdf)
 <use figs//lattice_beams.pdf>
 Package pdftex.def Info: figs//lattice_beams.pdf  used on input line 69.
 (pdftex.def)             Requested size: 306.22148pt x 163.96957pt.
 
 [19] [20 <./figs//lattice_beams.pdf>]
-<figs//diffraction_2.pdf, id=769, 225.84375pt x 225.84375pt>
+<figs//diffraction_2.pdf, id=768, 225.84375pt x 225.84375pt>
 File: figs//diffraction_2.pdf Graphic file (type pdf)
 <use figs//diffraction_2.pdf>
 Package pdftex.def Info: figs//diffraction_2.pdf  used on input line 88.
 (pdftex.def)             Requested size: 196.85619pt x 196.86842pt.
  [21 <./figs//diffraction_2.pdf>] [22]
-<figs//raman_scheme.pdf, id=811, 1144.46762pt x 631.23193pt>
+<figs//raman_scheme.pdf, id=810, 1144.46762pt x 631.23193pt>
 File: figs//raman_scheme.pdf Graphic file (type pdf)
 <use figs//raman_scheme.pdf>
 Package pdftex.def Info: figs//raman_scheme.pdf  used on input line 145.
@@ -2347,7 +2347,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [23]
 [24 <./figs//raman_scheme.pdf>] [25] [26]
-<figs//raman_set_up.pdf, id=923, 595.74805pt x 217.60007pt>
+<figs//raman_set_up.pdf, id=922, 595.74805pt x 217.60007pt>
 File: figs//raman_set_up.pdf Graphic file (type pdf)
 <use figs//raman_set_up.pdf>
 Package pdftex.def Info: figs//raman_set_up.pdf  used on input line 208.
@@ -2365,7 +2365,7 @@ Package pdftex.def Info: figs//raman_set_up.pdf  used on input line 208.
 ]
 chapter 4.
 [29] [30]
-<figs//rama_spin_mainpulation_2.pdf, id=1089, 730.22812pt x 521.27083pt>
+<figs//rama_spin_mainpulation_2.pdf, id=1088, 730.22812pt x 521.27083pt>
 File: figs//rama_spin_mainpulation_2.pdf Graphic file (type pdf)
 <use figs//rama_spin_mainpulation_2.pdf>
 Package pdftex.def Info: figs//rama_spin_mainpulation_2.pdf  used on input line
@@ -2387,12 +2387,12 @@ Underfull \vbox (badness 2310) has occurred while \output is active []
 
 
 ]
-<figs//Fiber 1.pdf, id=1140, 356.19347pt x 317.8834pt>
+<figs//Fiber 1.pdf, id=1139, 356.19347pt x 317.8834pt>
 File: figs//Fiber 1.pdf Graphic file (type pdf)
 <use figs//Fiber 1.pdf>
 Package pdftex.def Info: figs//Fiber 1.pdf  used on input line 28.
 (pdftex.def)             Requested size: 218.73059pt x 195.20366pt.
-<figs//Fiber 2.pdf, id=1141, 339.73405pt x 317.8834pt>
+<figs//Fiber 2.pdf, id=1140, 339.73405pt x 317.8834pt>
 File: figs//Fiber 2.pdf Graphic file (type pdf)
 <use figs//Fiber 2.pdf>
 Package pdftex.def Info: figs//Fiber 2.pdf  used on input line 34.
@@ -2409,13 +2409,13 @@ LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
 pdfTeX warning: pdflatex (file ./figs//Fiber 2.pdf): PDF inclusion: multiple pd
 fs with page group included in a single page
 >]
-<figs//Plot_resonance.pdf, id=1222, 1191.33926pt x 632.08638pt>
+<figs//Plot_resonance.pdf, id=1221, 1191.33926pt x 632.08638pt>
 File: figs//Plot_resonance.pdf Graphic file (type pdf)
 <use figs//Plot_resonance.pdf>
 Package pdftex.def Info: figs//Plot_resonance.pdf  used on input line 56.
 (pdftex.def)             Requested size: 437.46118pt x 232.10329pt.
  [35 <./figs//Plot_resonance.pdf>]
-<figs//Rabi_measurement_60us.png, id=1247, 340.27126pt x 340.27126pt>
+<figs//Rabi_measurement_60us.png, id=1246, 340.27126pt x 340.27126pt>
 File: figs//Rabi_measurement_60us.png Graphic file (type png)
 <use figs//Rabi_measurement_60us.png>
 Package pdftex.def Info: figs//Rabi_measurement_60us.png  used on input line 90
@@ -2423,13 +2423,13 @@ Package pdftex.def Info: figs//Rabi_measurement_60us.png  used on input line 90
 (pdftex.def)             Requested size: 129.9258pt x 129.92746pt.
 LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
 (Font)              scaled to size 9.0pt on input line 91.
-<figs//Rabi_measurement_120us.png, id=1248, 340.27126pt x 340.27126pt>
+<figs//Rabi_measurement_120us.png, id=1247, 340.27126pt x 340.27126pt>
 File: figs//Rabi_measurement_120us.png Graphic file (type png)
 <use figs//Rabi_measurement_120us.png>
 Package pdftex.def Info: figs//Rabi_measurement_120us.png  used on input line 9
 6.
 (pdftex.def)             Requested size: 129.9258pt x 129.92746pt.
-<figs//Rabi_measurement_240us.png, id=1249, 340.27126pt x 340.27126pt>
+<figs//Rabi_measurement_240us.png, id=1248, 340.27126pt x 340.27126pt>
 File: figs//Rabi_measurement_240us.png Graphic file (type png)
 <use figs//Rabi_measurement_240us.png>
 Package pdftex.def Info: figs//Rabi_measurement_240us.png  used on input line 1
@@ -2437,7 +2437,7 @@ Package pdftex.def Info: figs//Rabi_measurement_240us.png  used on input line 1
 (pdftex.def)             Requested size: 129.9258pt x 129.92746pt.
 LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
 (Font)              scaled to size 10.0pt on input line 106.
-<figs//Rabi_measurement_7.7.pdf, id=1250, 707.65607pt x 383.031pt>
+<figs//Rabi_measurement_7.7.pdf, id=1249, 707.65607pt x 383.031pt>
 File: figs//Rabi_measurement_7.7.pdf Graphic file (type pdf)
 <use figs//Rabi_measurement_7.7.pdf>
 Package pdftex.def Info: figs//Rabi_measurement_7.7.pdf  used on input line 111
@@ -2445,17 +2445,17 @@ Package pdftex.def Info: figs//Rabi_measurement_7.7.pdf  used on input line 111
 (pdftex.def)             Requested size: 437.46118pt x 236.79294pt.
  [36 <./figs//Rabi_measurement_60us.png> <./figs//Rabi_measurement_120us.png> <
 ./figs//Rabi_measurement_240us.png>]
-<figs//Rabi_fit_7.7.pdf, id=1263, 708.24597pt x 381.9209pt>
+<figs//Rabi_fit_7.7.pdf, id=1262, 708.24597pt x 381.9209pt>
 File: figs//Rabi_fit_7.7.pdf Graphic file (type pdf)
 <use figs//Rabi_fit_7.7.pdf>
 Package pdftex.def Info: figs//Rabi_fit_7.7.pdf  used on input line 131.
 (pdftex.def)             Requested size: 349.97028pt x 188.72215pt.
-<figs//Rabi_fit_12.7.pdf, id=1264, 708.24597pt x 381.9209pt>
+<figs//Rabi_fit_12.7.pdf, id=1263, 708.24597pt x 381.9209pt>
 File: figs//Rabi_fit_12.7.pdf Graphic file (type pdf)
 <use figs//Rabi_fit_12.7.pdf>
 Package pdftex.def Info: figs//Rabi_fit_12.7.pdf  used on input line 139.
 (pdftex.def)             Requested size: 349.97028pt x 188.72215pt.
-<figs//Rabi_fit_24.6.pdf, id=1265, 708.24597pt x 381.9209pt>
+<figs//Rabi_fit_24.6.pdf, id=1264, 708.24597pt x 381.9209pt>
 File: figs//Rabi_fit_24.6.pdf Graphic file (type pdf)
 <use figs//Rabi_fit_24.6.pdf>
 Package pdftex.def Info: figs//Rabi_fit_24.6.pdf  used on input line 147.
@@ -2464,7 +2464,7 @@ Package pdftex.def Info: figs//Rabi_fit_24.6.pdf  used on input line 147.
 
 LaTeX Warning: Float too large for page by 5.14711pt on input line 152.
 
-<figs//Linear_Fit.pdf, id=1266, 609.50023pt x 332.79951pt>
+<figs//Linear_Fit.pdf, id=1265, 609.50023pt x 332.79951pt>
 File: figs//Linear_Fit.pdf Graphic file (type pdf)
 <use figs//Linear_Fit.pdf>
 Package pdftex.def Info: figs//Linear_Fit.pdf  used on input line 155.
@@ -2482,12 +2482,12 @@ ple pdfs with page group included in a single page
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [39 <./figs//Linear_Fit.pdf>]
-<figs//raman_nath.pdf, id=1381, 708.24597pt x 245.66682pt>
+<figs//raman_nath.pdf, id=1380, 708.24597pt x 245.66682pt>
 File: figs//raman_nath.pdf Graphic file (type pdf)
 <use figs//raman_nath.pdf>
 Package pdftex.def Info: figs//raman_nath.pdf  used on input line 174.
 (pdftex.def)             Requested size: 437.46118pt x 151.74582pt.
-<figs//raman_nath_cut.pdf, id=1382, 708.24597pt x 346.89601pt>
+<figs//raman_nath_cut.pdf, id=1381, 708.24597pt x 346.89601pt>
 File: figs//raman_nath_cut.pdf Graphic file (type pdf)
 <use figs//raman_nath_cut.pdf>
 Package pdftex.def Info: figs//raman_nath_cut.pdf  used on input line 179.
@@ -2497,30 +2497,30 @@ Package pdftex.def Info: figs//raman_nath_cut.pdf  used on input line 179.
 pdfTeX warning: pdflatex (file ./figs//raman_nath_cut.pdf): PDF inclusion: mult
 iple pdfs with page group included in a single page
 >]
-<figs//RF_pulse_non-resonant.png, id=1431, 229.96313pt x 346.896pt>
+<figs//RF_pulse_non-resonant.png, id=1430, 229.96313pt x 346.896pt>
 File: figs//RF_pulse_non-resonant.png Graphic file (type png)
 <use figs//RF_pulse_non-resonant.png>
 Package pdftex.def Info: figs//RF_pulse_non-resonant.png  used on input line 19
 3.
 (pdftex.def)             Requested size: 153.11073pt x 230.97406pt.
-<figs//RF_pulse_resonant.png, id=1433, 229.96313pt x 346.896pt>
+<figs//RF_pulse_resonant.png, id=1432, 229.96313pt x 346.896pt>
 File: figs//RF_pulse_resonant.png Graphic file (type png)
 <use figs//RF_pulse_resonant.png>
 Package pdftex.def Info: figs//RF_pulse_resonant.png  used on input line 199.
 (pdftex.def)             Requested size: 153.11073pt x 230.97406pt.
-<figs//Plot_RF_Experiment_fields.pdf, id=1434, 708.24597pt x 346.77966pt>
+<figs//Plot_RF_Experiment_fields.pdf, id=1433, 708.24597pt x 346.77966pt>
 File: figs//Plot_RF_Experiment_fields.pdf Graphic file (type pdf)
 <use figs//Plot_RF_Experiment_fields.pdf>
 Package pdftex.def Info: figs//Plot_RF_Experiment_fields.pdf  used on input lin
 e 214.
 (pdftex.def)             Requested size: 328.09589pt x 160.64764pt.
-<figs//Plot_RF_Compensated_fields.pdf, id=1435, 708.24597pt x 346.89601pt>
+<figs//Plot_RF_Compensated_fields.pdf, id=1434, 708.24597pt x 346.89601pt>
 File: figs//Plot_RF_Compensated_fields.pdf Graphic file (type pdf)
 <use figs//Plot_RF_Compensated_fields.pdf>
 Package pdftex.def Info: figs//Plot_RF_Compensated_fields.pdf  used on input li
 ne 222.
 (pdftex.def)             Requested size: 328.09589pt x 160.70154pt.
-<figs//Plot_RF_Known_fields.pdf, id=1436, 708.24597pt x 346.89601pt>
+<figs//Plot_RF_Known_fields.pdf, id=1435, 708.24597pt x 346.89601pt>
 File: figs//Plot_RF_Known_fields.pdf Graphic file (type pdf)
 <use figs//Plot_RF_Known_fields.pdf>
 Package pdftex.def Info: figs//Plot_RF_Known_fields.pdf  used on input line 230
@@ -2541,13 +2541,13 @@ lusion: multiple pdfs with page group included in a single page
 pdfTeX warning: pdflatex (file ./figs//Plot_RF_Known_fields.pdf): PDF inclusion
 : multiple pdfs with page group included in a single page
 >]
-<figs//raman_without_gradient.png, id=1526, 193.39452pt x 346.896pt>
+<figs//raman_without_gradient.png, id=1525, 193.39452pt x 346.896pt>
 File: figs//raman_without_gradient.png Graphic file (type png)
 <use figs//raman_without_gradient.png>
 Package pdftex.def Info: figs//raman_without_gradient.png  used on input line 2
 66.
 (pdftex.def)             Requested size: 153.11073pt x 274.63766pt.
-<figs//raman_with_gradient.png, id=1527, 193.39452pt x 346.896pt>
+<figs//raman_with_gradient.png, id=1526, 193.39452pt x 346.896pt>
 File: figs//raman_with_gradient.png Graphic file (type png)
 <use figs//raman_with_gradient.png>
 Package pdftex.def Info: figs//raman_with_gradient.png  used on input line 272.
@@ -2610,11 +2610,11 @@ Package logreq Info: Writing requests to 'Thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 55593 strings out of 479304
- 1131547 string characters out of 5869779
- 2038101 words of memory out of 5000000
+ 55597 strings out of 479304
+ 1131627 string characters out of 5869779
+ 2038098 words of memory out of 5000000
  70739 multiletter control sequences out of 15000+600000
- 848360 words of font info for 1086 fonts, out of 8000000 for 9000
+ 848532 words of font info for 1088 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  111i,20n,145p,10601b,4341s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}{/usr/sha
@@ -2639,10 +2639,10 @@ exmf-dist/fonts/type1/public/txfonts/txsya.pfb></usr/share/texlive/texmf-dist/f
 onts/type1/public/newtx/txsys.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
 blic/newtx/ztmb.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/ztm
 r.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/ztmri.pfb>
-Output written on Thesis.pdf (59 pages, 3957996 bytes).
+Output written on Thesis.pdf (59 pages, 3958313 bytes).
 PDF statistics:
- 1939 PDF objects out of 2073 (max. 8388607)
- 1628 compressed objects within 17 object streams
+ 1938 PDF objects out of 2073 (max. 8388607)
+ 1627 compressed objects within 17 object streams
  261 named destinations out of 1000 (max. 500000)
  346576 words of extra memory for PDF output out of 383344 (max. 10000000)
 

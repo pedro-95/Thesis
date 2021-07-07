@@ -1,17 +1,17 @@
-[0] Config.pm:311> INFO - This is Biber 2.16
-[0] Config.pm:314> INFO - Logfile is 'Thesis.blg'
-[70] biber:340> INFO - === Wed Jul  7, 2021, 17:52:39
-[82] Biber.pm:415> INFO - Reading 'Thesis.bcf'
-[146] Biber.pm:952> INFO - Found 61 citekeys in bib section 0
-[157] Biber.pm:4340> INFO - Processing section 0
-[167] Biber.pm:4531> INFO - Looking for bibtex format file 'bib/thesis_refs.bib' for section 0
-[170] bibtex.pm:1689> INFO - LaTeX decoding ...
-[249] bibtex.pm:1494> INFO - Found BibTeX data source 'bib/thesis_refs.bib'
-[344] Utils.pm:384> WARN - legacy month field 'Nov' in entry 'Klaers2010' is not an integer - this will probably not sort properly.
-[641] UCollate.pm:68> INFO - Overriding locale 'en-UK' defaults 'normalization = NFD' with 'normalization = prenormalized'
-[641] UCollate.pm:68> INFO - Overriding locale 'en-UK' defaults 'variable = shifted' with 'variable = non-ignorable'
-[641] Biber.pm:4168> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-UK'
-[641] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-UK'
-[675] bbl.pm:654> INFO - Writing 'Thesis.bbl' with encoding 'UTF-8'
-[709] bbl.pm:757> INFO - Output to Thesis.bbl
-[710] Biber.pm:128> INFO - WARNINGS: 1
+[1] Config.pm:311> INFO - This is Biber 2.16
+[1] Config.pm:314> INFO - Logfile is 'Thesis.blg'
+[291] biber:340> INFO - === Mi Jul  7, 2021, 23:18:32
+[344] Biber.pm:415> INFO - Reading 'Thesis.bcf'
+[460] Biber.pm:952> INFO - Found 61 citekeys in bib section 0
+[474] Biber.pm:4340> INFO - Processing section 0
+[486] Biber.pm:4531> INFO - Looking for bibtex format file 'bib/thesis_refs.bib' for section 0
+[489] bibtex.pm:1689> INFO - LaTeX decoding ...
+[567] bibtex.pm:1494> INFO - Found BibTeX data source 'bib/thesis_refs.bib'
+[666] Utils.pm:384> WARN - legacy month field 'Nov' in entry 'Klaers2010' is not an integer - this will probably not sort properly.
+[980] UCollate.pm:68> INFO - Overriding locale 'en-UK' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[980] UCollate.pm:68> INFO - Overriding locale 'en-UK' defaults 'variable = shifted' with 'variable = non-ignorable'
+[980] Biber.pm:4168> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-UK'
+[980] Biber.pm:4174> INFO - No sort tailoring available for locale 'en-UK'
+[1020] bbl.pm:654> INFO - Writing 'Thesis.bbl' with encoding 'UTF-8'
+[1055] bbl.pm:757> INFO - Output to Thesis.bbl
+[1056] Biber.pm:128> INFO - WARNINGS: 1

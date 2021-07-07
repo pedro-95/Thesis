@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.4.23)  7 JUL 2021 15:15
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.4.23)  7 JUL 2021 17:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -219,6 +219,7 @@ Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 ))
 Package ubonn-thesis info: texlive is [2020]
 Package ubonn-thesis info: setting things up for a Master thesis
+Package ubonn-thesis info: creating submission version of thesis
 (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2020/03/06 v1.0d TeX engine tests
 )
@@ -1474,316 +1475,19 @@ Package hyperref Info: Option `colorlinks' set `false' on input line 46.
 \g__acro_tof_int=\count502
 \g__acro_pbs_int=\count503
 \g__acro_rf_int=\count504
-
-(/usr/share/texlive/texmf-dist/tex/latex/background/background.sty
-Package: background 2014/03/04 v2.1 background material
-
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
-\pgfutil@everybye=\toks35
-\pgfutil@tempdima=\dimen287
-\pgfutil@tempdimb=\dimen288
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.t
-ex)) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
-\pgfutil@abb=\box74
-) (/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/pgf.revision.tex)
-Package: pgfrcs 2020/12/27 v3.1.8b (3.1.8b)
-))
-Package: pgf 2020/12/27 v3.1.8b (3.1.8b)
-
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
-Package: pgfsys 2020/12/27 v3.1.8b (3.1.8b)
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
-\pgfkeys@pathtoks=\toks36
-\pgfkeys@temptoks=\toks37
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.t
-ex
-\pgfkeys@tmptoks=\toks38
-))
-\pgf@x=\dimen289
-\pgf@y=\dimen290
-\pgf@xa=\dimen291
-\pgf@ya=\dimen292
-\pgf@xb=\dimen293
-\pgf@yb=\dimen294
-\pgf@xc=\dimen295
-\pgf@yc=\dimen296
-\pgf@xd=\dimen297
-\pgf@yd=\dimen298
-\w@pgf@writea=\write4
-\r@pgf@reada=\read5
-\c@pgf@counta=\count505
-\c@pgf@countb=\count506
-\c@pgf@countc=\count507
-\c@pgf@countd=\count508
-\t@pgf@toka=\toks39
-\t@pgf@tokb=\toks40
-\t@pgf@tokc=\toks41
-\pgf@sys@id@count=\count509
- (/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
-File: pgf.cfg 2020/12/27 v3.1.8b (3.1.8b)
-)
-Driver file for pgf: pgfsys-pdftex.def
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
-File: pgfsys-pdftex.def 2020/12/27 v3.1.8b (3.1.8b)
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.de
-f
-File: pgfsys-common-pdf.def 2020/12/27 v3.1.8b (3.1.8b)
-)))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.
-tex
-File: pgfsyssoftpath.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgfsyssoftpath@smallbuffer@items=\count510
-\pgfsyssoftpath@bigbuffer@items=\count511
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.
-tex
-File: pgfsysprotocol.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
-Package: pgfcore 2020/12/27 v3.1.8b (3.1.8b)
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
-\pgfmath@dimen=\dimen299
-\pgfmath@count=\count512
-\pgfmath@box=\box75
-\pgfmath@toks=\toks42
-\pgfmath@stack@operand=\toks43
-\pgfmath@stack@operation=\toks44
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code
-.tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonomet
-ric.code.tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.cod
-e.tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison
-.code.tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.
-tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code
-.tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.
-tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerari
-thmetics.code.tex)))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count513
-))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfint.code.tex)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.te
-x
-File: pgfcorepoints.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgf@picminx=\dimen300
-\pgf@picmaxx=\dimen301
-\pgf@picminy=\dimen302
-\pgf@picmaxy=\dimen303
-\pgf@pathminx=\dimen304
-\pgf@pathmaxx=\dimen305
-\pgf@pathminy=\dimen306
-\pgf@pathmaxy=\dimen307
-\pgf@xx=\dimen308
-\pgf@xy=\dimen309
-\pgf@yx=\dimen310
-\pgf@yy=\dimen311
-\pgf@zx=\dimen312
-\pgf@zy=\dimen313
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.
-code.tex
-File: pgfcorepathconstruct.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgf@path@lastx=\dimen314
-\pgf@path@lasty=\dimen315
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code
-.tex
-File: pgfcorepathusage.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgf@shorten@end@additional=\dimen316
-\pgf@shorten@start@additional=\dimen317
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.te
-x
-File: pgfcorescopes.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgfpic=\box76
-\pgf@hbox=\box77
-\pgf@layerbox@main=\box78
-\pgf@picture@serial@count=\count514
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.c
-ode.tex
-File: pgfcoregraphicstate.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgflinewidth=\dimen318
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformation
-s.code.tex
-File: pgfcoretransformations.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgf@pt@x=\dimen319
-\pgf@pt@y=\dimen320
-\pgf@pt@temp=\dimen321
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
-File: pgfcorequick.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.t
-ex
-File: pgfcoreobjects.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing
-.code.tex
-File: pgfcorepathprocessing.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.te
-x
-File: pgfcorearrows.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgfarrowsep=\dimen322
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
-File: pgfcoreshade.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgf@max=\dimen323
-\pgf@sys@shading@range@num=\count515
-\pgf@shadingcount=\count516
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
-File: pgfcoreimage.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.
-tex
-File: pgfcoreexternal.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgfexternal@startupbox=\box79
-))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.te
-x
-File: pgfcorelayers.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.c
-ode.tex
-File: pgfcoretransparency.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.
-tex
-File: pgfcorepatterns.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-)
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
-File: pgfcorerdf.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-)))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
-File: pgfmoduleshapes.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgfnodeparttextbox=\box80
-) (/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
-File: pgfmoduleplot.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-)
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-0-65
-.sty
-Package: pgfcomp-version-0-65 2020/12/27 v3.1.8b (3.1.8b)
-\pgf@nodesepstart=\dimen324
-\pgf@nodesepend=\dimen325
-)
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18
-.sty
-Package: pgfcomp-version-1-18 2020/12/27 v3.1.8b (3.1.8b)
-)) (/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgffor.sty
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex))
-(/usr/share/texlive/texmf-dist/tex/latex/pgf/math/pgfmath.sty
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
-Package: pgffor 2020/12/27 v3.1.8b (3.1.8b)
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
-\pgffor@iter=\dimen326
-\pgffor@skip=\dimen327
-\pgffor@stack=\toks45
-\pgffor@toks=\toks46
-))
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
-Package: tikz 2020/12/27 v3.1.8b (3.1.8b)
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers
-.code.tex
-File: pgflibraryplothandlers.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgf@plot@mark@count=\count517
-\pgfplotmarksize=\dimen328
-)
-\tikz@lastx=\dimen329
-\tikz@lasty=\dimen330
-\tikz@lastxsaved=\dimen331
-\tikz@lastysaved=\dimen332
-\tikz@lastmovetox=\dimen333
-\tikz@lastmovetoy=\dimen334
-\tikzleveldistance=\dimen335
-\tikzsiblingdistance=\dimen336
-\tikz@figbox=\box81
-\tikz@figbox@bg=\box82
-\tikz@tempbox=\box83
-\tikz@tempbox@bg=\box84
-\tikztreelevel=\count518
-\tikznumberofchildren=\count519
-\tikznumberofcurrentchild=\count520
-\tikz@fig@count=\count521
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
-File: pgfmodulematrix.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-\pgfmatrixcurrentrow=\count522
-\pgfmatrixcurrentcolumn=\count523
-\pgf@matrix@numberofcolumns=\count524
-)
-\tikz@expandcount=\count525
-
-(/usr/share/texlive/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tik
-zlibrarytopaths.code.tex
-File: tikzlibrarytopaths.code.tex 2020/12/27 v3.1.8b (3.1.8b)
-)))
-(/usr/share/texlive/texmf-dist/tex/latex/everypage/everypage.sty
-Package: everypage 2020/10/17 R2.0b Hooks to run on every page
-
-
-Package everypage Warning: Functionality similar to this package has recently
-(everypage)                been implemented in LaTeX. This package is now in
-(everypage)                legacy status.
-(everypage)                Please, don't use it in new documents and packages.
-
-
-Package everypage Warning: You appear to be running a version of LaTeX
-(everypage)                providing the new functionality.
-(everypage)                Doing the best to deliver the original `everypage`
-(everypage)                interface on top of it. Strict equivalence is
-(everypage)                not possible, breakage may occur.
-(everypage)                If truly needed, Use `everypage-1x` to force the
-(everypage)                loading of an older code base.
-
-) (/usr/share/texlive/texmf-dist/tex/latex/tools/afterpage.sty
-Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
-\AP@output=\toks47
-\AP@partial=\box85
-\AP@footins=\box86
-))
 Package csquotes Info: Checking for multilingual support...
 Package csquotes Info: ... found 'babel' package.
  (./Thesis.aux
 (./1_thesis_intro.aux) (./2_thesis_bec_condensation.aux)
 (./3_thesis_bec_diffraction.aux) (./4_thesis_raman_manipulation.aux)
-(./5_thesis_results.aux) (./6_outlook.aux) (./Thesis.acr))
+(./5_thesis_results.aux) (./6_outlook.aux) (./thesis_acknowledge.aux)
+(./Thesis.acr))
 \openout1 = `Thesis.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/ntxmi/m/it on input line 162.
 LaTeX Font Info:    Trying to load font information for OML+ntxmi on input line
  162.
-
-(/usr/share/texlive/texmf-dist/tex/latex/newtx/omlntxmi.fd
+ (/usr/share/texlive/texmf-dist/tex/latex/newtx/omlntxmi.fd
 File: omlntxmi.fd 2015/08/25 Fontinst v1.933 font definitions for OML/ntxmi.
 )
 LaTeX Font Info:    ... okay on input line 162.
@@ -1828,22 +1532,22 @@ LaTeX Font Info:    ... okay on input line 162.
 Package scrbase Info: activating UKenglish \contentsname on input line 162.
 Package scrbase Info: activating UKenglish \listfigurename on input line 162.
 Package scrbase Info: activating UKenglish \listtablename on input line 162.
-\c@mv@tabular=\count526
-\c@mv@boldtabular=\count527
+\c@mv@tabular=\count505
+\c@mv@boldtabular=\count506
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count528
-\scratchdimen=\dimen337
-\scratchbox=\box87
-\nofMPsegments=\count529
-\nofMParguments=\count530
-\everyMPshowfont=\toks48
-\MPscratchCnt=\count531
-\MPscratchDim=\dimen338
-\MPnumerator=\count532
-\makeMPintoPDFobject=\count533
-\everyMPtoPDFconversion=\toks49
+\scratchcounter=\count507
+\scratchdimen=\dimen287
+\scratchbox=\box74
+\nofMPsegments=\count508
+\nofMParguments=\count509
+\everyMPshowfont=\toks35
+\MPscratchCnt=\count510
+\MPscratchDim=\dimen288
+\MPnumerator=\count511
+\makeMPintoPDFobject=\count512
+\everyMPtoPDFconversion=\toks36
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -1950,7 +1654,7 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 (/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count534
+\c@section@level=\count513
 )
 LaTeX Info: Redefining \ref on input line 162.
 LaTeX Info: Redefining \pageref on input line 162.
@@ -2014,8 +1718,8 @@ Package biblatex Info: ... file 'Thesis.bbl' found.
 (./Thesis.bbl)
 Package biblatex Info: Reference section=0 on input line 162.
 Package biblatex Info: Reference segment=0 on input line 162.
-\l__acro_aux_file_iow=\write5
-\openout5 = `Thesis.acr'.
+\l__acro_aux_file_iow=\write4
+\openout4 = `Thesis.acr'.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/translations/translations-basic-dictio
@@ -2137,13 +1841,13 @@ LaTeX Font Info:    Font shape `T1/ntxtt/m/n' will be
 (Font)              scaled to size 7.9pt on input line 195.
 LaTeX Font Info:    Font shape `T1/ntxtlf/m/n' will be
 (Font)              scaled to size 17.28pt on input line 195.
- [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+ [1
 
 
 
 
 
-] [2
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] [2
 
 ]
 Document Thesis, Info: Draft/submission version of a Masterthesis
@@ -2166,8 +1870,8 @@ LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
 
 
 ])
-\tf@toc=\write6
-\openout6 = `Thesis.toc'.
+\tf@toc=\write5
+\openout5 = `Thesis.toc'.
 
  [4]
 \openout2 = `1_thesis_intro.aux'.
@@ -2247,7 +1951,7 @@ LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [4]
-<figs//erbium_term_scheme.pdf, id=195, 475.44272pt x 421.17148pt>
+<figs//erbium_term_scheme.pdf, id=192, 475.44272pt x 421.17148pt>
 File: figs//erbium_term_scheme.pdf Graphic file (type pdf)
 <use figs//erbium_term_scheme.pdf>
 Package pdftex.def Info: figs//erbium_term_scheme.pdf  used on input line 63.
@@ -2264,7 +1968,7 @@ Underfull \vbox (badness 1946) has occurred while \output is active []
 
  [6]
 [7]
-<figs//table_set_up.pdf, id=261, 453.27942pt x 282.05376pt>
+<figs//table_set_up.pdf, id=258, 453.27942pt x 282.05376pt>
 File: figs//table_set_up.pdf Graphic file (type pdf)
 <use figs//table_set_up.pdf>
 Package pdftex.def Info: figs//table_set_up.pdf  used on input line 145.
@@ -2280,7 +1984,7 @@ LaTeX Font Info:    Font shape `T1/qhv/b/n' will be
 LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
 (Font)              scaled to size 9.0pt on input line 151.
  [8 <./figs//table_set_up.pdf>]
-<figs//experiment_scheme_1.pdf, id=287, 361.35pt x 227.55981pt>
+<figs//experiment_scheme_1.pdf, id=284, 361.35pt x 227.55981pt>
 File: figs//experiment_scheme_1.pdf Graphic file (type pdf)
 <use figs//experiment_scheme_1.pdf>
 Package pdftex.def Info: figs//experiment_scheme_1.pdf  used on input line 159.
@@ -2288,13 +1992,13 @@ Package pdftex.def Info: figs//experiment_scheme_1.pdf  used on input line 159.
 (pdftex.def)             Requested size: 437.46118pt x 275.49405pt.
  [9 <./figs//experiment_scheme_1.pdf>]
 [10] [11] [12]
-<figs//main_chamber.pdf, id=373, 453.27942pt x 200.75pt>
+<figs//main_chamber.pdf, id=370, 453.27942pt x 200.75pt>
 File: figs//main_chamber.pdf Graphic file (type pdf)
 <use figs//main_chamber.pdf>
 Package pdftex.def Info: figs//main_chamber.pdf  used on input line 215.
 (pdftex.def)             Requested size: 437.46118pt x 193.75621pt.
  [13 <./figs//main_chamber.pdf>] [14]
-<figs//evap_scheme.pdf, id=415, 384.45059pt x 113.95938pt>
+<figs//evap_scheme.pdf, id=412, 384.45059pt x 113.95938pt>
 File: figs//evap_scheme.pdf Graphic file (type pdf)
 <use figs//evap_scheme.pdf>
 Package pdftex.def Info: figs//evap_scheme.pdf  used on input line 257.
@@ -2303,7 +2007,7 @@ Package pdftex.def Info: figs//evap_scheme.pdf  used on input line 257.
 Underfull \vbox (badness 1466) has occurred while \output is active []
 
  [15 <./figs//evap_scheme.pdf>]
-<figs//absorption_scheme.pdf, id=624, 377.7221pt x 130.2816pt>
+<figs//absorption_scheme.pdf, id=621, 377.7221pt x 130.2816pt>
 File: figs//absorption_scheme.pdf Graphic file (type pdf)
 <use figs//absorption_scheme.pdf>
 Package pdftex.def Info: figs//absorption_scheme.pdf  used on input line 273.
@@ -2324,20 +2028,20 @@ chapter 3.
 Underfull \vbox (badness 1521) has occurred while \output is active []
 
  [18]
-<figs//lattice_beams.pdf, id=725, 564.60938pt x 302.31924pt>
+<figs//lattice_beams.pdf, id=722, 564.60938pt x 302.31924pt>
 File: figs//lattice_beams.pdf Graphic file (type pdf)
 <use figs//lattice_beams.pdf>
 Package pdftex.def Info: figs//lattice_beams.pdf  used on input line 69.
 (pdftex.def)             Requested size: 306.22148pt x 163.96957pt.
 
 [19] [20 <./figs//lattice_beams.pdf>]
-<figs//diffraction_2.pdf, id=768, 225.84375pt x 225.84375pt>
+<figs//diffraction_2.pdf, id=765, 225.84375pt x 225.84375pt>
 File: figs//diffraction_2.pdf Graphic file (type pdf)
 <use figs//diffraction_2.pdf>
 Package pdftex.def Info: figs//diffraction_2.pdf  used on input line 88.
 (pdftex.def)             Requested size: 196.85619pt x 196.86842pt.
  [21 <./figs//diffraction_2.pdf>] [22]
-<figs//raman_scheme.pdf, id=810, 1144.46762pt x 631.23193pt>
+<figs//raman_scheme.pdf, id=807, 1144.46762pt x 631.23193pt>
 File: figs//raman_scheme.pdf Graphic file (type pdf)
 <use figs//raman_scheme.pdf>
 Package pdftex.def Info: figs//raman_scheme.pdf  used on input line 145.
@@ -2347,7 +2051,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [23]
 [24 <./figs//raman_scheme.pdf>] [25] [26]
-<figs//raman_set_up.pdf, id=922, 595.74805pt x 217.60007pt>
+<figs//raman_set_up.pdf, id=919, 595.74805pt x 217.60007pt>
 File: figs//raman_set_up.pdf Graphic file (type pdf)
 <use figs//raman_set_up.pdf>
 Package pdftex.def Info: figs//raman_set_up.pdf  used on input line 208.
@@ -2365,7 +2069,7 @@ Package pdftex.def Info: figs//raman_set_up.pdf  used on input line 208.
 ]
 chapter 4.
 [29] [30]
-<figs//rama_spin_mainpulation_2.pdf, id=1088, 730.22812pt x 521.27083pt>
+<figs//rama_spin_mainpulation_2.pdf, id=1085, 730.22812pt x 521.27083pt>
 File: figs//rama_spin_mainpulation_2.pdf Graphic file (type pdf)
 <use figs//rama_spin_mainpulation_2.pdf>
 Package pdftex.def Info: figs//rama_spin_mainpulation_2.pdf  used on input line
@@ -2387,12 +2091,12 @@ Underfull \vbox (badness 2310) has occurred while \output is active []
 
 
 ]
-<figs//Fiber 1.pdf, id=1139, 356.19347pt x 317.8834pt>
+<figs//Fiber 1.pdf, id=1136, 356.19347pt x 317.8834pt>
 File: figs//Fiber 1.pdf Graphic file (type pdf)
 <use figs//Fiber 1.pdf>
 Package pdftex.def Info: figs//Fiber 1.pdf  used on input line 28.
 (pdftex.def)             Requested size: 218.73059pt x 195.20366pt.
-<figs//Fiber 2.pdf, id=1140, 339.73405pt x 317.8834pt>
+<figs//Fiber 2.pdf, id=1137, 339.73405pt x 317.8834pt>
 File: figs//Fiber 2.pdf Graphic file (type pdf)
 <use figs//Fiber 2.pdf>
 Package pdftex.def Info: figs//Fiber 2.pdf  used on input line 34.
@@ -2409,13 +2113,13 @@ LaTeX Font Info:    Font shape `OT1/ntxtlf/b/n' will be
 pdfTeX warning: pdflatex (file ./figs//Fiber 2.pdf): PDF inclusion: multiple pd
 fs with page group included in a single page
 >]
-<figs//Plot_resonance.pdf, id=1221, 1191.33926pt x 632.08638pt>
+<figs//Plot_resonance.pdf, id=1218, 1191.33926pt x 632.08638pt>
 File: figs//Plot_resonance.pdf Graphic file (type pdf)
 <use figs//Plot_resonance.pdf>
 Package pdftex.def Info: figs//Plot_resonance.pdf  used on input line 56.
 (pdftex.def)             Requested size: 437.46118pt x 232.10329pt.
  [35 <./figs//Plot_resonance.pdf>]
-<figs//Rabi_measurement_60us.png, id=1246, 340.27126pt x 340.27126pt>
+<figs//Rabi_measurement_60us.png, id=1243, 340.27126pt x 340.27126pt>
 File: figs//Rabi_measurement_60us.png Graphic file (type png)
 <use figs//Rabi_measurement_60us.png>
 Package pdftex.def Info: figs//Rabi_measurement_60us.png  used on input line 90
@@ -2423,13 +2127,13 @@ Package pdftex.def Info: figs//Rabi_measurement_60us.png  used on input line 90
 (pdftex.def)             Requested size: 129.9258pt x 129.92746pt.
 LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
 (Font)              scaled to size 9.0pt on input line 91.
-<figs//Rabi_measurement_120us.png, id=1247, 340.27126pt x 340.27126pt>
+<figs//Rabi_measurement_120us.png, id=1244, 340.27126pt x 340.27126pt>
 File: figs//Rabi_measurement_120us.png Graphic file (type png)
 <use figs//Rabi_measurement_120us.png>
 Package pdftex.def Info: figs//Rabi_measurement_120us.png  used on input line 9
 6.
 (pdftex.def)             Requested size: 129.9258pt x 129.92746pt.
-<figs//Rabi_measurement_240us.png, id=1248, 340.27126pt x 340.27126pt>
+<figs//Rabi_measurement_240us.png, id=1245, 340.27126pt x 340.27126pt>
 File: figs//Rabi_measurement_240us.png Graphic file (type png)
 <use figs//Rabi_measurement_240us.png>
 Package pdftex.def Info: figs//Rabi_measurement_240us.png  used on input line 1
@@ -2437,7 +2141,7 @@ Package pdftex.def Info: figs//Rabi_measurement_240us.png  used on input line 1
 (pdftex.def)             Requested size: 129.9258pt x 129.92746pt.
 LaTeX Font Info:    Font shape `TS1/ntxtlf/m/n' will be
 (Font)              scaled to size 10.0pt on input line 106.
-<figs//Rabi_measurement_7.7.pdf, id=1249, 707.65607pt x 383.031pt>
+<figs//Rabi_measurement_7.7.pdf, id=1246, 707.65607pt x 383.031pt>
 File: figs//Rabi_measurement_7.7.pdf Graphic file (type pdf)
 <use figs//Rabi_measurement_7.7.pdf>
 Package pdftex.def Info: figs//Rabi_measurement_7.7.pdf  used on input line 111
@@ -2445,17 +2149,17 @@ Package pdftex.def Info: figs//Rabi_measurement_7.7.pdf  used on input line 111
 (pdftex.def)             Requested size: 437.46118pt x 236.79294pt.
  [36 <./figs//Rabi_measurement_60us.png> <./figs//Rabi_measurement_120us.png> <
 ./figs//Rabi_measurement_240us.png>]
-<figs//Rabi_fit_7.7.pdf, id=1262, 708.24597pt x 381.9209pt>
+<figs//Rabi_fit_7.7.pdf, id=1259, 708.24597pt x 381.9209pt>
 File: figs//Rabi_fit_7.7.pdf Graphic file (type pdf)
 <use figs//Rabi_fit_7.7.pdf>
 Package pdftex.def Info: figs//Rabi_fit_7.7.pdf  used on input line 131.
 (pdftex.def)             Requested size: 349.97028pt x 188.72215pt.
-<figs//Rabi_fit_12.7.pdf, id=1263, 708.24597pt x 381.9209pt>
+<figs//Rabi_fit_12.7.pdf, id=1260, 708.24597pt x 381.9209pt>
 File: figs//Rabi_fit_12.7.pdf Graphic file (type pdf)
 <use figs//Rabi_fit_12.7.pdf>
 Package pdftex.def Info: figs//Rabi_fit_12.7.pdf  used on input line 139.
 (pdftex.def)             Requested size: 349.97028pt x 188.72215pt.
-<figs//Rabi_fit_24.6.pdf, id=1264, 708.24597pt x 381.9209pt>
+<figs//Rabi_fit_24.6.pdf, id=1261, 708.24597pt x 381.9209pt>
 File: figs//Rabi_fit_24.6.pdf Graphic file (type pdf)
 <use figs//Rabi_fit_24.6.pdf>
 Package pdftex.def Info: figs//Rabi_fit_24.6.pdf  used on input line 147.
@@ -2464,7 +2168,7 @@ Package pdftex.def Info: figs//Rabi_fit_24.6.pdf  used on input line 147.
 
 LaTeX Warning: Float too large for page by 5.14711pt on input line 152.
 
-<figs//Linear_Fit.pdf, id=1265, 609.50023pt x 332.79951pt>
+<figs//Linear_Fit.pdf, id=1262, 609.50023pt x 332.79951pt>
 File: figs//Linear_Fit.pdf Graphic file (type pdf)
 <use figs//Linear_Fit.pdf>
 Package pdftex.def Info: figs//Linear_Fit.pdf  used on input line 155.
@@ -2482,53 +2186,53 @@ ple pdfs with page group included in a single page
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [39 <./figs//Linear_Fit.pdf>]
-<figs//raman_nath.pdf, id=1380, 708.24597pt x 245.66682pt>
+<figs//raman_nath.pdf, id=1378, 708.24597pt x 245.66682pt>
 File: figs//raman_nath.pdf Graphic file (type pdf)
 <use figs//raman_nath.pdf>
-Package pdftex.def Info: figs//raman_nath.pdf  used on input line 174.
+Package pdftex.def Info: figs//raman_nath.pdf  used on input line 172.
 (pdftex.def)             Requested size: 437.46118pt x 151.74582pt.
-<figs//raman_nath_cut.pdf, id=1381, 708.24597pt x 346.89601pt>
+<figs//raman_nath_cut.pdf, id=1379, 708.24597pt x 346.89601pt>
 File: figs//raman_nath_cut.pdf Graphic file (type pdf)
 <use figs//raman_nath_cut.pdf>
-Package pdftex.def Info: figs//raman_nath_cut.pdf  used on input line 179.
+Package pdftex.def Info: figs//raman_nath_cut.pdf  used on input line 177.
 (pdftex.def)             Requested size: 437.46118pt x 214.27402pt.
  [40 <./figs//raman_nath.pdf> <./figs//raman_nath_cut.pdf
 
 pdfTeX warning: pdflatex (file ./figs//raman_nath_cut.pdf): PDF inclusion: mult
 iple pdfs with page group included in a single page
 >]
-<figs//RF_pulse_non-resonant.png, id=1430, 229.96313pt x 346.896pt>
+<figs//RF_pulse_non-resonant.png, id=1428, 229.96313pt x 346.896pt>
 File: figs//RF_pulse_non-resonant.png Graphic file (type png)
 <use figs//RF_pulse_non-resonant.png>
 Package pdftex.def Info: figs//RF_pulse_non-resonant.png  used on input line 19
-3.
+1.
 (pdftex.def)             Requested size: 153.11073pt x 230.97406pt.
-<figs//RF_pulse_resonant.png, id=1432, 229.96313pt x 346.896pt>
+<figs//RF_pulse_resonant.png, id=1430, 229.96313pt x 346.896pt>
 File: figs//RF_pulse_resonant.png Graphic file (type png)
 <use figs//RF_pulse_resonant.png>
-Package pdftex.def Info: figs//RF_pulse_resonant.png  used on input line 199.
+Package pdftex.def Info: figs//RF_pulse_resonant.png  used on input line 197.
 (pdftex.def)             Requested size: 153.11073pt x 230.97406pt.
-<figs//Plot_RF_Experiment_fields.pdf, id=1433, 708.24597pt x 346.77966pt>
+<figs//Plot_RF_Experiment_fields.pdf, id=1431, 708.24597pt x 346.77966pt>
 File: figs//Plot_RF_Experiment_fields.pdf Graphic file (type pdf)
 <use figs//Plot_RF_Experiment_fields.pdf>
 Package pdftex.def Info: figs//Plot_RF_Experiment_fields.pdf  used on input lin
-e 214.
+e 212.
 (pdftex.def)             Requested size: 328.09589pt x 160.64764pt.
-<figs//Plot_RF_Compensated_fields.pdf, id=1434, 708.24597pt x 346.89601pt>
+<figs//Plot_RF_Compensated_fields.pdf, id=1432, 708.24597pt x 346.89601pt>
 File: figs//Plot_RF_Compensated_fields.pdf Graphic file (type pdf)
 <use figs//Plot_RF_Compensated_fields.pdf>
 Package pdftex.def Info: figs//Plot_RF_Compensated_fields.pdf  used on input li
-ne 222.
+ne 220.
 (pdftex.def)             Requested size: 328.09589pt x 160.70154pt.
-<figs//Plot_RF_Known_fields.pdf, id=1435, 708.24597pt x 346.89601pt>
+<figs//Plot_RF_Known_fields.pdf, id=1433, 708.24597pt x 346.89601pt>
 File: figs//Plot_RF_Known_fields.pdf Graphic file (type pdf)
 <use figs//Plot_RF_Known_fields.pdf>
-Package pdftex.def Info: figs//Plot_RF_Known_fields.pdf  used on input line 230
+Package pdftex.def Info: figs//Plot_RF_Known_fields.pdf  used on input line 228
 .
 (pdftex.def)             Requested size: 328.09589pt x 160.70154pt.
 
 
-LaTeX Warning: Float too large for page by 13.09753pt on input line 235.
+LaTeX Warning: Float too large for page by 13.09753pt on input line 233.
 
 [41 <./figs//RF_pulse_non-resonant.png> <./figs//RF_pulse_resonant.png>]
 [42 <./figs//Plot_RF_Experiment_fields.pdf> <./figs//Plot_RF_Compensated_fields
@@ -2541,16 +2245,16 @@ lusion: multiple pdfs with page group included in a single page
 pdfTeX warning: pdflatex (file ./figs//Plot_RF_Known_fields.pdf): PDF inclusion
 : multiple pdfs with page group included in a single page
 >]
-<figs//raman_without_gradient.png, id=1525, 193.39452pt x 346.896pt>
+<figs//raman_without_gradient.png, id=1523, 193.39452pt x 346.896pt>
 File: figs//raman_without_gradient.png Graphic file (type png)
 <use figs//raman_without_gradient.png>
 Package pdftex.def Info: figs//raman_without_gradient.png  used on input line 2
-66.
+64.
 (pdftex.def)             Requested size: 153.11073pt x 274.63766pt.
-<figs//raman_with_gradient.png, id=1526, 193.39452pt x 346.896pt>
+<figs//raman_with_gradient.png, id=1524, 193.39452pt x 346.896pt>
 File: figs//raman_with_gradient.png Graphic file (type png)
 <use figs//raman_with_gradient.png>
-Package pdftex.def Info: figs//raman_with_gradient.png  used on input line 272.
+Package pdftex.def Info: figs//raman_with_gradient.png  used on input line 270.
 
 (pdftex.def)             Requested size: 153.11073pt x 274.63766pt.
 ) [43] [44 <./figs//raman_without_gradient.png> <./figs//raman_with_gradient.pn
@@ -2579,8 +2283,8 @@ LaTeX Font Info:    Font shape `T1/ntxtlf/m/it' will be
 Package tocbasic Info: character protrusion at lof deactivated on input line 26
 1.
  (./Thesis.lof)
-\tf@lof=\write7
-\openout7 = `Thesis.lof'.
+\tf@lof=\write6
+\openout6 = `Thesis.lof'.
 
  [51
 
@@ -2594,27 +2298,35 @@ Package tocbasic Info: character protrusion at lof deactivated on input line 26
 Package tocbasic Info: character protrusion at lot deactivated on input line 26
 2.
  (./Thesis.lot)
-\tf@lot=\write8
-\openout8 = `Thesis.lot'.
+\tf@lot=\write7
+\openout7 = `Thesis.lot'.
 
  [53] [54
 
 
 ]
 chapter without number
-[55] (./Thesis.aux (./1_thesis_intro.aux) (./2_thesis_bec_condensation.aux)
-(./3_thesis_bec_diffraction.aux) (./4_thesis_raman_manipulation.aux)
-(./5_thesis_results.aux) (./6_outlook.aux) (./Thesis.acr))
+[55]
+\openout2 = `thesis_acknowledge.aux'.
+
+ (./thesis_acknowledge.tex [56
+
+
+
+]) [57] (./Thesis.aux (./1_thesis_intro.aux)
+(./2_thesis_bec_condensation.aux) (./3_thesis_bec_diffraction.aux)
+(./4_thesis_raman_manipulation.aux) (./5_thesis_results.aux) (./6_outlook.aux)
+(./thesis_acknowledge.aux) (./Thesis.acr))
 Package logreq Info: Writing requests to 'Thesis.run.xml'.
 \openout1 = `Thesis.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 55663 strings out of 479304
- 1133084 string characters out of 5869779
- 2038694 words of memory out of 5000000
- 70801 multiletter control sequences out of 15000+600000
- 848750 words of font info for 1091 fonts, out of 8000000 for 9000
+ 45582 strings out of 479304
+ 912572 string characters out of 5869779
+ 1847903 words of memory out of 5000000
+ 60930 multiletter control sequences out of 15000+600000
+ 848666 words of font info for 1090 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  111i,20n,145p,10601b,4343s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/newtx/ntx-ec-tlf.enc}{/usr/sha
@@ -2639,10 +2351,10 @@ exmf-dist/fonts/type1/public/txfonts/txsya.pfb></usr/share/texlive/texmf-dist/f
 onts/type1/public/newtx/txsys.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
 blic/newtx/ztmb.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/ztm
 r.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/newtx/ztmri.pfb>
-Output written on Thesis.pdf (59 pages, 3961218 bytes).
+Output written on Thesis.pdf (61 pages, 3954029 bytes).
 PDF statistics:
- 2030 PDF objects out of 2073 (max. 8388607)
- 1718 compressed objects within 18 object streams
- 261 named destinations out of 1000 (max. 500000)
- 346576 words of extra memory for PDF output out of 383344 (max. 10000000)
+ 2038 PDF objects out of 2073 (max. 8388607)
+ 1724 compressed objects within 18 object streams
+ 264 named destinations out of 1000 (max. 500000)
+ 346564 words of extra memory for PDF output out of 383344 (max. 10000000)
 

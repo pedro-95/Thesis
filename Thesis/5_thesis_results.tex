@@ -72,16 +72,16 @@ This result proves the approximation $\delta \gg \Delta_1$ to also be reasonable
 
 \subsection{Bragg regime}
 
-As seen in Chapter \ref{chap:one_dimensional_lattices}, the Bragg regime is achieved only for long interaction times and when the Bragg condition is being fulfilled. To achieve it, the detuning between Raman beams has been set to $\Delta_1$. The result is an effective two level system between the 0th and +1st diffraction orders acting as ground and excited states respectively. This generates Rabi oscillations for different interaction times $t_\text{int}$ with frequency $\Omega_\text{eff}$ between the ground and excited state population rates, with the last one ideally governed by Equation \ref{eq:population_excited_state}. This effect has been observed for the case of optical power in the Raman beams chosen like: $P_1 = (3.05 \pm 0.05)\si{\milli\watt}$ and $P_2 = (9.10 \pm 0.05)\si{\milli\watt}$. These powers allow to estimate the ``effective'' intensity of the lattice as
+As seen in Chapter \ref{chap:one_dimensional_lattices}, the Bragg regime is achieved only for long interaction times and when the Bragg condition is being fulfilled. To achieve it, the detuning between Raman beams has been set to $\Delta_1$. The result is an effective two level system between the 0th and +1st diffraction orders acting as ground and excited states respectively. This generates Rabi oscillations for different interaction times $t_\text{int}$ with frequency $\Omega_\text{eff}$ between the ground and excited state population rates, with the last one ideally governed by Equation \ref{eq:population_excited_state}. This effect has been observed for the case of optical power in the Raman beams chosen like: $P_1 = (3.05 \pm 0.05)\si{\milli\watt}$ and $P_2 = (9.10 \pm 0.05)\si{\milli\watt}$. These powers allow to estimate the ``effective'' average intensity of the standing wave as
 \begin{equation*}
 	I_\text{eff} = \sqrt{I_1\cdot I_2} = (7.7 \pm 0.4)\si{\kilo\watt\per\meter\squared}.
 \end{equation*} 
 
-Figure \ref{fig:Bragg_images} shows the effect of Rabi oscillations between the 0th and 1st orders for the exposed value of $I_\text{eff}$. These images are just a small sample of all the measured for this same situation but different values of $t_\text{int}$. From each image, the population rate of any $i$ order with $i \in \{0,1\}$ can be estimated as
+Figure \ref{fig:Bragg_images} shows the effect of Rabi oscillations between the 0th and 1st orders for the exposed value of $I_\text{eff}$. These images are just a small sample of all the measured for this same situation but different values of $t_\text{int}$. From each image, the relative population of any $i$ order with $i \in \{0,1\}$ can be estimated as
 \begin{equation}
 	P_i = \frac{N_i}{N_0+N_1},
 \end{equation}
-where $N_0$ and $N_1$ are the number of atoms in each diffraction order. Therefore, it is possible to measure the population rate in each picture and plot it as a function of $t_\text{int}$. This is shown in Figure \ref{fig:Bragg_measurement}.
+where $N_0$ and $N_1$ are the number of atoms in each diffraction order. Therefore, it is possible to measure the relative population in each picture and plot it as a function of $t_\text{int}$. This is shown in Figure \ref{fig:Bragg_measurement}.
 
 \begin{figure}[!htbp]
 	\centering
@@ -109,7 +109,7 @@ where $N_0$ and $N_1$ are the number of atoms in each diffraction order. Therefo
 
 \begin{figure}[!htbp]\centering
 	\includegraphics[width=1.\columnwidth]{Rabi_measurement_7.7.pdf}
-	\caption[Population rate as a function of the interaction time between erbium \ac{bec} and Raman lattice]{Population rate as a function of the interaction time between erbium \ac{bec} and Raman lattice. The plot shows Rabi oscillations in rate populations of the 0th and 1st diffraction orders. Each pair of points has been taken by averaging 5 different images. The Raman lattice had an effective intensity of $I_\text{eff} = (7.7 \pm 0.4)\si{\kilo\watt\per\meter\squared}$. }\label{fig:Bragg_measurement}
+	\caption[Relative population as a function of the interaction time between erbium \ac{bec} and Raman lattice]{Relative population as a function of the interaction time between erbium \ac{bec} and Raman lattice. The plot shows Rabi oscillations in populations of the 0th and 1st diffraction orders. Each pair of points has been taken by averaging 5 different images. The Raman lattice had an effective average intensity of $I_\text{eff} = (7.7 \pm 0.4)\si{\kilo\watt\per\meter\squared}$. }\label{fig:Bragg_measurement}
 \end{figure}
 
 The plot confirms the theory and shows Rabi oscillations in an effective 2-level system as a predominant effect for this regime of parameters. Once this set of data is obtained, one can perform a more in-depth analysis of the oscillations. As it has been said, Equation \ref{eq:population_excited_state} must be fulfilled in this regime for the behaviour of population in the 1st diffracted order $P_1$. This way, a sine squared function fit can be performed to this population rate. However, in order to account for factors like noise or coherent losses in the \ac{bec}, a damped term has been added. Thus, the fitted function expression results

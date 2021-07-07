@@ -50,4 +50,5 @@
 \contentsline {chapter}{\nonumberline List of Figures}{51}{chapter*.38}%
 \contentsline {chapter}{\nonumberline List of Tables}{53}{chapter*.39}%
 \contentsline {chapter}{\nonumberline Acronyms}{55}{chapter*.40}%
+\contentsline {chapter}{\nonumberline Acknowledgements}{57}{chapter*.41}%
 \providecommand \tocbasic@end@toc@file {}\tocbasic@end@toc@file 

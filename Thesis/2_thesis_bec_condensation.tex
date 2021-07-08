@@ -74,35 +74,29 @@ A \acf{bec} can be defined as a state of matter formed when a sufficiently dense
 It was the Indian physicist S. N. Bose in 1924, the first one who described in a successful way an ideal gas of non interacting free photons, behaving like mass-less bosons. His idea was initially rejected for publication in scientific journals. However, Bose sent the manuscript to A. Einstein, who recognized its importance, translated the paper to German and saw to it that was published \cite{Bose1924}. After this, Einstein extended Bose's treatment to massive particles and predicted the occurrence of a phase transition in a gas of non-interacting atoms, what is today known as a \ac{bec} \cite{Einstein1924, Einstein1925}.
 
 These publications led to Bose-Einstein statistics, a model that explains the energetic behaviour of a non-interacting gas of indistinguishable $N$ bosons, each one with mass $M$ \cite{Masahito2010, Pethick2008}. The average number of particles at a given non-degenerate state with wave vector $\mathbf{k}$ and energy $E_\mathbf{k} = \hbar^2 \mathbf{k}^2 / 2M$ is given by
-
 \begin{equation}\label{eq:bose-einstein_distribution}
 	\bar{N}_{\mathbf{k}} = \frac{1}{e^{(E_\mathbf{k} - \mu)/k_B T} - 1},
 \end{equation}
 for an ideal gas of bosons in thermal equilibrium at a temperature $T$, Boltzmann constant $k_B$ and chemical potential $\mu$, which depends of $N$ and $T$ \cite{Masahito2010}. The total number of particles in all energy states is expressed as
-
 \begin{equation}\label{eq:chemical_potential_relation}
 N = \sum_{\mathbf{k}}\frac{1}{e^{(E_\mathbf{k} - \mu)/k_B T} - 1}.
 \end{equation}
 
 So the chemical potential $\mu$ is determined such that Eq. \eqref{eq:chemical_potential_relation} is satisfied for any given $N$ remaining constant. Now, expanding into the thermodynamic limit where $N$ and the occupied volume $V$ are increased to infinite values keeping the particle density $n = V/N$ constant. The sum over $\mathbf{k}$ appearing in Eq. \eqref{eq:chemical_potential_relation} can be replaced by an integral such as
-
 \begin{equation}\label{eq:thermodynamic_limit}
 n = \frac{N}{V} =  \frac{1}{(2\pi)^3}\int d^3 k\frac{1}{e^{(E_\mathbf{k} - \mu)/k_B T} - 1}.
 \end{equation}
 
 For decreasing values of $T$ and constant $n$, the chemical potential increases becoming zero at a critical temperature $T_C$. By making $\mu = 0$, $T = T_C$ and $E_\mathbf{k} = \hbar^2 \mathbf{k}^2 / 2M$ in Eq. \eqref{eq:thermodynamic_limit} results
-
 \begin{equation}\label{eq:thermodynamic_limit_at_critical_conditions}
 n =  \zeta(3/2) \bigg(\frac{M k_B T_C}{2 \pi \hbar^2}\bigg)^{3/2},
 \end{equation}
 where $\zeta(3/2) \simeq 2.612$ denotes the Riemann zeta function evaluated at 3/2. So the critical temperature of the \ac{bec} is given by
-
 \begin{equation}\label{eq:critical_temperature}
 T_C = 3.31 \frac{\hbar^2 n^{2/3}}{k_B M}.
 \end{equation}
 
 A relevant case of study is when $T < T_C$ because a fraction of the $N$ bosons remains in the ground state with an energy $E = 0$. So the ideal gas of bosons can be divided in two energetic groups $N = N_{E=0} + N_{E>0}$. It must be noted that, the replacement of a sum by an integral in Eq. \eqref{eq:thermodynamic_limit} can only be take place in group of particles with an energy greater than zero $E>0$. As a result of this, the integral of Eq. \eqref{eq:thermodynamic_limit} for the case $T < T_C$ results
-
 \begin{equation}\label{eq:thermodynamic_limit_low_T}
 \frac{N_{E>0}}{V} = \zeta(3/2) \bigg(\frac{M k_B T}{2 \pi \hbar^2}\bigg)^{3/2}.
 \end{equation}
@@ -136,6 +130,8 @@ A further description about the theory of Bose-Einstein Condensation can be foun
 The generation of an erbium \ac{bec} requires a multiple set of experimental phases, with each one based on different physical principles. The main purpose of this section is to discuss briefly every one of those together with its underlying foundation. For a more detailed description of the experimental set refer to  \cite{Ulitzsch2016}. 
 
 Figure \ref{fig:table_set_up} shows a scheme of the experimental setup. It must be noted that all the devices used for the experiment lay on top of three optical tables represented in the figure by grey areas. Moreover, the laser beams produced by different laser systems are represented by coloured lines. The erbium atoms are at all times kept inside an \ac{uhv} system formed by an oven, \Ac{zs} and main chamber. This \ac{uhv} is maintained by two ion getter pumps reaching a pressure of \SI{e-8}{\milli\bar}. Additionally, for the main chamber there is a titanium sublimation pump, which reduces the vacuum even further to \SI{e-10}{\milli\bar}. The need of an \ac{uhv} comes from the fact that to reach an atomic \ac{bec}, the cooling process must be so extreme that any interaction with room temperature atoms would lead to heating and destruction of the cold erbium cloud.
+
+\pagebreak
 
 Most of the laser systems in this experiment produce resonant light for the $^{\text{168}}\text{Er}$ atomic transitions. For this reason, these light sources are kept on different optical tables separated from the \ac{uhv} system. This reduces unwanted atom-light interaction that could decrease the cooling capabilities of the experiment is reduced. This laser light is guided into the main table by using optical fibres that can be blocked and unblocked through the use of mechanical shutters and \acp{aom} before the fibre coupler. Allowing for a fast response time (typically a few hundreds nanoseconds) and better control of the experimental phases.
 

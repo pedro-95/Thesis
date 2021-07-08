@@ -36,7 +36,7 @@
 \contentsline {section}{\numberline {3.3}Experimental realization of a one-dimensional optical lattice}{26}{section.3.3}%
 \contentsline {chapter}{\numberline {4}Raman manipulation between spin-momentum state components}{29}{chapter.4}%
 \contentsline {section}{\numberline {4.1}\Acl {rf} transitions and the Stern-Gerlach experiment}{29}{section.4.1}%
-\contentsline {section}{\numberline {4.2}Raman manipulation of spin-momentum state components}{31}{section.4.2}%
+\contentsline {section}{\numberline {4.2}Raman transitions between spin-momentum state components}{31}{section.4.2}%
 \contentsline {chapter}{\numberline {5}Results and discussion}{33}{chapter.5}%
 \contentsline {section}{\numberline {5.1}Measurement of the Raman beams radius}{33}{section.5.1}%
 \contentsline {section}{\numberline {5.2}Characterization of the \SI {841}{\nano \meter } erbium transition}{34}{section.5.2}%
